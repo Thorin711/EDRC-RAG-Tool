@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>This is a Test Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Source information</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>This is the abstract of the test paper. It has some important information.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="analytic">
+                <author>
+                    <persName>
+                        <forename>John</forename>
+                        <surname>Doe</surname>
+                    </persName>
+                </author>
+                <author>
+                    <persName>
+                        <forename>Jane</forename>
+                        <surname>Smith</surname>
+                    </persName>
+                </author>
+                <idno type="DOI">10.1234/test.doi</idno>
+            </div>
+        </front>
+        <body>
+            <div>
+                <head n="1">Introduction</head>
+                <p>This is the first paragraph of the introduction.</p>
+                <p>This is the second paragraph of the introduction.</p>
+            </div>
+            <div>
+                <head n="2">Methods</head>
+                <p>This is the first paragraph of the methods section.</p>
+            </div>
+            <div>
+                <head>References</head>
+                <p>This section should be removed.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
