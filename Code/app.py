@@ -18,17 +18,44 @@ EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
 # Cache the embedding model and vector store for faster re-runs
 @st.cache_resource
 def load_embedding_model():
-    """Loads the embedding model from Hugging Face."""
+    """
+    Loads the embedding model from Hugging Face.
+
+    This function is cached to avoid reloading the model on every app rerun,
+    which significantly improves performance.
+
+    Returns:
+        HuggingFaceEmbeddings: The loaded embedding model.
+    """
     return HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
 
 @st.cache_resource
 def load_vector_store(_embeddings):
-    """Loads the vector store from the persistent directory."""
+    """
+    Loads the vector store from the persistent directory.
+
+    This function is cached to avoid reloading the vector store on every app
+    rerun. It depends on the embedding model, which is passed as an argument.
+
+    Args:
+        _embeddings (HuggingFaceEmbeddings): The embedding model to use for the
+        vector store.
+
+    Returns:
+        Chroma: The loaded vector store.
+    """
     return Chroma(persist_directory=DB_PERSIST_DIR, embedding_function=_embeddings)
 
 # --- MAIN APP ---
 # --- MAIN APP ---
 def main():
+    """
+    The main function for the Streamlit app.
+
+    This function sets up the Streamlit page, handles user input, performs
+    the similarity search, and displays the results. It also includes error
+    handling for the vector database and model loading.
+    """
     st.set_page_config(page_title="Research Paper Search", page_icon="📚", layout="wide")
     
     st.title("📚 Research Paper Search")
