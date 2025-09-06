@@ -16,6 +16,14 @@ def load_documents_from_directory(directory):
     """
     Loads all markdown files from a directory, parsing their front matter
     and creating LangChain Document objects.
+
+    Args:
+        directory (str): The path to the directory containing the markdown
+        files.
+
+    Returns:
+        list[Document]: A list of LangChain Document objects, where each
+        object represents a markdown file.
     """
     documents = []
     print("Loading documents with custom loader...")

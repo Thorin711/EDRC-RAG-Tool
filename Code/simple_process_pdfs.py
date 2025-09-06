@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Sep  4 16:51:44 2025
+This script processes PDF files using the GROBID client.
 
-@author: td00654
+It takes an input directory of PDF files, processes them using the GROBID
+service, and saves the output as XML files in a specified output directory.
+This is the first step in the document processing pipeline, preparing the
+raw PDF documents for further analysis and inclusion in the vector database.
 """
 
 from grobid_client.grobid_client import GrobidClient
@@ -15,4 +18,3 @@ in_path = r"C:\Users\td00654\OneDrive - University of Surrey\Documents\EDRC LLM 
 out_path = r"C:\Users\td00654\OneDrive - University of Surrey\Documents\EDRC LLM Project\Papers\EDRC - HTML"
 # Process documents
 client.process("processFulltextDocument", in_path, out_path, n=10)
-
