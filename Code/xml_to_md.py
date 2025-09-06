@@ -17,45 +17,50 @@ def xml_to_markdown(xml_file_path, output_dir):
 
         # --- Pre-process to remove unwanted sections ---
         unwanted_section_headings = [
-            "references", 
+            "references",
             "bibliography",
             "credit authorship contribution statement",
             "declaration of competing interest"
         ]
         for div in soup.find_all('div'):
-            head = div.find('head') 
+            head = div.find('head')
             if head and head.get_text(strip=True).lower() in unwanted_section_headings:
                 div.decompose()
 
         # --- 1. Extract Metadata for YAML Front Matter ---
-        
+
         # Title
         title_tag = soup.find('titleStmt').find('title')
         title = title_tag.get_text(strip=True) if title_tag else "No Title Found"
         title = title.replace('"', '\\"')
 
-        # Authors (scoped to <analytic> to avoid capturing reference authors)
+        # Authors and DOI are often in the <front> section
         authors = []
-        analytic_section = soup.find('analytic')
-        if analytic_section:
-            for author in analytic_section.find_all('author'):
-                pers_name = author.find('persName')
-                if pers_name:
-                    forenames = " ".join([fn.get_text(strip=True) for fn in pers_name.find_all('forename')])
-                    surname = pers_name.find('surname').get_text(strip=True) if pers_name.find('surname') else ""
-                    authors.append(f"{forenames} {surname}".strip())
+        doi = ""
+        front_section = soup.find('front')
+        if front_section:
+            analytic_div = front_section.find('div', type='analytic')
+            if analytic_div:
+                # Authors
+                for author in analytic_div.find_all('author'):
+                    pers_name = author.find('persName')
+                    if pers_name:
+                        forenames = " ".join([fn.get_text(strip=True) for fn in pers_name.find_all('forename')])
+                        surname = pers_name.find('surname').get_text(strip=True) if pers_name.find('surname') else ""
+                        authors.append(f"{forenames} {surname}".strip())
 
-        # DOI (Digital Object Identifier)
-        doi_tag = soup.find('idno', type='DOI')
-        doi = doi_tag.get_text(strip=True) if doi_tag else ""
-        
+                # DOI (Digital Object Identifier)
+                doi_tag = analytic_div.find('idno', type='DOI')
+                if doi_tag:
+                    doi = doi_tag.get_text(strip=True)
+
         # Abstract
         abstract_tag = soup.find('abstract')
         abstract_text = "\n".join([p.get_text(strip=True) for p in abstract_tag.find_all('p')]) if abstract_tag else ""
 
 
         # --- 2. Create YAML Front Matter ---
-        
+
         yaml_front_matter = "---\n"
         yaml_front_matter += f'title: "{title}"\n'
         yaml_front_matter += "authors:\n"
@@ -67,7 +72,7 @@ def xml_to_markdown(xml_file_path, output_dir):
         # --- 3. Process the Body Content ---
 
         markdown_body = []
-        
+
         if abstract_text:
             markdown_body.append("## Abstract")
             markdown_body.append(abstract_text)
@@ -78,11 +83,11 @@ def xml_to_markdown(xml_file_path, output_dir):
                 heading_tag = section.find('head')
                 if heading_tag:
                     heading_text = heading_tag.get_text(strip=True)
-                    
+
                     heading_level = len(heading_tag.get('n', '').split('.')) + 1
                     heading_prefix = '#' * heading_level
                     markdown_body.append(f"\n{heading_prefix} {heading_text}")
-                    
+
                     paragraphs = section.find_all('p', recursive=False)
                     for p in paragraphs:
                         markdown_body.append(p.get_text(strip=True))
@@ -103,7 +108,7 @@ def xml_to_markdown(xml_file_path, output_dir):
 
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(final_markdown)
-            
+
         print(f"Successfully converted '{xml_file_path}' to '{output_path}'")
 
     except Exception as e:
@@ -115,7 +120,7 @@ if __name__ == '__main__':
     # Your input and output directories
     input_dir = r"C:\Users\td00654\OneDrive - University of Surrey\Documents\EDRC LLM Project\Papers\EDRC - XML"
     output_dir = r'C:\Users\td00654\OneDrive - University of Surrey\Documents\EDRC LLM Project\Papers\EDRC - Text'
-    
+
     # The script now looks for files ending in '.xml' as before,
     # but the output name will be cleaner.
     for filename in os.listdir(input_dir):
