@@ -1,0 +1,78 @@
+2025-09-04 17:10:32,516 - INFO - Logging configured - Level: INFO, Console: True, File: disabled
+2025-09-04 17:10:32,546 - INFO - GROBID server http://localhost:8070 is up and running
+2025-09-04 17:10:32,548 - INFO - GROBID client initialized successfully
+2025-09-04 17:10:32,550 - INFO - Found 19 PDFs in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF
+2025-09-04 17:10:32,551 - INFO - Initial state - PDFs: 19, TEI files: 0, TXT files: 0
+2025-09-04 17:10:32,552 - INFO - Found 19 PDFs in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF
+2025-09-04 17:10:32,553 - INFO - Starting processing of 19 PDF files
+2025-09-04 17:10:32,556 - INFO - Processing: 1-s2.0-S0143622825001778-main.pdf
+2025-09-04 17:10:32,556 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\1-s2.0-S0143622825001778-main.pdf
+2025-09-04 17:10:32,558 - ERROR - TEI file not found for 1-s2.0-S0143622825001778-main.pdf
+2025-09-04 17:10:32,558 - INFO - Processing: 1-s2.0-S030142152400168X-main.pdf
+2025-09-04 17:10:32,559 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\1-s2.0-S030142152400168X-main.pdf
+2025-09-04 17:10:32,561 - ERROR - TEI file not found for 1-s2.0-S030142152400168X-main.pdf
+2025-09-04 17:10:32,561 - INFO - Processing: 1-s2.0-S036013232500112X-main.pdf
+2025-09-04 17:10:32,562 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\1-s2.0-S036013232500112X-main.pdf
+2025-09-04 17:10:32,564 - ERROR - TEI file not found for 1-s2.0-S036013232500112X-main.pdf
+2025-09-04 17:10:32,565 - INFO - Processing: 1-s2.0-S136192092400470X-main.pdf
+2025-09-04 17:10:32,566 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\1-s2.0-S136192092400470X-main.pdf
+2025-09-04 17:10:32,567 - ERROR - TEI file not found for 1-s2.0-S136192092400470X-main.pdf
+2025-09-04 17:10:32,568 - INFO - Processing: 1-s2.0-S2210422424000820-main.pdf
+2025-09-04 17:10:32,568 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\1-s2.0-S2210422424000820-main.pdf
+2025-09-04 17:10:32,570 - ERROR - TEI file not found for 1-s2.0-S2210422424000820-main.pdf
+2025-09-04 17:10:32,571 - INFO - Processing: 1-s2.0-S2214629624001713-main.pdf
+2025-09-04 17:10:32,572 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\1-s2.0-S2214629624001713-main.pdf
+2025-09-04 17:10:32,573 - ERROR - TEI file not found for 1-s2.0-S2214629624001713-main.pdf
+2025-09-04 17:10:32,575 - INFO - Processing: 1-s2.0-S2214629624003906-main.pdf
+2025-09-04 17:10:32,575 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\1-s2.0-S2214629624003906-main.pdf
+2025-09-04 17:10:32,577 - ERROR - TEI file not found for 1-s2.0-S2214629624003906-main.pdf
+2025-09-04 17:10:32,577 - INFO - Processing: 1-s2.0-S2214629624004146-main.pdf
+2025-09-04 17:10:32,579 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\1-s2.0-S2214629624004146-main.pdf
+2025-09-04 17:10:32,580 - ERROR - TEI file not found for 1-s2.0-S2214629624004146-main.pdf
+2025-09-04 17:10:32,581 - INFO - Processing: 1-s2.0-S2214629625001902-main.pdf
+2025-09-04 17:10:32,582 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\1-s2.0-S2214629625001902-main.pdf
+2025-09-04 17:10:32,583 - ERROR - TEI file not found for 1-s2.0-S2214629625001902-main.pdf
+2025-09-04 17:10:32,584 - INFO - Processing: 1-s2.0-S2352484725001623-main.pdf
+2025-09-04 17:10:32,585 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\1-s2.0-S2352484725001623-main.pdf
+2025-09-04 17:10:32,586 - ERROR - TEI file not found for 1-s2.0-S2352484725001623-main.pdf
+2025-09-04 17:10:32,587 - INFO - Processing: Geographical Journal - 2024 - Bouzarovski - The determinants of double energy vulnerability A geospatial analysis.pdf
+2025-09-04 17:10:32,587 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\Geographical Journal - 2024 - Bouzarovski - The determinants of double energy vulnerability A geospatial analysis.pdf
+2025-09-04 17:10:32,589 - ERROR - TEI file not found for Geographical Journal - 2024 - Bouzarovski - The determinants of double energy vulnerability A geospatial analysis.pdf
+2025-09-04 17:10:32,590 - INFO - Processing: Hostile Environments Housing and Asylum Policies as Drivers of Energy Deprivation Among UK Refugee Communities.pdf
+2025-09-04 17:10:32,590 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\Hostile Environments Housing and Asylum Policies as Drivers of Energy Deprivation Among UK Refugee Communities.pdf
+2025-09-04 17:10:32,592 - ERROR - TEI file not found for Hostile Environments Housing and Asylum Policies as Drivers of Energy Deprivation Among UK Refugee Communities.pdf
+2025-09-04 17:10:32,593 - INFO - Processing: How could it be our responsibility The equity of Local Authority climate action in England.pdf
+2025-09-04 17:10:32,594 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\How could it be our responsibility The equity of Local Authority climate action in England.pdf
+2025-09-04 17:10:32,595 - ERROR - TEI file not found for How could it be our responsibility The equity of Local Authority climate action in England.pdf
+2025-09-04 17:10:32,596 - INFO - Processing: ijerph-21-01415.pdf
+2025-09-04 17:10:32,597 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\ijerph-21-01415.pdf
+2025-09-04 17:10:32,598 - ERROR - TEI file not found for ijerph-21-01415.pdf
+2025-09-04 17:10:32,600 - INFO - Processing: s41560-025-01794-w.pdf
+2025-09-04 17:10:32,601 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\s41560-025-01794-w.pdf
+2025-09-04 17:10:32,602 - ERROR - TEI file not found for s41560-025-01794-w.pdf
+2025-09-04 17:10:32,603 - INFO - Processing: s41598-025-01495-0.pdf
+2025-09-04 17:10:32,604 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\s41598-025-01495-0.pdf
+2025-09-04 17:10:32,606 - ERROR - TEI file not found for s41598-025-01495-0.pdf
+2025-09-04 17:10:32,607 - INFO - Processing: s44333-024-00002-8.pdf
+2025-09-04 17:10:32,608 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\s44333-024-00002-8.pdf
+2025-09-04 17:10:32,609 - ERROR - TEI file not found for s44333-024-00002-8.pdf
+2025-09-04 17:10:32,610 - INFO - Processing: simcock-bouzarovski-2023-a-cure-all-for-energy-poverty-thinking-critically-about-energy-advice.pdf
+2025-09-04 17:10:32,611 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\simcock-bouzarovski-2023-a-cure-all-for-energy-poverty-thinking-critically-about-energy-advice.pdf
+2025-09-04 17:10:32,612 - ERROR - TEI file not found for simcock-bouzarovski-2023-a-cure-all-for-energy-poverty-thinking-critically-about-energy-advice.pdf
+2025-09-04 17:10:32,613 - INFO - Processing: ssrn-4686345.pdf
+2025-09-04 17:10:32,614 - WARNING - No eligible files found in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF\ssrn-4686345.pdf
+2025-09-04 17:10:32,616 - ERROR - TEI file not found for ssrn-4686345.pdf
+2025-09-04 17:10:32,617 - INFO - Processing complete! Success: 0, Failed: 19
+2025-09-04 17:10:32,618 - INFO - Output files saved to: c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - HTML
+2025-09-04 17:10:32,620 - INFO - Found 19 PDFs in c:\users\td00654\onedrive - university of surrey\documents\edrc llm project\papers\EDRC - PDF
+2025-09-04 17:10:32,621 - INFO - Final state - TEI files: 0, TXT files: 0
+2025-09-04 17:12:50,748 - INFO - Logging configured - Level: INFO, Console: True, File: disabled
+2025-09-04 17:12:50,769 - INFO - GROBID server http://localhost:8070 is up and running
+2025-09-04 17:12:50,771 - WARNING - No eligible files found in /path/to/pdfs
+2025-09-04 17:15:28,069 - INFO - Logging configured - Level: INFO, Console: True, File: disabled
+2025-09-04 17:15:28,089 - INFO - GROBID server http://localhost:8070 is up and running
+2025-09-04 17:15:28,090 - WARNING - No eligible files found in /path/to/pdfs
+2025-09-04 17:15:38,078 - INFO - Logging configured - Level: INFO, Console: True, File: disabled
+2025-09-04 17:15:38,117 - INFO - GROBID server http://localhost:8070 is up and running
+2025-09-04 17:15:38,121 - INFO - Found 19 file(s) to process
+2025-09-04 17:15:50,755 - INFO - Processing completed: 19 out of 19 files processed

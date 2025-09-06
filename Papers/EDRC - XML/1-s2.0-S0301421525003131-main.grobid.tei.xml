@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Governing flexibility: Trust, time and agency in automated demand-side flexibility</title>
+				<funder ref="#_XyDMgYH">
+					<orgName type="full">Economic and Social Research Council</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Energy Demand Research Centre</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Engineering and Physical Sciences Research Council</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2025-08-05">5 August 2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Helen</forename><surname>Poulter</surname></persName>
+							<email>h.poulter@sussex.ac.uk</email>
+							<idno type="ORCID">0000-0003-2594-1416</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Business School</orgName>
+								<orgName type="laboratory">Corresponding author. Science Policy Research Unit (SPRU)</orgName>
+								<orgName type="institution">University of Sussex</orgName>
+								<address>
+									<settlement>Falmer</settlement>
+									<region>Brighton, UK</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Marie</forename><forename type="middle">Claire</forename><surname>Brisbois</surname></persName>
+							<idno type="ORCID">0000-0001-6600-7297</idno>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Business School</orgName>
+								<orgName type="laboratory">Science Policy Research Unit (SPRU)</orgName>
+								<orgName type="institution">University of Sussex</orgName>
+								<address>
+									<settlement>Brighton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Governing flexibility: Trust, time and agency in automated demand-side flexibility</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Energy Policy</title>
+						<title level="j" type="abbrev">Energy Policy</title>
+						<idno type="ISSN">0301-4215</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">206</biblScope>
+							<biblScope unit="page">114806</biblScope>
+							<date type="published" when="2025-08-05">5 August 2025</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F78A4C82FA0436058B7B5632E17A1F78</idno>
+					<idno type="DOI">10.1016/j.enpol.2025.114806</idno>
+					<note type="submission">Received 27 February 2025; Received in revised form 25 July 2025; Accepted 26 July 2025 Energy Policy 206 (2025) 114806</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Decarbonisation Digitalisation Consumer protections Automation Demand-side response Social license</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Aligning electricity demand with renewable energy supply helps lower decarbonisation costs. This can be done through demand-side flexibility (DSF) markets, where users are rewarded for shifting their energy use to times of high renewable availability. However, participation is often limited due to complex incentives and users' limited ability or willingness to shift demand. Automation offers a solution but depends on users trusting the service providers-trust that is often lacking. We propose a conceptual framework connecting user time commitment and system enabled agency, examining how this influences trust in energy governance. We consider how consumer and competition policies can reduce user vulnerability and shift where trust is placed. Using secondary data, we apply this framework to three case studies-Australia, the UK, and New York State-analysing how governance processes support user trust, reduce vulnerability, or both. Should trust be a desired outcome, policy should be designed to reduce vulnerability by providing strong protections. Equally, users should be able to "trade" time to build trust in the system by participating in system governance, creating agency within automation. However, trust needs to be both deserved and maintained over time by the energy institutions for the acceptance of the automation of demand-side technologies.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Electricity systems are facing increasing pressure to evolve due to expanding electrification and renewable energy integration. These trends are necessary to support decarbonisation goals and the optimisation of electricity systems, but they pose significant challenges for systems that have been historically organised and managed centrally, and which supplied energy to a passive consumer. The intermittent and lower energy density of renewables means that systems need to be redesigned to support reliable and sufficient supply <ref type="bibr" target="#b10">(CCC, 2023;</ref><ref type="bibr">National Infrastructure Commission, 2023)</ref>.</p><p>In the Clean Power 2030 report by the National Energy System Operator (NESO), commissioned by the UK government (National Energy System Operator, 2024a), there is recognition of the importance of demand-side flexibility to a system that includes variable renewable generation. The report states that 'unlocking the benefits of this increased flexibility for consumers will require engagement. However, effortless participation in demand flexibility through digitalisation and automation is likely to be the path to the highest and most effective levels of responsiveness <ref type="bibr">' (ibid. pp. 20</ref>). Yet, many of the assets that make up a flexible system, such as solar photovoltaics and electric vehicles, are expected to be owned and controlled by domestic users (ibid.) leading to questions about social acceptance and the wider implications of automation, and meaning that fully automated pathways cannot be assumed but rather require careful interrogation (e.g. <ref type="bibr" target="#b43">Patterson-Hann and Watson, 2022;</ref><ref type="bibr" target="#b51">Roberts et al., 2023)</ref>. Recognising that tensions exist between the physical and social aspects of the system suggests that policy frameworks for flexibility need to include methods to account for these tensions, which may then lead to social acceptance.</p><p>Therefore, this paper examines key questions of user's trust in the energy systems and actors responsible for the digitalisation and automation that many consider integral to future electricity grids. A lack of user trust can act as a barrier to the optimisation of demand-side technologies, potentially inflating the overall cost of system decarbonisation (e.g. <ref type="bibr" target="#b4">Barrett et al., 2022)</ref>, and also reflects wider challenges in adapting a system designed for market driven, one-way flows of electricity to a system requiring greater user involvement. Building on previous research that explores the role of agency in building trust in energy systems <ref type="bibr" target="#b43">(Patterson-Hann and Watson, 2022;</ref><ref type="bibr" target="#b51">Roberts et al., 2023;</ref><ref type="bibr" target="#b63">Wamsler et al., 2022)</ref>, we propose a conceptual framework that considers user agency and time within governance processes designed to analyse trust as a desired outcome.</p><p>In 2024, customer satisfaction in the UK energy industry was the lowest across all rated industries <ref type="bibr">(Ofgem, 2024a)</ref>. A survey found that almost half of UK residents did not trust energy companies, up from 34 % the previous year, with younger age groups exhibiting the most distrust <ref type="bibr" target="#b22">(Howell, 2023)</ref>. Distrust is not a challenge unique to the UK. In Australia, for example, an annual consumer sentiment survey completed by a public consumer advocacy body found that consumers lacked trust in both their energy providers and the government as 'Political historical mismanagement of the energy system has resulted in low levels of trust, with many feeling the government has no plan to address the current issues' <ref type="bibr">(Energy Consumers Australia, 2024, p. 21)</ref> This distrust is important, as it may extend to digitalised energy technologies, such as smart meters. A recent investigation into the technical difficulties experienced by some smart meter users in the UK indicated that continuing problems could discourage people from adopting these technologies, undermining the UK government's goal of installing smart meters in every home <ref type="bibr" target="#b11">(Conway, 2024)</ref>. This highlights the importance of understanding trust and acceptance of smart digital energy technologies, as they play a pivotal role in decarbonisation efforts.</p><p>While substantial research exists on the acceptance and trust of supply-side technologies such as wind, carbon capture and storage (CCS) (e.g. <ref type="bibr" target="#b42">Otto et al., 2023)</ref> and hydrogen (e.g. <ref type="bibr" target="#b54">Scovell, 2022)</ref>, the acceptance and trust of demand-side digitalisation and automation technologies presents different challenges. Demand-side technologies, such as solar panels and electric vehicles, are typically purchased and installed by the user in their home, making them already trusted and often under the user's control. Therefore, rather than building trust in the technology itself, the primary challenge is a lack of trust in the actors providing and delivering the demand side flexibility (DSF) services and automation.</p><p>Trust is a key factor in mediating social behaviour and relationships <ref type="bibr" target="#b27">(Mayer et al., 1995)</ref>, including the adoption of smart low carbon technologies (e.g. <ref type="bibr" target="#b43">Patterson-Hann and Watson, 2022)</ref>. Emerging research views trust-building for demand-side management through the lens of a 'social license to automate' which argues that trust is fundamental to systems that require active and ongoing user support and engagement, and that this trust is shaped by the relationship between users and system actors, the legitimacy of those actors, and the ways that users engage, or are allowed to engage, with wider systems and companies <ref type="bibr" target="#b2">(Adams et al., 2021)</ref>. In our analysis, we argue that there is an important dynamic relationship between trust, user agency, and the time users invest in energy systems and their governance.</p><p>We consider that, in the absence of trust, users of decentralised energy technologies are more likely to retain control over these technologies, investing time and effort to maintain agency over their assets. On the other hand, users who trust the system may choose to (re)gain time by relinquishing control and automating the use of these technologies through industry actors <ref type="bibr" target="#b2">(Adams et al., 2021;</ref><ref type="bibr" target="#b43">Patterson-Hann and Watson, 2022)</ref>, or through trusted aggregators or intermediaries <ref type="bibr" target="#b51">(Roberts et al., 2023)</ref>. In this instance, agency shifts from direct control to the choice of whether to automate, requiring trust in the system and its participants. Between these two extremes are users who may partially relinquish control but choose to remain actively involved due to distrust, even if it requires additional time and effort.</p><p>Given that users must be willing to cede at least some control to electricity system operators for automation to succeed, it is crucial to explore how user agency shapes trust, and the conditions and governance mechanisms required to create this agency. This paper develops and applies a conceptual framework to the uptake of digital, automated technologies in the electricity sector to examine how agency, trust and time intersect in the governance of automated, digital systems. The framework is applied to three cases in Great Britian (GB), Australia, and the state of New York in the United States. The next section presents theory and develops the framework. We then present our methods and case study contexts and develop results by applying the framework to our cases. The discussion section presents key insights and challenges. We then present policy implications and conclusions for designing energy systems that meet user needs for agency and trust, with implications for the design and use of automation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Theoretical background</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Agency and trust</head><p>Agency refers to the capacity of an individual to control their own actions and corresponding effects <ref type="bibr" target="#b56">(Silver et al., 2020)</ref>. Trust is defined as the willingness to be vulnerable to another party's actions based on the expectation that the party will perform actions important to the trustor, irrespective of the ability to monitor or control the party <ref type="bibr" target="#b27">(Mayer et al., 1995)</ref>. The relationship between agency and trust lies in the individual's choice to be vulnerable to another party (e.g. <ref type="bibr" target="#b14">Eigenstetter, 2020;</ref><ref type="bibr" target="#b43">Patterson-Hann and Watson, 2022)</ref> or to reduce that vulnerability by becoming part of a collective that advocates on the individuals' behalf (e.g. <ref type="bibr" target="#b2">Adams et al., 2021;</ref><ref type="bibr">Brisbois, 2020a)</ref>. Trust and agency are critical concepts in understanding the acceptance and use of low carbon and digital technologies, as they influence human interactions with these innovations.</p><p>The agency of an individual is influenced by various factors, with liberal democratic structures typically acknowledging that households have (limited) agency over what happens in the home <ref type="bibr" target="#b52">(Rohracher et al., 2025)</ref>. This agency can be fluid within energy transitions depending on new technologies and practices. As these new configurations evolve, they alter how householders interact with the wider energy system, its actors and its practices (ibid.). As agency shifts within these configurations, trust becomes highly consequential for participation in digitalised energy systems, as it is a voluntary property.</p><p>The concept of trust varies across disciplines. Many basic understandings derive from psychology and sociology and focus on individually processed cognitive, emotional and behavioural trust <ref type="bibr" target="#b3">(Alzahrani et al., 2017)</ref>. Some also integrate collective societal understandings of these forms of trust <ref type="bibr" target="#b55">(Sherchan et al., 2013)</ref>. Cognitive trust is derived from active decisions, based on available knowledge. Emotional trust is based on emotionally derived decisions which may not involve coherent or active processing of data and information. Behavioural trust is built on commitment between parties. All three types of individual trust are highly relational, shaped by cumulative past experiences, and culturally derived values and understandings <ref type="bibr" target="#b3">(Alzahrani et al., 2017)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.1.">Trust and acceptance within technological systems</head><p>The concepts of trust and acceptance can be distinguished from each other, but they are not mutually exclusive, and aspects of one may be traded for the other <ref type="bibr" target="#b14">(Eigenstetter, 2020)</ref>. While trust represents a temporally immediate willingness to be vulnerable, acceptance requires time to develop. Within technological systems, acceptance is affected by the expected benefit, simplicity and ease of use of technology, and also through social influence and support <ref type="bibr" target="#b2">(Adams et al., 2021;</ref><ref type="bibr" target="#b43">Patterson--Hann and Watson, 2022)</ref>. However, some degree of trust provides the crucial initial step for an individual to begin using technology and move towards acceptance <ref type="bibr" target="#b43">(Patterson-Hann and Watson, 2022)</ref>. Trust is not a static property but develops with technology use, depending on factors similar to those that lead to technology acceptance: ease of use, performance and understanding. Equally, predictability and dependability of the technological system can help build a trusting (or accepting) relationship <ref type="bibr" target="#b14">(Eigenstetter, 2020)</ref>. Likewise, a lack of performance across these factors can break both trust and acceptance (e.g. <ref type="bibr" target="#b11">Conway, 2024)</ref>. For novel socio-technical systems that require initial engagement and demand-side participation, it is necessary to support the conditions required to encourage an initial first step, to then build trust and ongoing acceptance. For automated systems, trust also needs to be ongoing as users have the ability to disengage if trust is not maintained or is actively broken <ref type="bibr" target="#b2">(Adams et al., 2021)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Agency in automation</head><p>The role of agency in enabling automation for energy system decarbonisation is increasingly recognised but its location and nature remain unclear. <ref type="bibr" target="#b18">Goulden et al. (2018)</ref> demonstrated that users in market and technical designs are typically seen as responsive and rational agents or as 'indifferent consumers' (for whom the current electricity grid was designed), with agency in this scenario being the choice to participate or not. However, these roles are conceptual and not based on empirical evidence and fail to consider the nuanced reality for those who may be willing to adopt some automation but wish to retain control in other areas <ref type="bibr" target="#b18">(Goulden et al., 2018)</ref>.</p><p>These assumptions about users are problematic because many low carbon technologies require ongoing interaction with humans, and people thus retain agency over their technology use, even when interacting with digitalised systems, falling between independent users and 'indifferent consumers' <ref type="bibr" target="#b49">(Ritzer, 2015)</ref>. The findings of <ref type="bibr" target="#b18">Goulden et al. (2018)</ref> are consistent with other research, where a lack of attention to users as dynamic and socially contextualised actors is relatively common in energy planning and modelling (e.g. <ref type="bibr" target="#b5">Bekirsky et al., 2022)</ref>. This creates challenges when implementing technology-based solutions and a clear gap in understanding users in energy system design and modelling.</p><p>A critical group in this context are 'partially engaged' consumers whose involvement in energy systems is shaped by concerns about managing daily routines, privacy and trustworthiness of technical systems and institutions <ref type="bibr" target="#b16">(Fell et al., 2014;</ref><ref type="bibr" target="#b28">Moser, 2017)</ref>. Some users motivated by a desire for energy independence, and with the financial means to do so, invest in solar PV and batteries <ref type="bibr" target="#b12">(De Martini et al., 2022;</ref><ref type="bibr" target="#b50">Roberts, 2023)</ref>. However, automation can conflict with this desire for control, leading to reluctance to adopt further automation, as their agency within the system is reduced. This also represents a privileged position as many people are not able to afford energy assets and the benefits of flexibility and automation thus reinforce societal inequities <ref type="bibr" target="#b47">(Powells and Fell, 2019)</ref>.</p><p>Agency and trust also have implications for the use of artificial intelligence (AI) in energy systems. AI-enabled automation could create fully autonomous homes that communicate independently with the grid, optimising energy use and reducing costs. However, this vision raises concerns about the diminishing role of human agency <ref type="bibr" target="#b49">(Ritzer, 2015)</ref>. As <ref type="bibr" target="#b49">Ritzer (2015)</ref> notes, in fully automated systems, humans may become increasingly dependent on, or even controlled by, smart machines communicating with other machines. This scenario challenges the notion of human control, raising fundamental ethical questions about autonomy, control, and safety <ref type="bibr" target="#b14">(Eigenstetter, 2020)</ref>. These are important both normatively and functionally because any such automated systems require initial trust to build acceptance.</p><p>One challenge for enabling automation therefore lies in supporting sufficient agency to enable trust, which recent research has defined as 'a social license to automate' <ref type="bibr" target="#b2">(Adams et al., 2021)</ref>. <ref type="bibr" target="#b43">Patterson-Hann and Watson (2022)</ref>, suggest that uncertainty around the product and the potential fiscal savings lead to a lack of trust, but allowing the customer to choose their level of control could address this issue. However, the risk here is that too many people choose to retain control, leading to suboptimal outcomes for the system.</p><p>In the absence of trust in the actors and institutions responsible for automation, users require a sense of agency to feel in control of their assets. This may allow users to make the initial step of participating in novel automated digital systems. However, this sense of agency is dependent on the type of technology, the demographic, the level of individual or household capacity, cultural and relational factors; and the requirements of the automated system <ref type="bibr" target="#b2">(Adams et al., 2021;</ref><ref type="bibr" target="#b19">Hargreaves and Middlemiss, 2020;</ref><ref type="bibr" target="#b47">Powells and Fell, 2019;</ref><ref type="bibr" target="#b52">Rohracher et al., 2025)</ref>.</p><p>Strategies and options for building trust specifically in the context of energy automation has been limited, however, participatory processes have been highlighted as an essential means to build trust, and allow exercise of agency <ref type="bibr">(Brisbois, 2020a;</ref><ref type="bibr" target="#b51">Roberts et al., 2023)</ref>. More fundamental changes to system logics and business models have also been suggested to create a more "trustable" system. These approaches acknowledge that profit maximising business models have often led to exploitative treatment of consumers and that alternative business and ownership models have the potential to shift the incentive structure to also focus on social and environmental benefit. Not-for-profits, community energy groups, and B corporations all operate under models that, to varying degrees, seek to pursue goals beyond profits. These alternative models sometimes also address how citizens participate in decision making and are viewed as more trustable by citizens <ref type="bibr" target="#b8">(Brown et al., 2020)</ref>.</p><p>Especially for the more relational and community-focused of these business models, there is strong potential for supporting trust. Because trust is a relational property, engaging users through smaller scale, democratic bodies that support active user engagement is one way to organise an electricity system that supports user trust and agency (e.g. <ref type="bibr" target="#b2">Adams et al., 2021)</ref>. This also has the effect of organising users into collectives that are able to engage with the wider system through these intermediary organisations, allowing some collective representation and possible channels for participation in wider governance or advocacy <ref type="bibr">(Brisbois, 2020a)</ref>. Community energy and similar groups are well placed to play this function, and evolving aggregators could also be designed to play this role.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Agency, vulnerability, and consumer protections</head><p>Competition and consumer policy are another option for addressing limited agency and building trust by reducing vulnerability through the establishment of legal frameworks that ensure fairness, transparency, and accountability in market transactions. Vulnerability often refers to social inequalities or adversities (e.g. <ref type="bibr" target="#b9">Brown et al., 2017)</ref> and is focussed on a person's social or economic situation rather than the external factors that affect consumers. In the UK energy sector, for example, vulnerable customers are identified as a sub-group and provided particular protections <ref type="bibr" target="#b41">(Ofgem, 2019)</ref>. However, vulnerability to commercial practices can arise from the degree of exposure and the potential consequences (e.g. <ref type="bibr" target="#b13">Duivenvoorde, 2015)</ref>, a growing concern due to the reach of businesses in the digitalised era. Due to the increased vulnerability from external rather than social factors, <ref type="bibr">Hill and Sharma (2020, p. 554</ref>) suggest a relevant definition of consumer vulnerability as 'a state in which consumers are subject to harm because their access to and control over resources is restricted in ways that significantly inhibit their abilities to function in the marketplace'.</p><p>A new report by the OECD notes that vulnerability regarding digital services is not specific to certain consumer groups but is increasingly a universal experience. They highlight calls for the 'conceptualisation of consumer vulnerability as universal or systemic' (OECD, 2023, p. 5). As digital business models proliferate, there has been widespread recognition of the need to update consumer protection laws globally to protect consumers from the complexities of digital technologies and data usage e.g. the EU's Digital Markets Act (European Commission, 2022) and the UK's Digital Markets, Competition and Consumers Act 2024 (UK <ref type="bibr" target="#b60">Government, 2024)</ref>. Despite this, research on consumer vulnerability in the digital era remains limited (ibid.). As automation is pursued and consumers are asked to relinquish control over their resources, vulnerability becomes a more pressing concern, making consumer protections important for understanding user trust and negotiating different levels of user agency.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">A shifting sense of agency</head><p>We suggest that as home configurations evolve (e.g. <ref type="bibr" target="#b52">Rohracher et al., 2025)</ref> agency shifts as users balance individual control and automation whilst initiating new relationships through working differently with energy retailers, and sometimes with system intermediaries such as aggregators. We also propose that where automation is considered necessary for meeting decarbonisation objectives, it is helpful to view agency as not only linked to trust (e.g. <ref type="bibr" target="#b43">Patterson-Hann and Watson, 2022)</ref>, but also to user time as different modes of engagement require different amounts of time.</p><p>The technical optimisation of demand-side flexibility requires matching demand with energy supplied by low carbon technologies. This may be achieved through automation <ref type="bibr">(National Energy System Operator, 2024a)</ref>. Integrating flexibility requires the user to decide whether to continue to invest time and retain agency over home configurations, or, by allowing automation, to choose to trust and gain time by reducing their options to exercise direct agency. However, users can still retain a sense of agency through the choice process. Over time, as technologies gain wider acceptance, users may become willing to trade more of their agency for perceived benefits. Analysis of automation needs to consider these trade-offs.</p><p>In negotiating between trust and agency, users may also trade time through involvement in participatory governance, fostering trust in system actors responsible for automation and regaining time later. However, the amount of time needed to participate effectively will depend on the user's current knowledge and understanding, methods of communication and personal processing <ref type="bibr" target="#b58">(Stuart et al., 2023)</ref>. This requires attention to the unequal societal distribution of resources and capacities with respect to energy technologies <ref type="bibr" target="#b47">(Powells and Fell, 2019)</ref>.</p><p>The design of systems that integrate roles for trusted intermediaries, or institutions that mediate between traditional system actors and users, can also support trust. Aggregators or other actors that operate under more trusted business models, that support agency through more direct engagement in decisions, or that are able to support trust through relational or other mechanisms, offer another pathway for supporting automated systems that are more trustable <ref type="bibr" target="#b17">(Goulden et al., 2014;</ref><ref type="bibr" target="#b30">Naus et al., 2015)</ref>. In practice, these can take the form of community energy organisations, or other local energy institutions, although more research is needed on the role of groups in supporting socially accepted automation <ref type="bibr" target="#b2">(Adams et al., 2021)</ref>.</p><p>Therefore, agency, time and trust in energy systems can be understood in various ways.</p><p>• Agency is exercised through trust in technology, and through the ability and time to understand and participate in flexibility markets; • A sense of agency is fostered through participatory processes in system design, implementation or operations -where user's time is invested to build trust and knowledge with other system actors, sometimes through collective processes; • Agency shifts through the choice to relinquish control and regain time -where vulnerability to another's actions requires either trust in the actor or formal protections.</p><p>Fundamentally, how users interact with flexibility and automation is influenced by trust, which in turn can be influenced by a sense of agency. Protecting or building trust can be facilitated through the incorporation of processes that afford users a sense of control, which we term systemenabled agency. When direct agency is reduced, such as with automation, then system-enabled agency becomes of greater importance. Users can retain a sense of agency through active participation in decision-making processes, which typically demands greater time investment, or through the option to delegate control by choosing to trust the system. These relationships are illustrated in Fig. <ref type="figure" target="#fig_0">1</ref> and we use this framework to structure our analysis.</p><p>There are several potential approaches to mediate between agency, trust and time. Research on trust-building in areas like infrastructure planning and mining highlights the importance of participation and input, offering opportunities for agency <ref type="bibr">(Brisbois, 2020b)</ref>. Participation options vary and can range from low to high user engagement <ref type="bibr" target="#b48">(Reed et al., 2018)</ref>. However, not everyone has the time or inclination to engage with decision making around energy systems, and deeply participatory processes can be resource and time intensive (e.g. <ref type="bibr" target="#b21">Howarth et al., 2020)</ref>. Additionally, participation tends to be biased toward well-educated individuals with spare time, as seen in technology adoption (e.g. <ref type="bibr" target="#b47">Powells and Fell, 2019)</ref>.</p><p>Another option is to develop other mechanisms, either alone or in combination with some form of participatory process, to make the institutions that deliver automation more trustable, building on the components of trust described above including ease of use, performance, understanding and trusted relationships. As trust building efforts progress, new social and cultural norms around technology acceptance may emerge and challenges around technology uptake could decrease, but trust in individual technologies may not translate into trust into the automation of these technologies. Trusted intermediaries, including using relational institutions with different business models such as community energy groups, may have a role in supporting trust and agency at devolved scales, and interacting with the wider system on behalf of users. Additionally, trust may be enhanced by reducing user vulnerability through consumer protections, setting boundaries within which automation operates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Methods</head><p>To understand the role of agency and time in building trust as energy systems evolve, we analyse three international cases of energy system governance. We use comparative case study analysis and apply our analytical framework (Fig. <ref type="figure" target="#fig_0">1</ref>) to the governance approaches used as these case study systems integrate more decentralised assets. We then discuss the outcomes of different governance approaches in relation to trust, time and agency. To provide a fair comparison, the case studies were chosen based on common factors but, to provide further insight, at different stages of system decentralisation. Therefore, the criteria applied considered energy systems that are centralised systems, operating within liberalised energy markets with a top-down governance structure, and that are currently incorporating forms of decentralisation. The systems also needed to operate in similar political and cultural frames to reduce alternative external influences on the chosen governance approach.</p><p>New York State, Great Britain and Australia were selected (Table <ref type="table" target="#tab_0">1</ref>) as they provided a variation in the stage of decentralisation within electricity systems, while ensuring similar starting points with respect to centralisation and system security but with each having chosen a distinct governance approach to integrate decentralised energy resources. We focus specifically on electricity, as automation is viewed as crucial by some system actors for unlocking new system services and value.</p><p>From each of these countries a policy related to the integration of decentralised assets was chosen to illustrate our arguments, that is.</p><p>• New York State Reforming the Energy Vision (NY REV) Scoping Plan -policy is being designed using bottom-up processes to encourage demand side resources for a more resilient and cost-effective system. • Great Britain Regional Energy Strategic Planning (RESP)-a national decarbonisation policy aims for a net zero electricity system by 2030, guided by the energy regulator, Ofgem, and the newly formed, and publicly owned, National Energy System Operator (NESO), through strategic planning processes. • Australia Consumer Energy Resources roadmap (CER roadmap)-the rise of small-scale solar PV and battery storage has led to a national plan addressing equity and interoperability challenges.</p><p>We conducted a desk-based study of governance-related documents for each case (Table <ref type="table" target="#tab_2">2</ref>). Documents were located through the search function on the country government websites. For each of the cases all relevant documents used in building the policy were accessed. Since two of the cases were at an initial stage of implementation, only institutional reports and consultations were available. To ensure a comparable analysis, institutional reports and consultations were used as the sample documentation for all cases. Information was gathered from the documents by analysing the energy systems structure, policy focus, agency mechanisms, expected outcomes and decarbonisation targets. The analysis aimed to assess how processes accounted for agency, with implications for trust and time as an introduction to our conceptual arguments. The purpose of this analysis at this stage is to initiate conversation of the importance of trust and fostering agency in policy design and the value of time to the individual user.</p><p>For this research, we explore how decision-making processes in each case reflect agency and how this may relate to trust, particularly considering the time required to participate and the processes involved. We also review the nature of the governance processes (technological, societal, economic) to understand its impact on individual agency and trust and discuss this in relation to system-enabled agency in our framework.  exposed the need to update aging infrastructure, but also to address carbon emissions. The inefficiency of a system designed for peak load, costing customers around $2bn per year, was also targeted (ibid.), with demand side flexibility and energy efficiency considered as a possible solution. The vision would be met through regulatory and market reform to create a resilient, cheaper, digitalised and clean energy system.</p><p>The focus of the NY REV had been to ensure that New York would:</p><p>'Deliver a dynamic clean energy economy that empowers communities and customersacross all income levels, geographies, and demographicsto take control of their energy use, driving local economic growth and revitalisation, improving the resiliency of our energy system, and protecting our environment' (New York State, 2016, p. 1).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.2.">Agency mechanisms</head><p>To achieve the vision, a Scoping Plan was created following extensive input from customers and stakeholders over two years <ref type="bibr">(New York State, 2022</ref>). An initial plan was drafted with detailed input from the Climate Justice Working Group, formed to ensure that any actions would achieve the goals and requirements of the Climate Act. In 2021, the draft plan was opened for public comment over a 6-month period. In total, 32 public meetings and 11 public hearings were held and 35,000+ written comments received by the Climate Action Council. In addition, seven sector-specific Advisory Panels and two working groups conducted further outreach activities. Environmental justice organisations who sat on the Advisory Panels and the Just Transition Working Group represented disadvantaged communities. The Indian Nations' Leadership, the Department of Environmental Conservation and the Environment Protection Agency also worked together on the draft Scoping Plan. As part of the Just Transition principles developed by the Just Transition Working Group, early and inclusive engagement was recommended <ref type="bibr">(New York State, 2022)</ref>.</p><p>The seven Advisory Groups focussed on transportation, energy efficiency and housing, power generation, energy-intensive and tradeexposed industries, agriculture and forestry, waste, and land use and local government. These groups included representatives from government, non-governmental organisations, the private sector and industry (New York State, 2021). In line with the Just Transition principles, each Advisory Group hosted open meetings and public engagement sessions, whilst collaborating with other Panels affected by their decisions. The Just Transition Working Group's overarching principles ensured that workforce issues relating to the Panel recommendations were addressed. Each group submitted a report to the Climate Action Committee <ref type="bibr">(Just Transition Working Group, 2021a</ref><ref type="bibr">, 2021b</ref><ref type="bibr">, 2021c)</ref>. Additionally, the Climate Action Committee consulted the Climate Justice Working Group, which provided feedback and further recommendations to ensure that all recommendations adhered to the Climate Act requirements (Climate Justice Working Group, 2021).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.3.">Outcomes to date</head><p>In 2022, the final Scoping Plan was released. The Scoping Plan contained a framework that would allow New York State to meet a refined version of the overarching aim of the NY REV (New York State Climate Action Council, 2022), which had particular reference on how to achieve an equitable and just transition.</p><p>• Achieve a reduction in emissions of 85 % by 2050 • Ensure a reliable energy system • Achieve energy equity and a just transition from a fossil fuelled system Create a robust, clean energy economy.</p><p>As well as creating a vison for New York State, the Scoping Plan also included additional beneficial outcomes that could be achieved from moving to the new system.</p><p>• A stronger and more resilient energy system that can withstand disruption • Clean, affordable and reliable transport that would reduce air pollution and gridlock and encourage active transport • Energy efficient homes would improve comfort and health whilst saving money • Using clean energy resources for electric power would provide safe and reliable electricity and reduce price volatility • The use of state and federal incentives to encourage New Yorkers to choose energy efficient products and transport • The creation of good quality, unionised jobs across the state • Health benefits from a reduction in pollution across the state • The transition would benefit every community through equitable access to clean energy solutions and economic solutions. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.4.">Analysis</head><p>Essentially, the Scoping Plan was able to provide recommendations that would help New York State achieve its climate ambitions whilst improving the health of the State residents and increasing their economic opportunities. So, although decarbonisation is a major focus within the plan, there is also recognition of the wider system benefits. The agency mechanisms used mainly focussed on participatory processes to allow those affected by the changes multiple avenues to become involved over a six-month period, enabling users to either be more directly involved through meetings or, for those with less time to commit to participation, send written responses. Agency was also fostered by involving hard-to-reach groups in decision-making through a mix of outreach, representation and other collaborative processes from the Working Groups.</p><p>Included within each of the sector specific chapters of the Scoping Plan, and the appendices, are the types of collaborative processes used to create the plan. In the electricity sector chapter, collaborative processes were designed to create acceptance of new large-scale supply, siting and zoning of renewable generation and to incentivise the uptake of distributed energy resources. The plan describes how funding has been assigned for knowledge provision via community education and engagement on the benefits of both large-and small-scale projects, particularly focussing on climate, health and work opportunities, so providing some information for users. Although the broader benefits of a move to electrification are highlighted, there is little mention of the benefits of demand-side interaction, other than the design and justice implications of financial incentives and no explicit mention of demandside flexibility or automation. Yet the initial trust needed in the system actors for automation may come from the agency created through the involvement of users in the design of the Scoping Plan.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Strategic planning for Britian's electricity infrastructure</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.1.">Governance focus</head><p>Great Britain (GB) has a legislated target of net zero emissions by 2050, including a target of clean electricity production by 2030 (UK Government, 2023). The Energy Act 2023 (UK Government, 2023), states the changes needed for system design and operation to include new technologies, with the energy regulator, Ofgem, given a new duty to deliver net zero <ref type="bibr">(Department of Energy Security and Net Zero, 2023)</ref>. Due to the systemic change needed to meet the requirements of the Energy Act, the governance of the energy system is undergoing some reform. As part of these reforms in 2024, Britain began implementing strategic planning processes at both a national and regional level through the introduction of a new public national bodythe National Electricity System Operator (NESO) <ref type="bibr">(National Grid ESO, 2024a)</ref>. Part of the remit of the NESO is to prepare strategic energy plans over the long-term. The Centralised Strategic Energy Plan (CNSP) (National Energy System Operator, 2024b) is a national whole system 25-year forecast, focussing on how decarbonisation strategies will affect the transmission system and cross-border interconnectors. The component Strategic Spatial Energy Plan (SSEP) (National Energy System Operator, 2024c) assesses locational information for the optimum siting for electricity generation, storage and hydrogen, and the quantities and types of energy infrastructure needed over time. To integrate these national plans with local energy planning, the NESO will also be creating Regional Energy Strategic Plans (RESPs) <ref type="bibr">(Ofgem, 2024b)</ref>.</p><p>In GB, strategic plans at both the national and regional level are designed following the NESO's bi-annual Future Energy Pathways, which model the expected societal engagement for Britain to achieve its decarbonisation ambitions <ref type="bibr">(National Grid ESO, 2024b)</ref>. The RESP process, which aims to integrate local ambition into the national decarbonisation objectives, could be an important avenue to create agency as the RESPs cover the distributed area of the system, where demand-side flexibility will be prevalent. The design of the RESPs is still to be finalised, but much of the consultation process has been undertaken. Prior to the introduction of the RESPs, strategic planning at a regional level had been carried out by the electricity supply networks <ref type="bibr" target="#b45">(Poulter and Bolton, 2023)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.2.">Agency mechanisms</head><p>The introduction of the RESPs was part of an initial suite of reforms covering various aspects of the energy system 2 . The RESPs participatory processes have limited agency due to the technical language used, as although open to the public through the Ofgem website, the processes tend only to be accessible for those with expertise in the field. The concept of RESPs was initially introduced through a Call for Input <ref type="bibr">(Ofgem, 2022b)</ref> where four possible governance options were considered. Responses were received from 66 organisations, including energy companies and networks, non-governmental organisations (NGOs), industry and academia <ref type="bibr" target="#b40">(Ofgem, 2022)</ref>. Four options were presented in the call, one of these being a Regional System Planner and Operator, which included taking over system operation roles from the distribution networks as well as creating strategic plans. Following the Call for Input, responders indicated that due to the pace required, any changes should take account of the implementation pathway.</p><p>In March 2023, Ofgem responded through a consultation on an approach to update some aspects of the network operations through regulatory mechanisms and to create a new role within the NESO to create regional plans <ref type="bibr">(Ofgem, 2023a)</ref>. The consultation received a further 78 responses and a final decision was released in November 2023 <ref type="bibr">(Ofgem, 2023b)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.3.">Outcomes to date</head><p>The decision introduced Regional Energy Strategic Plans (RESPs) to be delivered by regional arms of the NESO spread over England, Scotland and Wales to provide four key functions <ref type="bibr">(Ofgem, 2023b, p. 18)</ref>. 1. Cross-vector strategic planning; 2. Technical coordination activities (e.g. energy demand modelling, whole system 'optioneering', conflict resolution); 3. Place-based engagement and coordination; and 4. Supporting local authorities in energy planning.</p><p>Ofgem continued to consult for the final design stage via online webinars with expert stakeholders and released a further framework consultation in July 2024 <ref type="bibr">(Ofgem, 2024c)</ref>. The consultation focused on the RESP building blocks, particularly emphasising the collaborative input for local and national data, to develop strategic net zero pathways, with much of the bottom-up data coming from modelling and local and devolved government energy planning. Governance was considered and regional Strategic Boards proposed, with members taken from local and devolved government and network companies. The consultation also covered the finalisation of the regional boundaries. The consultation closed in October 2024, with the decision made in April 2025 to introduce Regional Energy Systems Planners.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.4.">Analysis</head><p>Agency mechanisms for the initial consultation on RESP design mainly focused on actor and industry participation through centralised consultations and calls for input. The final framework consultation proposed a Strategic Board consisting of democratic representation from local government and industry but with a lack of user or independent representation, with the expectation that local government would oversee democratic accountability. However, due to the lack of funding, there is limited capacity in local government for energy planning <ref type="bibr" target="#b46">(Poulter et al., 2025)</ref> and although local government can be considered as democratic representation, a lack of independent expertise combined with a lack of energy system knowledge could end with the process being captured by the incumbents.</p><p>Strategic planning could be an important process to create agency, as the integration of local and national planning gives users a voice in the decarbonisation agenda. However, this is only true if local plans exist that include participatory processes <ref type="bibr" target="#b46">(Poulter et al., 2025)</ref>. The purpose of the RESP is to create a holistic, whole system plan but a lack of a mandate for local energy planning in England means they are likely to be created without meaningful input from users, and created by the government and industry in which users have lost trust. If the RESP net zero pathways are based around the NESO net zero pathways (National Grid ESO, 2024c) the expectation is they will include flexibility and demand side participation. (National Grid ESO, 2024c). To create a sense of agency, users will need to be included in the strategic planning processes, but this is currently lacking.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Australia's national consumer energy resources roadmap</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.1.">Governance focus</head><p>Australia has 4 separate energy systems each operating within their own market. The National Electricity Market covers the five eastern States and Tasmania, with Western Australia and the Northern Territory operating three smaller networksthe Western Electricity Market, the North Western Interconnected System and the Northern Territory Electricity Market. Although there is a legislated national 2050 net zero target, all the states and territories have their own interim targets covering electricity production and emissions reductions.</p><p>Following the introduction of state-based feed-in-tariffs and rising electricity costs, Australia experienced rapid growth in small-scale solar PV and storage <ref type="bibr" target="#b44">(Poulter, 2020)</ref>. Climatic events further boosted solar uptake to record levels (ibid.) and by 2024, one-third of Australian households had rooftop solar ( The Department of Climate Change, 2024. For many, especially asset-rich but cash-poor households, the primary motivation to install consumer energy resources (CER) was to protect themselves against rapidly increasing energy prices <ref type="bibr" target="#b29">(Mountain, 2016)</ref>. Another key factor was the need for system reliability after a state-wide blackout following a storm raised dependability concerns <ref type="bibr" target="#b61">(Vorrath, 2017)</ref>. By May 2024, 22.6 GW of rooftop solar had been installed, making it the second-largest source of renewable electricity generation and accounting for 11.2 % of installed power capacity (The Department of Climate Change, 2024). Many of these systems were installed with battery storage, with current domestic battery storage capacity at 1 GW (ibid.). Although welcome, the rapid growth of demand-side PV and storage was unexpected and prompted the development of new policies, rules and regulations to capture the benefits and to protect consumers. The 2024 Consumer Energy Resources (CER) roadmap (The Department of Climate Change, 2024), integrates 32 state and territory governments' and other national energy bodies' initiatives (see Appendix A The Department of Climate Change, 2024) to provide a national plan to integrate and manage CER for the benefit of all energy users.</p><p>The roadmap acknowledges that while not all Australians can directly benefit from purchasing CER, all energy consumers could gain from lower system costs from a national strategy to effectively integrate CER. The purpose of the roadmap is to create a future where: 'Consumer Energy Resources are an integral part of Australia's secure, affordable and sustainable future electricity systems, delivering benefits and equitable outcomes to all consumers through efficient use which smooths the transition, rewards participation and lowers emissions.' (The Department of Climate Change, 2024, p. 4).</p><p>The overarching missions seek to.</p><p>• 'Deliver benefits to all consumers, regardless of whether they can invest in CER • Maximise the economic opportunities for consumers • Ensure the energy system is reliable and secure in the face of significant transformation, and that • Australia's energy system is sustainable, future-ready and world leading' (ibid.).</p><p>The roadmap was created in reaction to some of the system challenges being seen due to the rapid rise of CER. The roadmap includes an Implementation Plan covering four workstreams (Consumers, Technology, The Market, and Power System Operations) focused on areas that benefit from an overarching national approach, enabling state and territory interoperability for system services to benefit CER integration. This approach is expected to alleviate some of the challenges of high CER penetration by maximising the benefits of current and future consumer resources, whilst also working with state-and market-based reforms. Essentially, the CER roadmap provides the operating boundaries for integrating technologies and processes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.2.">Agency mechanisms</head><p>The CER roadmap takes learning from various state-based initiatives, with differing participation methods, as well as national reforms. Developed by the CER Working Group, consisting of representatives from each of the state and territory governments, the Implementation Plan is overseen by a taskforce chaired by the Australian Government, with members representing governments, market bodies, industry and consumers. Although the roadmap itself was not designed with extensive consumer and stakeholder representation, the workstreams utilised data from state-based initiatives' consumer and stakeholder engagement. For example, state-based plans such as the Australian Capital Territory (ACT) Integrated Energy Plan (ACT Government, 2024) and Harnessing Victoria's Distributed Energy Resources (State of Victoria Department of Environment, 2022) were directly informed from consultations with communities and industry. The South Australian energy networks also created a distributed energy roadmap using extensive consumer input (SA Power Networks, 2020).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.3.">Analysis</head><p>The purpose of the CER roadmap is to provide Australian consumers with information and protections relating to the inclusion of their resources into the energy system and to provide national guidelines on CER integration. In the Consumers workstream (see The Department of Climate Change, 2024), the reform priorities extend consumer protections to all new products and services, develop options for equitable access to CER and deliver a communication framework and strategy by 2026. These priorities allow access to information that helps users better understand the benefits and purpose of CER integration.</p><p>In the production of the CER roadmap, consumer representation has come from Energy Consumers Australia and it could be argued that the CER roadmap has limited user agency. However, if the recommendations from the state-and territory-based initiatives have been taken into consideration, then the roadmap could reflect user-identified vulnerabilities with protections put in place to mitigate user risk.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Discussion</head><p>The three cases took novel policy approaches to manage the integration of decentralised energy resources at different stages of a transitionfrom creating a new system to address reliability issues, to strategic planning of a system in the midst of decentralisation to ensure capacity and limit costs, to creating protections and interoperability for a system that has already decentralised to ensure safety and ease of use. Although the process design of the cases did not consider building trust as an outcome, we apply our conceptual framework to illustrate where further consideration of trust may be required as these decentralising systems attempt to support effective digitalisation and automation.</p><p>The New York case study illustrates how trust could be developed through user participation in the design of the Scoping Plan. Participatory processes allowed users multiple avenues to trade their timefrom low to high, providing high system-enabled agency and allowing users to shift their sense of agency through being part of this collaborative process. The multiple avenues provided access for those that had the resources and capacity to engage, with further outreach activities and representation for those that did not. However, within the Scoping Plan, what is not so clear for the reader, and perhaps equally unclear for those who participated, is where decisions were made based on the community feedback process, and how feedback was used in the final Scoping Plan. The risk of using collaborative processes that create trust, and to which some users have committed their time, but then not clarifying how process outcomes were used, is that any trust built initially may be eradicated if the user perceives their time is not valued <ref type="bibr">(Brisbois, 2020a)</ref>. This is also important because of the need of the maintenance of trust to ensure that users remain engaged with automation <ref type="bibr" target="#b2">(Adams et al., 2021)</ref>.</p><p>As there was a tangible reason to move to a more secure system, acceptance rather than trust may be a primary motivation for New Yorkers to trade some of their agency for automation. The electricity system was compromised due to climatic events, giving New Yorkers a reason to accept new methods of supplying and using energy, even though the new system is being delivered by those with whom they may have lost trust initially. Therefore, rather than creating agency to build enough trust to take an initial first step, the first step towards automation may arise from acceptance driven by lived experience of a need for system change and how conversations around the new system, its operation and the future benefits, have been initiated (e.g. <ref type="bibr" target="#b14">Eigenstetter, 2020)</ref>. Further ongoing research may need to distinguish between the drivers for either trust or acceptance of any automation in New York's case.</p><p>Unlike New York's Scoping Plan, strategic planning in GB appears to be limited in developing trust as system-enabled user agency is low and decision processes are still very much centralised and based on industry inputs and models. The process design for planning in GB is primarily focused on technical and economic solutions to achieving decarbonisation, security of supply and affordability. Inputs for the RESPs are based on a disaggregated version of national plans, modelled to a regional level and combined with local inputs from local government and other stakeholders, such as the energy networks and transport. Within the RESPs, user representation is assumed from the inclusion of local energy planning and from democratic accountability within the Strategic Board. However, due to a lack of funding and capacity at this local level, local energy planning in GB is minimal <ref type="bibr">(Wade et al., 2024)</ref>, suggesting that unless there is progress in this area, there will be limited user input into these strategic plans <ref type="bibr" target="#b46">(Poulter et al., 2025)</ref>.</p><p>The Clean Power Plan (National Energy System Operator, 2024a) does not consider the levels of trust needed in automation to achieve its aims and rather focusses on financial incentives and suggests that most challenges would be administrative or regulatory. This is consistent with perspectives from the literature that note a lack of consideration of the need for social acceptance of, and engagement with, technology <ref type="bibr" target="#b2">(Adams et al., 2021;</ref><ref type="bibr" target="#b5">Bekirsky et al., 2022;</ref><ref type="bibr" target="#b17">Goulden et al., 2014)</ref>. The lack of system-enabled agency in the design of the RESP may be a missed opportunity to build trust. Low system-enabled agency and a lack of time, could leave users being forced to automate, so breaking trust further, or being expected to utilise their individual capacity, which requires high user time and/or knowledge and may not be optimal for the grid or social outcomes, leading to increased costs for all energy users, and heightened inequality.</p><p>Although not considered in this research, as much of the work is still in the consultation stage and originally introduced by the previous government, the Department for Energy Security and Net Zero is currently analysing responses to the introduction of new standards for smart energy appliances, which includes new consumer protections (Department for Energy Security and Net Zero, 2024). These protections may alleviate some of the need to trust by reducing vulnerability (e.g. <ref type="bibr" target="#b20">Hill and Sharma, 2020</ref>). Yet, the lack of trust building or maintaining processes in energy system planning in GB may still prove challenging when trying to implement strategies for demand-side flexibility where automation is viewed as the optimal solution.</p><p>In Australia, it is now too late to create collaborative processes for system transition and, therefore, communication of the benefits and importance of integration is vital, as are consumer protections across the whole system, as CER is now the second largest renewable energy generator. As trust in energy companies and government were at a low, self-generation of electricity gave people a sense of energy independence <ref type="bibr" target="#b12">(De Martini et al., 2022)</ref>, with the lack of trust in a system traded for trust in a technology perceived to give agency. Although a connection to the grid is needed to benefit from financial incentives and system back-up, a sense of agency is gained through the choice to buy a technology over which the owner has control. Although actual agency is still tied to this original system, encouraging users to trade their sense of agency through automation may require more than a financial incentive as users are being asked to give back control of their owned technologies to those from whom they sought independence initially. However, as automation also gives the opportunity for users to gain time, users may be willing to trade some agency to gain the perceived social value of this time.</p><p>Alternatively, what the CER roadmap may achieve, which financial incentives have not, is to counter the need to trust by reducing vulnerability within the broader system <ref type="bibr" target="#b13">(Duivenvoorde, 2015)</ref>. Rather than designing processes to create agency within planning for decentralisation, safeguards have been designed to create ease of use and functionality for all systems actors and may be based around challenges highlighted in State initiatives. In a way, this essentially moves agency back up to higher levels where citizens exercise agency at the ballot box and, crucially, feel that they can trust in democratically elected governments to provide appropriate protections (e.g. OECD, 2023). Combined with a national information campaign to show how individual actions can benefit the broader picture, these processes may reduce vulnerability enough to encourage an initial step. National protections to safeguard users also become increasingly important should further automation be enabled by AI. However, protections will only remain trusted if violations are appropriately dealt with and consequences obvious and enforced.</p><p>In summary, based on Tables 3-5 and illustrated in Fig. <ref type="figure" target="#fig_1">2</ref>, THE NY REV Scoping Plan has high system-enabled agency as it gave users multiple avenues to exercise their agency over a varied amount of time, possibly creating a high sense of agency through decision making and therefore building trust. Although the CER roadmap has lower systemenabled agency, it counteracts this by reducing user vulnerability through creating protections based on challenges recognised through state-based programs, perhaps alleviating the need to trust by creating a more trustable system, and so users may be more accepting of automation being introduced. Strategic planning in Great Britain has very limited system enabled agency, and so users will either have to use their time to participate in energy system initiatives, engage through trusted system-linked intermediaries, or be accepting of the introduction of automation, which may then require similar protections to be introduced such as in Australia.</p><p>Finally, the different approaches to integrating users into electricity system governance, and the implications for trust and compliance, reflect wider assumptions and dynamics about the inevitability of automation, and who should benefit from it. While full system automation may be assumed in creating system models and also be Table <ref type="table">3</ref> The NY REV Scoping Plan had high system enabled agency due to the variety of agency mechanisms covering an array of temporal and demographic scales.</p><p>Policy System-enabled agency mechanisms Time involvement for individual user NY REV Scoping Plan Public Hearings High Public meetings High Written consultations Low Outreach Medium Representation Low Community education High H. Poulter and M.C. Brisbois Energy Policy 206 (2025) 114806</p><p>technically desirable, this does not mean that it is the socially optimal outcome. A range of different levels of electricity system automation are available, ranging from full manual control through different levels of optionality, to full automation. The extent to which these are socially acceptable is largely a function of trust, and that trust must be continually maintained in order to ensure ongoing support for automation <ref type="bibr" target="#b2">(Adams et al., 2021)</ref>. The central problem is thus not just one of creating trust in a given system, but rather of ensuring that any given automated system is trustable. We argue that this can be done through consumer protections, redesigning the architecture of electricity system governance to support greater participation by either users, or by trusted intermediary actors who engage directly with users (e.g. Brisbois, 2020a).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">CONCLUSIONS AND POLICY IMPLICATIONS</head><p>The New York and Australia case studies illustrate novel approaches to designing policy processes that either build trust or reduce the need to trust, even though trust was not a considered an outcome initially. By designing policy processes reflecting <ref type="bibr">Mayer et al.'s (1995)</ref> definition of trust, policymakers could reduce vulnerability from another's actions as the ability to monitor and control is met through national regulations and consumer protections, and meet user expectations as users gain system knowledge by participating in governance processes or being provided with information. For example, lessons taken from the social licence to operate concept that have been applied within energy are particularly relevant (e.g. <ref type="bibr" target="#b2">Adams et al., 2021;</ref><ref type="bibr" target="#b26">Maonaigh et al., 2025)</ref>. However, the current methods of strategic planning in GB appear to lack processes that could be considered to build trust, or reduce the need to trust, due to the limited influence of users in any stage of these processes.</p><p>As demand-side flexibility becomes an integral element of decarbonisation policies, and automation emerges as a popular method to optimise the physical system, facilitating a shift from direct agency to system-enabled agency may become an essential element to build trust. Creating this sense of agency may help to maintain trust in the system and a build a trustable system, thereby encouraging users to take an initial first step towards automation. Therefore, we suggest that an ideal policy process to support automation needs to consider trust as a desired outcome of the system and governance design, and that trust could be built through a combination of:</p><p>• Providing national protections and information to reduce vulnerability, so creating a trustworthy system, and • Fostering agency through inclusive, collaborative processes, possibly integrating trusted intermediaries, where users are able to trade time to build trust.</p><p>Creating a 'safeguarded' system, similar to that envisaged by the CER roadmap, may reduce vulnerability (e.g. OECD, 2023) and it may then be possible to create a 'pathway to trust' in the system (e.g. Patterson-Hann and Watson, 2022) by designing participatory processes where users trade their time to foster agency, such as those used in the NY REV Scoping Plan, so creating trust in the system actors delivering automation. This shifting sense of agency may create enough trust to encourage the vital initial step towards automation. Any initial trust will need to be built on by ensuring that automation operates as expected, delivers perceived and actual benefits, and is easy to use. By creating a system that is both trustable and that actively supports trust, users are able to shift their sense of agency and regain time by choosing to move from individual control to automation of their home technologies. Deeper analysis of the individual cases using interviews with case study participants could offer further insights into our conceptual arguments, particularly around how users may value their time in relation to their energy system participation. Without trust in the systems delivering automation, optimisation of grid resources will be predicated on users' individual ability and willingness to respond to market signalswhich, although reasonably successful in initial trials (e.g. National Grid ESO, 2024d), may not create the certainty required to guarantee system security.</p><p>Of course, any trust created will only be maintained if energy institutions are able to demonstrate that they are operating in ways that respect the rights of users, while providing appropriate levels of service. An erosion of public trust in the ability of energy institutions to put users first instead of, for example, corporate shareholders, is the direct result of experiences where users have suffered because of business models that have taken public acceptance for granted, returning often unreasonable levels of profits to shareholders. In the UK, this has included during times of energy crisis. The public trust and acceptance needed to create the flexible and automated systems required to facilitate net zero electricity systems means that it is likely no longer possible to take citizen acceptance for granted. There are, therefore, further questions to be explored about the efficacy of profit-maximising, shareholder business models when user trust and active engagement is a core requirement.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CRediT authorship contribution statement</head><p>Helen Poulter: Writingoriginal draft, Project administration, Table <ref type="table">4</ref> GB Strategic planning has low system-enabled agency due to the current focus on centralised decision making. User representation comes from user groups only, as there is limited input from local planning due to a lack of a nationwide mandate.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Policy</head><p>System-enabled agency mechanisms Time involvement for individual user</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>GB Strategic Planning</head><p>Industry level consultations Representation</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Low</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 5</head><p>The CER Roadmap incorporated learning taken from state-based mechanisms, so, although during the roadmap design process users were only represented by Energy Consumers Australia, challenges were identified and resolved based on state-based engagement processes. Methodology, Investigation, Formal analysis, Data curation, Conceptualization. Marie Claire Brisbois: Writingreview &amp; editing, Methodology, Investigation, Formal analysis, Conceptualization.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Trust as an outcome of agency and time in process design.</figDesc><graphic coords="4,318.10,55.44,228.10,198.14" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2.Case studies are placed in conceptual framework relating to trust, where high system enabled agency may build enough user trust in the system to allow for an initial first step towards automation.</figDesc><graphic coords="10,49.10,286.57,228.10,181.15" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Comparison of case study attributes.</figDesc><table><row><cell></cell><cell>New York State</cell><cell>Australia</cell><cell>Great Britain</cell></row><row><cell>Physical system</cell><cell>State-based grid</cell><cell>National</cell><cell>Centralised</cell></row><row><cell>structure</cell><cell>with centralised</cell><cell>Electricity</cell><cell>national grid with</cell></row><row><cell></cell><cell>and distributed</cell><cell>Market (NEM)</cell><cell>centralised and</cell></row><row><cell></cell><cell>generation with</cell><cell>transmission</cell><cell>distributed</cell></row><row><cell></cell><cell>interconnections to</cell><cell>and distribution</cell><cell>generation with</cell></row><row><cell></cell><cell>other regions and</cell><cell>grid connects</cell><cell>some EU network</cell></row><row><cell></cell><cell>Canada, operated</cell><cell>six eastern</cell><cell>interconnection,</cell></row><row><cell></cell><cell>by The New York</cell><cell>states operated</cell><cell>operated by the</cell></row><row><cell></cell><cell>Independent</cell><cell>by Australian</cell><cell>National Energy</cell></row><row><cell></cell><cell>System Operator</cell><cell>Energy Market</cell><cell>System Operator</cell></row><row><cell></cell><cell>(NYISO)</cell><cell>Operator</cell><cell>(NESO)</cell></row><row><cell></cell><cell>Combination of</cell><cell>(AEMO);</cell><cell>Fully privatised</cell></row><row><cell></cell><cell>public and private</cell><cell>Western</cell><cell>transmission and</cell></row><row><cell></cell><cell>transmission and</cell><cell>Australia and</cell><cell>distribution grid</cell></row><row><cell></cell><cell>distribution grid</cell><cell>the Northern</cell><cell>regulated by the</cell></row><row><cell></cell><cell>ownership</cell><cell>Territory have</cell><cell>Office of Gas and</cell></row><row><cell></cell><cell>regulated by The</cell><cell>state-based and</cell><cell>Electricity Markets</cell></row><row><cell></cell><cell>New York State</cell><cell>owned grid</cell><cell>(OFGEM)</cell></row><row><cell></cell><cell>Public Service</cell><cell>systems; all</cell><cell></cell></row><row><cell></cell><cell>Commission (PSC)</cell><cell>states include</cell><cell></cell></row><row><cell></cell><cell></cell><cell>large levels of</cell><cell></cell></row><row><cell></cell><cell></cell><cell>distributed</cell><cell></cell></row><row><cell></cell><cell></cell><cell>generation</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Combination of</cell><cell></cell></row><row><cell></cell><cell></cell><cell>public and</cell><cell></cell></row><row><cell></cell><cell></cell><cell>private</cell><cell></cell></row><row><cell></cell><cell></cell><cell>transmission</cell><cell></cell></row><row><cell></cell><cell></cell><cell>and distribution</cell><cell></cell></row><row><cell></cell><cell></cell><cell>grid ownership</cell><cell></cell></row><row><cell></cell><cell></cell><cell>regulated by the</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Australian</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Energy</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Regulator</cell><cell></cell></row><row><cell></cell><cell></cell><cell>(AER)</cell><cell></cell></row><row><cell>Market Structure</cell><cell>Deregulated retail</cell><cell>Deregulated</cell><cell>Deregulated retail</cell></row><row><cell></cell><cell>market</cell><cell>retail market</cell><cell>market</cell></row><row><cell></cell><cell>wholesale</cell><cell>wholesale</cell><cell>wholesale</cell></row><row><cell></cell><cell>electricity market</cell><cell>electricity</cell><cell>electricity market</cell></row><row><cell></cell><cell>operated by New</cell><cell>market (NEM)</cell><cell>operated by NESO</cell></row><row><cell></cell><cell>York Independent</cell><cell>operated by</cell><cell>and regulated by</cell></row><row><cell></cell><cell>System Operator</cell><cell>Australian</cell><cell>OFGEM</cell></row><row><cell></cell><cell>(NYISO)</cell><cell>Energy Market</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Operator</cell><cell></cell></row><row><cell></cell><cell></cell><cell>(AEMO)</cell><cell></cell></row><row><cell>Decarbonisation</cell><cell>Climate Leadership</cell><cell>Varies by state</cell><cell>Climate Change Act</cell></row><row><cell>legislation</cell><cell>and Community</cell><cell>Has a non-</cell><cell>(2008):</cell></row><row><cell></cell><cell>Protection Act</cell><cell>legislated</cell><cell>➢ Legally binding</cell></row><row><cell></cell><cell>(CLCPA):</cell><cell>emission</cell><cell>net zero GHG</cell></row><row><cell></cell><cell>➢ 100 % carbon-</cell><cell>reduction target</cell><cell>emissions by 2050</cell></row><row><cell></cell><cell>free electricity by</cell><cell>of 43 % below</cell><cell></cell></row><row><cell></cell><cell>2040</cell><cell>2025 levels by</cell><cell></cell></row><row><cell></cell><cell>➢ 85 % GHG</cell><cell>2030 and net</cell><cell></cell></row><row><cell></cell><cell>reduction by 2050</cell><cell>zero by 2050</cell><cell></cell></row><row><cell></cell><cell>Clean Energy</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Standard (CES):</cell><cell></cell><cell></cell></row><row><cell></cell><cell>➢ 70 % electricity</cell><cell></cell><cell></cell></row><row><cell></cell><cell>from renewables by</cell><cell></cell><cell></cell></row><row><cell></cell><cell>2030</cell><cell></cell><cell></cell></row><row><cell>Key energy</cell><cell>New York State</cell><cell>Energy Security</cell><cell>Department of</cell></row><row><cell>institutions</cell><cell>Energy Research</cell><cell>board (ESB)</cell><cell>Energy and Net</cell></row><row><cell></cell><cell>and Development</cell><cell>Australian</cell><cell>Zero (DESNZ)</cell></row><row><cell></cell><cell>Authority</cell><cell>Energy Market</cell><cell>Office of Gas and</cell></row><row><cell></cell><cell>(NYSERDA)</cell><cell>Operator</cell><cell>Electricity Markets</cell></row><row><cell></cell><cell>Department of</cell><cell>(AEMO)</cell><cell>(Ofgem)</cell></row><row><cell></cell><cell>Public Service</cell><cell>Australian</cell><cell>National Energy</cell></row><row><cell></cell><cell>(DPS)</cell><cell>Energy</cell><cell>System Operator</cell></row><row><cell></cell><cell>Energy Policy</cell><cell>Regulator</cell><cell>(NESO)</cell></row><row><cell></cell><cell>Planning Advisory</cell><cell>(AER)</cell><cell>Climate Change</cell></row><row><cell></cell><cell>Council (EPPAC)</cell><cell>Clean Energy</cell><cell>Committee (CCC)</cell></row><row><cell></cell><cell>New York Power</cell><cell>Regulator</cell><cell></cell></row><row><cell></cell><cell>Authority (NYPA)</cell><cell>Australian</cell><cell></cell></row><row><cell></cell><cell>New York</cell><cell>Renewable</cell><cell></cell></row><row><cell></cell><cell>Independent</cell><cell>Energy Agency</cell><cell></cell></row><row><cell></cell><cell></cell><cell>(ARENA)</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>(continued )The New York State's Reforming the Energy Vision (NY REV) program was initiated to address financial cost, environmental cost and resilience (New York State, 2016) after Hurricane Sandy in 2013</figDesc><table><row><cell></cell><cell>New York State</cell><cell>Australia</cell><cell>Great Britain</cell></row><row><cell></cell><cell>System Operator</cell><cell>State energy</cell><cell></cell></row><row><cell></cell><cell>(NYISO)</cell><cell>departments</cell><cell></cell></row><row><cell>Politics</cell><cell>Strong Democratic</cell><cell>Federal climate</cell><cell>Broad political</cell></row><row><cell></cell><cell>leadership in recent</cell><cell>action growing</cell><cell>consensus on net-</cell></row><row><cell></cell><cell>years; climate</cell><cell>under Labor</cell><cell>zero target, though</cell></row><row><cell></cell><cell>policy is a major</cell><cell>government</cell><cell>policy detail varies</cell></row><row><cell></cell><cell>legislative priority</cell><cell></cell><cell>by government</cell></row><row><cell></cell><cell></cell><cell></cell><cell>(Conservative vs</cell></row><row><cell></cell><cell></cell><cell></cell><cell>Labour)</cell></row><row><cell>Demographics</cell><cell>Population ~19.5</cell><cell>Population</cell><cell>Population ~67</cell></row><row><cell></cell><cell>million</cell><cell>~26.6 million</cell><cell>million</cell></row><row><cell></cell><cell>Ethnicity: ~60 %</cell><cell>Ethnicity: ~83</cell><cell>Ethnicity: ~82 %</cell></row><row><cell></cell><cell>white</cell><cell>% white</cell><cell>white</cell></row><row><cell></cell><cell>Largest groups:</cell><cell>Largest</cell><cell>Largest minorities:</cell></row><row><cell></cell><cell>Hispanic/Latino</cell><cell>minorities:</cell><cell>South Asian (~7.5</cell></row><row><cell></cell><cell>(~19 %), Black/</cell><cell>Asian (~7 %),</cell><cell>%), Black (~3.5</cell></row><row><cell></cell><cell>African American</cell><cell>Aboriginal and</cell><cell>%), Mixed (~2 %)</cell></row><row><cell></cell><cell>(~17 %), Asian</cell><cell>Torres Strait</cell><cell>Highly urbanized</cell></row><row><cell></cell><cell>(~10 %)</cell><cell>Islander peoples</cell><cell>(London especially</cell></row><row><cell></cell><cell>Highly urban</cell><cell>(~3.8 %),</cell><cell>diverse)</cell></row><row><cell></cell><cell>(especially NYC);</cell><cell>African and</cell><cell>Median age ~40.5</cell></row><row><cell></cell><cell>diverse immigrant</cell><cell>Middle Eastern</cell><cell></cell></row><row><cell></cell><cell>communities</cell><cell>origins (~2 %)</cell><cell></cell></row><row><cell></cell><cell>Median age ~39</cell><cell>Mostly urban;</cell><cell></cell></row><row><cell></cell><cell></cell><cell>younger median</cell><cell></cell></row><row><cell></cell><cell></cell><cell>age in cities</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Median age</cell><cell></cell></row><row><cell></cell><cell></cell><cell>~38.5</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>List of available documents for case study analysis.</figDesc><table><row><cell>New York Rev Scoping Plan</cell><cell>Australia's CER</cell><cell>GB Strategic Planning</cell></row><row><cell></cell><cell>Roadmap</cell><cell></cell></row><row><cell>Just Transition Working</cell><cell>ACT Government,</cell><cell>CCC, 2023. Delivering a</cell></row><row><cell>Group, 2021a. Appendix E:</cell><cell>2024. Integrated</cell><cell>reliable decarbonised</cell></row><row><cell>Just Transition Working</cell><cell>Energy Plan: YourSay</cell><cell>power system.</cell></row><row><cell>Group Recommendations to</cell><cell>ACT</cell><cell>Department for Energy</cell></row><row><cell>the Council on Issues and</cell><cell>Department of</cell><cell>Security and Net Zero,</cell></row><row><cell>Opportunities Related to the</cell><cell>Climate Change, E.</cell><cell>2024. Delivering a</cell></row><row><cell>Energy-Intensive and</cell><cell>the E. and W., 2024.</cell><cell>smart and secure</cell></row><row><cell>Trade-Exposed Entities</cell><cell>National Consumer</cell><cell>electricity system:</cell></row><row><cell>Business Impacts:</cell><cell>Energy Resources</cell><cell>implementation</cell></row><row><cell>Opportunities and</cell><cell>Roadmap: Powering</cell><cell>Department of Energy</cell></row><row><cell>Challenges Facing New York</cell><cell>Decarbonised Homes</cell><cell>Security and Net Zero,</cell></row><row><cell>State Industry Opportunities</cell><cell>and Communities.</cell><cell>2023). Energy Security</cell></row><row><cell>for New York State Industries</cell><cell>SA Power Networks,</cell><cell>Bill Factsheet: Ofgem</cell></row><row><cell>and Workers.</cell><cell>2020. Delivering</cell><cell>net zero duty</cell></row><row><cell>Just Transition Working</cell><cell>better outcomes at a</cell><cell>National Energy System</cell></row><row><cell>Group, 2021b. Appendix C:</cell><cell>lower price: SA Power</cell><cell>Operator, 2024a; Clean</cell></row><row><cell>Just Transition Working</cell><cell>Networks 2020-2025</cell><cell>Power 2030: Advice on</cell></row><row><cell>Group Recommendations to</cell><cell>Draft Plan.</cell><cell>achieving clean power</cell></row><row><cell>the Council on Measures to</cell><cell>Harnessing Victoria's</cell><cell>for Great Britain by</cell></row><row><cell>Minimize the Carbon</cell><cell>Distributed Energy</cell><cell>2030.</cell></row><row><cell>Leakage Risk and Minimize</cell><cell>Resources (State of</cell><cell>Ofgem, 2024b.</cell></row><row><cell>Anti-Competitiveness</cell><cell>Victoria Department</cell><cell>Regional Energy</cell></row><row><cell>Impacts of Potential Carbon</cell><cell>of EnvironmentL.W.</cell><cell>Strategic Plan policy</cell></row><row><cell>Policies and Energy Sector</cell><cell>and P., 2022)</cell><cell>framework</cell></row><row><cell>Mandates.</cell><cell></cell><cell>consultation. London.</cell></row><row><cell>Just Transition Working</cell><cell></cell><cell>Ofgem, 2024c.</cell></row><row><cell>Group, 2021c. Appendix D:</cell><cell></cell><cell>Consultation: Regional</cell></row><row><cell>Power Generation Sites</cell><cell></cell><cell>Energy Strategic Plan</cell></row><row><cell>Identified by the Just</cell><cell></cell><cell>policy framework</cell></row><row><cell>Transition Working Group</cell><cell></cell><cell>consultation. London.</cell></row><row><cell>New York State Power</cell><cell></cell><cell>Ofgem, 2023a.</cell></row><row><cell>Generation Fleet Background</cell><cell></cell><cell>Consultation: Future of</cell></row><row><cell>Generation Fleet Basics Gas</cell><cell></cell><cell>local energy</cell></row><row><cell>Turbines &amp; Steam Turbines</cell><cell></cell><cell>institutions and</cell></row><row><cell>"Nearing Retirement" (Fossil</cell><cell></cell><cell>governance. London.</cell></row><row><cell>Fuel resources).</cell><cell></cell><cell>Ofgem, 2023b.</cell></row><row><cell>New York State, 2022.</cell><cell></cell><cell>Decision: Future of</cell></row><row><cell>Scoping Plan -New York's</cell><cell></cell><cell>local energy</cell></row><row><cell>Climate Leadership &amp;</cell><cell></cell><cell>institutions and</cell></row><row><cell>Community Protection Act</cell><cell></cell><cell>governance. London.</cell></row><row><cell>New York State, 2021.</cell><cell></cell><cell>Ofgem (2022). Call for</cell></row><row><cell>Appendix A: Advisory Panel</cell><cell></cell><cell>Input: Future of local</cell></row><row><cell>Recommendations.</cell><cell></cell><cell>energy institutions and</cell></row><row><cell>New York State Climate</cell><cell></cell><cell>governance</cell></row><row><cell>Action Council, 2022.</cell><cell></cell><cell></cell></row><row><cell>Scoping Plan: Full Report.</cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This research has been undertaken by the <rs type="funder">Energy Demand Research Centre</rs> (EDRC), supported by the <rs type="funder">Engineering and Physical Sciences Research Council</rs> and the <rs type="funder">Economic and Social Research Council</rs> [grant number <rs type="grantNumber">EP/Y010078/1</rs>].</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_XyDMgYH">
+					<idno type="grant-number">EP/Y010078/1</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>Data will be made available on request.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Integrated energy plan: YourSay ACT</title>
+		<author>
+			<orgName type="collaboration">ACT Government</orgName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>WWW Document</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<ptr target="https://yoursayconversations.act.gov.au/Integrated-Energy-Plan" />
+		<title level="m">Integrated Energy Plan</title>
+		<imprint>
+			<date>8.19.24</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Social license to automate: a critical review of emerging approaches to electricity demand management</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kuch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Diamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fröhlich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Henriksen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Katzeff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ryghaug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yilmaz</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2021.102210</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2021.102210" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Social Sci</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Analysing the critical factors influencing trust in e-government adoption from citizens&apos; perspective: a systematic review and a conceptual framework. Int</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Alzahrani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Al-Karaghouli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Weerakkody</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/J.IBUSREV.2016.06.004</idno>
+		<ptr target="https://doi.org/10.1016/J.IBUSREV.2016.06.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Bus. Rev</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="164" to="175" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Energy demand reduction options for meeting national zero-emission targets in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Betts-Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Broad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Eyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Anable</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Carr-Whitworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Garvey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Giesekam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marsden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Norman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Oreszczyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ruyssevelt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Scott</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41560-022-01057-y</idno>
+		<ptr target="https://doi.org/10.1038/s41560-022-01057-y" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="726" to="735" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Many actors amongst multiple renewables: a systematic review of actor involvement in complementarity of renewable energy sources</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bekirsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Hoicka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Brisbois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ramirez Camargo</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.rser.2022.112368</idno>
+		<ptr target="https://doi.org/10.1016/j.rser.2022.112368" />
+	</analytic>
+	<monogr>
+		<title level="j">Renew. Sustain. Energy Rev</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Decentralised energy, decentralised accountability? Lessons on how to govern decentralised electricity transitions from multi-level natural resource governance</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Brisbois</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.glt.2020.01.001</idno>
+		<ptr target="https://doi.org/10.1016/j.glt.2020.01.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Glob Transit</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="16" to="25" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Shifting political power in an era of electricity decentralization: rescaling, reorganization and battles for influence</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Brisbois</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.eist.2020.04.007</idno>
+		<ptr target="https://doi.org/10.1016/j.eist.2020.04.007" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Innov. Soc. Transit</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="49" to="69" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">What is prosumerism for? Exploring the normative dimensions of decentralised energy transitions</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Davis</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2020.101475</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2020.101475" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Social Sci</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page">101475</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The many faces of vulnerability</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ecclestone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Emmel</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S1474746416000610</idno>
+		<ptr target="https://doi.org/10.1017/S1474746416000610" />
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Pol. Soc</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Delivering a Reliable Decarbonised Power System. Climate Justice Working Group, 2021. Climate Justice Working Group Recommendations to the NYS Climate Action Council for Consideration in the Scoping Plan</title>
+		<author>
+			<persName><surname>Ccc</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Energy smart meter issues creating north-south divide [WWW Document]. BBC Panorama</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Conway</surname></persName>
+		</author>
+		<ptr target="https://www.bbc.co.uk/news/articles/cq" />
+	</analytic>
+	<monogr>
+		<title level="m">52382zd1no#comments</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note>accessed 11.20.24</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Department of Climate Change, E. the E. and W., 2024. National Consumer Energy Resources Roadmap: Powering Decarbonised Homes and Communities</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>De Martini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gallagher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Takayesu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hanley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Henneaux</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/MPE.2022.3167597</idno>
+		<ptr target="https://www.gov.uk/government/publications/energy-security-bill-factsheets/energy-security-bill-factsheet-ofgem-net-zero-duty-added-6-june-2023" />
+	</analytic>
+	<monogr>
+		<title level="m">Department of Energy Security and Net Zero, 2023. Energy security bill factsheet: Ofgem net zero duty</title>
+		<meeting><address><addrLine>Barrington Stoke, Canberra</addrLine></address></meeting>
+		<imprint>
+			<publisher>WWW Document</publisher>
+			<date type="published" when="2022">2022. 2024. 2.6.25. June 2023</date>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="76" to="84" />
+		</imprint>
+	</monogr>
+	<note>Department for Energy Security and Net Zero Delivering a smart and secure electricity system: implementation [WWW Document] Unlocking Consumer der Potential: Consumer-Centric Approaches for Grid Services</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The Consumer Benchmarks in the Unfair Commercial Practices Directive</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Duivenvoorde</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Springer</publisher>
+			<pubPlace>Wageningen</pubPlace>
+		</imprint>
+	</monogr>
+	<note>first ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Digital Human Modelling and Applications in Health, Safety, Ergonomics and Risk Management: Human Communication, Organsation and Work</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Eigenstetter</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-49907-5</idno>
+		<ptr target="https://doi.org/10.1007/978-3-030-49907-5" />
+	</analytic>
+	<monogr>
+		<title level="s">Lecture Notes in Computer Science</title>
+		<editor>
+			<persName><forename type="first">V</forename><forename type="middle">G</forename><surname>Duffy</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="254" to="265" />
+			<date type="published" when="2020">2020</date>
+			<publisher>Springer International Publishing</publisher>
+			<pubPlace>Copenhagen</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Ensuring trust in and acceptance of digitalization and automation: Contributions of human factors and Ethics</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">ENERGY CONSUMER SENTIMENT RESEARCH</title>
+		<author>
+			<orgName type="collaboration">Sydney. European Commission</orgName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Digital Markets Act (DMA) Legislation. European Parliament</title>
+		<imprint>
+			<date type="published" when="2022">2024. 2022</date>
+			<publisher>Energy Consumers Australia</publisher>
+			<pubPlace>Brussels</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Exploring perceived control in domestic electricity demand-side response</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Fell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shipworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Huebner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Elwell</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/09537325.2014.974530</idno>
+		<ptr target="https://doi.org/10.1080/09537325.2014.974530" />
+	</analytic>
+	<monogr>
+		<title level="j">Technol. Anal. Strateg. Manag</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1118" to="1130" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Smart grids, smart users? the role of the user in demand side management</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Goulden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bedwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rennick-Egglestone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rodden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Spence</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2014.04.008</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2014.04.008" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Social Sci</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Differentiating &quot;the user&quot; inDSR: developing demand side response in advanced economies</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Goulden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Spence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wardman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Leygue</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enpol.2018.07.013</idno>
+		<ptr target="https://doi.org/10.1016/j.enpol.2018.07.013" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="page" from="176" to="185" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The importance of social relations in shaping energy demand</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hargreaves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Middlemiss</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41560-020-0553-5</idno>
+		<ptr target="https://doi.org/10.1038/s41560-020-0553-5" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="195" to="201" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Consumer vulnerability</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sharma</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jcpy.1161</idno>
+		<ptr target="https://doi.org/10.1002/jcpy.1161" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Consum. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="551" to="570" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Building a social mandate for climate action: lessons from COVID-19</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Howarth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bryant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Corner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fankhauser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gouldson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Whitmarsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Willis</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10640-020-00446-9</idno>
+		<ptr target="https://doi.org/10.1007/s10640-020-00446-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Resour. Econ</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="1107" to="1115" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Almost half of Brits no longer trust energy companies [WWW Document]</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Howell</surname></persName>
+		</author>
+		<ptr target="https://www.theecoexperts.co.uk/blog/trust-in-energy-companies" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>accessed 10.11.24</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Appendix E: Just Transition Working Group Recommendations to the Council on Issues and Opportunities Related to the Energy-Intensive and Trade-Exposed Entities Business Impacts: Opportunities and Challenges Facing New York</title>
+		<author>
+			<orgName type="collaboration">Just Transition Working Group</orgName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>State Industry Opportunities for New York State Industries and Workers</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Just Transition Working Group, 2021b. Appendix C: Just Transition Working Group Recommendations to the Council on Measures to Minimize the Carbon Leakage Risk and Minimize Anti-competitiveness Impacts of Potential Carbon Policies and Energy Sector Mandates</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Appendix D: power generation sites identified by the just transition working group New York state power generation fleet background generation fleet basics gas turbines &amp; steam turbines</title>
+		<author>
+			<orgName type="collaboration">Just Transition Working Group</orgName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>Fossil Fuel resources</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Revisiting the social licence to operate in the energy transition: an intersectional agenda for research and practice</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Maonaigh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Fitzgerald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Reilly</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2025.104139</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2025.104139" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Social Sci</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">An integrative model of organizational trust</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>David Schoorman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acad. Manag. Rev</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="709" to="734" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The role of perceived control over appliances in the acceptance of electricity load-shifting programmes</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Moser</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12053-017-9508-5</idno>
+		<ptr target="https://doi.org/10.1007/s12053-017-9508-5" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Effic</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1115" to="1127" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Clean Power 2030: Advice on Achieving Clean Power for Great Britain by 2030. National Energy System Operator, 2024b. Network planning review (NPR) [WWW Document]</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mountain</surname></persName>
+		</author>
+		<idno>11.13.24</idno>
+		<ptr target="https://www.nationalgrideso.com/what-we-do/becoming-national-energy-system-operator-neso" />
+	</analytic>
+	<monogr>
+		<title level="m">National Grid ESO, 2024b. Future Energy Scenarios: ESO Pathways to Net Zero. London. National Grid ESO, 2024c. Future energy scenarios</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>ESO Pathways to Net Zero. National Grid ESO</publisher>
+			<date type="published" when="2016">2016. 2024. 2024</date>
+		</imprint>
+	</monogr>
+	<note>National Energy System Operator, 2024c. Strategic spatial energy planning (SSEP) [WWW Document] accessed 11.13.24 National Grid ESO, 2024a. Becoming the national energy system operator (NESO) | ESO [WWW document] accessed 8.12.24 Ownership-invariant Regulation of Electricity Distributors in Australia : A Failed Experiment. National Energy System Operator d. MIR March 2024 -Demand Flexibility Service. London. National Infrastructure Commission, 2023. The Second National Infrastructure Assessment</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Households as change agents in a Dutch smart energy transition: on power, privacy and participation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Naus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J M</forename><surname>Van Vliet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hendriksen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2015.08.025</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2015.08.025" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Social Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Scoping plan -New York&apos;s climate leadership &amp; community protection act [WWW Document]</title>
+		<ptr target="https://climate.ny.gov/resources/scoping-plan/" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<pubPlace>New York State</pubPlace>
+		</imprint>
+	</monogr>
+	<note>accessed 8.14.24</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Reforming the energy vision. REV [WWW Document]</title>
+		<ptr target="https://www.ny.gov/sites/default/files/atoms/files/WhitePaperREVMarch2016.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Appendix A: Advisory Panel Recommendations</title>
+		<meeting><address><addrLine>New York State; New York State</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2016">2021. 2016</date>
+		</imprint>
+	</monogr>
+	<note>accessed 8.13.24</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m">Scoping Plan: Full Report. OECD, 2023. OECD CONSUMER VULNERABILITY IN THE DIGITAL AGE</title>
+		<imprint>
+			<publisher>New York State Climate Action Council</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Ofgem Sets Out Vision for Customer Service Culture Change to Make Energy Sector Best in Britain [WWW Document]</title>
+		<author>
+			<persName><surname>Ofgem</surname></persName>
+		</author>
+		<ptr target="https://www.ofgem.gov.uk/press-release/ofgem-sets-out-vision-customer-service-culture-change-make-energy-sector-best-britain" />
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note>accessed 10.11.24</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<author>
+			<persName><surname>Ofgem</surname></persName>
+		</author>
+		<title level="m">Regional Energy Strategic Plan Policy Framework Consultation</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Poulter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brisbois Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">206</biblScope>
+			<biblScope unit="page">114806</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><surname>Ofgem</surname></persName>
+		</author>
+		<title level="m">Regional Energy Strategic Plan Policy Framework Consultation</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<author>
+			<persName><surname>Ofgem</surname></persName>
+		</author>
+		<title level="m">Consultation: Future of Local Energy Institutions and Governance</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Decision: Future of Local Energy Institutions and Governance</title>
+		<author>
+			<persName><surname>Ofgem</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Call for Input: future of local energy institutions and governance [WWW Document]</title>
+		<author>
+			<persName><surname>Ofgem</surname></persName>
+		</author>
+		<ptr target="https://www.ofgem.gov.uk/call-for-input/call-input-future-local-energy-institutions-and-governance" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>accessed 11.13.24</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Consumer Vulnerability Stategy</title>
+		<author>
+			<persName><surname>Ofgem</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019. 2025</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">A synthetic review of the trust-participation nexus: towards a relational concept of trust in energy system transformations to net zero</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Otto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chilvers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Trdlicova</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2023.103140</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2023.103140" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Social Sci</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">The precursors of acceptance for a prosumer-led transition to a future smart grid</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Patterson-Hann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Watson</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/09537325.2021.1896698</idno>
+		<ptr target="https://doi.org/10.1080/09537325.2021.1896698" />
+	</analytic>
+	<monogr>
+		<title level="j">Technol. Anal. Strateg. Manag</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="307" to="321" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Australia: from central electricity to solar/storage systems</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Poulter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Decentralised Energy: A Global Game Changer</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Burger</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Froggatt</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Mitchell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Weinmann</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>ubiquity press</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="25" to="46" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Demand Uncertainty on Low Voltage Distribution Networks: Analysing the Use of Distribution Future Energy Scenarios (DFES) in Network Company Business Plans</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Poulter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bolton</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>British Institute of Energy Economics</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Accelerating transitions? Planning for decarbonisation in local and regional energy systems</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Poulter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Britton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rattle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bolton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Taylor</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2024.103875</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2024.103875" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Social Sci</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Flexibility capital and flexibility justice in smart energy systems</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Powells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Fell</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2019.03.015</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2019.03.015" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Social Sci</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">A theory of participation: what makes stakeholder and public engagement in environmental management work?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Reed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Challies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>De Vente</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Frewer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hohenwallner-Ries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Huber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Neumann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Oughton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sidoli Del Ceno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Van Delden</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/rec.12541</idno>
+		<ptr target="https://doi.org/10.1111/rec.12541" />
+	</analytic>
+	<monogr>
+		<title level="j">Restor. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="7" to="S17" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Automating prosumption: the decline of the prosumer and the rise of the prosuming machines</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ritzer</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1469540514553717</idno>
+		<ptr target="https://doi.org/10.1177/1469540514553717" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Consum. Cult</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Engaging households in electricity flexibilityinsights from the UK. Sydney</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Roberts</surname></persName>
+		</author>
+		<idno type="DOI">10.13140/RG.2.2.18333.59365</idno>
+		<ptr target="https://doi.org/10.13140/RG.2.2.18333.59365" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Social License to automate batteries? Australian householder conditions for participation in Virtual Power Plants</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kuch</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2023.103241</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2023.103241" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Social Sci</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Re-assembling infrastructures from below. The agency of households in the sustainable energy transition</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rohracher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Velkova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Magnusson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Farhangi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.eist.2024.100943</idno>
+		<ptr target="https://doi.org/10.1016/j.eist.2024.100943" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Innov. Soc. Transit</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page">100943</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Delivering Better Outcomes at a Lower Price: SA</title>
+		<author>
+			<persName><surname>Sa Power</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Networks</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note>Power Networks 2020-2025 Draft Plan</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Explaining hydrogen energy technology acceptance: a critical review</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Scovell</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijhydene.2022.01.099</idno>
+		<ptr target="https://doi.org/10.1016/j.ijhydene.2022.01.099" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Hydrogen Energy</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">A survey of trust in social networks</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sherchan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nepal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Paris</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/2501654.2501661</idno>
+		<ptr target="https://doi.org/10.1145/2501654.2501661" />
+	</analytic>
+	<monogr>
+		<title level="j">ACM Comput. Surv</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Social agency as a continuum</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Silver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Tatler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chakravarthi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Timmermans</surname></persName>
+		</author>
+		<idno type="DOI">10.3758/s13423-020-01845-1/Published</idno>
+		<ptr target="https://doi.org/10.3758/s13423-020-01845-1/Published" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychon. Bull. Rev</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="434" to="453" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">Harnessing Victoria&apos;s Distributed Energy Resources</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>State of Victoria Department of Environment</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Conceptualising social licence to operate</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stuart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M A</forename><surname>Franco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gerrard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Danino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jones</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.resourpol.2023.103962</idno>
+		<ptr target="https://doi.org/10.1016/j.resourpol.2023.103962" />
+	</analytic>
+	<monogr>
+		<title level="j">Resour. Policy</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">National consumer energy resources roadmap: Powering decarbonised homes and communities. Barrington Stoke. UK Government, 2023. Energy Act</title>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2024. 2023</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>The Department of Climate Change</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Digital Markets, Competition and Consumers Act 2024</title>
+		<author>
+			<persName><surname>Uk Government</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>UK Parliament</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vorrath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SA Rooftop Solar Installs Surge after Statewide Blackout : Renew Economy reneweconomy</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Britton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Webb</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2024.103413</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2024.103413" />
+	</analytic>
+	<monogr>
+		<title level="m">2024. Credible and comprehensive? Comparing policy mixes for local energy systems in England, Scotland and Wales</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page">103413</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Rethinking political agency: the role of individuals&apos; engagement, perceptions and trust in transitioning to a low-carbon transport system</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wamsler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mundaca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Osberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2022.132197</idno>
+		<ptr target="https://doi.org/10.1016/j.jclepro.2022.132197" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Clean. Prod</title>
+		<imprint>
+			<biblScope unit="volume">360</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

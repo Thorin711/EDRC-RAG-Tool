@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Networked, fragmented, unequal: The emergent landscape of home energy advice provision in England</title>
+				<funder ref="#_BNH6x8t">
+					<orgName type="full">National Science Centre in Poland</orgName>
+				</funder>
+				<funder ref="#_XG9yfU8 #_VG9UdnH">
+					<orgName type="full">Economic and Social Research Council</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Centre for Joined-Up Sustainability Transformations</orgName>
+					<orgName type="abbreviated">JUST</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">UK Research and Innovation&apos;s Building a Green Future strategic theme</orgName>
+				</funder>
+				<funder ref="#_wxdCqCe">
+					<orgName type="full">Engineering and Physical Sciences Research Council</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2025-06-11">11 June 2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Stefan</forename><surname>Bouzarovski</surname></persName>
+							<email>stefan.bouzarovski@manchester.ac.uk</email>
+							<idno type="ORCID">0000-0002-0045-3400</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Geography</orgName>
+								<orgName type="institution">University of Manchester</orgName>
+								<address>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Institute of Geography</orgName>
+								<orgName type="department" key="dep2">Faculty of Natural Sciences and Mathematics</orgName>
+								<orgName type="institution">Ss. Cyril and Methodius University</orgName>
+								<address>
+									<settlement>Skopje</settlement>
+									<region>North Macedonia</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lilia</forename><surname>Karpinska</surname></persName>
+							<idno type="ORCID">0000-0002-6790-1861</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Geography</orgName>
+								<orgName type="institution">Krakow University of Economics</orgName>
+								<address>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Katherine</forename><surname>Sugar</surname></persName>
+							<idno type="ORCID">0000-0002-8649-6988</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Geography</orgName>
+								<orgName type="institution">University of Manchester</orgName>
+								<address>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sławomir</forename><surname>Śmiech</surname></persName>
+							<idno type="ORCID">0000-0002-6704-8661</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Geography</orgName>
+								<orgName type="institution">Krakow University of Economics</orgName>
+								<address>
+									<country key="PL">Poland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Manchester</orgName>
+								<address>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Networked, fragmented, unequal: The emergent landscape of home energy advice provision in England</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Applied Geography</title>
+						<title level="j" type="abbrev">Applied Geography</title>
+						<idno type="ISSN">0143-6228</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">181</biblScope>
+							<biblScope unit="page">103682</biblScope>
+							<date type="published" when="2025-06-11">11 June 2025</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">AC95B7861665249C7EF98375AADD1053</idno>
+					<idno type="DOI">10.1016/j.apgeog.2025.103682</idno>
+					<note type="submission">Received 30 November 2024; Received in revised form 22 May 2025; Accepted 28 May 2025 Applied Geography 181 (2025) 103682</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Energy advice Energy poverty Fuel poverty Energy justice Energy efficiency Climate mitigation Housing Retrofit Energy demand United Kingdom England</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This paper aims to interrogate the institutional, spatial, and social underpinnings of domestic energy advice in England. Based on a custom-built database of 131 distinct energy advice providers, analysed via a range of statistical methods, we explore the geographic and organizational patterns of energy advice support-identifying who provides it, where it is offered, and the methods used for its delivery. We also investigate the types of advice available, as well as their distribution and quality compared to existing forms of support and broader trends of material deprivation. We find evidence of a highly networked ecosystem of actors, which is dominated by the third sector, is overwhelmingly urban, and is largely focused on a narrow set of provision mechanisms. We conclude that the current configuration is partly exacerbating, rather than alleviating, existing social inequalities. We identify a need for further policy and research on the topic, focusing on the national and sectoral integration of support mechanisms, and the strengthening of advice provision for areas and groups that require it the most.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>More than 1.18 billion people across the world are estimated to experiencing energy poverty (EP) -a chronic challenge that has been exacerbated by the recent energy price crisis <ref type="bibr" target="#b20">(Min et al., 2024)</ref>. At the same time, the housing sector accounts for 26 % of global carbon emissions <ref type="bibr">(International Energy Agency, 2024)</ref>. The EP and building retrofit challenge are inextricably connected, because inefficient buildings are more expensive and difficult to heat, cool and light <ref type="bibr" target="#b3">(Boardman, 1991)</ref>. However, building retrofits are organizationally and technically complex, and addressing EP requires measures attuned to the circumstances of individual households. This is one of the main reasons for the increasing importance and presence of 'energy advice' (EA), generally understood as the provision of information and support to improve household energy circumstances, particularly in terms of reducing energy costs, improving domestic energy efficiency and accessing additional services <ref type="bibr">(Simcock &amp; Bouzarovski, 2023)</ref>.</p><p>The United Kingdom (UK) is an emblematic case for understanding this type of assistance. The UK has a deep-rooted EP challenge (the condition is also termed 'fuel poverty') not the least because of the poor quality of its housing stock, accompanied by high levels of income poverty. At the same time, there is an extensive and diverse third sector, as a result of the UK's long-standing community engagement and civic participation traditions <ref type="bibr" target="#b13">(Johnson, 2015)</ref>, as well as the withdrawal of the state from many public service roles due to neoliberal policies. Home EA provision has increased in importance and scale over the last decade, as evidenced by the emergence of new organizational actors and delivery models to provide energy and retrofit help <ref type="bibr" target="#b30">(Warren &amp; Foulds, 2020)</ref>. However, this area of activity remains relatively poorly understood in both research and policy. There is a lack of knowledge on how different forms of household EA connect to wider patterns of infrastructural governance and policy intermediation. The framing, content and modalities of EA warrant further attention, as do the broader social issues that are (not) addressed by the diverse models that are currently being developed and implemented.</p><p>This paper, therefore, seeks to provide a broad-level analysis of domestic EA provision as it relates to wider institutional, spatial and social contingencies, with a focus on Englandthe largest constituent country of the UK. We quantitatively analyse data from 131 unique EA providers to address three interrelated research aims. First, we examine the geographic and organizational patterns of EA supportwho is providing it, where, and through which mechanisms? Second, we investigate the types of advice that are on offer, and their distribution and quality visà-vis existing forms of assistance. Third, we focus on the relationship between EA delivery and wider forms of material deprivation, considering that much of the EA ecosystem is positioned (at least nominally) to address the circumstances of groups that are affected by EP. As such, the paper addresses a systemic research gap around the lack of knowledge on the overall socio-spatial distribution, organizational mechanisms, delivery channels and thematic content of EA currently provided in England.</p><p>We situate our research aims within a critical review of the existing literature on the subject, which is presented in the section that follows. We then move on to a discussion of the data collection and analysis methodology. Subsequently, we present the shared results and discussions of our findings across three themes: 1) the distribution of EA provision across a variety of social, spatial and organizational categories; 2) the characteristics of EA in instances judged to provide a higher degree of support for vulnerable households; and 3) the institutional and geographical underpinnings of EA coverage and quality. The conclusion of the paper revisits the three research aims, while recommending future policy and research directions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Energy advice in the UK and beyond</head><p>We now turn to the rather limited, but rapidly developing body of knowledge on EA provision in the UK and Europe. Our intention here is not to elaborate a detailed overview of EA scholarship and policy contributions, but rather to draw attention to debates among researchers and practitioners. We highlight the emergent nature of these discussions, due to the historic lack of scientific research and policy attention, and their increasing prominence and presence in recent years. We focus on how EA is conceptualized, the forms of social engagement that it entails, the organizations that are part of the provision landscape, and the delivery modes that are seen as most effective and impactful. Our contribution is drawn from wider debates in the energy justice, human geography and social reproduction literatures <ref type="bibr" target="#b16">(Kivimaa et al., 2019;</ref><ref type="bibr" target="#b18">Mahapatra et al., 2011)</ref>.</p><p>As a starting point, it is important to note that the term 'advice' itself may be interpreted in a variety of ways. While some studies see advice as an independent form of support that can help address energy needs <ref type="bibr" target="#b1">(Ambrose et al., 2019)</ref>, there are also numerous instances where advice may be provided as part of a paid service, upon receipt of a particular product, or through informal means. For the purposes of this study, we focus on the formal provision of active household EA through state, private or third sector channels. In this context, we understand EA as an institutionalized form of domestic assistance aimed at improving domestic energy efficiency, conserving energy use, increasing social inclusion, and reducing carbon emissions. Here, it should be noted that several authors (e.g. <ref type="bibr" target="#b1">Ambrose et al., 2019)</ref> have created a typology of the different forms of EA. However, the provison of EA is spatially and temporally inconsistent <ref type="bibr">(Simcock &amp; Bouzarovski, 2023)</ref>. In the UK, this is attributable to differences in organizational capacity and practices: because energy efficiency policy and advice are 'devolved matters', EA mechanisms are largely operated in an independent manner <ref type="bibr" target="#b30">(Warren &amp; Foulds, 2020)</ref>. Advice is provided against the background of a geography of social inequalities, but may itself create further injustices.</p><p>Regarding the delivery of EA in practice, there is no standardization in the provision of EAinformation on how to reduce energy costs can be delivered in multiple ways. At one end of the spectrum lies face-toface advice in the home: a highly interactive and specific form of consultation tailored to the customer <ref type="bibr" target="#b7">(Darby, 2003)</ref>. At the other end, householders can receive more 'passive' guidance through websites (e.g. dedicated webpages, frequently asked questions, AI bots) and leaflets, either actively solicited through individual initiative, or suggested via different forms of energy intermediation <ref type="bibr" target="#b5">(Bouzarovski et al., 2023)</ref>. Such approaches are considered more formulaic, with data restricted to that inputted into the questionnaire. EA can also be made available via telephone and email, <ref type="bibr" target="#b7">(Darby, 2003)</ref>. Also of relevance are the emergence of 'energy cafés' <ref type="bibr" target="#b19">(Martiskainen et al., 2018)</ref> and energy saving campaigns through conventional and social media channelssome of which may have seen increasing demand due to the 2021 energy crisis.</p><p>Given that there is no standardization of EA across the UK, conversations are ongoing about the models of EA delivery that demonstrate the highest levels of effectiveness and impact. <ref type="bibr" target="#b8">Delmas et al. (2013)</ref> argue that advice strategies using an 'informational approach' which is around non-monetary framings can be effective in reducing household energy use, alongside more individualized guidance. Research into the process of developing domestic energy information campaigns has also highlighted the need for tailored information and two-way (dialogic) exchange (e.g. <ref type="bibr" target="#b26">Simcock et al., 2014)</ref>. Nevertheless, <ref type="bibr" target="#b30">Warren and Foulds (2020)</ref> maintain that the evidence on the effectiveness of EA on energy saving outcomes is patchy and contested. In-person support has been identified as particularly useful in the case of households vulnerable to EP (e.g. <ref type="bibr" target="#b2">Baker et al., 2019;</ref><ref type="bibr" target="#b21">Ramsden, 2020;</ref><ref type="bibr" target="#b22">Reeves, 2016)</ref>. In its entirety, this body of knowledge unequivocally points to the need for adopting a holistic and all-encompassing approach, involving both the providers and recipients of EA.</p><p>Next, we turn to the landscape of EA provision. Organizationally, the EA provision landscape involves a broad range of public, private and third sector actors <ref type="bibr">(Simcock &amp; Bouzarovski, 2023)</ref>. The intended targets can be varied as well <ref type="bibr" target="#b1">(Ambrose et al., 2019)</ref>, ranging from 'low need households' (e.g. those able to manage their bills relatively easily), to those who are less able to self-manage or act independentlye.g. asylum seekers, people with a long-term illness or disability, or older people. However, the existing literature on the topic suggests that current provision of EA in the UK is fragmented and variegated, with in-person advice and home visits being conducted by various local organizations and charities. Of the programmes that do provide EA, this is often enacted through a combination of 'self-referral' approaches (i.e. signing up via phone or webpage) or through 'partner referrals' (i.e. from local authorities, charities or private companies who work with communities and signpost to these services). Although not involving EA support per se, from 2018, energy companies in the UK are obliged to deliver energy efficiency measures to disadvantaged households exclusively <ref type="bibr" target="#b1">(Ambrose et al., 2019)</ref>. However, there is limited knowledge and clarity on the impacts of such schemes on household welfare and energy efficiency more generally.</p><p>Adding to the insufficient co-ordination among the relatively high number of EA providers in the UKdespite the wide range of services that are on offeris the lack of knowledge on the social and political geographies of energy support (e.g. <ref type="bibr" target="#b21">Ramsden, 2020)</ref>. Three factors which may explain why the mapping of UK EA provision has been limited. First, due to a lack of readily available data in the public domain, a centralized repository of information does not exist. This leads to challenges in aggregating and comparing organizations <ref type="bibr" target="#b6">(Butler, 2020)</ref>. Second, EA often not be provided in isolationwhilst this can help in addressing multiple issues, in other ways it may be harder to distinguish EA provision from forms of support, e.g. money, debt, and housing issues (ibid). Third, there is insufficient appreciation of the role of place-based EA providers in addressing the root causes of inequality.</p><p>In terms of the evaluation of EA partnerships in practice, Ramsden's (2020) interrogation of a charity-led EA project in England found that most recipients believed the support to be useful, particularly in terms of monetary savings. The provision of energy monitors and assisting households review tariffs was considered a practical way to encourage engagement. In addition, a number of households were motivated to reduce carbon emissions, but as highlighted by the author, the evaluation of environmental outcomes are unclear. Notably, the author argues that long-term professional projectsrun either by or in partnership with local authoritiesare best suited for co-ordinating local support services, through the delivery of financial support, energy savings advice, small-scale energy efficiency measures and signposting to additional services. This is particularly true in the instance of face-to-face advice and support, in terms of engaging households living-in, and vulnerable to EP. However, there is limited knowledge about the variegated experiences and capacities of local authorities in the provision of such support, and the author (2020) highlights the need for more effective co-ordination between delivery partners in order to reach vulnerable households. Here, a study by <ref type="bibr" target="#b1">Ambrose et al. (2019)</ref> reinforces the key role of local organizational partnerships in EA provision. While these configurations commonly exist between the public and third sector, the involvement of private businessesparticularly energy suppliersis sporadic and limited. The situation adds to existing geographical inequalities in EA provision, while highlighting the need for further research on the nature of organizational partnerships.</p><p>A broad-level categorization of the multifaceted functions performed by EA providers (see Table <ref type="table" target="#tab_0">1</ref>) allows for a systemic overview of the knowledge challenges that they face. An additional research gap can be found here, in relation to the role of regional and local intermediaries in governing energy efficiency. These organizations are known to provide 'infrastructural labour' <ref type="bibr" target="#b4">(Bouzarovski, 2022;</ref><ref type="bibr" target="#b27">Stokes &amp; De Coss-Corzo, 2023)</ref>, while shaping energy transitions more broadly (e.g. <ref type="bibr" target="#b16">(Kivimaa et al., 2019)</ref>.</p><p>To summarize, we have identified at least three major gaps in the literature that merit closer attention. First, there is a pressing need to map current practices and determine how local support services can be delivered in relation to existing place-based contingencies. This effort would help to tailor support and maximize effectiveness across diverse areas. Second, it is important to highlight the differing experiences and practices of local authorities in providing EA services. Understanding these variations can uncover key challenges and opportunities specific to different regions. Third, it is necessary to examine the roles and types of relevant institutional arrangements (including partnerships), their geographic and organizational positioning, and the benefits they bring to delivering EA. In the analysis that follows, we focus on the third research gap, although some of the evidence that we explore also pertains to the first and second research gaps.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Data collection and analysis methodology</head><p>The background work for this paper involved the creation of a new database of home EA providers in England, based on publicly available information (internet websites, leaflets, company registers). As noted above, there is no single register of such organizations in England or the UK, which means that the database had to be built 'from the bottom up', andespecially given the dynamic and ephemeral nature of the advice landscapeit is likely that we did not manage to capture every single advice provider. We commenced the process by running multiple consecutive queries on two search engines -Google and Bingusing relevant phrases (e.g. '"EA" AND UK', '"EA" AND England'). The first 300 results of the searches were entered into the database, and then cross-checked for repetition (with any double entries removed). Additional database entries were generated based on the information on the websites themselves, and the database was also cross-checked against (non-publicly available) database data held by the National Retrofit Hub. Despite these secondary verifications, one of the limitations of our study is that providers without a prominent web presence could have been left out of the database. One of our mitigating actions in relation to this limitation was the attendance of 9 public community events in the Greater Manchester area, all taking place during 2024, and featuring the presence of local EA providers (their details were subsequently checked against our database). While no additional relevant organizations were identified in this manner, it is possible that smaller local organizations across Englandproviding informal advicemay have nevertheless been omitted, which caveats the generalizability of our findings.</p><p>In creating the database, we only recorded active and standalone advice providers. In other words, we did not include 'passive' advice services offered in the form of websites and leaflets that only contained energy tips and web links, without the possibility of receiving personalized and tailored advice from a 'listening agent' <ref type="bibr">(Itzchakov &amp; Wheeler, 2024, p. 51</ref>), e.g. through a phone call, visit, or even a chatbot, email or web form. This is in line with our initial conceptualization, which sees advice as an engaged process between human actors, while focusing on services that are deemed to have a greater impact on energy-related social practices <ref type="bibr" target="#b30">(Warren &amp; Foulds, 2020)</ref>. Also, we encountered many instances where some organizations were relying on, or pointing people towards, services provided by other bodies or groups. We did not consider the former to act as 'standalone' providers, choosing instead to trace and locate the primary EA service organizations for inclusion in the database. We then ensured that each of these agents had a formal statutory presence by systematically cross-checking their records against data held by Companies House (a UK Government register of company information freely available to the public). Where this was not possible, i.e. the instances of registered societies including community benefit societies and cooperatives, checks were verified through the Financial Conduct Authority, which contains a public record of mutual societies registered. Through this process, we identified a total of 131 unique providers across England.</p><p>Systematically verifying publicly held records by third-party registers allowed to assign an organizational category to each provider. While this was a relatively straightforward process in the case of governmentor private-sector institutions, third-sector organizations posed a particular challenge due to the lack of a universally-agreed classification in either research or policy practice, given the organizationally diverse and ever-evolving nature of the third sector <ref type="bibr" target="#b13">(Johnson, 2015)</ref>. To cover the breadth and scope of third-sector activity, and based on the relevant literature (e.g. <ref type="bibr" target="#b0">Alcock, 2010)</ref>, the following sub-categories were used to distinguish between the different providers: Organization. Additionally, and based on publicly available data about the headquarters of each organization, we also assigned an urbanity score and an index of multiple deprivation (IMD) score to each provider, using GeoConvert (UK Data Service, 2024). Specifically, we used the English IMD 2019 score (while acknowledging the limitations associated with this measure, e.g. see <ref type="bibr" target="#b15">Kiely &amp; Strong, 2023)</ref>. The degree of urbanization was obtained from the respective Lower Super Output Area classification.</p><p>The database also contained separate columns for: 1) whether the advice is delivered by a single organization of via a partnership; 2) the territorial scope of the services provided (distinguishing between local, regional and national reach); and 3) whether the advice involves any socio-economic targeting of particular demographic groups or housing types.</p><p>Moreover, our methodology also included the creation of two composite indices to measure the quality of EA delivery and coverage. Based on studies that have used composite indices to explore procedural energy injustices (Jové-Llopis &amp; Trujillo-Baute, 2024), our starting point here was to quantify the breadth, depth and effectiveness of each mechanism in delivering impactful outcomes. Composite indices, combining carefully designed weights, allowed us to encompass several dimensions of advice delivery through a unified measure.</p><p>The first index focused on the socio-technical sectors of the advice services that were included. Here, we identified three key areas of activity: 1) Energy saving and bill reduction advice (mainly in the form of conventional support through tips and guidance); 2) Additional funding and support provision (i.e. via referrals or through direct financial or material assistance); 3) Third-party intermediation (whereby advisors liaise with energy suppliers or state agencies on the behalf of the householder). Each of the categories was assigned a numerical score of 1. In consultation with practitioners, experts and the relevant literature (e.g. <ref type="bibr" target="#b30">Warren &amp; Foulds, 2020)</ref>, all three categories were assigned equal weights, as the types of support they entailed were seen as being of roughly comparable value. Adding up the three numbers resulted in the multidimensional 'sectoral advice coverage' index, with a value range between 1 and 3. The index expresses the comprehensiveness of support that is offered by any single provider, with higher values expressing a wide range of support typologies, extending beyond energy conservation and efficiency into social intermediation and active retrofit delivery.</p><p>As for the second composite index, and in line with the relevant literature <ref type="bibr" target="#b6">(Butler, 2020)</ref>, we assigned an 'engagement score' to each of the different services that were on offer (given that a single provider may offer more than one way of receiving advice). If the provider offered a chatbot, email contact address, or a contact form, each facility was given a value of 0.5 (as these were seen to be offering the lowest level of engagement). A web chat (where there was a live person on the other end of the line), or the possibility of receiving a phone call, were each assigned a value of 1. At the same time, drop-in sessions, energy cafés and in-person home visits each attracted the highest possible score of 2. The 'quality of EA delivery' index was then calculated by adding the values of all individual scores received for each of the services provided by the given organization. The final value of the index, therefore, ranged between 0.5 and 9.5. A higher score would be associated with a greater number of services provided by a single organization, where more 'engaged' servicesinvolving in-person, tailored supportwould receive a greater weighting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Results and discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">The socio-spatial distribution of energy advice provision</head><p>The data analysis resulted in one continuous variablethe IMD. The distribution of advice providers in relation to the IMD was slightly rightskewed, i.e. most values were concentrated around the lower scores of the IMD (Table <ref type="table">2</ref>). This suggests that EA providers are disproportionately concentrated in more deprived areas, which would be consistent with broader findings in the literature, that EA is used as a method to address EP <ref type="bibr">(Simcock &amp; Bouzarovski, 2023)</ref>. However, when plotting the IMD quintiles (in which the number of observations was equal in each quintile, and ordered from the minimum value to the maximum value), we observed that the largest spread of values was located in the highest quintile (see Fig. <ref type="figure" target="#fig_0">1</ref>). This distribution, while partly a result of the skewed spread of IMD values, also indicates that EA organizations located in higher-income areas cover a more diverse range of regional economic typologies, compared to those in lower-income areas. At the same time, it suggests that EA providers are geographically well positioned to target issues of domestic energy deprivation.</p><p>Moving onto the frequencies of the categorical variablesthe composite 'quality of advice coverage' and 'quality of advice delivery' indiceswe estimated that 56.42 % of providers only operating within one of the support categories defined by our methodology (Table <ref type="table" target="#tab_2">3</ref>). The median score of the quality of advice delivery was 2.5, which is well below the maximum possible value of the index. Just over 90 % of our observations were constituted by urban areas, indicating that EA providers are under-represented in rural regions; a finding consistent with the literature <ref type="bibr" target="#b1">(Ambrose et al., 2019)</ref>. Roughly two fifths of the relevant organizations were based in major conurbations, with almost half being located in smaller towns and cities. In terms of the services offered, energy saving and bill reduction advice was made available by all EA providers (98.47 %). The overwhelming majority of advice was delivered over the phone (93.57 %). Almost one-third of the services were provided in institutional partnership arrangements (32.06 %), with just over four-fifths being based locally (83.96 %). Third-sector organizations overwhelmingly dominated the sample (78.62 %), with two-thirds (66.41 %) being represented by charities. Just over one-fifth of the advice was targeted specifically at vulnerable groups, even though all services offered across the entire sample were broadly aimed at disadvantaged households. The lack of socio-demographic or spatial targeting is consistent with wider findings in the literature <ref type="bibr" target="#b6">(Butler, 2020)</ref>, although comprehensive evidence on the subject is patchy and scarce. These findings also point to the predominance of conventional, behaviourally-orientated forms of advice <ref type="bibr" target="#b22">(Reeves, 2016)</ref>.</p><p>The distribution of the IMD demonstrated different degrees of variation in relation to the two composite indicesthe quality of advice coverage and the quality of advice delivery indices respectively. In the case of the first indicator, we found an almost equal distribution of the IMD when the advice coverage index equalled 1 or 2. We noted lower IMD values in cases where all three advice types were delivered (see Fig. <ref type="figure" target="#fig_1">2</ref>), which suggests that organizations covering a more complex set of needs are located in lower-income areasthese advice providers offer comprehensive services covering both direct energy efficiency interventions and engagement with external agencies, possibly due to the disproportionately higher effects of austerity policies in such regions <ref type="bibr" target="#b17">(Koch &amp; James, 2022)</ref>. However, the distribution of the IMD showed no clear pattern in relation to the quality of advice delivery index (the results are not shown here for brevity).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 2</head><p>Descriptive statistics of the continuous variable. Note: Min is the minimum value, Max is the maximum value, qu. Is a quartile; SD is the standard deviation; skew is the skewness; IR the interquartile range.</p><p>Variable Min 1st qu. Median Mean 3rd qu. Max SD Skew IR IMD 115 4978 10781 11911 17822 31990 8439.3 0.57 12844</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">The social and spatial characteristics of 'engaged' energy advice</head><p>We built several models to estimate the determinants of EA in instances where a higher level of engagement with information and support was available to householdersfocusing on drop-in sessions, home visits, additional funding and support. In this context, we also examined the underpinnings of the quality of advice delivery and advice coverage indices, while controlling for a range of characteristics. The model types depended on the response variable: logistic, multinomial logistic, linear regressions were chosen when the dependent variable was dichotomous, categorical and continuous, respectively.</p><p>Here, we note that the interpretation of the results was limited to the underlying assumptions of the respective statistical methods, with the data constraining the choice of the variables and the relationships studied. Assumptions of linear regression models include linearity, full rank, exogeneity of the independent variables, homoscedasticity, nonautocorrelation, exogenously generated data, and normal distribution of disturbances <ref type="bibr" target="#b9">(Greene, 2000)</ref>. The same principles, including a linear relationship between dependent and independent variables, guided the analysis based on the logistic regression as a linear regression <ref type="bibr" target="#b10">(Hosmer Jr et al., 2013)</ref>.</p><p>We estimated the probability of providing a drop-in session, a home visit and additional support by considering the IMD score and urbanization level in the advice provider's headquarters, the presence of socioeconomic targeting or a multi-agency partnership in the delivery of services, the type of organization delivering the advice, the geographical scope of the advice, as well as the quality of advice coverage and delivery indices, depending on the response variable. Our results showed that the likelihood of offering a drop-in session significantly depended on the existence of an organizational partnership, the quality of advice coverage, and the geographical scope of the service (Table <ref type="table" target="#tab_3">4</ref>). Being delivered in partnership, at the regional level, and (somewhat counterintuitively) in association with a high quality of coverage index suggested that drop-in sessions were less likely to be provided, other things being equal. Drop-in sessions were more likely to be offered by organizations based in urban areas, and did not involve socio-economic targeting. This suggests that drop-in sessionsotherwise one of the most engaged types of advice deliveryare contingent upon the existence of networked delivery mechanisms with a wider demographic and geographical reach, while being thematically more narrowly focused on some sectoral domains. Based on the existing literature on the topic (e.g. <ref type="bibr" target="#b6">Butler, 2020)</ref>, it can be surmised that organizations with a greater advice delivery capacity are supported by a more robust institutional frameworkspanning multiple localitieswhile being more specialized in the delivery of particular types of advice.</p><p>Once we considered the 'home visit' as a response variable (Table <ref type="table" target="#tab_4">5</ref>), the results of the logistic regression painted an entirely different picture. In contrast to the drop-in sessions, home visits were strongly and positively associated with the existence of an organizational partnership, and the quality of coverage index. We noticed that the geographical reach variable had an adverse effect in this context. Specifically, home visits were more likely to be provided by organizations operating at the regional level, vs those working at the national scale. The probability that an advice provider will offer a home visit was higher in rural areas, and in instances where vulnerable groups were targeted. Interestingly, home visits were more strongly associated with local authority and third sector providers, while the link between drop-in sessions and the business organizations was comparatively more pronounced.</p><p>When analysing the determinants of 'additional funding and support' provision (Table <ref type="table" target="#tab_5">6</ref>), we included the quality of advice delivery index as a continuous variable to achieve a better fit. Our model identified the positive and negative impacts of national geographical coverage and socio-economic targeting, respectively, on the probability that these types of services might be offered. In other words, providers were more likely to offer supplementary energy efficiency assistance or support via other agencies if this took place within a national setting, or was not targeted at specific demographic groups. This points to the broader resource challenges that shape the EA landscape: organizations that operate nationally are better placed to offer higher levels of support. The converse is true in instances where support is more narrowly targeted, potentially due to higher support needs. While other variables were insignificant, we note that a number of factorslocal authority or third sector delivery, being embedded in an organizational partnership, being based in an urban areaall corresponded to higher odds of providing additional funding and support. These trends are in line with broader research on the topic. However, the absence of the private sector is conspicuous, given the higher levels of resources that are available to energy businesses.</p><p>We also undertook a range of goodness of fit tests for the three logistic regressions, (specifically a McFadden pseudo R 2 , a maximum likelihood pseudo R 2 , and a Cragg and Uhler's pseudo R 2 ). The tests allowed for the assessment of accuracy of the competing models (Scott <ref type="bibr" target="#b23">Long, 1997)</ref> and were performed in R using the pscl package. Comparing the three models (presented as a supplementary document), we can state that the first modelon the probability of drop-in sessionsrepresents the best fit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Geographies of energy advice coverage and quality</head><p>The last two models in our analysis considered the determinants of the quality of advice delivery and the quality of advice coverage indices. As a whole, the distributions of these indices were uneven and skewed towards lower values. Most of the values of the advice delivery index were clustered in the 1.5-3 region (see Fig. <ref type="figure" target="#fig_3">3</ref>), suggesting that both the level of engagement and number of services offered by each provider were relatively limited. At the same time, 55.72 % quality of advice coverage values equalled 1, with 35.87 % equalling 2 and only 8.39 % equalling 3. Here, it was clear that the overwhelming majority of providers only covered one or, at best, two sectors relating to energy conservation or efficiency advice, well-being support, or retrofit delivery. As a whole, these results show the high levels of fragmentation and specialization in the EA landscape, with retrofit and EP support work operating in relatively disparate policy registers.</p><p>Our linear regression model on the quality of advice delivery index (Table <ref type="table">7</ref>) suggests that third sector organizations are associated with the provision of a wider variety of advice channels. The same positive relationship was present for almost all variables except the presence of socio-economic targeting, and the highest score of the advice coverage index. This finding is consistent with the remaining results, in demonstrating the challenges of advice delivery and content, underpinned by resource and logistical constraints <ref type="bibr">(Simcock &amp; Bouzarovski, 2023)</ref>: when a greater number of sectors are covered, this involves a trade-off with the number and quality of advice channels that are on offer, and the ability to target vulnerable groups more specifically. Overall, however, the model's predictive value is limited, with only one variable showing a meaningful relationship.</p><p>In the multinomial logistic regression (see Table <ref type="table">8</ref>) we examined the three values of the response variable (i.e. the quality of advice coverage index), with the highest level (3) serving as a reference value. This analysis revealed that the degree of urbanization and the IMD play a significant role in determining the quality of advice coverage. Specifically, a higher IMD score, and being headquartered in an urban area, corresponded to a lower quality of advice coverage. For organizations based in urban areas, the quality of the advice coverage index was more likely to be 1 and 2, corresponding to higher multinomial log-odds values than in the reference category. This is a concerning finding, suggesting that a wider range of EA services is potentially not available to residents of more deprived and urban areaspossibly driven, once again, by resource constraints. Existing research on advice provision more broadly suggests that austerity has also impacted this sector <ref type="bibr" target="#b17">(Koch &amp; James, 2022)</ref>. Other variables were insignificant (we note that some parameters in the model suffer from the Hauck-Donner effect (HDE), which results in the p-value being biased upwards; to remedy this, the HDE-free Wald test was applied).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusion</head><p>In this paper, we examined the broad-level practices, sectors, locations, organizational actors, and networks involved in the delivery of home EA in England, with a view to uncovering the deeper socio-spatial factors that shape this form of support, and its wider infrastructural implications. Speaking to a gap in knowledge around the nature of institutional actors involved in advice deliveryas well as its relationship with existing patterns of social deprivationwe confirmed some of the existing knowledge on the subject, while uncovering several counter-intuitive and unexpected contingencies. Our findings underscore the severe material constraints faced by the EA provision ecosystem, its geographic fragmentation and concentration among a small number of actors, as well as the multiple forms of networked collaboration among relevant organizations. The results also pinpoint areas for support and development, not only in terms of expanding the availability of resources, but also with regard to increasing the scope and reach of support provided.</p><p>Returning to the first research aim stated in the introduction, we found that the majority of EA is provided by the third sector, with some involvement by local authorities and business organizations. As such, EA is overwhelmingly implemented as a 'parastatal' activity <ref type="bibr" target="#b28">(Thompson, 2023)</ref>, with non-governmental organizations predominating. While there is a strong involvement of local authorities and regional partnerships in the process, it is also trueand this is in response to the second question in the introductionthat conventional forms of advice are most common, suggesting that citizen engagement, input and participation is limited. Additionally, the provision of advice rarely covers a variety of engagement channels and infrastructural sectors (beyond energy saving tips), especially in more socially challenging circumstances. Finally, and to address the third research question, the advice landscape is not concentrated in, or targeted towards, disadvantaged places and groups. Current provision is at least partly exacerbating, rather than alleviating, existing social inequalities.</p><p>As noted previously, the analyses we undertook were constrained by the lack of standardized data and evidence on the topic, as well as various methodological issues. Nevertheless, our findings do point to several followup policy and research needs. In the policy sphere, it is clear that EA requires further financial and material support, a greater integration with retrofit delivery, and an increased involvement by relevant business actorsparticularly energy suppliers. At the very basic level, there is a need for a centralized public repository of EA providers. This can lend visibility to the practice, taking it beyond 'firefighting' the impacts of austerity and the energy crisis, into a proactive form of      </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. here. Boxplots of the IMD quintiles.</figDesc><graphic coords="5,77.33,55.43,440.64,312.34" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. here. Distribution of the IMD versus the quality of advice coverage index (as computed by the authors).</figDesc><graphic coords="7,77.33,55.43,440.64,312.34" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc>support to address structural energy injustices and promote systemic decarbonization. In this sense, and moving into the research sphere, the role of energy providers and advisers in governing energy efficiency deserves deeper scrutiny, particularly with regard to their connections and interactions with state agencies. Here, further research could explore the opportunities that local EA provides in relation to urban and regional developments, as well as associated co-benefits and challenges. Such work can indicate if certain sources or practices of EA are more beneficial for some types of social or spatial settings, to avoid creating yet another social divide in the low-carbon transformation.CRediT authorship contribution statementStefan Bouzarovski: Writingreview &amp; editing, Writingoriginal draft, Visualization, Validation, Supervision, Resources, Project administration, Methodology, Investigation, Funding acquisition, Formal analysis, Data curation, Conceptualization. Lilia Karpinska: Writingoriginal draft, Software, Formal analysis, Data curation, Visualization. Katherine Sugar: Writingreview &amp; editing, Writingoriginal draft, Project administration, Formal analysis. Sławomir Śmiech: Writingreview &amp; editing, Supervision, Funding acquisition.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. here. Number of observations per each value of the EA delivery index (as computed by the authors).</figDesc><graphic coords="8,77.33,353.07,440.64,312.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Charity, Co-operative &amp; Community Benefit Society, Housing Association, Government Body, Private Company, Private Sectorenergy supplier, and Religious Roles of EA providers. Adapted from Simcock and Bouzarovski (2023) and Ambrose et al. (2019).</figDesc><table><row><cell>Functions</cell><cell>Challenges</cell></row><row><cell>Help guide and facilitate energy market</cell><cell>People's reluctance to switch tariffs and</cell></row><row><cell>engagement -e.g. demonstrate how to</cell><cell>suppliers (e.g. fear of financial penalties,</cell></row><row><cell>read energy bills, use price comparison</cell><cell>loyalty)</cell></row><row><cell>websites, helping to switch supplier.</cell><cell></cell></row><row><cell>Encouraging users to enrol onto Warm</cell><cell>Complexity of retail energy market</cell></row><row><cell>Home Discount (WHD)</cell><cell>preventing tariff switching</cell></row><row><cell>Help understanding of bills</cell><cell>Repeated nature of switching energy</cell></row><row><cell></cell><cell>tariffs -not breaking the cycle</cell></row><row><cell>Help understanding of energy-related</cell><cell>Scope to reduce 'unnecessary' energy</cell></row><row><cell>practices</cell><cell>costs through behavioural changes is</cell></row><row><cell></cell><cell>limited in households affected by EP</cell></row><row><cell>Acting on behalf of clients -e.g. help to</cell><cell>Requires internet access to switch tariffs</cell></row><row><cell>switch supplier; organizing a debt</cell><cell>and independence</cell></row><row><cell>repayment plan; registering users onto</cell><cell></cell></row><row><cell>'Priority Service Register'</cell><cell></cell></row><row><cell>Potential immediate fix -short follow-up</cell><cell>Requires sufficient customer</cell></row><row><cell>period (e.g. 6-8 weeks) can ensure</cell><cell>understanding of bills/price comparison</cell></row><row><cell>success of saving money</cell><cell>website to switch</cell></row><row><cell>Signposting to other services to claim</cell><cell>Time constraints of EA service. Requires</cell></row><row><cell>additional benefits -e.g. Citizens</cell><cell>longer-term support, continuous</cell></row><row><cell>Advice</cell><cell>evaluation to secure cheaper tariffs,</cell></row><row><cell></cell><cell>longer time for a thorough energy</cell></row><row><cell></cell><cell>efficiency audit of individual properties/</cell></row><row><cell></cell><cell>substantial retrofits.</cell></row><row><cell>'Chase up' funders and installers of</cell><cell>Limited financial reach: In some cases,</cell></row><row><cell>installation of new energy systems.</cell><cell>financial gains for consumer are modest</cell></row><row><cell></cell><cell>and unlikely to great reduce</cell></row><row><cell></cell><cell>vulnerability to EP</cell></row><row><cell></cell><cell>Limited institutional reach beyond</cell></row></table><note><p>people's homesi.e. inability to change wider energy market governance Limited reach to those who are eligible for funding, i.e. must be in receipt of qualifying benefits and in a 'no heat situation'.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Descriptive statistics of the categorical variables. The values are truncated to two decimal places.</figDesc><table><row><cell>Variable</cell><cell>Frequency, in %</cell></row><row><cell>Rural/urban classification</cell><cell></cell></row><row><cell>• Rural hamlets and isolated dwellings</cell><cell>1.52</cell></row><row><cell>• Rural town and fringe</cell><cell>4.58</cell></row><row><cell>• Rural town and fringe in a sparse setting</cell><cell>0.76</cell></row><row><cell>• Rural village</cell><cell>3.05</cell></row><row><cell>• Urban city and town</cell><cell>44.27</cell></row><row><cell>• Urban city and town in a sparse setting</cell><cell>0.76</cell></row><row><cell>• Urban major conurbation</cell><cell>41.22</cell></row><row><cell>• Urban minor conurbation</cell><cell>3.81</cell></row><row><cell>Advice provided</cell><cell></cell></row><row><cell>• Energy saving and bill reduction advice/1 point</cell><cell>98.47</cell></row><row><cell>• Additional funding and support/1 point</cell><cell>42.74</cell></row><row><cell>• Third-party intermediation/1 point</cell><cell>11.45</cell></row><row><cell>Delivery mechanism</cell><cell></cell></row><row><cell>• Chatbot/0.5 points</cell><cell>9.16</cell></row><row><cell>• Email/0.5 points</cell><cell>64.88</cell></row><row><cell>• Contact form/0.5 points</cell><cell>55.72</cell></row><row><cell>• Web/social media chat with human/1 point</cell><cell>6.10</cell></row><row><cell>• Phone/1 point</cell><cell>93.12</cell></row><row><cell>• Drop-in/1 point</cell><cell>45.03</cell></row><row><cell>• Workshop/1.5 points</cell><cell>12.21</cell></row><row><cell>• Home visit/2 points</cell><cell>25.95</cell></row><row><cell>Delivered through a partnership</cell><cell>32.06</cell></row><row><cell>Socio-economic targeting</cell><cell>20.61</cell></row><row><cell>Organization type</cell><cell></cell></row><row><cell>• Energy supplier</cell><cell>0.76</cell></row><row><cell>• Local authority</cell><cell>19.84</cell></row><row><cell>• Private company</cell><cell>0.76</cell></row><row><cell>• Charity</cell><cell>66.41</cell></row><row><cell>• Co-operative &amp; Community Benefit Society</cell><cell>8.39</cell></row><row><cell>• Housing Association</cell><cell>1.52</cell></row><row><cell>• Local authority</cell><cell>19.84</cell></row><row><cell>• Private company</cell><cell>2.29</cell></row><row><cell>• Private sector -energy supplier</cell><cell>0.76</cell></row><row><cell>• Religious organization</cell><cell>0.76</cell></row><row><cell>Geographical scope</cell><cell></cell></row><row><cell>• Local</cell><cell>83.96</cell></row><row><cell>• National</cell><cell>3.81</cell></row><row><cell>• Regional</cell><cell>12.21</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Log regression results for drop-in sessions. Significance codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 '' 1. Null deviance: 180.31 on 130 degrees of freedom. Residual deviance: 139.61 on 119 degrees of freedom. AIC: 163.61.</figDesc><table><row><cell>Coefficients</cell><cell>Estimate</cell><cell>Standard</cell><cell>Z value</cell><cell>Pr(&gt;|</cell></row><row><cell></cell><cell></cell><cell>error</cell><cell></cell><cell>z|)</cell></row><row><cell>Intercept</cell><cell>-14.000</cell><cell>1455.398</cell><cell>-0.010</cell><cell>0.992</cell></row><row><cell>IMD</cell><cell>-0. 000009</cell><cell>0.000</cell><cell>-0.351</cell><cell>0.725</cell></row><row><cell>Urbanization: urban</cell><cell>0.926</cell><cell>0.739</cell><cell>1.252</cell><cell>0.210</cell></row><row><cell>Targeting: Yes</cell><cell>-0.672</cell><cell>0.555</cell><cell>-1.211</cell><cell>0.226</cell></row><row><cell>Partnership: Yes</cell><cell>-1.143</cell><cell>0.499</cell><cell>-2.291</cell><cell>0.022 *</cell></row><row><cell>Organization type: local</cell><cell>12.571</cell><cell>1455.398</cell><cell>0.009</cell><cell>0.993</cell></row><row><cell>authority</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Organization type: private</cell><cell>28.943</cell><cell>2058.244</cell><cell>0.014</cell><cell>0.989</cell></row><row><cell>company</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Organization type: third</cell><cell>14.462</cell><cell>1455.398</cell><cell>0.010</cell><cell>0.992</cell></row><row><cell>sector</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Coverage index: 2</cell><cell>-0.848</cell><cell>0.458</cell><cell>-1.854</cell><cell>0.064.</cell></row><row><cell>Coverage index: 3</cell><cell>-2.147</cell><cell>0.919</cell><cell>-2.335</cell><cell>0.020 *</cell></row><row><cell>Geographical coverage:</cell><cell>-0.201</cell><cell>1.415</cell><cell>-0.142</cell><cell>0.887</cell></row><row><cell>national</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Geographical coverage:</cell><cell>-1.245</cell><cell>0.632</cell><cell>-1.970</cell><cell>0.049 *</cell></row><row><cell>regional</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5</head><label>5</label><figDesc>Log</figDesc><table><row><cell>Coefficients</cell><cell>Estimate</cell><cell>Standard</cell><cell>Z value</cell><cell>Pr (&gt;|</cell></row><row><cell></cell><cell></cell><cell>Error</cell><cell></cell><cell>z|)</cell></row><row><cell>Intercept</cell><cell>-17.346</cell><cell>1455.398</cell><cell>-0.012</cell><cell>0.991</cell></row><row><cell>IMD</cell><cell>-0. 0000012</cell><cell>0.000</cell><cell>-0.047</cell><cell>0.963</cell></row><row><cell>Urbanization: urban</cell><cell>-0.356</cell><cell>0.713</cell><cell>-0.500</cell><cell>0.617</cell></row><row><cell>Targeting: Yes</cell><cell>0.098</cell><cell>0.568</cell><cell>0.172</cell><cell>0.863</cell></row><row><cell>Partnership: Yes</cell><cell>1.166</cell><cell>0.498</cell><cell>2.341</cell><cell>0.019 *</cell></row><row><cell>Organization type: local</cell><cell>14.818</cell><cell>1455.398</cell><cell>0.010</cell><cell>0.992</cell></row><row><cell>authority</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Organization type: private</cell><cell>2.861</cell><cell>2058.244</cell><cell>0.001</cell><cell>0.999</cell></row><row><cell>company</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Organization type: third</cell><cell>15.877</cell><cell>1455.398</cell><cell>0.011</cell><cell>0.991</cell></row><row><cell>sector</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Coverage index: 2</cell><cell>0.871</cell><cell>0.460</cell><cell>1.893</cell><cell>0.058.</cell></row><row><cell>Coverage index: 3</cell><cell>0.813</cell><cell>0.849</cell><cell>0.957</cell><cell>0.339</cell></row><row><cell>Geographical coverage:</cell><cell>-0.711</cell><cell>1.369</cell><cell>-0.520</cell><cell>0.603</cell></row><row><cell>national</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Geographical coverage:</cell><cell>0.984</cell><cell>0.615</cell><cell>1.599</cell><cell>0.110</cell></row><row><cell>regional</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>regression results for home visits. Significance codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 '' 1. Null deviance: 150.02 on 130 degrees of freedom. Residual deviance: 135.03 on 119 degrees of freedom. AIC: 159.03.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 6</head><label>6</label><figDesc>Log regression results for 'additional funding and support' coverage. Significance codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 '' 1. Null deviance: 178.84 on 130 degrees of freedom. Residual deviance: 163.13 on 120 degrees of freedom. AIC: 185.13.</figDesc><table><row><cell>Coefficients</cell><cell>Estimate</cell><cell>Standard Error</cell><cell>Z value</cell><cell>Pr (&gt;|z|)</cell></row><row><cell>Intercept</cell><cell>-16.305</cell><cell>1455.398</cell><cell>-0.011</cell><cell>0.991</cell></row><row><cell>IMD</cell><cell>-0. 00003</cell><cell>0.000</cell><cell>-1.303</cell><cell>0.193</cell></row><row><cell>Urbanization: urban</cell><cell>0.043</cell><cell>0.642</cell><cell>0.067</cell><cell>0.947</cell></row><row><cell>Targeting: Yes</cell><cell>-0.929</cell><cell>0.513</cell><cell>-1.810</cell><cell>0.070.</cell></row><row><cell>Partnership: Yes</cell><cell>0.235</cell><cell>0.449</cell><cell>0.522</cell><cell>0.601</cell></row><row><cell>Organization type: local authority</cell><cell>17.225</cell><cell>1455.398</cell><cell>0.012</cell><cell>0.991</cell></row><row><cell>Organization type: private company</cell><cell>-1.339</cell><cell>2058.243</cell><cell>-0.001</cell><cell>1.000</cell></row><row><cell>Organization type: third sector</cell><cell>16.070</cell><cell>1455.398</cell><cell>0.011</cell><cell>0.991</cell></row><row><cell>Delivery index</cell><cell>-0.001</cell><cell>0.161</cell><cell>-0.007</cell><cell>0.995</cell></row><row><cell>Geographical coverage: national</cell><cell>2.365</cell><cell>1.276</cell><cell>1.853</cell><cell>0.064.</cell></row><row><cell>Geographical coverage: regional</cell><cell>0.795</cell><cell>0.580</cell><cell>1.371</cell><cell>0.171</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p><rs type="grantName">Funding Energy Demand Research Centre</rs> (EDRC), supported by the <rs type="funder">Engineering and Physical Sciences Research Council</rs> and the <rs type="funder">Economic and Social Research Council</rs> (grant number <rs type="grantNumber">EP/Y010078/1</rs>). <rs type="funder">Centre for Joined-Up Sustainability Transformations (JUST)</rs> via <rs type="funder">UK Research and Innovation's Building a Green Future strategic theme</rs>, and the <rs type="funder">Economic and Social Research Council</rs> (grant number <rs type="grantNumber">ES/Z504130/ 1</rs>). The <rs type="funder">National Science Centre in Poland</rs> (grant number <rs type="grantNumber">2021/43/B/ HS4/01862</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_wxdCqCe">
+					<orgName type="grant-name">Funding Energy Demand Research Centre</orgName>
+				</org>
+				<org type="funding" xml:id="_XG9yfU8">
+					<idno type="grant-number">EP/Y010078/1</idno>
+				</org>
+				<org type="funding" xml:id="_VG9UdnH">
+					<idno type="grant-number">ES/Z504130/ 1</idno>
+				</org>
+				<org type="funding" xml:id="_BNH6x8t">
+					<idno type="grant-number">2021/43/B/ HS4/01862</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>The authors declare the following financial interests/personal relationships which may be considered as potential competing interests: Lilia Karpinska reports financial and in-kind support was provided by the University of Manchester. If there are other authors, they declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 7</head><p>Linear regression results for the quality of advice delivery index. Significance codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 <ref type="bibr">'' 1. Residual standard error: 1.197</ref>  </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">A strategic unity: Defining the third sector in the UK</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Alcock</surname></persName>
+		</author>
+		<idno type="DOI">10.1332/204080510X496984</idno>
+		<ptr target="https://doi.org/10.1332/204080510X496984" />
+	</analytic>
+	<monogr>
+		<title level="j">Voluntary Sector Review</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="5" to="24" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ambrose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Batty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hawkins</surname></persName>
+		</author>
+		<idno type="DOI">10.7190/cresr.2019.8286642862</idno>
+		<ptr target="https://doi.org/10.7190/cresr.2019.8286642862" />
+		<title level="m">Reaching the &quot;hardest to reach&quot; with energy advice: Final report</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+		<respStmt>
+			<orgName>Sheffield Hallam University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Never try and face the journey alone: Exploring the face-to-face advocacy needs of fuel poor householders in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mould</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Restrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Melone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Atterson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2019.01.009</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2019.01.009" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="210" to="219" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><surname>Boardman</surname></persName>
+		</author>
+		<title level="m">Fuel poverty: From cold homes to affordable warmth</title>
+		<meeting><address><addrLine>Bellhaven</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Energy and labour: Thinking across the continuum</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Progress in Human Geography</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="753" to="774" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Energy justice intermediaries: Living Labs in the low-carbon transformation</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Damigos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Kmetty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jayyousi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Crowther</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13549839.2023.2238747</idno>
+		<ptr target="https://doi.org/10.1080/13549839.2023.2238747" />
+	</analytic>
+	<monogr>
+		<title level="j">Local Environment</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1534" to="1551" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Communicating energy vulnerability: An exploration of energy advice within and beyond formal settings</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Butler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pqdt -global</title>
+		<imprint>
+			<date type="published" when="2020">2020. 2572316587</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Salford</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Making sense of energy advice. ECEEE 2003 Summer Study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Darby</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1217" to="1226" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Information strategies and energy conservation behavior: A meta-analysis of experimental studies from 1975 to 2012</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Delmas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fischlein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">I</forename><surname>Asensio</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enpol.2013.05.109</idno>
+		<ptr target="https://doi.org/10.1016/j.enpol.2013.05.109" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="729" to="739" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Greene</surname></persName>
+		</author>
+		<ptr target="http://people.stern.nyu.edu/wgreene/Text/examples/Expt0.doc" />
+		<title level="m">Econometric analysis</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>th ed. Prentice Hall</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Hosmer</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lemeshow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">X</forename><surname>Sturdivant</surname></persName>
+		</author>
+		<ptr target="https://books.google.com/books" />
+		<title level="m">Applied logistic regression</title>
+		<imprint>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>hl=en&amp;lr=&amp;id=bRoxQBIZR d4C&amp;oi=fnd&amp;pg=PR13&amp;dq=applied+logistic+regression+hosmer+lemeshow&amp;ots =kM4Myn7Uba&amp;sig=myCVe9BaX20yFUTLOhy6Na5fX-I</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Buildings-energy system</title>
+		<ptr target="https://www.iea.org/energy-system/buildings" />
+	</analytic>
+	<monogr>
+		<title level="j">International Energy Agency</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note>IEA</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Listen to this: Why consumer behavior researchers should care about listening</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Itzchakov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Wheeler</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/arcp.1092</idno>
+		<ptr target="https://doi.org/10.1002/arcp.1092" />
+	</analytic>
+	<monogr>
+		<title level="j">Consumer Psychology Review</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="40" to="57" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Local civic participation and democratic legitimacy: Evidence from England and Wales</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Johnson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1467-9248.12128</idno>
+		<ptr target="https://doi.org/10.1111/1467-9248.12128" />
+	</analytic>
+	<monogr>
+		<title level="j">Political Studies</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="765" to="792" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jové-Llopis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Trujillo-Baute</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10640-024-00918-2</idno>
+		<idno>10640-024-00918-2</idno>
+		<ptr target="https://doi.org/10.1007/s" />
+	</analytic>
+	<monogr>
+		<title level="m">Escaping the energy poverty trap: Policy assessment</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="3335" to="3355" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The indexification of poverty: The Covert politics of smallarea Indices</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kiely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Strong</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/anti.12959</idno>
+		<ptr target="https://doi.org/10.1111/anti.12959" />
+	</analytic>
+	<monogr>
+		<title level="j">Antipode</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Towards a typology of intermediaries in sustainability transitions: A systematic review and a research agenda</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kivimaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Boon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hyysalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Klerkx</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.respol.2018.10.006</idno>
+		<ptr target="https://doi.org/10.1016/j.respol" />
+	</analytic>
+	<monogr>
+		<title level="j">Research Policy</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">6</biblScope>
+			<date type="published" when="2018">2019. 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The state of the welfare state: Advice, governance and care in settings of austerity</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Koch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>James</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00141844.2019.1688371</idno>
+		<ptr target="https://doi.org/10.1080/00141844" />
+	</analytic>
+	<monogr>
+		<title level="j">Ethnos</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+			<date type="published" when="2019">2022. 2019.1688371</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Energy advice service as perceived by Swedish homeowners</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mahapatra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gustavsson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1470-6431.2010.00924.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1470-6431.2010.00924.x" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Consumer Studies</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="104" to="111" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Community energy initiatives to alleviate fuel poverty: The material politics of Energy Cafés</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Heiskanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Speciale</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13549839.2017.1382459</idno>
+		<ptr target="https://doi.org/10.1080/13549839.2017.1382459" />
+	</analytic>
+	<monogr>
+		<title level="j">Local Environment</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="20" to="35" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Lost in the dark: A survey of energy poverty from space</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Min</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">P</forename><surname>O'keeffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Abidoye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Gaba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Monroe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Baugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Nuño</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">-A</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.joule.2024.05.001</idno>
+		<ptr target="https://doi.org/10.1016/j.joule.2024.05.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Joule</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1982" to="1998" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Tackling fuel poverty through household advice and support: Exploring the impacts of a charity-led project in a disadvantaged city in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ramsden</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2020.101786</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2020.101786" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="page" from="70" to="101786" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Exploring local and community capacity to reduce fuel poverty: The case of home energy advice visits in the UK. Energies</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Reeves</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/en9040276</idno>
+		<ptr target="https://doi.org/10.3390/en9040276" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">276</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">Scott</forename><surname>Long</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<title level="m">Regression models for categorical and limited dependent variables</title>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Thousand Oaks</title>
+		<author>
+			<persName><surname>Ca</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">A cure-all for energy poverty? Thinking critically about energy advice</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/02610183231219185</idno>
+		<ptr target="https://doi.org/10.1177/02610183231219185" />
+	</analytic>
+	<monogr>
+		<title level="j">Critical Social Policy. , Article</title>
+		<imprint>
+			<biblScope unit="page">02610183231219185</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Factors influencing perceptions of domestic energy information: Content, source and process</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Macgregor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Catney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dobson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ormerod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Royston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marie</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enpol.2013.10.038</idno>
+		<ptr target="https://doi.org/10.1016/j.enpol.2013.10.038" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="455" to="464" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Doing the work: Locating labour in infrastructural geography</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Stokes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>De Coss-Corzo</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/03091325231174186</idno>
+		<ptr target="https://doi.org/10.1177/03091325231174186" />
+	</analytic>
+	<monogr>
+		<title level="j">Progress in Human Geography</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="427" to="446" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Whatever happened to municipal radicalism?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Thompson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/tran.12606</idno>
+		<ptr target="https://doi.org/10.1111/tran.12606" />
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the Institute of British Geographers</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="603" to="618" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">Service</forename><surname>Uk Data</surname></persName>
+		</author>
+		<ptr target="https://geoconvert.ukdataservice.ac.uk/" />
+		<title level="m">GeoConvert</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Better domestic energy advice in England? A narrative literature review</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Foulds</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>UK Energy Research Centre</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

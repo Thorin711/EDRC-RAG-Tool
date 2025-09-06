@@ -1,0 +1,2203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Reconsidering the gender-energy nexus: A novel framework for understanding how and why electricity access influences gender relations</title>
+				<funder>
+					<orgName type="full">ESRC Southeast Network for Social Science (SeNSS)</orgName>
+				</funder>
+				<funder ref="#_2qxPdjk">
+					<orgName type="full">ESRC</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">EPSRC</orgName>
+				</funder>
+				<funder ref="#_qYsAZ2v">
+					<orgName type="full">Energy Demand Research Centre</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Impact Acceleration Account&apos;s</orgName>
+					<orgName type="abbreviated">IAA</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2025-05-17">17 May 2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Victoria</forename><surname>Kasprowicz</surname></persName>
+							<email>v.kasprowicz@sussex.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">SPRU (Science Policy Research Unit)</orgName>
+								<orgName type="institution" key="instit2">University of Sussex</orgName>
+								<address>
+									<postCode>BN1 9SL</postCode>
+									<settlement>Brighton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">David</forename><surname>Ockwell</surname></persName>
+							<email>d.ockwell@sussex.ac.uk</email>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Geography</orgName>
+								<orgName type="institution">University of Sussex</orgName>
+								<address>
+									<postCode>BN1 9SJ</postCode>
+									<settlement>Brighton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Elizabeth</forename><surname>Mills</surname></persName>
+							<email>e.mills@sussex.ac.uk</email>
+							<affiliation key="aff2">
+								<orgName type="department">Department of International Development (Anthropology)</orgName>
+								<orgName type="institution">University of Sussex</orgName>
+								<address>
+									<postCode>BN1 9SJ</postCode>
+									<settlement>Brighton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rob</forename><surname>Byrne</surname></persName>
+							<email>r.p.byrne@sussex.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">SPRU (Science Policy Research Unit)</orgName>
+								<orgName type="institution" key="instit2">University of Sussex</orgName>
+								<address>
+									<postCode>BN1 9SL</postCode>
+									<settlement>Brighton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">College of Business and Economics</orgName>
+								<orgName type="institution">University of Johannesburg</orgName>
+								<address>
+									<addrLine>JBS Park 69 Kingsway Avenue Auckland Park</addrLine>
+									<postCode>2092</postCode>
+									<settlement>Johannesburg</settlement>
+									<country key="ZA">South Africa</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Reconsidering the gender-energy nexus: A novel framework for understanding how and why electricity access influences gender relations</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Energy Research &amp; Social Science</title>
+						<title level="j" type="abbrev">Energy Research &amp; Social Science</title>
+						<idno type="ISSN">2214-6296</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">126</biblScope>
+							<biblScope unit="page">104109</biblScope>
+							<date type="published" when="2025-05-17">17 May 2025</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">573F4E31AAA5A62DBCDB3B29836CD056</idno>
+					<idno type="DOI">10.1016/j.erss.2025.104109</idno>
+					<note type="submission">Received 10 January 2025; Received in revised form 22 April 2025; Accepted 25 April 2025 Energy Research &amp; Social Science 126 (2025) 104109</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Energy access Gender Electricity access Just transitions Gender Studies Social Practice Theory</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>It has long been assumed that delivering UN SDG 7 (access to affordable, reliable, sustainable and modern energy for all) will also help deliver UN SDG 5 (gender equality and empowerment). But empirical evidence on the gendered impacts of electricity access is mixed: in some cases transformative, in some cases reinforcing, or worsening, existing unequal gendered power hierarchies. This paper responds to calls for the emerging literature on gender and electricity access to integrate insights from the Gender Studies literature and to better explain why, not just how, electricity access impacts gender in different ways in different contexts. It achieves this by developing a novel, performative theoretical framework, which combines and extends insights from Gender Studies on the performative, intersectional and power-laden nature of gender, and insights from Social Practice Theory on how electricity access becomes meaningful through its intersection with the performance of everyday practices. This theoretical framework is refined through an in-depth empirical analysis of the gendered impacts of electricity access in patriarchal societies in rural Guatemala and matrilineal societies in rural Colombia. The paper also develops a novel methodology, including an 8-step approach for applying the theoretical framework in practice. It concludes by articulating how these contributions can facilitate more targeted policy interventions with greater potential for positive impacts on gender equality in specific contexts.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Delivering United Nations Sustainable Development Goal (SDG) 7, (ensure access to affordable, reliable, sustainable, and modern energy for all), is widely assumed to have positive impacts for gender equality <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">4,</ref><ref type="bibr" target="#b3">5]</ref>. Access to modern energy is therefore acknowledged as a core element of delivering SDG 5 (achieve gender equality and empower all women and girls), with an assumed favourable relationship between SDGs 5 and 7 articulated in multiple international development policy documents. But policies, such as those mentioned above, reflect an almost blind assumption that investment in electricity access is good for women, with benefits trickling down to them <ref type="bibr" target="#b4">[6]</ref> and that electricity access is therefore positive for gender equality. This is a problematic assumption in and of itself if electricity access is also good for men, suggesting that it might sustain or worsen existing gendered power hierarchies. It becomes even more problematic when we look at the empirical evidence available to date in the emerging academic literature on gender and energy access. Here, examples do exist of electricity having positive <ref type="bibr" target="#b5">[7]</ref><ref type="bibr" target="#b6">[8]</ref><ref type="bibr" target="#b7">[9]</ref><ref type="bibr" target="#b8">[10]</ref><ref type="bibr" target="#b9">[11]</ref> and sometimes transformative impacts on gender equality <ref type="bibr" target="#b10">[12]</ref><ref type="bibr" target="#b11">[13]</ref><ref type="bibr" target="#b12">[14]</ref><ref type="bibr" target="#b13">[15]</ref>. However, examples abound (including in our empirical analysis below) where the arrival of electricity simply reinforces existing gendered hierarchies of power or even worsens them. Such examples include where women's labour is simply transferred to other unpaid labour like livestock care <ref type="bibr" target="#b7">[9,</ref><ref type="bibr" target="#b8">10,</ref><ref type="bibr" target="#b13">[15]</ref><ref type="bibr" target="#b14">[16]</ref><ref type="bibr" target="#b15">[17]</ref>, where men dominate electricity for watching TV, while women work longer hours in kitchens lit by kerosene lamps <ref type="bibr" target="#b106">[108]</ref>, or, as we observe in Guatemala below, electric lighting simply extends the time most women spend in the kitchen, cooking from earlier in the morning until later at night. More recent contributions have also illustrated the highly nuanced, contingent nature of the relationship between energy access and gender equality <ref type="bibr" target="#b16">[18]</ref><ref type="bibr" target="#b17">[19]</ref><ref type="bibr" target="#b18">[20]</ref>.</p><p>Given billions of dollars have been, and are being, invested in delivering against SDG 7, with the assumption this will in turn contribute positively to the achievement of SDG 5, there is an urgent need to better understand and, moreover, be able to anticipate how and why electricity access is likely to have positive, negative or neutral impacts on gender equality. At present, the academic gender-energy literature tends to be far stronger on describing how electricity access interacts with gender and much weaker on understanding why such interactions occur <ref type="bibr" target="#b19">[21,</ref><ref type="bibr" target="#b20">22]</ref>. The combined focus on lower carbon energy transitions, poverty alleviation and social justice that the gender-energy access debate speaks to is also germane to the rapidly emerging debate on "just transitions" (c.f. <ref type="bibr" target="#b21">[23]</ref>). Notwithstanding many important contributions by gender-energy scholars to date (as well as the work reviewed in Section 2 below, see e.g. <ref type="bibr" target="#b22">[24]</ref><ref type="bibr" target="#b23">[25]</ref><ref type="bibr" target="#b24">[26]</ref><ref type="bibr" target="#b25">[27]</ref><ref type="bibr" target="#b26">[28]</ref><ref type="bibr" target="#b27">[29]</ref><ref type="bibr" target="#b28">[30]</ref><ref type="bibr" target="#b29">[31]</ref>), there have been notable calls for the energy studies and energy access literatures to better engage with key insights from the broader Gender Studies literature (e.g. <ref type="bibr" target="#b15">[17,</ref><ref type="bibr" target="#b22">24,</ref><ref type="bibr" target="#b30">[32]</ref><ref type="bibr" target="#b31">[33]</ref><ref type="bibr" target="#b32">[34]</ref>). In the context of a concern with gender equality, these calls emphasise feminist concerns regarding the need for more fundamental efforts to address the socially constructed nature of gender <ref type="bibr" target="#b30">[32,</ref><ref type="bibr" target="#b31">33]</ref>, as well as the socio-economic, cultural and political structures that sustain gender inequality in any given context <ref type="bibr" target="#b15">[17,</ref><ref type="bibr" target="#b33">35]</ref>. Such calls note a tendency towards a conflation of gender with biological sex within the energy policy discourse, that often belies any attempt to consider what being a woman or man symbolises in any specific context, culture or geography (see <ref type="bibr" target="#b30">[32,</ref><ref type="bibr" target="#b31">33]</ref>). Moreover, they draw our focus to broader issues of empowerment and transformations (often the subject of political struggle) of gendered divisions of power and control <ref type="bibr" target="#b15">[17,</ref><ref type="bibr" target="#b34">[36]</ref><ref type="bibr" target="#b35">[37]</ref><ref type="bibr" target="#b36">[38]</ref>.</p><p>Further, and reflecting calls for an intersectional understanding of gender dynamics <ref type="bibr" target="#b33">[35]</ref>, scholars in Latin America and around the world have reflected on the deeply entrenched legacies of colonialism, and European forms of colonialism in particular. The 'coloniality of gender' and the importance of taking an intersectional approach to any research on gender and energy are fundamental concerns within the Gender Studies literature, concerns that Listo <ref type="bibr" target="#b31">[33]</ref> forcefully demonstrates are missing from most of the energy access literature and discourse to date. As Listo <ref type="bibr" target="#b31">[33]</ref> notes, this happens at the cost of work that could support meaningful gender equality outcomes, as opposed to propagating what she calls "gender myths" that "instrumentalise women and gender for particular energy interventions… at the expense of gender equality outcomes." As Listo <ref type="bibr" target="#b31">[33]</ref> puts it: "In order to leverage the potential of energy to truly benefit women, it is crucial that research avoids either mythologising or problematizing women, but rather builds a critical evidence-base on the ways in which energy is implicated in the social practices and structures which sustain inequality."</p><p>This paper responds directly to these calls and the weakness in the current treatment of gender in the energy access literature and policy discourse via a fundamental shift in the theoretical treatment of gender and access to electricity. We achieve this by weaving together theoretical perspectives from both the Gender Studies and Social Practice Theory literatures. This work builds on other notable contributions to the gender-energy access literature that emphasise the significance of attending to social practices, which we review further below <ref type="bibr" target="#b13">[15,</ref><ref type="bibr" target="#b15">17,</ref><ref type="bibr" target="#b17">19,</ref><ref type="bibr" target="#b37">39]</ref>. We utilise Social Practice Theory to understand access to electricity as becoming meaningful through the ways in which it intersects with how people "do" everyday practices <ref type="bibr" target="#b38">[40]</ref>, such as cooking, or studying, or the ways in which electricity facilitates new practices such as communicating via mobile phones, or accessing media via TV and radio. People don't want electricity, they want to be able to participate in everyday practices in easier ways, or to participate in new practices <ref type="bibr" target="#b39">[41]</ref>. This approach also facilitates a methodological innovation via a focus on the electrical appliances (e.g. light bulbs, mobile phones, TV, radio), that form a part of social practices, as the epistemological entry point for understanding the gendered impacts of access to electricity.</p><p>The above focus on the "doing" of everyday practices allows us to make the theoretical move of connecting to a fundamental insight from the Gender Studies literature that gender is something which is "done"sustained, reproduced, negotiated, resisted, challenged and redefinedthrough social practices <ref type="bibr" target="#b40">[42]</ref><ref type="bibr" target="#b41">[43]</ref><ref type="bibr" target="#b42">[44]</ref><ref type="bibr" target="#b43">[45]</ref><ref type="bibr" target="#b44">[46]</ref><ref type="bibr" target="#b45">[47]</ref><ref type="bibr" target="#b46">[48]</ref>. Further refinement of the treatment of gender, based on the Gender Studies literature, allows us to confront some fundamental weaknesses in the gender-energy access literature to date by also understanding gender as a recursive <ref type="bibr" target="#b47">[49]</ref> and power-filled <ref type="bibr" target="#b34">[36,</ref><ref type="bibr" target="#b40">42]</ref> social identity that intersects with electricity access and other social identities, such as ethnicity, age, socio-economic background, etc. <ref type="bibr" target="#b33">[35]</ref>. It also allows us to position this understanding within broader webs of social relations, attending to both cultural ideology and local conditions <ref type="bibr" target="#b48">[50,</ref><ref type="bibr" target="#b49">51]</ref> through a consideration of the context-specific nature of social identities and social practices.</p><p>The result is a novel, performative theoretical framework for understanding the gendered impacts of access to electricity. This allows us to go further than the academic literature has done to date in understanding both how and why electricity access interacts with gender. It also enables us to potentially anticipate the nature of such interactions in new, future contexts. In Section 2, we expand on the above theoretical insights from the Gender Studies and Social Practice Theory literatures, and how we see them coming together to form a new, performative theoretical perspective on the gendered impacts of electricity access. In Section 3, we set out our methodology before demonstrating the utility of our new theoretical framework in Section 4 via an in-depth, ethnographic empirical analysis of patriarchal, Mayan-influenced communities in Guatemala and matrilineal Wayuu settlements in Colombia, all of whom have recently accessed electricity via the same solar PV, pay-asyou-go<ref type="foot" target="#foot_0">foot_0</ref> based company. We end in Section 5 by drawing out some conclusions and signposting the relevance of this research for policy and practice.</p><p>This paper makes five key contributions to the field of gender and energy research. Theoretically, we develop a new, performative theoretical framework for understanding how access to electricity intersects with gender, as well as why, in any given context, changes in gender roles, identities and relations are, or are not, observed. Methodologically, we develop a novel approach for applying this theoretical framework via a focus on the appliances that new access to electricity facilitates, including an 8-step approach to applying the theoretical framework in practice. Empirically, we contribute new insights on the gendered implications of access to electricity in patriarchal, Mayaninfluenced communities in Alta Verapaz and Petén, Guatemala and matrilineal Wayuu settlements in La Guajira, Colombia. We also add to the limited number of comparative studies that apply a practice theory lens to understanding energy-use in the Global South <ref type="bibr" target="#b17">[19]</ref>. Finally, we indicate how our new theoretical framework provides the basis for future policy and practice to better anticipate the likely gendered implications of different approaches to facilitating electricity access.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">A new theoretical framework for understanding the gendered impacts of electricity access</head><p>This paper achieves an understanding of both how and, importantly, why access to electricity has particular gendered impacts in different contexts by combining insights from strands of the Gender Studies literature with those of Social Practice Theory. In this section, we introduce the nature and genesis of these insights and map the core theoretical insights to which both literatures draw our attention. We end the section by articulating how we bring these insights together to form a new theoretical approach to understanding the gendered impacts of electricity access.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Theoretical insights from Gender Studies</head><p>As emphasised above, the energy studies and the energy access literatures have come under criticism (c.f. <ref type="bibr" target="#b30">[32,</ref><ref type="bibr" target="#b31">33]</ref>) for not attending to fundamental insights and concerns from the Gender Studies literature. Such criticism relates to the tendency to conflate biological sex with gender, the failure to understand the performative, socially constructed nature of gender and the failure to understand how any notion of "empowerment" needs to attend to fundamental processes of power and control. These are key areas where the new theoretical approach articulated in this paper seeks to contribute.</p><p>We begin by focusing on the central insight from the gender-energy access literature to-date that the relationship between gender and energy access varies across different contexts. This is demonstrated in our discussion in Section 1 where we noted that different empirical studies have found different gendered impacts of electricity accesssome positive, some negative, some neutral. From this starting point, we look to Massey's <ref type="bibr" target="#b48">[50]</ref> seminal work on space, place and gender, which powerfully illustrates that someone's experience of gender varies across any landscape because it intersects with, and forms a part of, an intricate web of social relations, defined by Massey to include local conditions and cultural ideologies, which come together, intensify and evolve through everyday activities, such as the paid work in the textile and agricultural industries that Massey analysed. As will become clear below, we see this emphasis on everyday activities as commensurate with what social practice theorists would think of as "social practices". This immediately provides a starting point for understanding gender and electricity access that puts specific local contexts and the social relations therein front and centre.</p><p>In the case of our empirical focus on Guatemala and Colombia, this emphasises the need to study the gender-energy nexus in action within off-grid communities in this region and analyse empirical findings using insights from the Latin American Gender Studies and energy access literatures. Analysis of gender and electricity access in parts of the world other than Latin America would need to attend to insights from the relevant literatures from those regions. This is important for providing understandings of how gender is done in the region in question, rather than allowing Anglo-American descriptions of such social phenomena to dominate.</p><p>For example, one contemporary insight from the decades-long Latin American Gender Studies literature pushes back against the oftendiscussed duality of femininity and masculinity, understood within this region as "machismo" and "marianismo". This insight illustrates how machismo is not a fixed set of characteristics, but rather something that is contested, intersectional (see below) and evolving within this region <ref type="bibr" target="#b50">[52]</ref><ref type="bibr" target="#b51">[53]</ref><ref type="bibr" target="#b52">[54]</ref>. Offering further insights, Segato and Monque <ref type="bibr" target="#b53">[55]</ref> draw on decolonial methodology and four decades of research to trace how fluid precolonial gender structures in this region were reconfigured during colonialisation along a rigid gender binary in which individuals were categorised as male or female based on anatomical sex. They argue that the transformation of Indigenous gender structures in Latin America was strongly shaped by patriarchal norms inherent to the colonial project, leading to an escalation of gender inequality and gender violence against women. María Lugones <ref type="bibr" target="#b54">[56]</ref> describes this process as the "coloniality of gender," where colonial powers not only imposed foreign political and economic structures but also reshaped cultural and social understandings of gender. In her analysis, Lugones argues that colonialism's impact on gender is not merely historical but ongoing, continuing to shape contemporary Latin American societies, as we discuss in our findings below. This literature reflects a fluidity in gender structures and gender norms within Indigenous societies; as Tortorici <ref type="bibr" target="#b55">[57]</ref> and Swier <ref type="bibr" target="#b56">[58]</ref> have powerfully demonstrated, this fluidity worked outside of, and against, normative gender binaries that were introduced through colonial discourse and praxis.</p><p>In the Guatemalan context, the literature draws attention to the gendered impacts of colonialism (e.g. <ref type="bibr" target="#b50">[52,</ref><ref type="bibr" target="#b57">59]</ref>). For instance, Tzunux <ref type="bibr" target="#b57">[59]</ref> argues that colonialism imposed the patriarchal gender structureand its associated issues of domestic violence and gender inequalitypresent in the region today, in place of much less hierarchical Mayan gender values and practices. Regional studies also remind us of the thirty-six-year civil war backdrop in Guatemala, suggesting that the legacies of colonialism continue in various forms through ethnic-and gender-based violence <ref type="bibr" target="#b58">[60]</ref><ref type="bibr" target="#b59">[61]</ref><ref type="bibr" target="#b60">[62]</ref>. Similarly, within the Colombian context, the regional literature highlights how the Wayuu people's resistance against colonial subjugation has protected their enduring matrilineal gender culture <ref type="bibr" target="#b61">[63,</ref><ref type="bibr" target="#b62">64]</ref>. This more situated, granular focus speaks clearly to the decolonial concerns of Arora and Stirling <ref type="bibr" target="#b63">[65]</ref> and their emphasis on the need to embrace "the pluriverse", which they define as being "… to celebrate and nurture and interconnect the multiplicity of worlds", or "the diversity of ways of knowing and living that make many worlds thrive in different places."</p><p>At an even more granular level, regional literatures also provide insights into fundamental cultural ideologies and social contracts and how these have evolved over time, as well as how they translate into specific world views and un-written laws that define how gender is done in specific regions and/or tribes. In the case of the empirical material explored in this paper, these regional literatures provide fundamental insights into social relations in our areas of study: the Mayan cosmovision, or worldview <ref type="bibr" target="#b64">[66,</ref><ref type="bibr" target="#b65">67]</ref>, and the unwritten Wayuu law or social contract <ref type="bibr" target="#b66">[68,</ref><ref type="bibr" target="#b67">69]</ref>.</p><p>Building on a context-specific understanding of electricity access, we draw on another important theorisation of gender as something that is intersectional. Crenshaw <ref type="bibr" target="#b33">[35]</ref> coined the term "intersectionality" to explain the ways in which the power-filled social relations defining someone's experience of gender combine and compound with those of their other social identities. That is to say that a woman's experience of femininity, or a man's experience of masculinity, is strongly influenced by her or his experiences of race, ethnicity, age, health, education access, electricity access, socio-economic status, family position, and so on. As Crenshaw theorises when illustrating the challenges faced by lowresource women of colour in the USA, these identities are underpinned by power relations that combine and compound in empowering and/or disempowering ways. We would argue that, if we link this back to Massey's work, such a conceptualisation helps to show why experiences of gender are personal, varying both within and between different landscapes of social relations as experienced through everyday practices.</p><p>Moreover, both Massey's and Crenshaw's theoretical perspectives highlight the need to explore the power relations underpinning someone's social and intersectional experience of gender. As such, we draw on work by Connell <ref type="bibr" target="#b43">[45,</ref><ref type="bibr" target="#b44">46,</ref><ref type="bibr" target="#b68">70]</ref>, Schippers <ref type="bibr" target="#b46">[48]</ref> and Budgeon <ref type="bibr" target="#b41">[43]</ref>, which provides an in-depth discussion of the relational and hierarchical power-filled nature of gender structures (to be explicit, we are taking the position that power is pervasive throughout all these other areas of concern: e.g. <ref type="bibr" target="#b69">[71]</ref>). Connell <ref type="bibr" target="#b43">[45,</ref><ref type="bibr" target="#b68">70,</ref><ref type="bibr" target="#b70">72]</ref> develops the concept of "hegemonic masculinity", conceptualising both the structure of gender difference and how masculinity is positioned in hierarchy and in relation to femininity. Connell explores these ideas to illustrate how male dominance is maintained in many societies. Schippers <ref type="bibr" target="#b46">[48]</ref> and Budgeon <ref type="bibr" target="#b41">[43]</ref> extend this work. Schippers <ref type="bibr" target="#b46">[48]</ref> considers the changing role of femininity in some cultures. Budgeon <ref type="bibr" target="#b41">[43]</ref>, on the other hand, develops the idea of plural masculinities and femininities. Budgeon suggests here that, whilst a difference always exists between genders, within societies experiencing a wide-spread plurality of femininities and masculinities, this gender difference is not necessarily maintained via hegemonic masculinity, but instead via less hierarchical gender arrangements.</p><p>Finally, we come to a key insight from the Gender Studies literature that underpins each of the theoretical perspectives above. This is West and Zimmerman's <ref type="bibr" target="#b71">[73]</ref> theorisation of gender as something we "do". From a reading of this work, we understand gender to be something that is produced, reproduced, sustained, challenged, resisted and redefined through "doing" within everyday practices.</p><p>The work of Judith Butler <ref type="bibr" target="#b42">[44]</ref> takes understandings of "doing" gender further still. Butler emphasises that our gender is performative, with gender being made up of acts that mark a person as a particular gender. She argues that it is through the repetitive performance of those gendered acts that the illusion of a stable gender identity is created. She therefore theorises gender as something that can be done normatively and non-normatively. To do one's gender normatively would be to perform gender in line with local gender expectations, whereas to do one's gender non-normatively would be to perform it in a way that challenges and potentially redefines such expectations. Butler's work also emphasises how, in order to do one's own gender, it is sometimes necessary to undo dominant notions and norms of personhooda power-laden and messy process. It is Butler's articulation of performativity that we adopt in the current paper, understanding it as the articulation of gender in the performance of everyday practices.</p><p>Bringing this work back to how norms are created and maintained, Radtke and Stam <ref type="bibr" target="#b72">[74]</ref> provide a detailed review and discussion of how gender relations as power relations are socially constituted through social practices that "constrain and oppress, but also in those that enable and liberate". As such, they note the precariousness of gender identity as something that must be continually accomplished as a "personal project". We see, too, in the Latin America Gender Studies literature, how gender norms have been constructed over time, with colonialism reifying normative gender roles and sexualities by positioning European ideals of rigid gender norms and heterosexuality as superior, often legislating these norms through colonial legal codes and 'sodomy' laws <ref type="bibr" target="#b73">[75,</ref><ref type="bibr" target="#b74">76]</ref>. Highlighting the importance of power relations within the field of gender-energy practice and policy, Ahlborg <ref type="bibr" target="#b40">[42]</ref>, drawing on Mouffe's <ref type="bibr" target="#b75">[77]</ref> work, suggests that gender structures become normalised in a given setting through power relations. Ahlborg sees this first as the outcome of 'political acts' that institute normalised arrangements, and later as 'natural' power dynamics, or 'givens', that often go unquestioned in everyday practices. Again, as will become clear below, we make an explicit link between this emphasis on social practice and the theoretical position adopted by Social Practice Theory.</p><p>If we take these insights together (including Massey, Crenshaw, Connell, Schippers, Budgeon, Radtke and Stam, and Ahlborg's work), we can understand someone's social, relational, intersectional and hierarchical experience of gender and electricity access as being continually reproduced, sustained, resisted, challenged and redefined as people "do" gender through daily practices. In complement to this idea, Risman <ref type="bibr" target="#b47">[49]</ref> suggests that social systems are recursive and created both by structure and agency. Risman <ref type="bibr" target="#b47">[49]</ref> makes a key move in aligning a perspective on how gender is done with Giddens' work by theorising gender as a social structure that involves multiple layers of doing. Risman <ref type="bibr" target="#b47">[49]</ref> argues that "we must pay attention both to how structure shapes individual choice and social interaction and to how human agency creates, sustains, and modifies current structure". As will become clear below, this move is significant in helping us to bridge the above insights from the Gender Studies literature with Social Practice Theory, to which we now turn.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Combining insights from Gender Studies with insights from Social Practice Theory</head><p>It is the recognition in the Gender Studies literature of gender as something that is "done", and is therefore socially constructed <ref type="bibr" target="#b71">[73]</ref>, that allows us to make the fundamental theoretical move that we do in this paper, connecting it with an emphasis on how electricity only becomes meaningful via the ways in which it intersects with people's doing of everyday social practices. References to the ways in which gender is done and comes into being through social practices are commonplace <ref type="bibr" target="#b33">[35,</ref><ref type="bibr" target="#b41">43,</ref><ref type="bibr" target="#b42">44,</ref><ref type="bibr" target="#b46">48,</ref><ref type="bibr" target="#b48">50,</ref><ref type="bibr" target="#b71">73,</ref><ref type="bibr" target="#b72">74,</ref><ref type="bibr" target="#b76">78]</ref>. Despite this, however, other than the limited work reviewed below (most of which engages with practice theory more generally, as opposed to Social Practice Theory specifically), we are not aware of any attempts within the gender-energy literature to date to directly link aspects of the Gender Studies literature to the well-established field of Social Practice Theory. Indeed, beyond the energy studies literature, we have only encountered one other example where these two bodies of literature have been applied together, namely in the anthropological work of Pink <ref type="bibr" target="#b45">[47]</ref> in her analysis of the performance of gender roles in the home, based on empirical work in England and Spain.</p><p>The connection we make between these two bodies of theory in the current paper directly responds to Listo's ( <ref type="bibr" target="#b31">[33]</ref>, p.16) call for the genderenergy access literature to explicitly analyse the gendered impacts of electricity access through a practice-based perspective: "In order to leverage the potential of energy to truly benefit women, it is crucial that research avoids either mythologising or problematizing women, but rather builds a critical evidence-base on the ways in which energy is implicated in the social practices and structures which sustain inequality." In this way, Listo <ref type="bibr" target="#b31">[33]</ref> alludes to the connection we make here between the performative nature of gender, its intersection with the social practices that are influenced by access to electricity, and their implications for gender equality.</p><p>Social Practice Theory draws our attention to the fact that access to electricity becomes meaningful through the ways in which it facilitates, or changes, daily practices. People don't want electricity; they want to read, cook, socialise, or pursue other activities after dark, and to communicate and connect with the wider world. Shove and Walker <ref type="bibr" target="#b39">[41]</ref> capture this meaning well in their emphasis on asking "what is energy for?". When electricity comes into people's lives for the first time, a Social Practice Theory perspective therefore provides a tangible view of how electricity intersects with people's lives in a powerful way. The context of electrification, where people access electricity for the first time, is arguably much more poignant for such an analysis than those where electricity has been a part of daily life for many decades. To date, however, studies of long-electrified practices form the focus of the majority of the Social Practice Theory literature that centres on energy, making analyses such as that presented in the current paper and reviewed below quite novel. A Social Practice Theory lens also allows us to take further conceptual and methodological steps by highlighting the utility of a focus on electrical appliances (like lightbulbs, or mobile phones) as an epistemological entry point for analysing the gendered impacts of electricity access. We expand on this further below.</p><p>In the existing, albeit nascent, gender-energy access literature, examples do exist where important contributions have been made in drawing our attention to the relevance of a practice-based perspective. For example, through their operationalisation of Stephenson's <ref type="bibr" target="#b77">[79,</ref><ref type="bibr" target="#b78">80]</ref> Energy Cultures Framework, using it for the first time to analyse the gendered impacts of electricity access (based on analysis of the implementation of a mini-grid in rural Zambia), Johnson et al. <ref type="bibr" target="#b15">[17]</ref> make an important contribution in this direction. The Energy Cultures Framework shares much in common with a social practice perspective, placing an emphasis on what they call "material culture" (technical objects), "energy practices" (anything actors do where energy is embedded, including using or purchasing appliances) and "norms" (shared beliefs on how to behave in any context) <ref type="bibr" target="#b15">[17,</ref><ref type="bibr" target="#b78">80]</ref>. These arguably map loosely on to Social Practice Theory's theorisation of social practices consisting of "materials", "competencies" and "meanings", which we expand upon below (see Fig. <ref type="figure" target="#fig_0">1</ref>).</p><p>Tanja Winther and colleagues <ref type="bibr" target="#b13">[15,</ref><ref type="bibr" target="#b28">30,</ref><ref type="bibr" target="#b37">39]</ref> make similar moves in emphasising the importance of a focus on social practice in the context of electricity access and gender. For instance, Winther et al. <ref type="bibr" target="#b37">[39]</ref> observe that practice theory is a useful conceptual lens through which to understand interactions between gender and energy access: "Practice theory has particular merits in analysing gendered impacts of electrification due to the repetitive and habitual character of everyday energy use and the way structures such as gender ideologies, norms and power relations and the material organisation shape what people do with energy." Interestingly, though, whilst they cite Shove's work, Winther and colleagues' use of social practice tends to focus on the work of Bourdieu <ref type="bibr" target="#b79">[81,</ref><ref type="bibr" target="#b80">82]</ref> and his emphasis on habitusan emphasis Shove and colleagues argue leaves Bourdieu with an incomplete theory of social change <ref type="bibr" target="#b38">[40]</ref>.</p><p>As mentioned above, a notable example where certain aspects of the Gender Studies literature are brought together with Social Practice Theory in the context of energy studies (although not electricity access) is the work of Khalid and Razem <ref type="bibr" target="#b17">[19]</ref>. They analyse the nexus of gendered domestic practices, energy and space in middle class housing in Pakistan and Jordan. Drawing on the work of Shove et al. <ref type="bibr" target="#b38">[40]</ref>, as we do below, Khalid and Razem <ref type="bibr" target="#b17">[19]</ref> ground their analysis in the everyday realities of energy consumers and connect this with a focus on gendered power dynamics and inequality. The latter is achieved via a focus on intersectionality, drawing on later work (than that reviewed above) by Crenshaw and colleagues <ref type="bibr" target="#b81">[83]</ref>.</p><p>As with Khalid and Razem <ref type="bibr" target="#b17">[19]</ref>, in the current paper, we adopt Shove and colleagues' approach to Social Practice Theory <ref type="bibr" target="#b38">[40]</ref>. Shove et al.'s work draws heavily on Schatzki <ref type="bibr" target="#b82">[84]</ref><ref type="bibr" target="#b83">[85]</ref><ref type="bibr" target="#b84">[86]</ref><ref type="bibr" target="#b85">[87]</ref>. Of particular significance to our engagement with the Gender Studies literature is the fact that, as with Risman <ref type="bibr" target="#b47">[49]</ref>, Shove et al. <ref type="bibr" target="#b38">[40]</ref> also build on Giddens' <ref type="bibr" target="#b86">[88]</ref> structuration theory, aligning themselves with Giddens' position "… that human activity and the social structures that shape it are recursively related. That is activities are shaped and enabled by structures of rules and meanings, and these structures are, at the same time, reproduced in the flow of human action" ([40], p.12).</p><p>In other words, Shove et al. <ref type="bibr" target="#b38">[40]</ref> argue that change is possible and happens through the interplay between human agency and changing social structures (both of which might be impacted by electricity access). We believe that understanding change is fundamental to any concern with the gendered impact of new access to electricity. Shove and colleagues place practices, or everyday activities, centre stage in any study of social stability or change. They see practices as what we do with our lives, stringing together to form our days, weeks, months and years, or, in Shove et al.'s ( <ref type="bibr" target="#b38">[40]</ref>, p.135) words, they form our "daily and life paths". Shove et al. <ref type="bibr" target="#b38">[40]</ref> are primarily concerned with the dynamics of social practices, their reproduction and their transformation, in the same way as we are concerned in the current paper with how new access to electricity intersects with gender.</p><p>Shove et al. <ref type="bibr" target="#b38">[40]</ref> take Giddens' insights further by emphasising that the majority of daily practices happen at the level of the unconscious, the routine, whilst simultaneously pushing back against the idea that they are solely determined by social structures. Through this they align themselves with Giddens' ( <ref type="bibr" target="#b86">[88]</ref>, p.2 cited in Shove et al. <ref type="bibr" target="#b38">[40]</ref>, p.12) assertion that "… the basic domain of study of the social sciences, according to the theory of structuration, is neither the experience of the individual actor, nor the existence of any form of social totality, but social practices ordered across space and time." By adopting such a stance, proponents of Social Practice Theory thus both acknowledge potential for change as well as offering a conceptualisation of how and why change might (or might not) occurthus speaking clearly to our concern in the current paper with understanding both how and why someone's experiences of gender and electricity access might recursively influence one another.</p><p>Shove et al. <ref type="bibr" target="#b38">[40]</ref> theorisation of the elements that constitute social practice, and hence where analytical attention ought to focus, entails helpful work in combining, or "collapsing" as they put it (ibid., p.23) the theoretical concerns of other practice theorists into three core conceptual components, as illustrated in Fig. <ref type="figure" target="#fig_0">1</ref>. The first is "materials", which they describe as "objects, infrastructures, tools, hardware and the body itself" (ibid.). The second is "competences", by which they mean both the knowledge and understanding to evaluate a performance and the skills necessary to perform a given practice. Finally, they emphasise the significance of "meanings", or "… the social and symbolic significance of participation at any one moment" (ibid.). In doing so, they emphasise their understanding of meaning as something encompassed in practice.</p><p>Importantly for our theoretical development in the current paper, Shove et al. <ref type="bibr" target="#b38">[40]</ref> explicitly refer to how masculinity can form a part of a practice's meanings and, through this, influence who participates in it. They also argue that practice participation patterns are cumulative, with past practice experiences being an indicator of future participation, as people acquire competences over time. Drawing on Kline and Pinch <ref type="bibr" target="#b87">[89]</ref>, Shove et al. give the example of driving and repairing cars and demonstrate how masculine identities were associated with the meanings of driving when early cars were mechanically unreliable and required drivers to repair them on the road. They show how these meanings influenced who developed the competences (ability to drive), who accessed the materials (cars) necessary to drive and ultimately, therefore, led to men developing the competences to participate in repair work, thus further sustaining the masculine identity of driving.</p><p>Shove et al. <ref type="bibr" target="#b38">[40]</ref> further emphasise the recursive nature of the different elements of practice by, building on Reckwitz <ref type="bibr" target="#b88">[90]</ref>, differentiating between a practice as entity (e.g. "skateboarding") and a practice as performance (e.g. "performing the practice of skateboarding"). They see practices as being sustained over time through successive moments of performance by "carriers" (individuals performing practices, e.g. skateboarders). Here, in line with Giddens' stance, they suggest that the potential for changes in a practice exists via the recursive nature of its elements. Changes in materials (e.g. different styles of skateboard), competences (e.g. evolving skateboarding skills as people perform it differently) and meanings (e.g. shifts in how skateboarding is socially and symbolically perceived) can all influence the overall practice of skateboarding, helping to explain changes in the practice over time.</p><p>Connecting this with work from the Gender Studies literature reviewed above (including work by West and Zimmerman <ref type="bibr" target="#b71">[73]</ref>, Butler <ref type="bibr" target="#b42">[44]</ref>, Connell <ref type="bibr" target="#b76">[78]</ref>, Radtke and Stam <ref type="bibr" target="#b72">[74]</ref>, Budgeon <ref type="bibr" target="#b41">[43]</ref>, Schippers <ref type="bibr" target="#b46">[48]</ref>, Crenshaw <ref type="bibr" target="#b33">[35]</ref>, Massey <ref type="bibr" target="#b48">[50]</ref>, Ahlborg <ref type="bibr" target="#b40">[42]</ref>, and Risman <ref type="bibr" target="#b47">[49]</ref>), we can understand someone's social, relational, intersectional and hierarchical experience of gender and electricity access as being continually reproduced, sustained, resisted, challenged and redefined as people "do" gender through daily practices, within social systems that are recursive and created both by structure and agency. As such, we begin to be able to synthesise these insights from Gender Studies and Social Practice Theory to develop a theoretical framework that allows us to understand how and why electricity access intersects with gender in different ways in different contexts. We begin by understanding gender as recursively performed through social practices. This is illustrated in Fig. <ref type="figure" target="#fig_1">2</ref>, which emphasises the performative nature of gender and the recursive relationship (illustrated by the arrow) between the changing meanings, competences and materials that constitute gendered social practices. As the Gender Studies literature emphasises, constructions and experiences of femininity and masculinity are fundamentally performative, place-based, power-filled and intersectional. We extend Shove et al.'s <ref type="bibr" target="#b38">[40]</ref> treatment of masculinity in relation to driving by considering the extent to which constructions of masculinity and/or femininity overlap with the meanings of different practices (e.g. cooking). We consider this as being fundamental to who can participate in specific practices and, hence, fundamental to understanding the gendered impacts of electricity access in different contexts. As we will see, this is powerfully illustrated by our empirical analysis below.</p><p>To illustrate this graphically, in a situation such as Fig. <ref type="figure" target="#fig_2">3a</ref>, where constructions of femininity overlap with the meanings of a practice, but the construction of masculinity does not, there is very low potential for access to electricity to influence gender relations around this practice. This is what we observe in relation to the gendered impacts of electric lightbulbs and cell phones for the practice of cooking in our Guatemalan case study below. In a situation such as that illustrated in Fig. <ref type="figure" target="#fig_3">3b</ref>, on the other hand, the slight overlap between feminine and masculine meanings implies greater potential for access to electricity to lead to changes in gender relations, due to the greater potential participation of those identifying as masculine and feminine in such a context. This is what we observe in relation to the impact of electric lightbulbs and cell phones on the practice of weaving in our Colombian case study below. In this sense, we can see how some practices form part of how femininity is recursively performed, some form part of masculinity, and some are more gender inclusive (albeit in differentiated ways). Importantly, this theoretical framing also allows us to account for the fact that constructions of femininity and masculinity, as well as a practice's elements, can differ between different contexts, and therefore to understand why a similar impact of electricity access on a similar practice might have different gendered impacts in different contexts. In the same way as Shove et al. <ref type="bibr" target="#b38">[40]</ref> emphasise in relation to skateboarding, it also allows us to consider how electricity access might lead to changes in materials, competences and meanings, and hence how practices might shift over time to align differently with masculinity or femininity, or both. Emphasising the recursivity of practices and constructions of femininity and masculinity also allows us to consider how such constructions, as well as practices, might change over time with the arrival of electricity in any given context.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">A novel, appliance-based methodological approach</head><p>As well as a novel theoretical framework, this paper also innovates methodologically by focussing on electrical appliances as the  epistemological entry point for analysing the gendered impacts of electricity access in any given context. This emphasises appliances as the material elements of practice, that are the medium through which new access to electricity intersects with existing social practices or connects with as-yet unlinked elements to form new practices. For example, the material elements of kerosene lamps, torches, handheld solar lamps and overhead electric lights may all interact differently with the competences and meanings of everyday practices such as sanitation, cooking, socialising and studying. The arrival of phone charging or televisions may also create new practices, potentially displacing old ones that existed before them. Television viewing and other everyday practices may take on new meanings due to exposure to new culture accessed via TV. For this reason, the methodology presented below foregrounds a focus on appliances or, more specifically, on appliance use, as the means through which to understand the intersection of electricity access with everyday practices. At the end of this section, we combine this appliance-use focus with the theoretical framework developed above to summarise an 8-step guide to applying this novel methodological approach in practice.</p><p>This paper uses empirical data from two extensive periods of fieldwork in two separate case study sites. The first case study focuses on the Guatemalan departments of Alta Verapaz and Petén, characterised by Mayan-influenced communities with patriarchal gender structures. The second focuses on the region of La Guajira in Northern Colombia, characterised by indigenous tribes, the largest of which are the Wayuu, organised by matrilineal endogamy clans <ref type="bibr" target="#b67">[69]</ref>. Responding to Sovacool et al. <ref type="bibr" target="#b89">[91]</ref>, this facilitated comparative case study based analysis. The two case studies are spatially similar (located in Latin America in lowresource, indigenous, off-grid communities and using an identical electricity access business model and technologies), but distinct due to the influence of different cultures, different local realities and, most fundamentally, different gender structures.</p><p>Data were gathered between 2018 and 2019 and provide a snapshot of gender-energy relations, based on three week-long visits to remote rural communities: two in Guatemala and one in Colombia. Access to the communities was facilitated by the lead author's previous position helping to establish an off-grid, pay-as-you-go solar company, Kingo, that operates using the same electricity access models in both case study areas. This provides parity across cases studies in one of the core analytical foci (access to electricity). Both case studies were characterised by low socio-economic conditions typical of off-grid communities experiencing electrification for the first time <ref type="bibr" target="#b4">[6,</ref><ref type="bibr" target="#b90">92,</ref><ref type="bibr" target="#b91">93]</ref>.</p><p>These intense, rapid periods of data collection were made possible due to strong support from Kingo and a local research team. They were also augmented by the fact that the lead author spent over five years living in Guatemala, one year of which was spent living in a small town in Petén near to the communities on which this research focuses, working daily with people from these areas to initiate and pilot the solar energy service central to the research and regularly travelling to conduct research as part of this work. This adds a significant additional element of participant observation and detailed contextual knowledge to the research.</p><p>Purposive sampling was used to triangulate data across settlements with a range of different characteristics including, but not exclusive to, region, size of settlement, level of access to road and other infrastructure, principal economic activities, topography and other transport access (e.g. rivers). In total, 128 people from 16 different communities were sampled in Alta Verapaz and Petén, Guatemala, and 60 people from 9 different settlements were sampled in La Guajira, Colombia. Participants were further stratified (see Tables <ref type="table" target="#tab_0">1</ref> and <ref type="table" target="#tab_1">2</ref>) based on gender, access to DVD or TV (TV was not available in Guatemala) and usage of Kingo's PAYG solar PV electricity access service from between 6 months and 3 years. This service powers a small number of appliances, including three light bulbs with long cables for suspending from a ceiling or wall, one phone charger, one optional DVD player (to be used in place of one light bulb) and one USB port for devices such as speakers. Prior to the arrival of solar PV systems, people living in these areas used candles and kerosene for lighting and some used diesel generators for additional power <ref type="bibr" target="#b92">[94]</ref>.</p><p>Data collection consisted of a combination of semi-structured interviews within people's homes that were combined with home tours <ref type="bibr" target="#b93">[95]</ref> and participant observation <ref type="bibr" target="#b94">[96]</ref>. A number of community focus groups were also run. Across Alta Verapaz, Petén, and La Guajira, fortyeight semi-structured interviews, thirteen focus groups, and sixteen participant observations were conducted (Table <ref type="table" target="#tab_2">3</ref>).</p><p>Individual interviews were chosen to allow for more intimate discussion, during which trust could be built and interviewees could speak freely. Focus groups were chosen to build dialogue, consensus, and reveal disagreement regarding certain issues. For the interviews and focus groups, a script was created to initiate, prompt and guide the conversation. Each question had a direct relationship to the study's core focus on performativity from the perspective of both gender and social practice, with electrical appliances (facilitated by new access to electricity) providing the analytical point of purchase. Prompts ensured that participants discussed weekday routines, weekends, special occasions and times when things differed from the norm. All questions focused on how these factors might be gendered, e.g. "who does that?", "who decided that?", "why is that so?", "does anyone else help with that?", etc. These questions were a guide rather than a prescribed order in which the interviews were conducted. The interviewee led the conversation in different directions and went deeper into areas they wished to discuss. The script also included more generic, open-ended prompts such as "can you explain a little more?", "in what way?", "how do you mean?", "why is that do you think?", "is there anything else?".</p><p>All interviews took place in Spanish. Audio was recorded for later written analysis. In Alta Verapaz, Guatemala, individual interviews and focus groups were often simultaneously translated into and from Q'eqchi'. In La Guajira, Colombia, most interviews and focus groups were simultaneously translated to Wayuunaiki.</p><p>Where participant home tours were offered by interviewees, these focused on understanding how participants used appliances during their days and evenings together. Home tours were not planned and took place as and when people were inclined. Observations included taking notes, photographs and videos of electrical and non-electrical appliances and how they were used for practices such as cooking, washing laundry, watching television and weaving <ref type="bibr" target="#b95">[97]</ref>. Observations were recorded using Spradley's <ref type="bibr" target="#b94">[96]</ref> nine key participant observation dimensions: spacephysical layout of the place(s); actorrange of people involved; activitya set of related activities that occur; objectthe physical things present; actsingle actions people undertake; eventactivities people carry out; timethe sequencing of events that occur; goalthings people hope to accomplish; and feelingemotions expressed.</p><p>All data were collected by the lead author, accompanied by a number of local people including researchers, translators, drivers and staff who worked at Kingo (the PAYG solar company the first author had previously helped to create before leaving to pursue research). This endowed the research team with significant local trust and knowledge. It was particularly significant in responding to sensitivities in discussing gender and other often sensitive intersectional issues in these specific, remote locales. All participants were recruited by Kingo employees who had already built trusting relationships with their clients, indigenous Mayan community leaders, and Wayuu clan elders.</p><p>The data were analysed thematically drawing on the theoretical framework above, based on the following 8-step approach, which was developed iteratively through the case study research:</p><p>• Step 1: Depending on the stage of electrification for the area in question, identify manual and/or electric appliances used by a representative selection of women and men. Ask questions to map out which practices these appliances are used for. • Step 2: Explore these practices in detailtheir materials, competences and meanings, asking "Who uses these materials?", "Who has the skills to do the practice?", "How and why did they learn these skills?", "Why do they (and potentially not others) perform this practice?" In addition, where electrical appliances are present, also ask "How has electricity access changed these experiences?" Source: Authors. Source: Authors. Our empirical analysis was then used to further develop and deepen our performative-theoretical framework. This inductive analysis was important to the authors to ensure the framework developed was based on the lived realities discovered in the contexts visited, and thereby reflective of the ideas, beliefs and daily experiences of the populations accessing electricity. In keeping with guidance offered by Arora and Stirling <ref type="bibr" target="#b63">[65]</ref>, this approach aimed to nurture, respect and acknowledge the diversity of ways of knowing and living involved in the worlds of the communities and settlements visited. This was a conscious move away from coloniality and a linear conceptualisation of modernisation and development. As Arora and Stirling <ref type="bibr" target="#b63">[65]</ref> argue, when considering sustainability research, it is important to "look beyond the modern world for imaginations of well-being".</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Empirical insights: applying a performative theoretical perspective to rural Guatemala and Colombia</head><p>Reflecting the differing gendered impacts of electricity access evident in empirical examples from the gender-energy access literature to date (see Section 1), our empirical analysis below reveals that the impact of electricity access on gender has been very different in our two cases study areas. In rural Guatemala, it has tended to reinforce existing gendered divisions in terms of the separate practices in which women and men participate, simultaneously reinforcing the gendered power hierarchies that exist there for most people. Shifts in gender relations have therefore been more subtle and hidden, occurring around the edges of this reinforced structure. In Wayuu settlements in Colombia, on the other hand, the impacts have been more widely and overtly positive, and arguably potentially transformative in terms of supporting greater equality and overlap between the practices it allows many women and men to perform, as well as facilitating a greater plurality of practices in which women as well as men participate.</p><p>As will become clear in the analysis below, drawing on the theoretical framework developed above, we are able to see both how and, importantly, offer an explanation as to why electricity has such different gendered impacts in both our case study contexts. For the purposes of illustrating the analytical purchase of our new theoretical framework, we focus here on just two of the empirical examples of electrical appliances studied in our case study areas. These are electric lighting and cell phones, both of which are common foci for analysis in much of the academic and policy literatures on gender and electricity access. For the purposes of clarity, to help readers follow the ways in which we operationalise and extend the various components of our theoretical framework, we highlight in bold key theoretical components when they appear in the empirical analysis below.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Insights from the Guatemalan case study</head><p>When exploring how and why electric lighting and cell phone use impact gender in Mayan-influenced communities in rural Guatemala, Social Practice Theory focuses our attention immediately on the practices for which these appliances are prioritised. This is helpful because we see how electric lighting is overwhelmingly prioritised for cooking by almost all women and men in our case study area, with very few exceptions. We also observe that cell phones are prioritised to support cooking and other domestic practices such as laundry and childcare. Moreover, a practice-based focus highlights how lightbulbs and cell phones influence the practice of cooking in relatively consistent and tangible ways for most people.</p><p>Firstly, as new material elements within this practice, lightbulbs replace candles and kerosene and, along with cell phones, they join other cooking materials such as subsistence crops, locally purchased food supplies, a wood-burning stove and the diesel-powered corn mill. Secondly, these appliances link with various competences necessary for making tortillas, a staple food here. These include the de-husking, shucking, cooking, and grinding of corn, as well as forming dough into tortillas and cooking it over a fire. They also involve 6 to 8 h of physical strength, labour and patience, with time spent collecting water from the pump, or river, preparing and cooking corn on a fire outside of the house, at the mill grinding corn into dough, buying groceries from the local shop to accompany the tortillas, and at the stove cooking these items. Thirdly, lightbulbs and cell phones link with multiple meanings associated with cooking in this area, such as survival, subsistence living, femininity, a woman's contribution as defined by God, Mayan ethnicity and more (we return to and expand on these latter considerations further below).</p><p>Building on this Social Practice Theory informed understanding of the different elements of the practice of cooking, we can then analyse who carries, or participates in this practice, as well as how such participation is impacted by electricity access. This highlights how cooking is almost exclusively done by women and girls. It also highlights that the use of lightbulbs and cell phones for cooking does not appear to change who cooks, but instead provides greater visibility, control and flexibility within the practice of cooking, which is then used to extend the length of women's workdays. For instance, many women described the happiness and clarity that electric lighting brought to their cooking. They also explained that this light and access to cell phones (as torches and alarms) allowed them to wake to prepare breakfast and lunch an hour or two earlier than normal at 4 am, rather than between 5 am and 6 am when the sun came up. As some men noted, this was important because it enabled them to go to work in the fields earlier and to return home earlier in the afternoons to relax and avoid working for as long as they did previously in the heat of the sun. Many women also commented that lightbulbs allowed them to cook later into the evening to prepare a better family dinner. Both men and women described how cell phones supported women whilst they cooked, as entertainment, for communication, or in childcare.</p><p>These insights are an important step towards answering our question of how electricity impacts people's experiences and/or performances of gender in this case study area. Combining insights from Social Practice Theory with insights from Gender Studies allows us to take the critical next step in explaining both how and why electricity access impacts in these ways. It also demonstrates how the theoretical components of these two areas of theory can be usefully extended in their application to understanding the gendered impacts of electricity access.</p><p>To begin with, understanding gender as performative provides another way of viewing women and girls as the carriers of cooking for many hours each day, which is to see this practice as a significant means through which femininity in this region is normatively performed (i.e. in line with existing gender norms) on a daily basis. A helpful explanation for why electric lighting and cell phone use mostly reinforces normative performances of gender through cooking in rural Guatemala is that women's use of these material elements of the practice of cooking, within their feminine roles as housewives and mothers, does not change the accepted meanings of the practice of cooking. Instead, this practice is still assumed to be a feminine task and positioned as women's main contribution to the family, as decided by God. This highlights how lightbulb and cell phone use recursively form a part of how women perform their feminine roles as housewives and mothers (through using materials to cook), how they build their feminine identities as such (through cooking competences), and how and why the hierarchy and relationality between masculinity and femininity are maintained within this society (through the meanings of cooking). This also demonstrates the clear synergies between, and extensions of, key concepts from the two main bodies of theory (Social Practice Theory and Gender Studies) that we draw on in this paper.</p><p>This can be further explained by attending to gender power relations. This allows us to see that the meanings of cooking in this context are largely seen as "givens" that go unquestioned by most people because they are underpinned by strong gender power relations. For instance, the "feminine" meanings of cooking simultaneously preserve gender difference and preserve male dominance through the social expectation that men provide and women cook. As such, the opportunity for women or men to perform their gender non-normatively through these practices is discouraged, or reduced, by the strong patriarchal gender power structure within which they sit. This patriarchal power structure is steeped in colonial and civil war history and sometimes results in expressions of fear and shame if gender norms are defied <ref type="bibr" target="#b74">[76,</ref><ref type="bibr" target="#b96">98]</ref>. There were, however, some more hidden, less overt shifts in gender relations observed from access to cell phones. Some men in one group, for instance, admitted to their frustration that women and children are starting to read about human rights and say they will report men to the law if they hit them. A few women in a community with internet coverage also said they message each other to pass the time and sometimes get distracted as a result. However, despite these observed changes, this new appliance was still overwhelmingly prioritised by most people to support women during cooking and other domestic practices, thereby overtly reinforcing existing gender roles, identities and relations.</p><p>An understanding of the intersectional nature of gender can take this explanation further still. It highlights how the two social identities, gender and level of electricity access, intersect with one another through cooking, whilst also being influenced by an individual's other social identities, such as their socio-economic level, age, health, ethnicity and more. Through this we can see that the general tendency for women's normative use of electric lighting and cell phones to perform femininity through cooking is likely reinforced by the fact that most women in these communities have similar socio-economic status, livelihood access, electricity access, gender and ethnic backgrounds to one anotherall of which compound the need to make tortillas from subsistence farming, thereby maintaining cooking's various gendered meanings. As such, these social identities, and the power relations that underpin them, combine to restrict opportunities for non-normative performances of gender; in turn recursively reinforcing the performativity of femininity through cooking.</p><p>Interestingly, cooking remains a key practice for women and girls of varying ages, with most females cooking from approximately age nine onwards. Having said this, girls tend to shadow their mothers until they marry, and females within a family often share responsibilities and support one another during times such as ill health and childbirth, suggestive of some variation in cooking responsibilities based on age, health, and family structure. Importantly, our empirical findings also show isolated instances where some non-normative performances of gender through electric lighting and cell phone use are possible. This was observed where people's experiences and/or performances of their social identities place them in a position of need, or privilege, in a way that shifts the ways in which their various social identities intersect in this context. For example, women raising children alone because their husbands were no longer there (due to events such as male migration, civil war, illness or other violence), appeared not to be confined by the same gender norms as women whose husbands were still present. These women were able to prioritise the use of electric lighting and cell phones differently to earn an income, because this was seen as a necessity for survival, before any cooking might be possible. Likewise, women in a position of privilege were observed to be able to transcend traditional gender norms in a different way. For example, one woman was able to use her above average maths skills to start and grow a shop business and then use electric lighting to open her shop in the evenings and use her cell phone to run the shop day-to-day. This young shopkeeper eventually struck a deal with Pepsi to have a fridge (again an appliance facilitated by electricity access) and sell cold drinks. The gendered implications of this for her, however, were complex and unknown. She said she was unsure whether she could ever marry as she had sought financial independence rather than a partner to provide for her. Her mother reasoned, however, that she could do this work because she had special skills, given to her by God, to serve others.</p><p>Lastly, an understanding of the social relations, or situated understandings of local conditions and cultural ideologies, in this area provides a further layer of explanation for why electricity access is largely prioritised for the practice of cooking, as well as why it is used to reinforce a normative performance of femininity within this practice. This layer builds on the arguments above by exploring the social relations underpinning the various power-filled social identities just described. Making tortillas from the land is a way of life that is deeply ingrained in rural Guatemalan culture because it is the only survival option in remote areas. These communities are surrounded by arable cornfields, with most people's wealth formed from the land they own and cultivate. Coupled with this, there are very few alternative livelihoods available as most communities are located hours from urban areas. The tasks required to cultivate corn, as well as to make tortillas, are full-time roles encouraging a division of labour within the family. There are clear synergies here between such situated understandings of local conditions and the materials (corn, wealth, land, access to markets, etc.) and competences (corn cultivation and tortilla making) elements of social practices.</p><p>These synergies enable us to go further still, understanding the stability of these materials and competences and the social relations they support in the context of the fact that, throughout much of history, the division of labour between men working in the fields and women turning their produce into tortillas has formed a central theme within local cultural ideologies, becoming normalised as "the way things are". As a reading of Mesoamerican texts written about the Mayan Ch'orti people of South-Eastern Guatemala, Honduras, and El Salvador, emphasises: "Man will be forced to work in the cornfield and the woman at the foot of the comal [tortilla cooking plate] preparing tortillas" ([67], p.217).</p><p>Bringing these insights together, we can understand why it is likely that the meanings of cookingincluding those of survival, subsistence living, femininity, a woman's main contribution to the family, Mayan ethnicity and Guatemalan culturewill remain relatively stable until alternative livelihoods are available in this area. In addition, these social relations are unlikely to vary too much within this landscape, applying to most women and girls in these communities and leaving little room for such a performance of gender through tortilla-making to be questioned or challenged, despite the arrival of electricity. Having said this, as changing social relations occur slowly, notably through male migration away from rural communities, through increased access to communication and information, and with the arrival of small businesses and connections to urban companies, some women are experiencing shifts in their social relations, providing the opportunity and/or need to respond by performing their femininity differently. As such, this theoretical perspective offers a clear explanation for why electric lightbulbs and cell phones are prioritised to support most women with the cooking of tortillas, as well as why most women use them to start their day earlier to prepare breakfast and lunch for their families, thereby enabling men to spend less time working in the full heat of the sun. Similarly, it provides an insight into why this is not the case for all women. As we will see in Section 4.2 below, it also provides a way of understanding how and why the gendered impacts of electricity are different in the context of our Colombian case study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Applying our framework to the Colombian case study</head><p>Mirroring some of the many examples in the gender-energy access literature reviewed further above and in our Guatemalan case, despite electricity access being delivered via the same business model/ approach, the gendered impacts of electricity access look very different in Wayuu settlements in rural Colombia than they do in rural Guatemala. Here, electricity seems to be more widely transformative in its interactions with gender relations, albeit with many layers of nuance and complexity. Lightbulbs in this context are used for cooking by some women; however, they are prioritised by most women for the weaving of artisanal handicrafts during the evenings as a means of income generation. Looking at cell phones in the Wayuu context also reveals a different picture to rural Guatemala. In the Wayuu context, cell phones are largely prioritised by both women and men to use for earning an income and travel. They are also used for day-to-day communication between family members, regardless of gender, and to support travel to urbans areas by moto-taxi or bus, for the sale of finished handicrafts and the purchase of weaving supplies.</p><p>Studying lightbulbs and cell phones as material elements of the social practice of weaving reveals that until electricity access arrived in such areas weaving only took place during daytime hours. As a result, lightbulbs and cell phones do not replace other materials within the practice of weaving. Instead, these electrical appliances make the previously daytime practice of weaving possible, as well as social, in the evenings. Weaving materials in this context include cottons, needles, scissors, seats, wooden structures, electric light bulbs and cell phones. In preparation for weaving, artisans travel to local towns to choose and purchase the cottons they need. When a woven handicraft is ready to sell, artisans travel back to local towns to sell this and use the proceeds to buy groceries and purchase weaving materials ready for their next creation.</p><p>Thinking, as Social Practice Theory encourages us to do, about the competences involved in weaving is helpful in understanding the gendered impacts of electricity in this context. Learning how to weave is largely defined by cultural gender rules. When Wayuu women come of age, they are taught to weave by their mothers, or another close female relative, during a period of confinement. Every Wayuu woman shares this confinement experience as a rite of passage. Men do not learn to weave in this way; however, as we will explore further, some men are starting to learn weaving skills and techniques from their wives due to the recent shifts occurring in this practice.</p><p>Exploring the meanings of weaving highlights the traditional cultural values associated with Wayuu handicraft making as an expression of both Wayuu ethnicity and femininity. In addition, it highlights the relatively new and increasing significance of the meanings of income earning and financial independence within this practice. Exploring this element of weaving therefore draws our attention to how weaving is changing in this region and leads us to question why this is so.</p><p>Building on this understanding of weaving, a consideration of who participates in this practice is helpful. In keeping with its traditionally feminine meanings, weaving is almost exclusively performed by women. However, our fieldwork highlighted three key observations relating to these participation patterns occurring with the arrival of electricity. Firstly, as already noted, weaving has become a practice in which many women participate during the evenings, allowing them to combine their daytime and evening work together to make a relatively sustainable income from selling their handicrafts. Secondly, with this shift to weaving in the evenings, there is an increased tendency for some men to engage in weaving. Thirdly, there is variability in these participation patterns, both within and between settlements, with some women tending not to weave during the day or evening but, instead, earning an income through teaching within their settlements, or paid work in urban areas.</p><p>With these insights in mind, Social Practice Theory provides some understanding of how electricity access impacts gender in this region. However, as with the first case study, combining this perspective with insights from Gender Studies enables us to explore in more depth how and importantly why these impacts are happening. Returning to the concept of gender performativity suggests that weaving is a significant means through which Wayuu femininity is normatively performed for cultural reasons (i.e. performed in line with existing gender norms). However, it also illustrates that this practice is an increasing means through which Wayuu femininity and masculinity are being nonnormatively performed to earn an income through the selling of artisanal handicrafts. Moreover, it is not the only significant means or practice through which femininity is non-normatively performed to earn an income in this area; as mentioned above, some women are earning income through teaching and other urban employment, rather than weaving. This provides an explanation of why electric lighting and cell phone use are expanding how gender is performed through weaving. It highlights how women's use of material elements (including electricity) as income earners is changing the accepted meanings of the practice of weaving. In other words, as women have started to make an income, and in some cases achieved financial independence from this work, the meanings of weaving are broadening to include economic provision and financial independence, which stretch how female artisans perform their femininity, as well as overlap with existing notions of masculinity. Coupled with electric lighting facilitating weaving in the evenings, the opportunity arises for men to also begin to engage with this traditionally feminine practice. As a result, lightbulb and cell phone use now recursively form part of how many women, and a few men, perform their respective feminine and masculine roles as income earners (through using materials to weave), how they build their feminine and masculine identities as such (through weaving competences to generate an income), and how the power relations between femininity and masculinity are shifting in this society (through the changing meanings of weaving). As before, this clearly demonstrates the synergies between, and extensions of, key concepts from the Social Practice Theory and Gender Studies literatures.</p><p>Using this framing we can then attend to gender power relations to better understand how and why such opportunities for changes in this practice might exist. Wayuu society is well-known for its complex matrilineal structure, which the Wayuu people have maintained despite many attempts at subjugation by colonial powers <ref type="bibr" target="#b67">[69]</ref>. Whilst patriarchy has been deeply entrenched through colonial practices that accord power to men, and shift power away from women, this case is striking in that it reveals spaces of resistance to these historic forms of social, political and economic power <ref type="bibr" target="#b97">[99,</ref><ref type="bibr" target="#b98">100]</ref>. These findings are consistent with other studies in Colombia documenting women's resistance to colonial forms of power through, for example, the Muisca women's participation in local rebellions against Spanish rule through insisting on maintaining cultural traditions, religious practices, and gendered roles that were integral to their identity <ref type="bibr" target="#b54">[56,</ref><ref type="bibr" target="#b99">101]</ref>. Taking these studies into account suggests that one reason why there might be opportunity for the traditional meanings of weaving to be questioned and widened is because the gender power relations underpinning them are less hierarchical and more plural in nature than in the first case study area where a strong patriarchy stands in place. In this sense, weaving is not a means through which male dominance is being reproduced. Moreover, considering this gender structure helps to explain why not all women use electricity for weaving during the evenings, because this more plural and less hierarchical set of gender power relations allows them to find other ways of expressing their femininity. Finally, where women and men both perform weaving, this perspective draws our attention to the fact that a difference must always exist and be maintained between femininity and masculinity. As such, we notice that despite some men starting to join women as artisans, the roles, identities and relations they perform through this practice are slightly different to those of women. For instance, some men explained and showed us how they make the bag straps and belts with a macrame technique, or knotmaking style, whereas the women weave the main part of the bags with needles, as well as using a large wooden frame to make hammocks.</p><p>Adding further to our explanation of why electricity access and gender intersect as they do through the practice of weaving, the Gender Studies literature draws our attention to how this intersectional relationship is compounded by power relations of other social identities. This highlights how women are especially well placed to take advantage of electricity access to earn an income through weaving, because they already have competences in this practice through their female Wayuu identities. This practice is also available to many women due to their identities as wives and mothers, which often limit their mobility to the home for domestic tasks and childcare, both in the evening and day. As one woman explained, women have more time to weave than men, as men must often be away from the home to build or repair things within the settlement. Also, both when speaking with women and when reading the regional literatures, it seems Wayuu women have traditionally taken on teaching roles within the family, travelled to urban areas and handled money <ref type="bibr" target="#b67">[69]</ref>. These existing social identities and competences (from past practice participation), support women's participation in weaving as a livelihood, as well as their achievement of livelihoods via teaching or paid work in urban areas.</p><p>Coupled with these insights, taking an intersectional perspective illustrates that most Wayuu clans are experiencing significant challenges to their traditional livelihoods, with some ways of living such as agriculture and goat herding becoming vulnerable or unsustainable, and other livelihoods such as weaving, teaching and paid work in urban areas becoming more available <ref type="bibr" target="#b67">[69,</ref><ref type="bibr" target="#b100">102]</ref>. As many women commented, weaving is their priority because it helps them to support their families, especially at a time that is difficult for men. One man also explained that although weaving used to be just for women, now that men see women making good money from it, some of them are leaving their male pride behind and doing it too. Bringing these ideas together, one explanation for why many women and some men prioritise and use electric lighting and cell phones to support the growth of weaving as an income stream is because their combined social identities of livelihood access, socioeconomic level, ethnicity, gender and level of electricity access are placing them in a position of economic need, as well as providing them with the opportunity to respond to this through weaving. As a result, weaving is taking on an expanded significance to the performance of femininity for many women and masculinity for some men.</p><p>In these ways, we can see how the overlap between the symbolic meanings of weaving and someone's social identities determines whether and to what extent they participate in weaving and gain access to lightbulbs and cell phones as part of this practice. In addition, it shows the recursive nature of this performative relationship, with changes in artisans' social identities (including those of their level of electricity access, gender, and livelihood access) seeming to influence changes in the meanings of weaving and therefore people's opportunities to participate in it as it is performed over time.</p><p>Lastly, as with the first case study, the social relations, or situated understandings of local conditions and cultural ideologies, in this area provide a further layer of explanation for why electricity access is prioritised for the practice of weaving by many, but not all, women, as well as some men, and why it is used to expand the performance of femininity, and to a certain extent masculinity, within this practice. Again, this layer builds on the arguments above by exploring the social relations underpinning the various power-filled social identities described. The Wayuu clans visited in this study typically live in settlements on ancestral land in remote areas of the La Guajira desert landscape. Due to climate change and extractive industries in this region, some of them are struggling to find enough water for agriculture and goat herding to be a sustainable way of living. Alongside this, increasing investment by the Colombian government in roads, education facilities, water pumps and other infrastructure are connecting many settlements to urban areas, as well as making daily tasks such as water collection possible simultaneously to primary practices such as paid work or study. There is significant variability in these conditions between settlements. For instance, some clans live on coastal land and continue to have a plentiful supply of fish or salt mining work for their livelihoods. Others are landlocked and have new highways running by them, encouraging a different adaptation and approach to survival.</p><p>Electric lighting and cell phones are therefore contributing to a changing, yet variable, landscape by supporting communication and providing people with longer days in a way that allows them to mitigate the risks they face and to take advantage of the new opportunities they find. As such, there are clear synergies here between situated understandings of local conditions and the materials (roads, access to markets to buy from and sell in, urban places to work, homes to work in, water pumps, educational institutions, etc.) and competences (artisanal handicraft making, teaching, money handling, travelling, etc.) elements of the social practices of weaving, as well as the other income options available. In addition, there are synergies between the changing climate, land and waterways and a reduction in access to materials (water, livestock, subsistence grown food) for more traditional practices in some settlements throughout this region.</p><p>These synergies enable us to go further still, providing an understanding of the instability and variability of these materials and competences across survival practices and the social relations of the Wayuu society they support. This allows us to see why the meanings of weaving (and other practices) are in a state of flux, and how, at a time when this is occurring, the arrival of electricity access contributes to a greater overlap and plurality in how femininity and masculinity are performedthrough new, and increasingly shared, albeit differentiated, material use and competence acquisitionin these areas.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusion and implications for policy and practice</head><p>The analysis above clearly demonstrates the utility of the performative theoretical framework developed in this paper and its ability to explain how and why electricity is intersecting very differently with how femininity and masculinity are done in the two case study areas. In the rural Guatemalan context, electricity seems to be largely reinforcing existing and unequal gender norms for most women by solidifying, rather than challenging, the doing of femininity through lengthy domestic activities such as cooking. Where electricity is being used to resist, challenge or redefine such norms, this seems to be occurring for a minority of women and men who are in positions of privilege, or need, relative to their peers. These differences exist against a backdrop of an otherwise stable landscape of relatively slow-changing social relations which tends to minimise opportunities for change for most people. Subsistence living from arable land has been a way of life for such communities throughout history and there are few alternative livelihood opportunities available. This represents a situation akin to Fig. <ref type="figure" target="#fig_2">3a</ref> above, where local performativity of femininity overlaps with the practice of cooking, whereas local performativity of masculinity does not, thus limiting the potential for electric lighting and cell phone use to influence gender equality around this fundamental daily practice.</p><p>In the Wayuu context, however, electricity is more transformative in its interactions with gender relations for most people, encouraging an expansionand arguably a greater equalityin the performativity of femininity and masculinity. However, in this case, electricity access is intersecting with a relatively fast-changing, more diverseand in terms of gender, a less hierarchicallandscape of social relations, which is providing various opportunities and needs for changing livelihood practice participation patterns for most women and men. This can be understood as a situation akin to that depicted in Fig. <ref type="figure" target="#fig_3">3b</ref>. There is enough overlap between local performativity of masculinity and femininity to allow new electrical appliances, such as light bulbs and cell phone chargers, to redefine the meaning and significance of some practices, who participates in them, and how they are done. Having said this, whether these changes lead to empowering outcomes for individuals is of course highly personal, nuanced and complex.</p><p>Nevertheless, by combining insights from Social Practice Theory and Gender Studiesresponding to calls in the broader energy studies and specific energy access literaturesthe novel theoretical framework developed in this paper can better understand both how and why electricity access has different implications for gender equality in granular ways in different contexts. As we have demonstrated, there are clear synergies between these two areas of theory, allowing us to extend both literatures in the specific context of electricity access and gender equality. At its root, this lies in the fundamentally performative focus of both literatures. This allows us to develop a theoretical framework that embraces the performative nature of gender and other aspects of daily life in the many contexts where access to electricity is not yet, or has only just become, a daily reality. By focusing on the materials, competences and meanings of everyday practices, Social Practice Theory provides a powerful lens that grounds our understanding of new access to electricity in the realities of daily life in specific contexts. Insights from the Gender Studies literature allow us to develop this further, drawing our attention to the performative nature of gender as something that is sustained, reproduced, negotiated, resisted, challenged and redefined through social practices. It allows us to understand gender as a recursive and power-filled social identity that intersects with someone's level of electricity access and other social identities, such as ethnicity, age, socio-economic background, etc., whilst simultaneously being positioned within broader webs of social relations, defined by cultural ideology and local conditions in fundamentally context-specific ways.</p><p>The theoretical framework and appliance-focused methodology developed in this paper have important implications for policy and practice. Firstly, they move us beyond a blind assumption that electricity access is "good for women" -and that what is good for women equates to gender equality. In support of many studies within the gender-energy access literature, this paper demonstrates that the relationship between gender and electricity access varies both within and between different areas undergoing electrification. Secondly, and we believe for the first time, they provide a way of explicitly understanding why this occurs. Thirdly, and importantly given the sums of money being invested in achieving SDGs 5 and 7, this theoretical framework and the accompanying appliance-based methodology (with its integrated 8-step approach to practically apply the theoretical framework in practice) provide a tangible approach for practitioners, researchers and policy makers to analyse and anticipate the potential gendered implications of electricity access in different contexts in advance of, or during, electrification. Fourthly, this theoretical perspective draws attention to the fact that, in any given context, two key considerations need to be foregrounded when considering the extent to which different interventions around electricity access through policy and practice might impact on gender equality in positive or negative ways. The first key consideration is the extent to which locally constructed performances of masculinity and femininity (and therefore practice meanings) overlap with one another. For instance, the meanings of any given practice with which electricity access intersects (via access to new appliances) might overlap with both femininity and masculinity (Fig. <ref type="figure" target="#fig_3">3b</ref>), or just one of them (Fig. <ref type="figure" target="#fig_2">3a</ref>). This must be understood in an intersectional context, with electricity access and gender representing just two of the myriad social identities experienced and performed by different people in the population in question. As we saw in our case studies, where electric appliances join practices with strongly gender divided meanings (Fig. <ref type="figure" target="#fig_2">3a</ref>), there is less potential for shifts in gender equality through shared participation patterns, and vice versa. The second key consideration is the speed at which other opportunities or needs are encouraging shifts in gender performativity, alongside new electricity access. For instance, as we saw in the Colombian context, rapidly occurring changes like reduced traditional livelihoods, along with new infrastructure providing access to markets, might recursively encourage greater overlap between masculinity and femininity by supporting expansions in practice meanings (as with weaving in the Colombian case study).</p><p>These two key considerations draw attention to the possibility that the meanings of the everyday practices that electricity intersects with might be more or less gendered, diverse and/or stable. As our research has shown, this process is also cumulative, with a rippling effect of shifting social relations from one practice to the next, as practice performativity defines norms, competences and materials access in ways that set up future practice participation opportunities. Interventions via policy and practice that seek positive and potentially transformative impacts on gender equality might therefore usefully focus on electrical appliances and the practices they intersect with where there is greater overlap with locally constructed performances of masculinity and femininity, or where there is greater potential for shifts in the gendered meanings of specific practices.</p><p>Given the context-specific emphasis of the application of this theoretical perspective, future research might develop this work in several different areas. This includes analysing the implications of different appliances, different levels of electricity access, and different models of achieving electricity access that go beyond the off-grid pay-as-you-go model explored in this paper. Comparative research in different country contexts would also yield useful insights, as would research that attends to other contextual considerations, such as rural-urban differences and intercedences (c.f. <ref type="bibr" target="#b17">[19,</ref><ref type="bibr" target="#b101">103]</ref>). This might include expanding research to look at contexts in Sub-Saharan Africa and Asia, with the expansion of pay-as-you-go solar PV electricity access models in East Africa <ref type="bibr" target="#b102">[104]</ref><ref type="bibr" target="#b103">[105]</ref><ref type="bibr" target="#b104">[106]</ref> providing one obvious starting point for such analysis.</p><p>on earlier drafts and to Ben Campbell and Andy Stirling for their feedback and recommendations on the original doctoral research upon which this paper builds.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Elements that constitute social practice according to Social Practice Theory. Source: Adapted from Shove et al. [40].</figDesc><graphic coords="5,39.63,55.95,248.09,226.49" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. A performative understanding of gender and social practice. Source: Authors.</figDesc><graphic coords="6,48.16,55.89,229.37,188.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3a .</head><label>3a</label><figDesc>Fig. 3a. A performative understanding of gender and social practice: Limited potential for change. Source: Authors.</figDesc><graphic coords="6,104.15,416.56,386.93,300.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3b .</head><label>3b</label><figDesc>Fig. 3b. A performative understanding of gender and social practice: Higher potential for change. Source: Authors.</figDesc><graphic coords="7,104.15,55.48,386.50,362.88" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Participant selection in Guatemala.</figDesc><table><row><cell>• Step 3: Draw out the social roles being reproduced, challenged, or</cell></row><row><cell>redefined through who uses (and who doesn't use) which materials.</cell></row><row><cell>Look for variations both within and between gender groups,</cell></row><row><cell>considering how these roles might work together or complement one</cell></row><row><cell>another.</cell></row><row><cell>• Step 4: Identify how the competences people acquire build social</cell></row><row><cell>identities and for whom. Draw links between different practices,</cell></row><row><cell>looking for how competences in one practice support or hinder</cell></row><row><cell>participation in another.</cell></row></table><note><p>• Step 5: Explore the social relations underpinning each practice's meanings. Are these meanings seen as "natural" and therefore do they go unquestioned as the norm? Which local conditions and cultural ideologies influence this stability? Do they support survival within the local conditions being experienced? Which meanings</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Participant selection in Colombia.</figDesc><table><row><cell>Total no. of participants</cell><cell>60</cell></row><row><cell>No. of females</cell><cell>40</cell></row><row><cell>No. of males</cell><cell>20</cell></row><row><cell>No. with TV</cell><cell>9</cell></row><row><cell>Low solar energy usage rate (10 %-40 % of possible consumption)</cell><cell>22</cell></row><row><cell>Medium solar energy usage rate (41 %-70 % of possible consumption)</cell><cell>19</cell></row><row><cell>High solar energy usage rate (71 %-100 % of possible consumption)</cell><cell>19</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Number of interviews, focus groups and observations per region.</figDesc><table><row><cell>Trip</cell><cell>Trips</cell><cell>Semi-structured</cell><cell>Focus</cell><cell>Participant</cell></row><row><cell>no.</cell><cell></cell><cell>interviews</cell><cell>groups</cell><cell>observations</cell></row><row><cell>1</cell><cell>Alta Verapaz and</cell><cell>22</cell><cell>8</cell><cell>5</cell></row><row><cell></cell><cell>Petén, Guatemala</cell><cell></cell><cell></cell><cell></cell></row><row><cell>2</cell><cell>Petén, Guatemala</cell><cell>17</cell><cell>0</cell><cell>6</cell></row><row><cell>3</cell><cell>La Guajira,</cell><cell>9</cell><cell>5</cell><cell>5</cell></row><row><cell></cell><cell>Colombia</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">Source: Authors.</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Solar PV pay-as-you-go (PAYG or PAYGo) is a mode of electricity access in which "[a]n energy service provider rents or sells solar PV systems in exchange for regular payments through mobile payment systems"<ref type="bibr" target="#b105">[107]</ref>.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>For funding, the lead author gratefully acknowledges the <rs type="funder">ESRC</rs> (award number <rs type="grantNumber">1872968</rs>), the <rs type="funder">EPSRC</rs>, via the <rs type="funder">Energy Demand Research Centre</rs> (award number <rs type="grantNumber">EP/Y010078/1</rs>) and the <rs type="funder">ESRC Southeast Network for Social Science (SeNSS)</rs> and <rs type="funder">Impact Acceleration Account's (IAA) Industry Engagement Fund</rs>. They also gratefully acknowledge the study participants, the <rs type="institution">employees at Kingo</rs>, the researchers from <rs type="person">Heuristica Análisis de Opinión</rs> and the translators and drivers without whose hard work and support this research would not have been possible.</p><p>The authors are grateful to two anonymous reviewers for their hugely constructive comments. We are also indebted to <rs type="person">Andrew Hook</rs>, <rs type="person">Simon Maxwell</rs> and <rs type="person">Carl Griffin</rs> for their honest and incisive comments</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_2qxPdjk">
+					<idno type="grant-number">1872968</idno>
+				</org>
+				<org type="funding" xml:id="_qYsAZ2v">
+					<idno type="grant-number">EP/Y010078/1</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>Data will be made available on request.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CRediT authorship contribution statement</head><note type="other">Victoria</note></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cecelski</surname></persName>
+		</author>
+		<title level="m">Enabling Equitable Access to Rural Electrification: Current Thinking and Major Activities in Energy, Poverty and Gender</title>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="20" to="22" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">What We Do</title>
+		<author>
+			<persName><surname>Energia</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kohlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pattanayak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wilfong</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Energy</surname></persName>
+		</author>
+		<title level="m">Gender and Development: Where are the Linkages? What is the Evidence? World Bank Policy Research Working Paper No. 5800</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">United Nations, Sustainable Energy for All: Empowering Women</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Exploring factors that enhance and restrict women&apos;s empowerment through electrification (EFEWEE)</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Winther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Palit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Govindan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Matinga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Standal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ulsrud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Saini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gichungi</surname></persName>
+		</author>
+		<ptr target="https://www.academia.edu/download/84448899/ppt_gender.pdf" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Energia</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Amjid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Q</forename><surname>Bilal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Nazir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hussain</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biogas, renewable energy resource for Pakistan, Renew. Sust. Energ. Rev</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="2833" to="2837" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Statistical analysis of benefits of renewable energy-examples from biogas consumers of Nepal</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">U</forename><surname>Devkota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Prajapati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Renew. Energy Res</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="477" to="483" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Impacts of renewable energy on gender in rural communities of north-west China</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="180" to="189" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName><forename type="first">H</forename><surname>Katuwal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Bohara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Biogas: a promising renewable technology and its impact on rural households in Nepal</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="2668" to="2674" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Evaluation of Indian rural solar electrification: a case study in Chhattisgarh</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Millinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mårlind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">O</forename><surname>Ahlgren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Sustain. Dev</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="486" to="492" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The power of small-scale solar: gender, energy, poverty, and entrepreneurship in Tanzania</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Boyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Francks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Yu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dev. Pract</title>
+		<imprint>
+			<biblScope unit="page" from="26" to="39" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Women-to-women entrepreneurial energy networks: a pathway to green energy uptake at the base of pyramid</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Heuër</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sustain. Energy Technol. Assess</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="116" to="123" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Gender and energy for sustainable development</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Oparaocha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dutta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Opin. Environ. Sustain</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="265" to="271" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Solar powered electricity access: implications for women&apos;s empowerment in rural Kenya</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Winther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ulsrud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Saini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="61" to="74" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Gender and renewable energy study in Tibetan pastoral areas of China</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zewudie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Zafar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Renew. Energy</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="901" to="913" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">W</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gerber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Muhoza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Gender, culture and energy transitions in rural Africa</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="169" to="179" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Gender imaginaries in energy transitions: how professionals construct and envision gender equity in energy access in the Global South</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Alda-Vidal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Khalid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Foulds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Royston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Greene</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World Dev</title>
+		<imprint>
+			<biblScope unit="volume">168</biblScope>
+			<biblScope unit="page">106258</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The nexus of gendered practices, energy, and space use: a comparative study of middleclass housing in Pakistan and Jordan</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Khalid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Razem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page">102340</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Homely social practices, uncanny electricity demands: class, culture and material dynamics in Pakistan</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Khalid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sunikka-Blank</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="122" to="131" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Three sides to every story: gender perspectives in energy transition pathways in Canada</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lieu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Sorman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">W</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Virla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Resurrección</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kenya and Spain, Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Gender analysis for energy projects and programmes</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Skutsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Sustain. Dev</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="37" to="52" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Just transition: a conceptual review</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page">102291</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Clancy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Özerol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Mohlakoana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Feenstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Sol</forename><surname>Cueva</surname></persName>
+		</author>
+		<title level="m">Engendering the Energy Transition: Setting the Scene</title>
+		<meeting><address><addrLine>Switzerland</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Gender equity in access to and benefits from modern energy and improved energy technologies</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Clancy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Winther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Matinga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Oparaocha</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Gender Equality and Development</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">World Development Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">The Gender-Energy-Poverty Nexus: finding the energy to address gender concerns in development</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Clancy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Batchelor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Skutsch</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Department for International Development</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fingleton-Smith</surname></persName>
+		</author>
+		<title level="m">Sparking Change? Understanding Energy Use and Development in Kenya: A Qualitative Study</title>
+		<meeting><address><addrLine>Canberra</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+		<respStmt>
+			<orgName>Australian National University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Extending energy access assessment: the added value of taking a gender perspective</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kooijman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Clancy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cloke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page">102923</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">We Grow Up With It&quot;: An Ethnographic Study of the Experiences, Perceptions and Responses to the Health Impacts of Energy Acquisition and Use in Rural South Africa</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Matinga</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<pubPlace>Enschede</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Twente</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Winther</surname></persName>
+		</author>
+		<title level="m">The Impact of Electricity: Development, Desires and Dilemmas</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Berghahn Books</publisher>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">In the light of what we cannot see: exploring the interconnections between gender and electricity access</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Winther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ulsrud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Matinga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Govindan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Gill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Saini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brahmachari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Palit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Murali</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Addressing gender in energy studies</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fathallah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pyakurel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page">101461</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Gender myths in energy poverty literature: a critical discourse analysis</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Listo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="9" to="18" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Rethinking gender and identity in energy studies</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Ryan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="96" to="105" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Mapping the margins: intersectionality, identity politics, and violence against women of color</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Crenshaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stanford Law Rev</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="1241" to="1299" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">From &apos;gender equality&apos; and &apos;women&apos;s empowerment&apos; to global justice: reclaiming a transformative agenda for gender and development</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cornwall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rivas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Third World Q</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="396" to="415" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Mobilization without emancipation? Women&apos;s interests, the state, and revolution in Nicaragua</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Molyneux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fem. Stud</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="227" to="254" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Gender planning in the third world: meeting practical and strategic gender needs</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">O N</forename><surname>Moser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World Dev</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1799" to="1825" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Women&apos;s empowerment through electricity access: scoping study and proposal for a framework of analysis</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Winther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Matinga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ulsrud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Standal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Dev. Eff</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="389" to="417" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">The Dynamics of Social Practice: Everyday Life and How It Changes</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pantzar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Watson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Lonodn</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">What is energy for? Social practice and energy demand</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Walker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Theory Cult. Soc</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="41" to="58" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ahlborg</surname></persName>
+		</author>
+		<title level="m">A feminist perspective on the humanenvironment nexus within renewable energy systems in East Africa: a potential base for resistance, in: Conference: Gendering Climate and Sustainability</title>
+		<meeting><address><addrLine>Copenhagen)</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The dynamics of gender hegemony: femininities, masculinities and social change</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Budgeon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sociology</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="317" to="334" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Undoing Gender, Routledge</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Butler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<pubPlace>New York and London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Connell</surname></persName>
+		</author>
+		<title level="m">The Men and the Boys</title>
+		<imprint>
+			<publisher>Polity Press</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Change among the gatekeepers: men, masculinities, and gender equality in the global arena</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Connell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Signs J. Women Cult. Soc</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1801" to="1825" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pink</surname></persName>
+		</author>
+		<title level="m">Home Truths. Gender, Domestic Objects and Everyday Life</title>
+		<meeting><address><addrLine>Routledge, Abingdon</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Recovering the feminine other: masculinity, femininity, and gender hegemony</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schippers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Theory Soc</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="85" to="102" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Gender as a social structure: theory wrestling with activism</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Risman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gend. Soc</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="429" to="450" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Massey</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Space</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Place</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gender</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>University of Minnesota Press</publisher>
+			<pubPlace>Minneapolis</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Challenges and Change in Middle America</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Willis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mcilwaine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Perspectives on Development in Mexico, Central America and the Caribbean</title>
+		<meeting><address><addrLine>Abingdon</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Choy</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Masculinity</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gender</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Power</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mayan-Kaqchikel Community in Sololá</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<pubPlace>Guatemala</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>The University of Texas</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">The Meanings of Macho: Being a Man in Mexico City</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Gutmann</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>University of California Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Gender and space during Guatemala&apos;s holy week: an ethnographic account</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ponciano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Religions</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">76</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Gender and coloniality: from low-intensity communal patriarchy to high-intensity colonial-modern patriarchy</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Segato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Monque</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hypatia</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="781" to="799" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The coloniality of gender</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lugones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Feminisms in Movement</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">35</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tortorici</surname></persName>
+		</author>
+		<title level="m">Sexuality and the Unnatural in Colonial Latin America</title>
+		<imprint>
+			<publisher>Univ of California Press</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Hybrid Nations: Gender Troping and the Emergence of Bigendered Subjects in Latin American Narrative</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Swier</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Fairleigh Dickinson Univ Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">Representaciones sociales mayas y teoría feminista: crítica de la aplicación literal de modelos teóricos en la interpretación de la realidad de las mujeres mayas, Iximulew</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Tzunux</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Gendered violences and resistances to development: body, land, territory, and violences against women in postwar Guatemala</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hartviksen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gend. Dev</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="291" to="312" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">State terror and violence as a process of lifelong teaching-learning: the case of Guatemala</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Martinez-Salazar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Women, War, Violence and Learning</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="75" to="90" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<author>
+			<persName><forename type="first">V</forename><surname>Sanford</surname></persName>
+		</author>
+		<title level="m">Gendered observations: activism, advocacy, and the academy, in: Women Fielding Danger: Negotiating Ethnographic Identities in Field Research</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="123" to="146" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Indigenous identitary resistance in twentieth/twentyfirst-century Venezuela: Pumé and Wayuu musical cultures</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lengwinat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Porrello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Music and Identity in Venezuela</title>
+		<imprint>
+			<publisher>Jenny Stanford Publishing</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="167" to="202" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Body-territory in energy transition: Wayúu women&apos;s struggle in Colombia</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ramirez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vélez-Zapata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Maher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Acosta-Contreras</surname></persName>
+		</author>
+		<imprint>
+			<date>17993. 10595</date>
+			<publisher>Academy of Management</publisher>
+			<biblScope unit="page">2024</biblScope>
+			<pubPlace>Valhalla, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Intervention-Don&apos;t Save &apos;the World&apos;; Embrace a Pluriverse! Antipode Online</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Arora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stirling</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J C</forename><surname>Contreras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T P</forename><surname>Pliego</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">I J E</forename><surname>Lugo</surname></persName>
+		</author>
+		<title level="m">La construcción de la noción de Cosmovisión Maya en Guatemala</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="volume">13</biblScope>
+		</imprint>
+	</monogr>
+	<note>Revista Pueblos y fronteras digital</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">El hambre en los espacios de la cultura</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Juárez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Visiones indígenas Maya Ch&apos;orti</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">8</biblScope>
+		</imprint>
+	</monogr>
+	<note>AIBR</note>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Z</forename><surname>Olivella</surname></persName>
+		</author>
+		<title level="m">Los pasos del indio</title>
+		<imprint>
+			<date type="published" when="1958">1958</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title level="m" type="main">Beyond Assimilation Vs. Cultural Resistance: Wayuu Market Appropriation in Riohacha</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Robles</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<pubPlace>La Guajira, Colombia, University of Kansas</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Connell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Masculinities</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>University of California Press</publisher>
+			<pubPlace>Berkeley and Los Angeles</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Opening up&quot; and &quot;closing down&quot;: power, participation, and pluralism in the social appraisal of technology</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stirling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Technol. Hum. Values</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="262" to="294" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Hegemonic masculinity</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Connell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Messerschmidt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gend. Soc</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="829" to="859" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Doing gender</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>West</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Zimmerman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gend. Soc</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="125" to="151" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">Introduction, Power/Gender: Social Relations in Theory and Practice</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Radtke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Stam</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Sage Publications</publisher>
+			<biblScope unit="page" from="1" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Molyneux</surname></persName>
+		</author>
+		<title level="m">Hidden Histories of Gender and the State in Latin America</title>
+		<imprint>
+			<publisher>Duke University Press</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lipsett-Rivera</surname></persName>
+		</author>
+		<title level="m">The Faces of Honor: Sex, Shame, and Violence in Colonial Latin America</title>
+		<imprint>
+			<publisher>UNM Press</publisher>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title level="m" type="main">On the Political</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mouffe</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<pubPlace>Routledge, London and New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Doing, undoing, or redoing gender?</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Connell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gend. Soc</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="31" to="55" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<title level="m" type="main">Culture and Sustainability: Exploring Stability and Transformation with the Cultures Framework</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stephenson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Palgrave</publisher>
+			<pubPlace>Macmillan, Chann</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Energy cultures: a framework for understanding energy behaviours</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stephenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Barton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Carrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gnoth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Thorsnes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="6120" to="6129" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Outline of a Theory of Practice</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bourdieu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cambridge Studies in Social and Cultural Anthropology</title>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<monogr>
+		<title level="m" type="main">Masculine Domination</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bourdieu</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Stanford University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Toward a field of intersectionality studies: theory, applications, and praxis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Crenshaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mccall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Signs J. Women Cult. Soc</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="785" to="810" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Schatzki</surname></persName>
+		</author>
+		<title level="m">Social Practice Theory: A Wittgensteinian Approach to Human Activity and the Social</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Schatzki</surname></persName>
+		</author>
+		<title level="m">The Site of the Social: A Philosophical Account of the Constitution of Social Life and Change</title>
+		<meeting><address><addrLine>Pennsylvania</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pennsylvania State University Press</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Materiality and social life</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Schatzki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Cult</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="123" to="149" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<monogr>
+		<title level="m" type="main">Where the Action Is: On Large Social Phenomena Such as Sociotechnical Regimes, Sustainable Practices Research Group Working Paper 1</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Schatzki</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Manchester, Manchester</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<monogr>
+		<title level="m" type="main">The Constitution of Society</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Giddens</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Polity Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">Users as agents of technological change: the social construction of the automobile in the rural United States</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kline</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pinch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Technol. Cult</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="763" to="795" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">Toward a theory of social practices: a development in culturalist theorizing</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Reckwitz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Practicing History: New Directions in Historical Writing After the Linguistic Turn</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="245" to="263" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">Promoting novelty, rigor, and style in energy social science: towards codes of practice for appropriate methods and research design</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Axsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sorrell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="12" to="42" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<monogr>
+		<title level="m" type="main">Improving Gender Equality and Rural Livelihoods in Senegal Through Sustainable and Participatory Energy Management: Senegal&apos;s PROGEDE II Project</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hammond</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>The World Bank Group</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<title level="m">Lighting Africa, Policy Report Note</title>
+		<imprint>
+			<publisher>Rwanda</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<monogr>
+		<title level="m" type="main">Off-grid energy provision in rural areas: a review of the academic literature, in: Cambridge Trusts and Centre for Development Studies</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Van Gevelt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="1" to="31" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<monogr>
+		<title level="m" type="main">Energy and forced displacement: a review of relevant methodological literature</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cross</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<monogr>
+		<title level="m" type="main">Participant Observation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Spradley</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<pubPlace>Wadsworth, Cengage Learning</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">Reenactment methodologies for everyday life research: art therapy insights for video ethnography</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Mackley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vis. Stud</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><surname>Viveros-Vigoya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Masculinities in the continuum of violence in Latin America</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="229" to="237" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<analytic>
+		<title level="a" type="main">The Colombian transitional process: comparative perspectives on violence against indigenous women</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Acosta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Castañeda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hernández</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Muelas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Santamaria</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Transit. Justice</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="108" to="125" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<monogr>
+		<title level="m" type="main">Matrilineality and Empire: Indigenous Kinship Networks and Gendered Mobility in Early Modern Colombia</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Godfrey</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+		<respStmt>
+			<orgName>The Pennsylvania State University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<analytic>
+		<title level="a" type="main">The Muisca beyond melancholy: literature, art, and the Colombian state</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Restrepo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A Companion to Latin American Literature and Culture</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="305" to="322" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<monogr>
+		<title level="m" type="main">Effects of Climate Change: An Analysis in the Wayuu Territory in the North of La Guajira</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gutierrez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Arroyo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Carrasco</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="893" to="904" />
+			<pubPlace>Colombia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<analytic>
+		<title level="a" type="main">Spatializing women&apos;s everyday access to energy: an intra-urban comparison of the gender-energy nexus in Lahore</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Khalid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Majid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Saeed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Faheem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lemanski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Urban Reg. Res</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+			<pubPlace>Pakistan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<analytic>
+		<title level="a" type="main">Can Pay-As-You-Go, digitally enabled business models support sustainability transformations in developing countries? Outstanding questions and a theoretical basis for future research</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ockwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Atela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mbeva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chengo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Byrne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Durrant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kasprowikz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ely</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ockwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Byrne</surname></persName>
+		</author>
+		<title level="m">Sustainable Energy for All: Innovation, Technology and Pro-Poor Green Transformations</title>
+		<meeting><address><addrLine>Routledge, Abingdon</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b104">
+	<analytic>
+		<title level="a" type="main">Beyond technology and finance: pay-as-you-go sustainable energy access and theories of social change</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rolffs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ockwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Byrne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Plan. A</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="2609" to="2627" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b105">
+	<analytic>
+		<title level="a" type="main">Innovation landscape brief: Pay-as-you-go models</title>
+		<author>
+			<persName><surname>Irena</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Renewable Energy Agency</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<pubPlace>Abu Dhabi</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b106">
+	<monogr>
+		<title level="m" type="main">Connective Power: Solar Electrification and Social Change in Kenya</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jacobson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of California, Berkeley</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

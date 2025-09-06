@@ -1,0 +1,4 @@
+grobid-client==0.8.8
+lxml==4.9.3
+tqdm==4.66.1
+requests==2.31.0

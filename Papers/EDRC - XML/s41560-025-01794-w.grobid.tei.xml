@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Reframing how we talk about ‘energy poverty’</title>
+				<funder>
+					<orgName type="full">Energy Demand Research Centre</orgName>
+				</funder>
+				<funder ref="#_5expCmf">
+					<orgName type="full">Engineering and Physical Sciences Research Council and Economic and Social Research Council (EDRC)</orgName>
+				</funder>
+				<funder ref="#_km28qmz">
+					<orgName type="full">Centre for Joined Up Sustainability Transformations</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2025-06-17">17 June 2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Stefan</forename><surname>Bouzarovski</surname></persName>
+							<idno type="ORCID">0000-0002-0045-3400</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Karla</forename><forename type="middle">G</forename><surname>Cedano-Villavicencio</surname></persName>
+							<idno type="ORCID">0000-0002-8102-7226</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Laurence</forename><forename type="middle">L</forename><surname>Delina</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Laboratorio de Innovación y Futuros</orgName>
+								<orgName type="institution" key="instit1">Instituto de Energías Renovables</orgName>
+								<orgName type="institution" key="instit2">Universidad Nacional Autónoma de México</orgName>
+								<address>
+									<settlement>Morelos</settlement>
+									<country key="MX">México</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Division of Environment and Sustainability</orgName>
+								<orgName type="institution">Hong Kong University of Science and Technology</orgName>
+								<address>
+									<settlement>Kowloon</settlement>
+									<country key="HK">Hong Kong</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mari</forename><surname>Martiskainen</surname></persName>
+							<idno type="ORCID">0000-0002-3503-9197</idno>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Sussex</orgName>
+								<address>
+									<settlement>Brighton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tony</forename><forename type="middle">G</forename><surname>Reames</surname></persName>
+							<idno type="ORCID">0000-0002-0738-8525</idno>
+							<affiliation key="aff4">
+								<orgName type="department">School for Environment and Sustainability</orgName>
+								<orgName type="institution">University of Michigan</orgName>
+								<address>
+									<settlement>Ann Arbor</settlement>
+									<region>MI</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Neil</forename><surname>Simcock</surname></persName>
+							<idno type="ORCID">0000-0002-1408-962X</idno>
+							<affiliation key="aff5">
+								<orgName type="department" key="dep1">School of Biological and Environmental Sciences</orgName>
+								<orgName type="department" key="dep2">Faculty of Health, Innovation, Technology and Science</orgName>
+								<orgName type="institution">Liverpool John Moores University</orgName>
+								<address>
+									<settlement>Liverpool</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Reframing how we talk about ‘energy poverty’</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Nature Energy</title>
+						<title level="j" type="abbrev">Nat Energy</title>
+						<idno type="eISSN">2058-7546</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">10</biblScope>
+							<biblScope unit="issue">7</biblScope>
+							<biblScope unit="page" from="806" to="810"/>
+							<date type="published" when="2025-06-17">17 June 2025</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">EE94B2DC018921930B97F64A2784A361</idno>
+					<idno type="DOI">10.1038/s41560-025-01794-w</idno>
+					<note type="submission">Received: 3 June 2024 Accepted: 2 May 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A critical consideration of the dominant vocabulary on home energy injustices around the world is overdue. We briefly unpack terms such as 'energy poor', 'fuel poor', 'energy vulnerable' and 'hard to reach', question their utility and argue that they may do more harm than good. While acknowledging our own positionality and past use of such terminology, we argue that future debates on the inability to secure needed energy in the home should focus on the structural challenges imposed by wider societal and political choices. We contend that changing the ways in which energy injustices in the home are framed in scientific and policy phraseologies is a key step towards bold and equitable global action, in the face of mounting socio-environmental crises.</p><p>Globally, increasing numbers of people struggle to secure needed energy levels in the home. The post-COVID global energy price crisis and the Russian invasion of Ukraine have strained household budgets and pushed millions into hardship. It is estimated that up to 141 million households have experienced extreme poverty as a result of the crisis, accompanied by increases in household energy expenditures of between 2.7 and 4.8% <ref type="bibr" target="#b0">1</ref> . The effects of rising energy prices have been felt in the Global North and the Global South alike. For example, the percentage of people who could not keep their homes adequately warm in Europe increased from 6.9% in 2021 to 9.3% in 2023 <ref type="bibr" target="#b1">2</ref> , whereas the number of people who gained electricity access via a grid connection or mini-grid in Africa dropped by one-half in 2022 compared with previous years <ref type="bibr" target="#b2">3</ref> .</p><p>Although government-led relief measures have been insufficient to stem pressures on household expenditure, there has been growing recognition of the energy-related challenges faced by lower-income households across the world. Global organizations, including the United Nations and Sustainable Energy for All, have worked to improve energy access for socially marginalized people. Governments in the European Union and USA have formulated strategies, to varying degrees of success, in response to the structural underpinnings of home energy injustices (HEIs).</p><p>We use the HEI concept 4 in a purely descriptive-rather than prescriptive-manner, as a broad umbrella term to encompass the structural disadvantages and hardships encountered by people who struggle to meet their domestic energy needs. We note, however, that various authors <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b5">6</ref> have suggested employing the term 'injustice' to signify the causality of domestic energy deprivation, as well as the multiple pathways to vulnerability 7 that drive the condition. In many countries of the Global South, for example, energy price increases are compounded by the persistent lack of access to adequate energy infrastructure, with 760 million people across the world experiencing insufficient access to electricity <ref type="bibr" target="#b7">8</ref> . Despite evidence of slow improvement in early 2023, this figure remains equivalent to levels last seen in 2019.</p><p>We seek to draw critical attention to the languages and framings that are used to capture HEIs, in the context of broader global debates on end-use energy inequalities. We contend that the sluggish progress in reducing HEIs is partly because they continue to be addressed and discussed in a manner that fails to recognize their embeddedness in deeper practices of neoliberal economic policy, social stigmatization, extractivism and colonialism.</p><p>Our critique is principally focused on the term 'energy poverty'commonly understood as the inability to attain a socially and materially necessitated level of energy services in the home <ref type="bibr" target="#b6">7</ref> . To some, our focus Perspective <ref type="url" target="https://doi.org/10.1038/s41560-025-01794-w">https://doi.org/10.1038/s41560-025-01794-w</ref> may change over time. Despite being used less commonly in policy debates, energy vulnerability-developed over the past three decades-seeks to capture the structural pathways through which people become unable to attain sufficient energy services in the home. In epistemic terms, however, both energy insecurity and energy vulnerability compete with more prevalent discourses focused on energy supply issues at the national scale.</p><p>HEIs are also sometimes described via the notion of 'energy hardship', which has recently entered the policy sphere in New Zealand and includes "the lack of both affordability of energy access and of sufficient modern energy infrastructure" <ref type="bibr" target="#b19">21</ref> . Additionally, various projects and policies have mobilized the terms 'energy precarity' and 'energy precariousness' <ref type="bibr" target="#b20">22,</ref><ref type="bibr" target="#b21">23</ref> . There is a significant difference between the two: energy precarity seeks to capture complex politically induced vulnerabilities and forms of resistance <ref type="bibr" target="#b22">24</ref> , whereas energy precariousness tends to be synonymous with material energy deprivation <ref type="bibr" target="#b20">22</ref> .</p><p>To summarize, multiple, parallel and competing concepts underpin the global discursive framing of HEIs. Scientific and policy nomenclatures on the topic are geographically fragmented, with specific terms used to describe conditions in either the Global North or the Global South, or even within individual nations <ref type="bibr" target="#b23">25</ref> . Only energy poverty has managed to bridge this planetary divide to an extent, but its development has resulted in some scientific controversy <ref type="bibr" target="#b6">7</ref> . Some authors have cautioned against the perceived confusion between HEI framings, insisting on the purification of relevant terminologies in relation to strictly delineated spatial boundaries and epistemic histories <ref type="bibr" target="#b11">12</ref> . However, others have argued that the world needs a single vocabulary to describe HEIs 26 by foregrounding the lack of needed energy services in the home-a universally shared predicament by all affected people. The absence of a focused approach towards HEIs in the USA has limited a decisive response and inclusive understanding of the prevalence, severity and causes of this challenge <ref type="bibr" target="#b25">27</ref> .</p><p>The dominant vocabulary of HEIs tends to limit explanations of household vulnerabilities within the confines of people's homes. Yet, domestic spaces are physically and metaphorically influenced by connections, systems and infrastructures that extend well beyond the boundaries of the home. Novel avenues of scholarship and policy foreground the links between energy and transport deprivation <ref type="bibr" target="#b26">28</ref> , the 'ambient vulnerabilities' associated with energy hardship <ref type="bibr" target="#b27">29</ref> and the political embeddedness of energy precarity <ref type="bibr" target="#b21">23</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A critical perspective on energy poverty discourses</head><p>We now centre on the discursive framing of energy (and fuel) poverty. The mainstream narratives referring to these HEIs affect the nature of relevant public debates-as well associated strategies and approaches in science and policy-in at least five ways.</p><p>The first aspect refers to the ways in which the problem is measured and monitored by government agencies, the private sector, charities and researchers <ref type="bibr" target="#b28">30</ref> . For example, most metrics to establish the depth, extent and structure of energy poverty have been expert and government led, with expenditure-based and consensual approaches dominating the relevant literature <ref type="bibr" target="#b29">31</ref> . Arguably, the poverty framing has allowed energy poverty to be rendered as measurable and quantifiable in this context <ref type="bibr" target="#b30">32,</ref><ref type="bibr" target="#b31">33</ref> . Most energy poverty discourses operate with a relative understanding of poverty-defining deprivation in relation to a context-specific level-as opposed to absolute poverty approaches, encapsulating the inability to afford a set of standardized goods and services. It is difficult to find examples of indicators that have been developed via direct forms of engagement, participation and co-design from people who experience HEIs or groups that seek to represent them. The increased use of machine learning and artificial intelligence to determine energy poverty demographics is part of this trend <ref type="bibr" target="#b32">34</ref> . It remains unclear how artificial intelligence-based approaches consider or allow for stakeholder involvement <ref type="bibr" target="#b33">35</ref> .</p><p>on the language of energy poverty may seem a more trivial matter compared with the extensive investment in technology and infrastructure that is required to improve access to low-carbon energy. Yet, terminology and vocabulary matter because they betray and shape how decision-makers, private companies and the public conceive the drivers of HEIs. Language that focuses on individual or group characteristicsrather than systemic energy issues-can paint some groups as morally deficient or undeserving of support in the public eye.</p><p>As researchers and activists in the HEI domain, we too have often employed these terms in our past work <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10</ref> . We recognize our own positionality on this matter, and express our self-reflective and self-critical commitment to a more inclusive vocabulary around HEIs, underpinned by a range of recent discussions within the policy, scientific and practitioner communities, as part of several large international projects and networks. Additionally, this Perspective is based on an extensive review of over 500 relevant references, sourced from Scopus and Google Scholar, and using search terms such as energy poverty, 'fuel poverty', 'energy injustice' and others.</p><p>We employ the notion of 'discursive framings' to emphasize how the rhetorical devices used to name, describe and explain an issue influence how that issue is understood and acted on <ref type="bibr" target="#b10">11</ref> . We start by critically reviewing some of the basic elements of the multiple discursive framings of HEIs, subsequently moving onto the problematic nature of assumptions and constructs that underpin energy poverty in particular. In conclusion, we suggest practical steps towards dismantling the stubborn status quo around the issue.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Diverse characterizations of HEIs</head><p>Energy poverty is now the dominant term that captures HEIs across the world. Historically, it was primarily used to describe insufficient energy technology access, such as the lack of access to electricity in the home, and a reliance on biomass and other solid fuels for cooking and heating. The concept was later expanded to capture a wider set of challenges around insufficient energy services in the home, such as limited cooling and/or heating. As a result, definitions of energy poverty have become highly variegated and context dependent <ref type="bibr" target="#b11">12</ref> . When referring to the Global South, they primarily involve the need to promote affordable, reliable and higher-quality energy services with reduced environmental and health impacts. Narrower understandings involve a focus on the use of existing-often traditional-fuels, such as biomass used for cooking and heating, the provision of a minimal level of energy needed to meet daily requirements, or insufficient capabilities to participate in society and achieve human flourishing <ref type="bibr" target="#b12">13</ref> .</p><p>The European Union also uses the energy poverty framing to address HEIs. Here, there is a stronger emphasis on the affordability of energy bills, as well as the lack of energy services to enable good health and a "decent standard of living" 14 . Outside the European Union, a significant body of scientific and policy research on energy poverty has emerged across the Global North and the 'Global Easts' <ref type="bibr" target="#b13">15</ref> alike.</p><p>Fuel poverty is also commonly invoked in discussions of global HEIs. Historically, its use was geographically narrower (mainly limited to the UK), with a focus on issues of heating, high energy prices and energy-inefficient homes <ref type="bibr" target="#b14">16</ref> (for example, until 2005, the Web of Science listed 26 documents using the term fuel poverty, all pertaining to the UK). Here, there are parallels with the term 'energy burden', predominantly used in US policy and research circles to denote household-based disadvantages connected to high energy prices <ref type="bibr" target="#b15">17</ref> , in terms of the share of household budgets dedicated to energy services <ref type="bibr" target="#b16">18</ref> .</p><p>The notion of 'energy insecurity' is also invoked in debates on HEIs. Its use is frequent in the USA, where, notably, it is often connected to the lived experience of material energy deprivation <ref type="bibr" target="#b17">19</ref> : financial risks, consumption cuts, adverse mental and physical impacts, utility bill arrears and shut-offs, informal connections and excessive heat in the home.</p><p>'Energy vulnerability' discourses <ref type="bibr" target="#b18">20</ref> develop the suggestion that energy-related pressures, risks and difficulties faced by households Perspective <ref type="url" target="https://doi.org/10.1038/s41560-025-01794-w">https://doi.org/10.1038/s41560-025-01794-w</ref> Non-participatory definitions of the methods, approaches and techniques used to define and measure HEIs may lead to further exclusion and marginalization by the state, due to a lack of understanding of the lived experience of hardship, or the development of indicators that favour some forms of disadvantage over others. Exceptions to this trend can be found in the Mexican proposal to formulate a participatory, human capabilities-centred index <ref type="bibr" target="#b34">36</ref> and, more extensively, in New Zealand's extensive public consultation process to define a set of bottom-up energy hardship indicators based on the lived experience of HEIs <ref type="bibr" target="#b19">21</ref> . Proposals for lived experience panels in the Netherlands follow a similar approach <ref type="bibr" target="#b35">37</ref> .</p><p>Second, the drivers of HEIs are often ascribed to a set of readily observable narrow conditions, rather than broader practices of exclusion. The European Union, for example, attributes the causes of energy poverty to the interplay between high energy prices, inadequate building energy efficiency and low household incomes 14 . Despite frequent rebuttals and critiques, these three factors are touted as the most common and persistent drivers of energy poverty, overlooking underpinning policy failures <ref type="bibr" target="#b36">38</ref> .</p><p>Mainstream energy poverty rhetoric often talks about 'the energy poor', referring to people under a term that can come across as alienating, stigmatizing and domineering. The discourse is often coated in techno-managerial language, especially when referring to improvements of energy access 'for the poor' in the Global South, with limited reference to enduring dynamics of (post-)colonial exploitation and subjugation <ref type="bibr" target="#b37">39</ref> or ongoing practices of infrastructural violence, unequal socio-ecological exchange, greenwashing and land grabbing <ref type="bibr" target="#b38">40,</ref><ref type="bibr" target="#b39">41</ref> . Moreover, framing energy poverty in terms of 'basic' energy access indicators <ref type="bibr" target="#b40">42</ref> can normalize low use of energy in the Global South (versus luxury use in the Global North <ref type="bibr" target="#b41">43</ref> ) while obscuring the systemic drivers of HEIs.</p><p>Third, efforts to simplify energy poverty indicators-partly in response to the complexities of explaining the drivers and interpretation of the condition-may create further challenges. HEIs are not easily captured via a single metric <ref type="bibr" target="#b42">44</ref> . The need to define tangible 'expert-led' indicators-primarily to guide resource allocations by governments and/or the private sector-means that particular socio-demographic, infrastructural or spatial circumstances will either be singled out or combined into multi-dimensional, composite metrics <ref type="bibr" target="#b29">31</ref> . However, as argued by Kiely and Strong <ref type="bibr" target="#b30">32</ref> , composite poverty statistics are a particular form of knowledge production that obscures the deeper politics of inequality.</p><p>Fourth, HEIs are narrativized by dominant discourses in ways that themselves promote social exclusion. The terms 'the energy poor', 'the fuel poor' or 'the energy vulnerable' are frequently used in public, scientific and policy debates (for example, see documents by the European Commission <ref type="bibr" target="#b43">45</ref> or UK Government <ref type="bibr" target="#b44">46</ref> ), implicitly suggesting that HEIs are an innate characteristic of affected groups, rather than a structural condition imposed by wider societal and political choices. There is extensive evidence to suggest that the framing of some people and places as 'poor' itself represents a form of stigmatization <ref type="bibr" target="#b45">47</ref> . Such interpretations can foster a culture of judgement-an us-versus-them mentality-that hinders collective efforts to address poverty and instead centres attention on the supposed failings of people who are experiencing hardship. Another form of othering can be found in the terms 'hard to reach' and 'hard to help' <ref type="bibr" target="#b46">48</ref> , which are primarily employed in the context of energy efficiency measures targeted at people on low incomes <ref type="bibr" target="#b47">49</ref> .</p><p>Fifth, commonly used energy poverty narratives are increasingly accompanied by the medicalization of energy injustices in the home. This involves deploying clinical language to describe poverty (for example, 'diagnosis' or 'prescription'), to "de-emphasize the allocation of income and emphasize the treatment of poverty in terms of correcting personal problems" <ref type="bibr" target="#b48">50</ref> . Medicalization has entered energy poverty through debates on the relationships between HEIs and health, given the adverse effects of inadequate household energy services on both physical and mental well-being <ref type="bibr" target="#b49">51</ref> . Medicalization, however, may perpetuate harmful socio-demographic and geographic perceptions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions and future outlook</head><p>Having critically examined the content and implications of the global discursive frame around HEIs, we would single out three key recommendations for research, policy and practice.</p><p>First, there is a need to move away from relying on language that individualizes the causes of HEIs, and from narratives that-either implicitly or explicitly-place the burden of responsibility onto people experiencing energy-related hardships. The list includes terms that depict people experiencing HEIs as passive 'victims', 'the poor', 'the hard to reach', 'left behind', being 'last-mile communities', suffering from 'sickness' or needing 'diagnosis' or 'prescription'. Such wording implicitly (and sometimes explicitly) ties drivers of HEIs solely in relation to the traits of the object of inquiry: individual people, their homes and the places they live in.</p><p>Second, we recommend employing nomenclatures that capture the broader social and economic factors that underpin HEIs. Concepts such as 'underserved', 'seldom heard', 'hardly reached' and many others <ref type="bibr" target="#b47">49</ref> can help foreground limited access to adequate energy and housing infrastructures, the political de-prioritization of energy efficiency and energy access, as well as economic pressures on incomes. These concepts draw attention to the institutional structures and policy decisions that drive HEIs, including distributional energy price and subsidy policies and socio-political marginalization more broadly.</p><p>Third, researchers and practitioners should rely on participatory processes (stakeholder consultations, co-design, co-production, citizen panels and so on) to co-develop scientific and public vocabularies on HEIs. Approaching HEIs through the shared and lived experience of deprivation provides a tangible way forward in many instances, as in the New Zealand example discussed above. Indeed, the European Anti-Poverty Network talks about 'people experiencing poverty' rather than 'the poor'. Energy precarity-inspired thinking can allow for a fundamental reframing of the dominant terminologies that underpin the geographies, indicators and drivers of HEIs, by centring the diverse voices of affected groups, as well as associated forms of political contestation and resistance.</p><p>Finally, our aim is not to silence the debate on the appropriate terminology to capture HEIs, but rather to highlight the importance of the question, open the space for continued discussion and suggest some of the principles that could provide a basis for moving forward. Importantly, we acknowledge the past (and in some cases present) utility of many of the HEI-related concepts that have been unpacked and critiqued here, particularly in terms of aiding the public and scientific recognition of energy poverty. As HEI experts and policy advocates, we have too frequently employed the terms energy poverty and fuel poverty in our own past work, as well as their problematic derivatives-the fuel poor and the energy poor. To some extent, this has been driven by the need to gain recognition within dominant decision-making circles and scientific debates. However, with the mainstreaming of energy poverty across multiple policy registers, we believe that there is now an opportunity to move towards co-produced, inclusive and contextualized framings. The dictionary that is used to narrate HEIs must develop in step with the urgency and scale of the effort needed to address these forms of disadvantage, as well as the rapidly evolving state of knowledge in the energy poverty domain. Enacting a transformative global effort to tackle HEIs means challenging the language that reinforces existing power imbalances and maintains the status quo. Instead of symptomatic treatment, we must speak to the unequal power relations that drive energy inequities in the home.</p></div>		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>We gratefully acknowledge funding from the <rs type="funder">Energy Demand Research Centre</rs>, supported by the <rs type="funder">Engineering and Physical Sciences Research Council and Economic and Social Research Council (EDRC)</rs> (grant number <rs type="grantNumber">EP/Y010078/1</rs>). S.B. also thanks the <rs type="projectName">UK Research and Innovation strategic theme 'Building a green future</rs>' and the <rs type="institution">Economic and Social Research Council</rs> for additional support via the <rs type="funder">Centre for Joined Up Sustainability Transformations</rs> (grant number <rs type="grantNumber">ES/ Z504130/1</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_5expCmf">
+					<idno type="grant-number">EP/Y010078/1</idno>
+					<orgName type="project" subtype="full">UK Research and Innovation strategic theme &apos;Building a green future</orgName>
+				</org>
+				<org type="funding" xml:id="_km28qmz">
+					<idno type="grant-number">ES/ Z504130/1</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>All authors conceived of the study idea. S.B. coordinated and led the project. S.B., K.C.-D., L.L.D., M.M., T.G.R. and N.S. wrote the manuscript. S.B. and M.M. acquired funding.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing interests.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Burden of the global energy price crisis on households</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Guan</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41560-025-01794-w</idno>
+		<ptr target="https://doi.org/10.1038/s41560-025-01794-w" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="304" to="316" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Inability to Keep Home Adequately Warm (Eurostat</title>
+		<ptr target="https://ec.europa.eu/eurostat/databrowser/view/ILC_MDES01/default/table?lang=en" />
+		<imprint>
+			<date type="published" when="2024-03">March 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Access to Electricity Improves Slightly in 2023</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cozzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wetzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tonolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Diarra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Roge</surname></persName>
+		</author>
+		<ptr target="https://www.iea.org/commentaries/access-to-electricity-improves-slightly-in-2023-but-still-far-from-the-pace-needed-to-meet-sdg7" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>but Still Far from the Pace Needed to Meet SDG7 (International Energy Agency</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The diversity penalty: domestic energy injustice and ethnic minorities in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burbidge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sarpotdar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page">102716</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Fuel Poverty v Energy Injustice (Legal Action Group</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ormandy</surname></persName>
+		</author>
+		<ptr target="https://www.lag.org.uk/article/213829/fuel-poverty-v-energy-injustice" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Embodied energy injustice and the political ecology of solar power</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mulvaney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page">103607</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A global perspective on domestic energy deprivation: overcoming the energy poverty-fuel poverty binary</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petrova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="31" to="40" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<ptr target="https://www.iea.org/reports/sdg7-data-and-projections" />
+		<title level="m">SDG7: Data and Projections</title>
+		<imprint>
+			<publisher>International Energy Agency</publisher>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Energy poverty in the Energy Community region: interrogating policy formulation and coverage</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brajković</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Robić</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Vuchkova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. Urban Reg. Stud</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="184" to="199" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Basing &quot;energy justice&quot; on clear terms: assessing key terminology in pursuit of energy justice</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hernández</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Justice</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="127" to="138" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Discursive framing in policies for restricting the marketing of food and non-alcoholic beverages</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ngqangashe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Food Policy</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page">102270</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Energy poverty in developing countries: a review of the concept and its measurements</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Sy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mokaddem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page">102562</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A justice and wellbeing centered framework for analysing energy poverty in the Global South</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Samarakoon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Econ</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page">106385</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Race, gender, and Occidentalism in global reactionary discourses</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Int. Stud</title>
+		<imprint>
+			<biblScope unit="volume">2024</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Fuel poverty in the UK: beyond heating</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Day</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">People Place Policy</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="25" to="41" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Words against injustices: a deep narrative analysis of energy cultures in poverty of Abuja, Mumbai and Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Debnath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page">101892</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Income, housing and health: poverty in the United States through the prism of residential energy efficiency programs</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Tonn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hawkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marincic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page">101945</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Climate change and energy insecurity: a growing need for policy intervention</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Graff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Konisky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Carley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Memmott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Justice</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="76" to="82" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The politics of domestic energy vulnerability in the Barcelona region, between deconfinement and reconfinement</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Desvallées</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Coutard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rutherford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="201" to="210" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The heat goes on: simplifying the identification of energy hardship</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Brabo-Catala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cernic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Barton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heliyon</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">19087</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Energy poverty as capacity deprivation: a study of social housing using the partially ordered set</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Grazini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Socioecon. Plann. Sci</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page">101843</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Socio-ecological precarity at the juncture of multiple crises</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petrova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prog. Hum. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="35" to="48" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The materiality of precarity: gender, race and energy infrastructure in urban South Africa</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petrova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Plan. Econ. Space</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1031" to="1050" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Energy poverty and beyond: the state, contexts, and trajectories of energy poverty studies in Asia</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Delina</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page">103168</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Velasco-Herrejón</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lennon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Dunphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>P ; Herrejón</surname></persName>
+		</author>
+		<title level="m">Living with Energy Poverty</title>
+		<imprint>
+			<publisher>Taylor &amp; Francis</publisher>
+			<date type="published" when="2024">2024</date>
+			<biblScope unit="page" from="3" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Recognition of and response to energy poverty in the United States</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Bednar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Reames</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="432" to="439" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">New dimensions of vulnerability to energy and transport poverty</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joule</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="3" to="7" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Ambient vulnerability</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Glob. Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page">102801</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Analyzing global inequality in access to energy: developing policy framework by inequality decomposition</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sinha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Balsalobre-Lorente</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Zafar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Saleem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Environ. Manag</title>
+		<imprint>
+			<biblScope unit="volume">304</biblScope>
+			<biblScope unit="page">114299</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Energy poverty indicators: a systematic literature review and comprehensive analysis of integrity</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Siksnelyte-Butkiene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Streimikiene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Lekavicius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Balezentis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sustain. Cities Soc</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page">102756</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The indexification of poverty: the covert politics of small-area Indices</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kiely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Strong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Antipode</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1758" to="1780" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Encountering energy precarity: geographies of fuel poverty among young adults in the UK</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petrova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans. Inst. Br. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="17" to="30" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Energy poverty prediction in the United Kingdom: a machine learning approach</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Al Kez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Foley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">K</forename><surname>Abdul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Del Rio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">184</biblScope>
+			<biblScope unit="page">113909</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Methods, data sources and applications of the artificial intelligence in the energy poverty context: a review</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>López-Vargas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ledezma-Espino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanchis-De-Miguel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Build</title>
+		<imprint>
+			<biblScope unit="volume">268</biblScope>
+			<biblScope unit="page">112233</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ricalde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Cedano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Thomson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Robles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Handbook on Energy and Society</title>
+		<imprint>
+			<biblScope unit="page" from="154" to="167" />
+			<date type="published" when="2021">2021</date>
+			<publisher>Edward Elgar Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Humanising the energy transition: towards a national policy on energy poverty in the Netherlands</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Feenstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Middlemiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hesselman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Straver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tirado Herrero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Sustain. Cities</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">31</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Rendered invisible: institutional misrecognition and the reproduction of energy poverty</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Frankowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The debt/energy nexus behind Puerto Rico&apos;s long blackout: from fossil colonialism to new energy poverty</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Smith-Nonini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lat. Am. Perspect</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="64" to="86" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Hydroelectric extractivism: infrastructural violence and coloniality in the Sierra Norte de Puebla</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Post</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mexico. J. Lat. Am. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="49" to="95" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">This is all waste&apos;: emptying, cleaning and clearing land for renewable energy dispossession in borderland India</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Contemp. South Asia</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="402" to="419" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Rethinking the role of indicators for electricity access in Latin America: towards energy justice</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alegre-Bravo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Stedman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Energy</title>
+		<imprint>
+			<biblScope unit="volume">379</biblScope>
+			<biblScope unit="page">124877</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Large inequality in international and intranational energy footprints between income groups and across consumption categories</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Oswald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Steinberger</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41560-025-01794-w</idno>
+		<ptr target="https://doi.org/10.1038/s41560-025-01794-w" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="231" to="239" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Rethinking the measurement of energy poverty in Europe: a critical analysis of indicators and data</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Thomson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Snell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indoor Built Environ</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="879" to="901" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Who&apos;s Energy Poor in the EU? It&apos;s More Complex than It Seems</title>
+		<ptr target="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/whos-energy-poor-eu-its-more-complex-it-seems-2024-09-25_en" />
+		<imprint>
+			<date type="published" when="2024">2024</date>
+			<publisher>European Commission</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Fuel poverty factsheet</title>
+		<ptr target="https://www.gov.uk/government/statistics/fuel-poverty-factsheet-2024" />
+	</analytic>
+	<monogr>
+		<title level="j">Gov.uk</title>
+		<imprint>
+			<date type="published" when="2024">2024. 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Poverty 2nd edn (Polity</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lister</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Hard to Reach and Hard to Help: Bringing Energy Efficiency to Elusive Audiences (European Council for an Energy-Efficient Economy</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ramsay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pett</surname></persName>
+		</author>
+		<ptr target="https://www.osti.gov/etdeweb/biblio/20501140" />
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Hard to reach? Language matters when describing populations underserved by health and social care research</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Routen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bambra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Willis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Khunti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Health</title>
+		<imprint>
+			<biblScope unit="volume">205</biblScope>
+			<biblScope unit="page" from="28" to="e29" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">In the clinic: the medicalization of welfare</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schram</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Text</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="81" to="107" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">What are the effects of energy poverty and interventions to ameliorate it on people&apos;s health and well-being?: A scoping review with an equity lens</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ballesteros-Arjona</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page">102456</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

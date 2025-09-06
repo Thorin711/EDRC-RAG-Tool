@@ -1,0 +1,2400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Hostile Environments: Housing and Asylum Policies as Drivers of Energy Deprivation Among UK Refugee Communities</title>
+				<funder ref="#_7MUu3mG">
+					<orgName type="full">UK Research and Innovation, through the Centre for Research into Energy Demand Solutions</orgName>
+				</funder>
+				<funder ref="#_YDrD7Gz">
+					<orgName type="full">Economic and Social Research Council</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Engineering and Physical Sciences Research Council</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-10-15">2024-10-15</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Manon</forename><surname>Burbidge</surname></persName>
+							<email>manon.burbidge@manchester.ac.uk</email>
+							<idno type="ORCID">0000-0001-9775-5239</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Geography</orgName>
+								<orgName type="institution">University of Manchester</orgName>
+								<address>
+									<settlement>Manchester</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Geography</orgName>
+								<orgName type="institution">University of Manchester</orgName>
+								<address>
+									<addrLine>Oxford Road 9775-5239 S. Bouzarovski http://orcid.org/0000-0002-0045-3400 K. Lucas http://orcid.org</addrLine>
+									<postCode>M13 9PL 0000-0001 0000-0002-4009</postCode>
+									<settlement>Manchester Manon Burbidge http://orcid.org/ -7017 S. Warren</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+							<idno type="ORCID">0000-0002-0045-3400</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Geography</orgName>
+								<orgName type="institution">University of Manchester</orgName>
+								<address>
+									<settlement>Manchester</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><surname>Lucas</surname></persName>
+							<idno type="ORCID">0000-0002-4009-7017</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Geography</orgName>
+								<orgName type="institution">University of Manchester</orgName>
+								<address>
+									<settlement>Manchester</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><surname>Warren</surname></persName>
+							<idno type="ORCID">0000-0003-2530-453X</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Geography</orgName>
+								<orgName type="institution">University of Manchester</orgName>
+								<address>
+									<settlement>Manchester</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Hostile Environments: Housing and Asylum Policies as Drivers of Energy Deprivation Among UK Refugee Communities</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Housing, Theory and Society</title>
+						<title level="j" type="abbrev">Housing, Theory and Society</title>
+						<idno type="ISSN">1403-6096</idno>
+						<idno type="eISSN">1651-2278</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">42</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="335" to="351"/>
+							<date type="published" when="2024-10-15" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">BFE57A705B4699D6CCF5870CE5BEFE89</idno>
+					<idno type="DOI">10.1080/14036096.2024.2413523</idno>
+					<note type="submission">Received 26 January 2024 Accepted 2 October 2024</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Energy deprivation</term>
+					<term>housing</term>
+					<term>refugees</term>
+					<term>United Kingdom</term>
+					<term>hostile environment</term>
+					<term>deservingness</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Although refugees in the UK are highly susceptible to the triad of factors -low income, poor housing and high energy bills -that produce vulnerability to energy deprivation, literature on this issue is rare. We therefore propose a framework towards understanding the role of "non-energy" policies as drivers of energy deprivation among UK refugees, using the conceptual lenses of deservingness, welfare chauvinism and domicide to demonstrate how the condition has been deliberately produced under the UK government's Hostile Environment approach. We argue that this approach not only damages the physical materiality of housing and the emotional space of home, but also deleteriously impacts upon refugees' ability to access adequate energy services. Energy deprivation thus emerges as a hidden consequence of policies that normalize precarious housing, a denial of rights, and inadequate incomes, in which "home" becomes a site of exclusion that achieves the Hostile Environment's goal -making everyday life unbearable.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>It is well documented that refugees are more likely on average in the UK to live in conditions of precarity, poverty and exclusion, on extremely low incomes, and to occupy poor quality, insecure, overcrowded housing <ref type="bibr" target="#b2">(Allsopp, Sigona, and Phillimore 2014;</ref><ref type="bibr" target="#b11">Bouzarovski et al. 2022;</ref><ref type="bibr" target="#b16">P. Brown, Gill, and Halsall 2022;</ref><ref type="bibr" target="#b35">de Noronha 2015;</ref><ref type="bibr" target="#b80">Phillips 2006;</ref><ref type="bibr" target="#b81">Powell and Robinson 2019)</ref>. Although each of these factors contributes to increased vulnerability, defined as exposure to risk or harm <ref type="bibr">(Simcock et al. 2021)</ref>, to energy deprivation, a situation whereby a household is unable to obtain required levels of energy services to meet their needs <ref type="bibr" target="#b14">(Bouzarovski and Petrova 2015)</ref>, academic and policy literature, and wider societal awareness on the specific energy challenges faced by refugees is remarkably rare. This is despite the recent energy and cost-of-living crises that has seen 8.4m people in the UK facing energy-related hardships (National Energy Action 2022a).</p><p>In response to this research gap, following a purposive literature review, we propose an explanatory framework towards understanding the role of "non-energy" policies as drivers of energy deprivation amongst refugee communities in the UK (C. <ref type="bibr" target="#b19">Butler 2022)</ref>. We first trace how refugees are constructed as "Other" in a contemporary UK context, drawing on historical discourses of racialized deservingness and welfare chauvinism. We highlight how these tropes intersect with domicidal austerity and hostile environment policies to funnel refugees into precarious and poor quality housing in marginalized urban areas, thus preventing the making of home <ref type="bibr" target="#b76">(Nowicki 2023)</ref>. As a result, we propose that domestic energy deprivation arises in these communities as the everyday, hidden culmination of pernicious and punitive political decisions, which in turn have severe knock-on consequences for rebuilding home.</p><p>This paper offers a timely contribution to the literature, as the number of people claiming asylum increased by 44% in 2023, and as the UK government continues to roll out measures that punish and dehumanize refugees (UK <ref type="bibr">Government (2023)</ref>; <ref type="bibr" target="#b98">Stewart 2023)</ref>, amidst a landscape of perpetual crises surrounding broadening social inequality, migration, housing, energy and cost of living <ref type="bibr" target="#b82">(Roitman 2022)</ref>. The paper also offers key reflections for policymakers across the Global North, with its novel examination of energy issues within displaced communities beyond the context of the refugee camp, as numbers of forcibly displaced peoples grow globally, energy issues remain high on political agendas and socio-economic racialized disparity persists <ref type="bibr" target="#b4">(Bednar and Reames 2020;</ref><ref type="bibr" target="#b40">Elissaiou 2023;</ref><ref type="bibr" target="#b43">EUAA 2024;</ref><ref type="bibr" target="#b83">Rosenberg-Jansen 2022)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methodology and Definitions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>We conducted an iterative methodological approach to the literature review <ref type="bibr" target="#b85">(Saboor and Ammenwerth 2009)</ref>, purposively reviewing materials from a range of sources, including academic papers, NGO-commissioned reports, policy documents and white papers, to draw out thematic narratives and construct the proposed framework. A purposive review allows for a reflexive, iterative and strategic approach to generate novel insights about an under-researched topic <ref type="bibr" target="#b28">(Cook et al. 2019</ref>).</p><p>We started with the primary search string, "Energy Poverty" OR "Energy Deprivation" OR "Fuel Poverty" AND "Refugees", in Scopus (for academic literature) and a general Google search (for other sources), sifting for relevance to a Global North host country context. This yielded extremely few results -only four academic papers, two NGO reports, one government strategy and three community projects fit the required criteria. We therefore returned to the triad of factors that lead to energy deprivation -low income, high energy bills and poor housing <ref type="bibr" target="#b14">(Bouzarovski and Petrova 2015)</ref>, breaking these down into sub-terms. The resulting search strings used are presented in Table <ref type="table">1</ref>.</p><p>Table 1. Literature review search strings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Energy Deprivation Factor</head><p>Search strings Low income "Deprivation" OR "Poverty" AND "Refugee" [Inefficient] housing "Hous*" OR "Accommodation" AND "Refugee" High energy bills "Debt" OR "Bills" AND "Refugees"</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Definitions</head><p>Although the definitions of "refugee" and "asylum-seeker" contextually vary and are used interchangeably in common discourse, this paper will utilize UK legal definitions; that is, an asylum-seeker is someone who has arrived in the UK and applied for asylum, whilst a refugee is a person whose claim for asylum has been approved <ref type="bibr" target="#b55">(Kirkwood et al. 2016)</ref>.</p><p>Although this paper is concerned with energy deprivation amongst refugees, it is impossible to unpack this issue without understanding conditions and processes experienced by people throughout the asylum system, thus, we include sources from the review that relate to both. It is also important to note that for specific refugee groups, the UK has a range of resettlement schemes with a number of differences from the mainstream asylum system, thus affecting people's experiences of seeking sanctuary <ref type="bibr" target="#b99">(Sturge 2023)</ref>.</p><p>Although this is beyond the scope of the paper to explore, we acknowledge that refugees are not a homogenous group; they are individuals with a diverse range of backgrounds, experiences and challenges, and that our framework will not therefore capture every refugee's story.</p><p>With regard to the term energy deprivation, this was deliberately selected over the related term(s) of energy or fuel poverty. Energy deprivation is broadly defined as a harmful lack of energy services that are socially considered as basic necessities, such as adequate heating, lighting and access to transportation <ref type="bibr" target="#b14">(Bouzarovski and Petrova 2015)</ref>. We posit that in relation to refugees, it critically also includes a deliberate denial of that necessity by the state; when access to a resource is denied to a person, that act is a form of exercizing power and control <ref type="bibr" target="#b103">(Voutira and Doná 2007)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Absence of Knowledge is Not the Absence of a Problem</head><p>As aforementioned, the first iteration of the purposive review yielded very few results. Nevertheless, there is some evidence to suggest that refugees are indeed affected by energy deprivation, for example, referencing them as a vulnerable group (e.g. <ref type="bibr" target="#b11">Bouzarovski et al. 2022;</ref><ref type="bibr" target="#b57">Lee et al. 2022;</ref><ref type="bibr" target="#b61">Little, Barnes, and Power 2024)</ref>, identifying refugees as needing extra support with bills (Scottish Government 2021) or signalling that this group merited further research with regard to energy issues <ref type="bibr" target="#b68">(Martiskainen et al. 2023)</ref>, as well as two more substantive references to the issue by NGO reports <ref type="bibr" target="#b73">(Netto and Fraser 2009;</ref><ref type="bibr">North East Child Poverty Commission 2013)</ref>. The search also returned three projects that offer advice and energy-saving packs in response to identified energy-related hardships amongst the refugee groups they work with. Two are small-scale community projects (Welcoming Home Energy Efficiency Project and the Derby Refugee Forum), and one is a national-scale project (Empowered by Energy), each highlighting low income and unfamiliarity with the UK energy system as key barriers for refugees. In most of these sources, there was a recognition that energy deprivation is an issue faced by UK-based refugees, but with little to no cited literature or statistics to support statements, reflective of the lack of evidence we were able to identify on this topic. From the second iteration of the review, there were also instances from refugee-specific literature that allude to the impacts of the asylum system on poverty, difficulties with paying bills and understanding the UK energy system <ref type="bibr" target="#b59">(Lindsay, Gillespie, and Dobbie 2010)</ref>, as well as the outcomes of energy deprivation on health, for example, high levels of mould and damp, and inadequate or insufficient heating and cooling in the home <ref type="bibr" target="#b109">(Ziersch and Due 2018;</ref><ref type="bibr" target="#b110">Ziersch et al. 2017)</ref>.</p><p>Given these sparse results, energy deprivation amongst UK refugee communities can be described as invisible, or "hidden". "Hidden" energy deprivation, highlighted by <ref type="bibr" target="#b108">Willand, Torabi, and Horne (2023)</ref>, is a condition suffered by marginalized social groups who are not recognized by mainstream indicators, or included within policies, programmes and dominant narratives around energy, due to "wider conditions that shape their vulnerability" <ref type="bibr">(Willand, Torabi, and Horne 2023, 2)</ref>. Being institutionally ignored and rendered invisible in this manner results in both critical socio-political knowledge gaps and blockages for accessing the resources and support that people need to address energy-related hardships <ref type="bibr" target="#b68">(Martiskainen et al. 2023;</ref><ref type="bibr" target="#b93">Simcock, Frankowski, and Bouzarovski 2021</ref>). In the absence of existing data, we therefore need to look beyond energy-poverty-related policy and academia, to understand how "non-energy" arenas of policymaking shape everyday practices, experiences and conditions of energy deprivation (C. Butler 2022; C. <ref type="bibr" target="#b20">Butler, Parkhill, and Luzecka 2018)</ref>. In this vein, we grouped the results from the second iteration of the literature review around two key policy areas which we identified as contributing to conditions of energy deprivation in refugee communities, due to their impacts on a (refugee) household's ability to access and afford adequate energy services within and without of the home. These two themes act as the key pillars of our explanatory framework -the first being the poverty-enforcing mechanisms of the asylum system, and the second, the neoliberalization of housing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Deservingness, Welfare Chauvinism and the Hostile Environment: Constructing the "Other" in UK Asylum Politics</head><p>Otherness, as defined by Edward Said, is a binary construct of "Occidental" Europe against its "Oriental" Eastern colonies, with Othered, non-Western bodies imbued with inferiority, danger and threat <ref type="bibr" target="#b86">(Said 1978)</ref>. Scholars have theorized that racialized discourses of Othering and deservingness, in particular, welfare chauvinism, operate throughout the UK's asylum process, perpetuated by media and popular discourse, to create a system of destitution and suffering where asylum seekers' "bodies (are) more acceptably degraded than others" <ref type="bibr" target="#b33">(Darling 2022;</ref><ref type="bibr" target="#b46">Guentner et al. 2016;</ref><ref type="bibr">Mayblin 2017, 3)</ref>. In this section, we outline how these narratives intertwine to justify the deployment of dehumanizing policies that degrade refugees' rights, choices and agency.</p><p>The trope of deservingness has long been employed to justify particular allocations of state welfare, gaining prominence in Britain with the introduction of the 1834 English Poor Laws. These were underpinned by clearly defined categories, distinguishing between the "deserving" -respectable, hardworking, and living in line with middleclass values -and the "undeserving", who were seen to be poor due to their personal choices, profligate behaviours and vices (O'Connor 2016; Watkins-Hayes and Kovalsky 2016). Who is deemed "deserving" continues to underpin the allocation of resources in contemporary society <ref type="bibr" target="#b105">(Welshman 2013)</ref>; foregrounding the threat of an undeserving Other diverts public attention away from root causes of social problems and failings of state policy, towards a scapegoat -usually the poorest and most vulnerable -which in turn, justifies their enforced poverty <ref type="bibr" target="#b44">(Gans 1994;</ref><ref type="bibr" target="#b95">Slater 2014</ref>).</p><p>Which group is seen as Other is constantly shifting, however, who has access to state resources has been racialized from "(the) abolition (of slavery) to Brexit to serve elite interests" <ref type="bibr">(Dickson and Rosen 2021, 547)</ref>, deeply entangled with the UK's colonial history and its postcolonial present <ref type="bibr" target="#b49">(Hirschler 2015)</ref>. Processes of Othering are the most pronounced where inequalities are greatest, operating to legitimize hierarchies of oppression and pushing people outside of the privileges of citizenship, which are critical for securing dignity and respect <ref type="bibr" target="#b60">(Lister 2021;</ref><ref type="bibr" target="#b101">Tyler 2010)</ref>. As a result, the welfare system is deployed as "an agent that defines who is a member of the nation state and who is not" <ref type="bibr">(Bloch and Schuster 2002, 395)</ref>. Racialized migrant groups, in particular people seeking asylum, are consistently seen as the least deserving of social welfare, variously labelled as workshy, freeloading from a benefits system to which they have not contributed, or as culturally threatening <ref type="bibr" target="#b56">(Kootstra 2017;</ref><ref type="bibr" target="#b102">Tyler 2013)</ref>. By problematizing poor migrants as benefitting from an overstretched and "generous" system, and thus creating a drain on government resources, punitive changes to benefit policies and allocations are legitimized <ref type="bibr" target="#b95">(Slater 2014)</ref>.</p><p>Simultaneously, the incidence of poverty in the UK is higher among all minority ethnic groups than white groups, linked to stereotyping, discrimination and institutional racism, an issue prevalent across the Global North <ref type="bibr" target="#b60">(Lister 2021)</ref>. The racialization of poverty, Lister argues, has been "a central feature of the political delegitimization of poor people . . . (which has) facilitated the dismantling of welfare rights" <ref type="bibr">(Lister 2021, 75)</ref>. The "purposeful impoverishment" of racialized groups, we posit, has been most markedly deployed towards refugees and asylum seekers in the UK <ref type="bibr">(Mayblin 2019, 46)</ref>, delivered via a particularly pernicious strand of welfare chauvinism enacted through immigration policy <ref type="bibr" target="#b45">(Gill 2016)</ref>.</p><p>UK asylum policies since 1993, which we highlight here, are keenly illustrative of our argument. In response to increasing numbers of arrivals in the late 1990s, and decreasing public support for refugees, resettlement became the responsibility of the Home Office, rather than that of local authorities, shifting asylum from a social system to one tied to immigration controls and border security <ref type="bibr" target="#b89">(Sheldrick 2021)</ref>. As part of this move, the National Asylum Support Service (NASS) was set up in 2000, completely separating mainstream welfare from the asylum system, linking social support to immigration status. The Asylum and Immigration Appeals Act of 1993 reduced welfare support given to asylum seekers to 90% of what was available to UK citizens, reduced again to 70% in 1996. The amount stands currently at £49.18 per week, widely critiqued as being insufficient to avoid destitution <ref type="bibr" target="#b90">(Shelter 2024)</ref>. In 2002, the Nationality, Immigration and Asylum Act denied people awaiting a decision on their asylum application the right to work, and welfare support was withdrawn from those who "failed to apply for asylum as soon as practicable" on arrival. Refugee status was changed from permanent-once-granted, to 5-year subject to review, introducing a new period of uncertainty and limbo into people's lives.</p><p>Widespread cutbacks throughout the 2010s under austerity included the scaling back of English language classes -many of which now have waiting lists of thousandshindering the ability for people to access the job market (Balas and Caggiano 2021), and the Refugee Integration and Employment Service, which provided refugees with personal integration plans, job skills courses and employment support, was scrapped in 2011 <ref type="bibr" target="#b2">(Allsopp, Sigona, and Phillimore 2014)</ref>. Austerity resulted in novel "forms, intensities and dimensions of poverty" <ref type="bibr">(Dangschat 2009, 836)</ref>, throughout the country, igniting discourses of deservingness and support for welfare chauvinism to new extremes. Austerity created "rivalries instead of solidarity . . . for scarce resources" among vulnerable and socio-economically deprived groups, further demonizing poor migrants <ref type="bibr" target="#b32">(Darling 2016;</ref><ref type="bibr">Hoggett, Wilkinson, and Beedell 2013, 567)</ref>. Accordingly, in 2012, the Home Office officialized the Hostile Environment stance towards people seeking asylum, explicitly designed to make life as difficult as possible for people without leave to remain in the country, and consequently penalized entire communities who are racialized or culturalized as Other <ref type="bibr">(Byrne et al. 2020)</ref>. The Hostile Environment aimed to prevent so-called uncontrolled migration and was justified with the promise that it would alleviate untenable pressure on the UK's housing, healthcare and education systems <ref type="bibr" target="#b79">(Phillimore 2018;</ref><ref type="bibr" target="#b97">Spratt 2022</ref>). However, as shown by these policies, a hostile environment, in reality, has existed since the 1990s (Joint Council for the Welfare of Immigrants 2023).</p><p>All of the above is tantamount to "state permitted forms of discrimination" <ref type="bibr">(Byrne et al. 2020, 49)</ref>, a "sustained intensification" of methods of governing which have led to increased visibility of refugees in political and popular discourse, rising incidences of racism, destitution, exploitation and misery <ref type="bibr" target="#b45">(Gill 2016)</ref>, as well as the barring of people from essential services <ref type="bibr" target="#b42">(Essex et al. 2022)</ref>. Via deliberate political choices across three decades of hostile environment policies, the contemporary UK asylum process can be understood as a "poverty producer", with destitution as a deliberate outcome, diametrically opposed to the system of protection meant to be afforded people who are fleeing from conflict or persecution under the 1951 Refugee Convention <ref type="bibr" target="#b31">(Darling 2009;</ref><ref type="bibr" target="#b50">Hodkinson et al. 2021;</ref><ref type="bibr" target="#b58">Lewis 2007)</ref>. In this time, refugees have become so Othered, so lessthan-human, that they are seen as deserving of the conditions that they find themselves in, which in turn justifies the policy choices made to dehumanize them further <ref type="bibr" target="#b2">(Allsopp, Sigona, and Phillimore 2014;</ref><ref type="bibr" target="#b21">J. Butler 2020;</ref><ref type="bibr" target="#b55">Kirkwood et al. 2016)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Refugees and Housing: A Domicidal Hostile Environment?</head><p>Adequate housing is a human right; a right to affordable and safe shelter and a place to call "home", which "supports the development and social integration", health and wellbeing of its inhabitants <ref type="bibr">(Ziersch and Due 2018, 200)</ref>. Housing has therefore been identified as critical to refugee resettlement and integration <ref type="bibr" target="#b23">(Carter, Polevychok, and Osborne 2009)</ref> by multiple national governments, including the UK <ref type="bibr" target="#b1">(Ager and Strang 2008)</ref>. For displaced people, often fleeing the loss and destruction of a home, a lack of access to appropriate housing in a host country can exacerbate existing inequality, social exclusion and poor mental wellbeing (P. <ref type="bibr" target="#b16">Brown, Gill, and Halsall 2022)</ref>. However, the importance attributed to housing in the asylum process has not been embedded into practice; nowhere has the interplay between welfare chauvinism, deservingness and asylum outlined in the previous section been more apparent than in the state provision of housing <ref type="bibr" target="#b33">(Darling 2022)</ref>.</p><p>Nowicki posits that this has occurred because successive governments have employed "domicidal" housing policies, whereby the physical built environment, the ability to undertake homemaking practices and the emotional space of home, is intentionally destroyed <ref type="bibr" target="#b75">(Nowicki 2014</ref><ref type="bibr" target="#b76">(Nowicki , 2023))</ref>. The denial of housing, the determination of who has the right to a house and thus make a home, provides a key mechanism of (re)producing systemic social inequalities and poverty. This section therefore traces how domicidal housing and poverty-inducing asylum measures coincide to create "policy-imposed marginality" and precarity -in this context, meaning structurally imposed uncertainty, vulnerability and risk in the housing sphere, which in turn stymies the ability for refugees to make home in the UK <ref type="bibr">(Darling 2022, 6;</ref><ref type="bibr" target="#b38">Dotsey and Chiodelli 2021)</ref>.</p><p>For four decades, housing has been a key component of UK socio-economic policy change, morphing from "house as home" to "house as real estate" <ref type="bibr">(Madden and Marcuse 2016, 8)</ref>, against a backdrop of neoliberalism, austerity, widening inequality, and increasing poverty. Quality housing is so important to a well-functioning welfare state, because other public goods and services -such as education and health -which are ostensibly provided equally, are in reality "allocated through the housing market" <ref type="bibr">(Cheshire and Sheppard 2004, 392)</ref>. In this sense, housing is a socio-spatial determinant, affecting access to all other services, and in turn people's life chances, operating as a power structure that can either empower or oppress <ref type="bibr" target="#b66">(Malpass 2008)</ref>. Unlike health, social security and education, which in the UK are universally available services, the provision of housing has never occupied a de-commodified status <ref type="bibr" target="#b63">(Lund 2017</ref>). Thus, housing was a relatively easy target for the early dismantlement of the welfare state; its non-universal status allowed it to be the subject of policies within a neoliberal agenda that financialized and commodified housing.</p><p>For example, in 1980, the policy known as Right to Buy, whereby social tenants were able purchase their homes from the local authority at a large discount was expanded, whilst construction of social housing was reduced to its lowest rate since the 1920s <ref type="bibr" target="#b63">(Lund 2017;</ref><ref type="bibr" target="#b96">Smyth 2013</ref>). These factors resulted in a landslide decline of social housing availability so that, by 1997, over two million council homes were privately owned <ref type="bibr" target="#b0">(Aalbers 2016;</ref><ref type="bibr" target="#b67">Malpass and Murie 1999;</ref><ref type="bibr" target="#b81">Powell and Robinson 2019)</ref>. Alongside social housing decline was the rise of the private rented sector (PRS), facilitated by the 1988 Tenancy Act, which ended security and rent stability with the introduction of assured shorthold tenancies, no-fault evictions and market-rate rents <ref type="bibr" target="#b29">(Crook and Kemp 1996)</ref>. Regulations, and thus relative protection for tenants, were removed, and the power balance tipped in favour of landlords, making the sector more attractive for investment and paving the way for the neoliberal "domicidal turn" <ref type="bibr">(Nowicki 2023, 13)</ref>.</p><p>As such, the UK is currently experiencing a situation where social housing has become increasingly residualized, provided only for the most vulnerable <ref type="bibr" target="#b27">(Clarke, Monk, and Taltavull 2011)</ref>. In many localities, there are very strict criteria on who may apply to the housing register, and many authorities demand that an individual must have lived in the area for a certain amount of time to be eligible, which can disadvantage new refugees <ref type="bibr" target="#b91">(Shelter England 2021)</ref>. Nevertheless, the waitlist for council housing sits at over 1.5 m households, with demand far outstripping supply <ref type="bibr" target="#b81">(Powell and Robinson 2019)</ref>. Hence, people who classically would have been housed in social accommodation, such as lowincome households and vulnerable groups, are more frequently pushed into the PRS <ref type="bibr">(Byrne et al. 2020;</ref><ref type="bibr" target="#b54">Kemp 2011)</ref>. Tenants in lower-income brackets are more likely than households in social housing in the same income brackets to be in inappropriate accommodation, a result of the lower end of the PRS being characterized by poor conditions, overcrowding, disrepair and insecure tenancies, housing types in which new migrant groups are particularly concentrated <ref type="bibr" target="#b97">(Spratt 2022)</ref>.</p><p>In relation to refugees, Brown et al. contend that housing has been the locus of reforms to the UK's asylum process (P. <ref type="bibr" target="#b16">Brown, Gill, and Halsall 2022)</ref>. In 1999, the Immigration and Asylum Act saw dispersal policy, whereby people are given no-choice accommodation, with financial support contingent on the acceptance of this accommodation, come into play to reduce the strain on housing in London. Ostensibly distributing people seeking asylum more fairly around the country <ref type="bibr" target="#b89">(Sheldrick 2021</ref>), the reality is that dispersal areas are often localities with existing (severe) deprivation, cheap housing stock, low demand for social housing, and where austerity measures have had the greatest impact on public services <ref type="bibr" target="#b32">(Darling 2016;</ref><ref type="bibr" target="#b47">Hancock and Mooney 2013)</ref>. In 2012, responsibility for dispersal accommodation was transferred from NASS to a privatized system, operated by for-profit companies. Accommodation has since been widely criticized for being rife with issues, including quality, safety and appropriateness for people fleeing conflict, for example the use of military barracks and hostels <ref type="bibr" target="#b5">(Berg and Dickson 2022)</ref>. In dispersal accommodation, people have no tenancy rights and can be moved out at short notice; the insecurity of tenure means that it can be extremely difficult to forge and maintain social connections or meet cultural needs, particularly when housing is located in isolated areas far away from city centres, and where appropriate services are "piecemeal" <ref type="bibr">(Hirschler 2015, 87)</ref>.</p><p>Obtaining leave to remain does not transform refugees into suddenly deserving citizens <ref type="bibr" target="#b70">(Mayblin 2019)</ref>; once granted refugee status, people only have 28 days in which to apply for benefits, find housing and a job before they are evicted from Home Office accommodation, which often occurs before a source of income has been secured <ref type="bibr" target="#b52">(Hughes 2023)</ref>. This means that many end up homeless -a group in which refugees are overrepresented, are forced to live in poor quality, unsuitable or informal rented housing, or rely on friends or charities to find accommodation <ref type="bibr" target="#b3">(Baillot and Connelly 2018;</ref><ref type="bibr" target="#b24">Cebulla et al. 2010;</ref><ref type="bibr" target="#b39">Doyle 2014;</ref><ref type="bibr" target="#b80">Phillips 2006)</ref>. Although refugees have the same rights to apply for social housing as UK citizens, the severe shortage and lengthy waiting lists mean that only the most vulnerable find accommodation in this sector, in which housing usually is provided unfurnished, including white goods and appliances. The Refugee Integration Loan, frequently used to pay for a deposit on privately rented accommodation, only allows a single person to borrow up to £500, inadequate to cover a month's upfront rent in many areas of the UK. People receive so little in weekly allowances when in the asylum system that it is almost impossible to save for a rent deposit themselves; paradoxically, if people do manage to accumulate savings, then their asylum support is at risk of being stopped <ref type="bibr" target="#b3">(Baillot and Connelly 2018)</ref>.</p><p>Through these policies, we can see how housing, and the site of the home, is deeply imbued with socio-political relations, and where "the power relations of wider society are played out" <ref type="bibr" target="#b7">(Blunt and Dowling 2022;</ref><ref type="bibr">Brun and Fabos 2021, 7)</ref>. The mobility of an individual is predicated on their economic, social, cultural and symbolic capital, broadened by resources such as housing, infrastructure and local networks, and limited by place-based and personal forms of stigma (C. <ref type="bibr" target="#b19">Butler 2022;</ref><ref type="bibr" target="#b30">Dangschat 2009)</ref>. Housing is a necessity, a central component for participation in social, economic and political life, a key determinant in health outcomes, access to resources and institutional relationships, and for the provision of physical and ontological security (de Noronha 2015; <ref type="bibr" target="#b65">Madden and Marcuse 2016;</ref><ref type="bibr" target="#b81">Powell and Robinson 2019)</ref>. Conversely, inadequate housing is detrimental to physical and mental wellbeing, with documented impacts on family breakdowns, negative consequences for child development, and is a key barrier to social inclusion and equality (de Sa 2017; <ref type="bibr" target="#b48">Hauge, Støa, and Denizou 2017;</ref><ref type="bibr" target="#b62">Logan and Murdie 2016)</ref>.</p><p>In this sense, determining who is deserving of a suitable, safe and secure home, and who is denied one, determines many more facets of an individual's life and life outcomes than just their housing situation. We can understand why this has occurred with the knowledge that if the goal of the UK asylum system is to deter, to hinder, to exclude, then by removing access to housing, the possibility of living a "normal" life is vastly reduced, and the status of Other is maintained. By stunting the ability for people to put down roots, to create a stable, meaningful life for themselves, asylum seekers and refugees remain illegitimate outsiders, excluded from society, and thus the potential to curtail their rights becomes justifiable (Bommes and Geddes 2000; Brun 2015; Nowicki 2023).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hidden Consequences and Everyday Realities: Energy Deprivation Under the Hostile Environment</head><p>Thus far, we have traced how neoliberal housing policies and enforced destitution mean that refugees are more likely to live in precarious housing situations. The policy examples we have outlined in the previous two sections illuminate how a dual-pronged domicidal hostile environment deliberately damages both the physical materiality of housing as well as the emotional ability to make a home <ref type="bibr" target="#b18">(Brun and Fabos 2021;</ref><ref type="bibr" target="#b76">Nowicki 2023)</ref>. In this section, we return to energy deprivation as the "hidden" consequence of "non-energy" policies and practices that have normalized poor and insecure housing, the removal and denial of rights, services and adequate incomes for refugees.</p><p>As aforementioned, enforced destitution created by the asylum system does not evaporate when refugee status is granted, rather, it is a situation that endures, often for decades, after leaving the system <ref type="bibr" target="#b2">(Allsopp, Sigona, and Phillimore 2014)</ref>. In relation to energy deprivation, poverty reduces people's ability to respond, adapt and manage during periods of cold or heat <ref type="bibr" target="#b100">(Thomson et al. 2019)</ref>, in this case, whereby people cannot afford to adequately keep their homes thermally comfortable <ref type="bibr" target="#b100">(Thomson et al. 2019</ref><ref type="bibr">, National Energy Action 2022b)</ref>. Although there is no specific data available on refugees, analysis found that people from Asian, Black, or Mixed ethnicities had the highest expenditures on energy, and the lowest disposable incomes when compared with those from White ethnic groups <ref type="bibr" target="#b11">(Bouzarovski et al. 2022)</ref>.</p><p>Also relevant is a lack of knowledge on how to keep homes thermally comfortable and respond to a cold home in a UK context, resulting from two key factors. Firstly, in asylum accommodation, bills are taken care of by the housing provider, leading to a lack of awareness about the cost of energy in the UK <ref type="bibr" target="#b59">(Lindsay, Gillespie, and Dobbie 2010)</ref>, and secondly, the non-existent systematic dissemination of energy advice by local authorities, the Home Office or accommodation providers, both when people are in and when they leave the asylum system. Advice is usually then the purview of charitable organizations, which is either piecemeal, or insufficiently tailored to the needs of refugees, being a generalized service. As a result, many refugees are left without knowledge of how to navigate the UK's neoliberalized energy system, with its specific, highly responsibilized consumer requirements, alongside potentially different domestic energy demand regimes than in their country of origin <ref type="bibr" target="#b64">(MacGregor, Walker, and Katz-Gerro 2019;</ref><ref type="bibr" target="#b87">Satish and Brennan 2019)</ref>.</p><p>This could include contending with how to switch providers, reading a meter or knowing how to use a thermostat; thus, new refugees can often quickly accumulate debt <ref type="bibr" target="#b11">(Bouzarovski et al. 2022;</ref><ref type="bibr">North East Child Poverty Commission 2013)</ref>. This is exacerbated by the 28-day notice period; competing priorities such as finding housing and applying for Universal Credit in such a short space of time <ref type="bibr" target="#b52">(Hughes 2023)</ref>, which combined with existing destitution means that energy can be a secondary concern, remaining unaddressed until debt has already accrued <ref type="bibr" target="#b59">(Lindsay, Gillespie, and Dobbie 2010)</ref>.</p><p>When a household faces arrears on their utility bills, they can be forced onto prepayment meters, on which the cost of energy cannot be spread over the year, resulting in extremely high costs over the winter months when energy needs are highest. This leads many to self-disconnect, as they cannot afford to top up the meter, leaving them without energy at the coldest time of year (Citizens Advice 2023; Ofgem 2023). Living in a cold home has deleterious consequences on mental and physical health, exacerbates social exclusion and deepens poverty by impacting upon educational attainment and job prospects (C. <ref type="bibr" target="#b19">Butler 2022;</ref><ref type="bibr" target="#b34">Day, Walker, and Simcock 2016;</ref><ref type="bibr" target="#b107">Willand, Middha, and Walker 2021)</ref>. For new refugees, many of whom suffer from trauma, a lack of adequate energy can severely compound existing health conditions and worsen integration opportunities.</p><p>Although important, energy advice is insufficient without tackling the systemic and institutional drivers of the underlying issue, which is precarious and energy-inefficient housing <ref type="bibr" target="#b92">(Simcock and Bouzarovski 2023)</ref>. The residualization and inaccessibility of social housing, as well as asylum policies that cement destitution, funnels many refugees into the low-end of the PRS, increasing exposure to overcrowded, poor quality housing, exploitation and discrimination <ref type="bibr" target="#b13">(Bouzarovski and Cauvain 2016;</ref><ref type="bibr" target="#b23">Carter, Polevychok, and Osborne 2009;</ref><ref type="bibr" target="#b54">Kemp 2011)</ref>, and therefore increasing vulnerability to energy deprivation. The UK's PRS has the highest number of non-decent homes according to the Decent Homes Standards, with 10% of all homes containing damp, and 45% of failed homes not meeting thermal comfort standards <ref type="bibr" target="#b84">(Rugg and Rhodes 2018)</ref>. Poor insulation in ageing buildings, inefficient older appliances and the presence of damp are widespread across the lower end of the PRS, which has the highest rates of energy deprivation across all tenure types <ref type="bibr" target="#b12">(Bouzarovski, Burbidge, and Stojilovska 2023)</ref>. These factors contribute to indicators for the inability to keep homes adequately warm/cool, arrears on utility bills and presence of leaks, damp and/or rot all being higher in the UK's rental sector than across the general population (ENPOR 2023).</p><p>In addition, relying on cheaper housing that is far away from community, cultural and religious networks can increase vulnerability to energy deprivation <ref type="bibr" target="#b24">(Cebulla et al. 2010)</ref>. Research by <ref type="bibr" target="#b68">Martiskainen et al. (2023)</ref> found that many refugees and asylum seekers rely on public transport services, which can be extremely costly, especially for those on a limited budget, and, particularly in more rural or suburban areas, unreliable, fragmented and infrequent (C. <ref type="bibr" target="#b19">Butler 2022;</ref><ref type="bibr" target="#b68">Martiskainen et al. 2023</ref>). In such situations, people often prioritize money for transport to be able to access employment, thus reducing their budget for other energy services, such as adequate heating (C. Butler 2022). Middlemiss et al. find that a strong foundation of social relationships can enable access to energy services and that social connections can arise from access to such services <ref type="bibr" target="#b71">(Middlemiss et al. 2019)</ref>. If community ties are severed due to the inadequacy of transport services and a no-choice dispersal system that can see a family moved across the country at short notice, conditions of energy deprivation can be exacerbated if people cannot reach networks that they depend on for support, such as legal aid, friends or family.</p><p>Energy deprivation is not just an abstract concept, it has real, tragic and avoidable human consequences. This is exemplified poignantly with the death of a toddler from a refugee background in Rochdale in 2020, who had suffered extreme exposure to black mould in his home (M. <ref type="bibr" target="#b15">Brown 2022)</ref>. Reports stated that the housing provider's employees said mould was "acceptable" in refugees' homes, individualizing the issue by blaming the presence of mould on the household's lifestyle choices. Though this case triggered national attention, the lack of action taken, whereby in 2022, 80% of households on the estate where the child died still had damp and mould, highlights the systemic normalization of poor-quality housing conditions in vulnerable households, and entrenched attitudes that refugees are undeserving of liveable homes <ref type="bibr" target="#b9">(Booth 2022</ref><ref type="bibr" target="#b10">(Booth , 2023))</ref>.</p><p>Through practices of domicidal and hostile environment policymaking that have constructed refugees as undeserving Others, we can trace how housing and asylum policy places constraints on where and how people are able to live and which have multifaceted and tangible outcomes on vulnerability to energy deprivation (C. Butler 2022). Refugees can be said to occupy liminal spaces, in a house -if they are able to access one at all -but not a home, neither fully included nor recognized, neither homeless nor at home, constantly navigating precarity in a policy landscape with moving goalposts <ref type="bibr" target="#b7">(Blunt and Dowling 2022;</ref><ref type="bibr" target="#b18">Brun and Fabos 2021;</ref><ref type="bibr" target="#b106">Wilkinson and Ortega-Alcázar 2019)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>This paper has traced how, as a result of punitive "non-energy" policy decisions, refugees become susceptible to the triad of factors that render a person vulnerable to energy deprivation; low income, poor housing and high energy bills, as well as being subject to racialized, discriminatory and punitive structural mechanisms that create and perpetuate conditions of destitution. We have proposed an explanatory framework, using Butler's concept of "non-energy policies" to shed light upon the drivers of energy deprivation amongst refugee communities. Hostile environment measures enacted since the 1990s, which have entrenched destitution whilst constructing refugees as an undeserving Other, alongside domicidal housing policy approaches which have led to refugees being more likely to live in poor quality, insecure and inefficient housing, contribute to increased exposure to energy deprivation.</p><p>This paper has contributed to ongoing debates in the following ways. First, it highlights how issues initiated in the asylum process extend beyond and are endured by refugees after leave to remain has been received. Second, it has contributed towards filling a critical gap within the energy literature into how and why refugees experience energy deprivation, as well as broadening the focus of scholarship on energy issues experienced by refugees beyond camp scenarios. Thirdly, we have argued that understanding drivers and experiences of energy deprivation is important because it underpins several other elements of socio-economic inequality, including health, education, mobility, employment and social inclusion, and in severe cases, leads to avoidable deaths. However, in the process of bringing this issue to the fore, we note that we are in some cases speculative, considering both the hiddenness of energy deprivation and the absence of pre-existing data.</p><p>Although this paper uses the UK as its case study, it nevertheless has relevance for policymakers in other Global North contexts, given that the UK is not alone in its punitive treatment of refugees, increasing numbers of refugee arrivals, prevalence of energy deprivation, or racialized Othering. In addition, the literature review exposes how little is known about energy deprivation amongst refugee communities, as well as the consequential interplay between energy and broader policymaking agendas. Further research is required to understand the extent to which refugees are equipped to navigate the UK energy system, to expose the critical vulnerability points where refugees are being exposed to energy deprivation, and how those working in the asylum system can better support refugees with energy-related issues to prevent energy deprivation. If we are to create a society where refugees are treated with dignity and respect, deserving of a home and a life beyond merely existing, we must unsettle the "systems of suffering" <ref type="bibr" target="#b33">(Darling 2022</ref>) that leads to the invisibilization and thus normalization of energy deprivation experienced by these communities. Working to uncover injustices that are beyond the visible can lead to greater awareness, agency, political mobilizations and recognitional justice.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure Statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>The authors gratefully acknowledge support from the <rs type="funder">Engineering and Physical Sciences Research Council</rs>, and the <rs type="funder">Economic and Social Research Council</rs>, under grant reference number <rs type="grantNumber">EP/Y010078/ 1</rs>; and from <rs type="funder">UK Research and Innovation, through the Centre for Research into Energy Demand Solutions</rs>, grant reference number <rs type="grantNumber">EP/R035288/1</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_YDrD7Gz">
+					<idno type="grant-number">EP/Y010078/ 1</idno>
+				</org>
+				<org type="funding" xml:id="_7MUu3mG">
+					<idno type="grant-number">EP/R035288/1</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">The Financialization of Housing: A Political Economy Approach</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Aalbers</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Understanding Integration: A Conceptual Framework</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Strang</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jrs/fen016</idno>
+		<ptr target="https://doi.org/10.1093/jrs/fen016" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Refugee Studies</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="166" to="191" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Poverty Among Refugees and Asylum Seekers in the UK</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Allsopp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Sigona</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Phillimore</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page">46</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Women Seeking Asylum: Safe from Violence in the UK?</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Baillot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Connelly ; Balas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Caggiano</surname></persName>
+		</author>
+		<ptr target="https://media.refugeecouncil.org.uk/wp-content/uploads/2022/08/10104432/Going-Full-Circle-1.pdf" />
+		<imprint>
+			<date type="published" when="2018">2018. 2021</date>
+			<biblScope unit="page">64</biblScope>
+		</imprint>
+	</monogr>
+	<note>Going-Full-Circle-1.pdf</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Recognition of and Response to Energy Poverty in the United States</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Bednar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Reames</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41560-020-0582-0</idno>
+		<ptr target="https://doi.org/10.1038/s41560-020-0582-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Energy</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="432" to="439" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Asylum Housing in Yorkshire: A Case Study of Two Dispersal Areas</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dickson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Solidarities</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Asylum and Welfare: Contemporary Debates</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bloch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Schuster</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/026101830202200302</idno>
+		<ptr target="https://doi.org/10.1177/026101830202200302" />
+	</analytic>
+	<monogr>
+		<title level="j">Critical Social Policy</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="393" to="414" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Blunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dowling</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>Home. Abingdon</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Immigration and Welfare: Challenging the Borders of the Welfare State</title>
+		<editor>Bommes, M., and A. Geddes</editor>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Awaab Ishak Death: Rochdale Housing Chair to Quit After Damning Report</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Booth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Guardian</title>
+		<imprint>
+			<date type="published" when="2022-12-15">2022. December 15</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Social Landlord in England Said Mould was &quot;Acceptable&quot; in refugees&apos; Homes</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Booth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Guardian</title>
+		<imprint>
+			<date type="published" when="2023-03-28">2023. March 28</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burbidge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sarpotdar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2022.102716</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2022.102716" />
+	</analytic>
+	<monogr>
+		<title level="m">The Diversity Penalty: Domestic Energy Injustice and Ethnic Minorities in the United Kingdom</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page">102716</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Report on Energy Poverty in the PRS -Overview and Framework. ENPOR Project Deliverable</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burbidge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stojilovska</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Manchester</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Spaces of Exception: Governing Fuel Poverty in England&apos;s Multiple Occupancy Housing Sector</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cauvain</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13562576.2016.1228194</idno>
+		<ptr target="https://doi.org/10.1080/13562576.2016.1228194" />
+	</analytic>
+	<monogr>
+		<title level="j">Space and Polity</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="310" to="329" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petrova</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2015.06.007</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2015.06.007" />
+	</analytic>
+	<monogr>
+		<title level="m">A Global Perspective on Domestic Energy Deprivation: Overcoming the Energy Poverty-Fuel Poverty Binary</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="31" to="40" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Landlord was Warned of Mould That Killed Toddler in Rochdale Flat</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Guardian</title>
+		<imprint>
+			<date type="published" when="2022-11-08">2022. November 8</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The Impact of Housing on Refugees: An Evidence Synthesis</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Halsall</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02673037.2022.2045007</idno>
+		<ptr target="https://doi.org/10.1080/02673037.2022.2045007" />
+	</analytic>
+	<monogr>
+		<title level="j">Housing Studies</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="227" to="271" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Active Waiting and Changing Hopes: Toward a Time Perspective on Protracted Displacement</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brun</surname></persName>
+		</author>
+		<idno type="DOI">10.3167/sa.2015.590102</idno>
+		<ptr target="https://doi.org/10.3167/sa.2015.590102" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Analysis</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Making Homes in Limbo? A Conceptual Framework</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fabos</surname></persName>
+		</author>
+		<idno type="DOI">10.25071/1920-7336.40138</idno>
+		<ptr target="https://doi.org/10.25071/1920-7336.40138" />
+	</analytic>
+	<monogr>
+		<title level="j">Refuge: Canada&apos;s Journal on Refugees</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Energy Poverty, Practice, and Policy</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Butler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Springer International Publishing</publisher>
+			<pubPlace>Cham</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Rethinking Energy Demand Governance: Exploring Impact Beyond</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Parkhill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Luzecka</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2017.11.011</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2017.11.011" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy&quot; Policy.&quot; Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="70" to="78" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Precarious Life: The Powers of Mourning and Justice</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Butler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Verso</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><surname>Byrne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Khan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nazroo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Shankley</surname></persName>
+		</author>
+		<title level="m">2020. Ethnicity, Race and Inequality in The UK: State of the Nation</title>
+		<meeting><address><addrLine>Bristol</addrLine></address></meeting>
+		<imprint>
+			<publisher>Policy Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The Role of Housing and Neighbourhood in the Re-Settlement Process: A Case Study of Refugee Households in Winnipeg</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Polevychok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Osborne</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1541-0064.2009.00265.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1541-0064.2009.00265.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Geographies / Géographies canadiennes</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="305" to="322" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Spotlight on Refugee Integration: Findings from the Survey of New Refugees in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cebulla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Daniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zurawan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Report</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>Home Office</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Introduction to Feature: The Price of Access to Better Neighbourhoods</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cheshire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sheppard</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-0297.2004.00251.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1468-0297.2004.00251.x" />
+	</analytic>
+	<monogr>
+		<title level="j">The Economic Journal</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="issue">499</biblScope>
+			<biblScope unit="page" from="391" to="F396" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Decide if Prepayment is Right for you, Citizens Advice</title>
+		<author>
+			<persName><forename type="first">Citizens</forename><surname>Advice</surname></persName>
+		</author>
+		<ptr target="https://www.citizensadvice.org.uk/consumer/energy/energy-supply/your-energy-meter/decide-if-a-prepayment-meter-is-right-for-you/" />
+		<imprint>
+			<date type="published" when="2023-11-03">2023. November 3, 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Residualisation of the Social Rented Sector: Some New Evidence</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Monk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Taltavull</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/17538271111172184</idno>
+		<ptr target="https://doi.org/10.1108/17538271111172184" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Housing Markets and Analysis</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="418" to="437" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Systematic and Nonsystematic Reviews: Choosing an Approach</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Cook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Healthcare Simulation Research: A Practical Guide, D. Nestel</title>
+		<editor>et al</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="55" to="60" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The Revival of Private Rented Housing in Britain</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D H</forename><surname>Crook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Kemp</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02673039608720845</idno>
+		<ptr target="https://doi.org/10.1080/02673039608720845" />
+	</analytic>
+	<monogr>
+		<title level="j">Housing Studies</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="51" to="68" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Space Matters -Marginalization and Its Places</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Dangschat</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1468-2427.2009.00924.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1468-2427.2009.00924.x" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Urban &amp; Regional Research</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="835" to="840" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Becoming Bare Life: Asylum, Hospitality, and the Politics of Encampment</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Darling</surname></persName>
+		</author>
+		<idno type="DOI">10.1068/d10307</idno>
+		<ptr target="https://doi.org/10.1068/d10307" />
+	</analytic>
+	<monogr>
+		<title level="j">Environment &amp; Planning D, Society &amp; Space</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="649" to="665" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Asylum in Austere Times: Instability, Privatization and Experimentation within the UK Asylum Dispersal System</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Darling</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jrs/few038</idno>
+		<ptr target="https://doi.org/10.1093/jrs/few038" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Refugee Studies</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="483" to="505" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Darling</surname></persName>
+		</author>
+		<title level="m">Systems of Suffering: Dispersal and the Denial of Asylum</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pluto Press</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Conceptualising Energy Use and Energy Poverty Using a Capabilities Framework</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Day</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enpol.2016.03.019</idno>
+		<ptr target="https://doi.org/10.1016/j.enpol.2016.03.019" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="255" to="264" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Ethnic Disadvantage in the Housing Market: Evidence from the 2011 Census</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>De Noronha</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">How Does Housing Influence Our Health?, The Health Foundation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>De Sa</surname></persName>
+		</author>
+		<ptr target="https://www.health.org.uk/infographic/how-does-housing-influence-our-health" />
+		<imprint>
+			<date type="published" when="2017-02-02">2017. February 2, 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Punishing Those Who Do the Wrong Thing&apos;: Enforcing Destitution and Debt Through the UK&apos;s Family Migration Rules</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dickson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rosen</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0261018320980634</idno>
+		<ptr target="https://doi.org/10.1177/0261018320980634" />
+	</analytic>
+	<monogr>
+		<title level="j">Critical Social Policy</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="545" to="565" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Housing Precarity: A Fourfold Epistemological Lancet for Dissecting the Housing Conditions of Migrants</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dotsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Chiodelli</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13604813.2021.1979802</idno>
+		<ptr target="https://doi.org/10.1080/13604813.2021" />
+	</analytic>
+	<monogr>
+		<title level="j">City</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">5-6</biblScope>
+			<biblScope unit="page" from="720" to="739" />
+			<date type="published" when="2021">2021. 1979802</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">28 Days Later: Experiences of New Refugees in the UK. Refugee Council</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Doyle</surname></persName>
+		</author>
+		<ptr target="https://www.refugeecouncil.org.uk/wp-content/uploads/2019/03/28_days_later.pdf" />
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Energy Poverty on the Rise in Europe, Statistics Show</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Elissaiou</surname></persName>
+		</author>
+		<ptr target="https://www.euractiv.com/section/energy/news/energy-poverty-on-the-rise-in-europe-statistics-show/" />
+		<imprint>
+			<date type="published" when="2023-06-25">2023. June 25, 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">The Energy Poverty Dashboard: Mitigating Energy Poverty in Europe&apos;s Private Rented Sector -Global Energy Inequality Observatory</title>
+		<author>
+			<persName><surname>Enpor</surname></persName>
+		</author>
+		<ptr target="https://www.energypoverty.info/energy-poverty-dashboard/" />
+		<imprint>
+			<date type="published" when="2023-12-20">2023. December 20, 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">A Decade of the Hostile Environment and Its Impact on Health</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Essex</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Riaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Casalotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Worthing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Issa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Skinner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yule</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/01410768221078327</idno>
+		<ptr target="https://doi.org/10.1177/01410768221078327" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Society of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="87" to="90" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Latest Asylum Trends, European Union Agency for Asylum</title>
+		<author>
+			<persName><surname>Euaa</surname></persName>
+		</author>
+		<ptr target="https://euaa.europa.eu/latest-asylum-trends-asylum" />
+		<imprint>
+			<date type="published" when="2024-06-21">2024. June 21, 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Positive Functions of the Undeserving Poor: Uses of the Underclass in America</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Gans</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0032329294022003002</idno>
+		<ptr target="https://doi.org/10.1177/0032329294022003002" />
+	</analytic>
+	<monogr>
+		<title level="j">Politics &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="269" to="283" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Nothing Personal? Geographies of Governing and Activism in the British Asylum System. 1st ed</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gill</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Wiley</publisher>
+			<pubPlace>West Sussex</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Bordering Practices in the UK Welfare System</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Guentner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lukes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stanton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Vollmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wilding</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0261018315622609</idno>
+		<ptr target="https://doi.org/10.1177/0261018315622609" />
+	</analytic>
+	<monogr>
+		<title level="j">Critical Social Policy</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="391" to="411" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Welfare Ghettos&apos; and the &apos;Broken Society&apos;: Territorial Stigmatization in the Contemporary UK</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hancock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mooney</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14036096.2012.683294</idno>
+		<ptr target="https://doi.org/10.1080/14036096.2012.683294" />
+	</analytic>
+	<monogr>
+		<title level="j">Housing Theory &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="46" to="64" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Framing Outsidedness -Aspects of Housing Quality in Decentralized Reception Centres for Asylum Seekers in Norway</title>
+		<author>
+			<persName><forename type="first">Å</forename><forename type="middle">L</forename><surname>Hauge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Støa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Denizou</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14036096.2016.1200668</idno>
+		<ptr target="https://doi.org/10.1080/14036096.2016.1200668" />
+	</analytic>
+	<monogr>
+		<title level="j">Housing Theory &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">The Biopolitics of Asylum Seeker Housing Provision in the United Kingdom: The COMPASS Asylum Housing Project and the Securitisation of Home</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hirschler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of York</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">PhD Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Fighting or Fuelling Forced Labour? The Modern Slavery Act 2015, Irregular Migrants and the Vulnerabilising Role of the UK&apos;s Hostile Environment</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Hodkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Waite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dwyer</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0261018320904311</idno>
+		<ptr target="https://doi.org/10.1177/0261018320904311" />
+	</analytic>
+	<monogr>
+		<title level="j">Critical Social Policy</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="68" to="90" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Fairness and the Politics of Resentment</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hoggett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Beedell</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0047279413000056</idno>
+		<ptr target="https://doi.org/10.1017/S0047279413000056" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social Policy</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="567" to="585" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">When You Get Status the Struggle doesn&apos;t End&apos;: What it&apos;s Like to Be a New Refugee in the UK</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hughes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The New European</title>
+		<imprint>
+			<date type="published" when="2023-09-02">2023. September 2</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Joint Council for the Welfare of Immigrants. 2023</title>
+		<ptr target="https://www.jcwi.org.uk/the-hostile-environment-explained" />
+		<imprint>
+			<date type="published" when="2023-08-16">August 16, 2023</date>
+		</imprint>
+	</monogr>
+	<note>The Hostile Environment Explained</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Low-Income Tenants in the Private Rental Housing Market</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Kemp</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02673037.2011.615155</idno>
+		<ptr target="https://doi.org/10.1080/02673037.2011.615155" />
+	</analytic>
+	<monogr>
+		<title level="j">Housing Studies</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">7-8</biblScope>
+			<biblScope unit="page" from="1019" to="1034" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kirkwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Goodman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mcvittie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mckinlay</surname></persName>
+		</author>
+		<title level="m">The Language of Asylum: Refugees and Discourse</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Us versus Them: Examining the Perceived Deservingness of Minority Groups in the British Welfare State Using a Survey Experiment</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kootstra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Social Legitimacy of Targeted Welfare: Attitudes to Welfare Deservingness</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Elgar</publisher>
+			<pubPlace>Cheltenham</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Fuel Poverty, Cold Homes and Health Inequalities in the UK</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sinha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Boyce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Goldblatt</surname></persName>
+		</author>
+		<ptr target="https://www.instituteofhealthequity.org/resources-reports/fuel-poverty-cold-homes-and-health-inequalities-in-the-uk/read-the-report.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Institute of Health Equity</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Destitution in Leeds: The Experiences of People Seeking Asylum and Supporting Agencies, Joseph Rowntree Foundation</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lewis</surname></persName>
+		</author>
+		<ptr target="https://www.migrationyorkshire.org.uk/research-entry/destitution-leeds-experiences-people-seeking-asylum-and-supporting-agencies" />
+		<imprint>
+			<date type="published" when="2007-06-26">2007. June 26, 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Refugees&apos; Experiences and Views of Poverty in Scotland</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lindsay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gillespie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dobbie</surname></persName>
+		</author>
+		<ptr target="https://scottishrefugeecouncil.org.uk/wp-content/uploads/2019/10/Refugees_-Experiences-and-Views-of-Poverty.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Glasgow: Scottish Poverty Information Unit</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lister</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Polity Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Predictors of Fuel Poverty and the Equity of Local Fuel Poverty Support: Secondary Analysis of Data from Bradford, England</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Little</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Barnes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Power</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/17579139241245346</idno>
+		<ptr target="https://doi.org/10.1177/17579139241245346" />
+	</analytic>
+	<monogr>
+		<title level="j">Perspectives in Public Health</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="187" to="198" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Home in Canada? The Settlement Experiences of Tibetans in Parkdale, Toronto</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Logan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Murdie</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12134-014-0382-0</idno>
+		<idno>12134-014-0382-0</idno>
+		<ptr target="https://doi.org/10.1007/s" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of International Migration &amp; Integration</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="95" to="113" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lund</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Policy Press</publisher>
+			<pubPlace>Bristol</pubPlace>
+		</imprint>
+	</monogr>
+	<note>rd ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">It&apos;s What I&apos;ve Always Done&apos;: Continuity and Change in the Household Sustainability Practices of Somali Immigrants in the UK</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Macgregor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Katz-Gerro</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geoforum.2019.09.013</idno>
+		<ptr target="https://doi.org/10.1016/j.geoforum.2019.09.013" />
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="143" to="153" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Madden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Marcuse</surname></persName>
+		</author>
+		<title level="m">Defense of Housing</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Verso</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Housing and the New Welfare State: Wobbly Pillar or Cornerstone?</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Malpass</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02673030701731100</idno>
+		<ptr target="https://doi.org/10.1080/02673030701731100" />
+	</analytic>
+	<monogr>
+		<title level="j">Housing Studies</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">The Changing Emphasis of Housing Policy, 1945-79</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Malpass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Murie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Housing Policy and Practice</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Malpass</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Murie</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Macmillan Education UK (Public Policy and Politics</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="52" to="77" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Eating, Heating or Taking the Bus? Lived Experiences at the Intersection of Energy and Transport Poverty</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hopkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Torres Contreras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E H</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mattioli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lacey-Barnacle</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2023.102728</idno>
+		<ptr target="https://doi.org/10.1016/j.gloenvcha.2023.102728" />
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page">102728</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<title level="m" type="main">Asylum After Empire: Colonial Legacies in the Politics of Asylum Seeking</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mayblin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Rowman &amp; Littlefield Publishers</publisher>
+			<pubPlace>Blue Ridge Summit</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mayblin</surname></persName>
+		</author>
+		<title level="m">Impoverishment and Asylum: Social Policy as Slow Violence</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Energy Poverty and Social Relations: A Capabilities Approach</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Middlemiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ambrosio-Albalá</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Emmel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gillard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gilbertson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hargreaves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mullen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2019.05.002</idno>
+		<ptr target="https://www.nea.org.uk/news/8-4-million-uk-households-will-be-in-fuel-poverty-from-april-says-national-energy-action/" />
+	</analytic>
+	<monogr>
+		<title level="m">National Energy Action. 2022a. &quot;&apos;8.4 Million UK Households Will Be in Fuel Poverty from April</title>
+		<imprint>
+			<date type="published" when="2019-01-13">2019. January 13, 2023</date>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="227" to="235" />
+		</imprint>
+	</monogr>
+	<note>Energy Research &amp; Social Science</note>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">National Energy Action (NEA)</title>
+		<ptr target="https://www.nea.org.uk/project/national-energy-action-nea-empowered-by-energy-refugees-project/" />
+		<imprint>
+			<date type="published" when="2022-01-09">2022. January 9, 2024</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Energy Action</orgName>
+		</respStmt>
+	</monogr>
+	<note>Empowered by Energy</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Navigating the Maze: Refugee Routes to Housing, Support and Settlement in Scotland</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Netto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fraser</surname></persName>
+		</author>
+		<ptr target="https://www.scottishrefugeecouncil.org.uk/wp-content/uploads/2019/10/Navigating-the-maze-Refugee-routes-to-housing-support-and-settlement-in-Scotland.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Scottish Refugee Council</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title level="m" type="main">Written Out of the Picture? The Role of Local Services in Tackling Child Poverty Amongst Asylum Seekers and Refugees</title>
+		<author>
+			<orgName type="collaboration">North East Child Poverty Commission</orgName>
+		</author>
+		<ptr target="https://www.poverty.ac.uk/sites/default/files/attachments/NEP001%20Report%20Web%201.pdf" />
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Rethinking Domicide: Towards an Expanded Critical Geography of Home</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nowicki</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/gec3.12178</idno>
+		<ptr target="https://doi.org/10.1111/gec3.12178" />
+	</analytic>
+	<monogr>
+		<title level="j">Geography Compass</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="785" to="795" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title level="m" type="main">Bringing Home the Housing Crisis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nowicki</surname></persName>
+		</author>
+		<ptr target="https://policy.bristoluniversitypress.co.uk/bringing-home-the-housing-crisis" />
+		<imprint>
+			<date type="published" when="2023-10-27">2023. October 27, 2023</date>
+			<publisher>Policy Press</publisher>
+			<pubPlace>Bristol</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Poverty Knowledge and the History of Poverty Research</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>O'connor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Oxford Handbook of the Social Science of Poverty</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Brady</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Burton</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title level="m" type="main">Prepayment Meters explained, Ofgem</title>
+		<author>
+			<persName><surname>Ofgem</surname></persName>
+		</author>
+		<ptr target="https://www.ofgem.gov.uk/information-consumers/energy-advice-households/check-prepayment-meter-rules" />
+		<imprint>
+			<date type="published" when="2023-11-13">2023. November 13, 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Migration and Social Justice: Parity of Participation for Asylum-Seekers in the UK?</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Phillimore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">In Handbook on Global Social Justice</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Elgar</publisher>
+			<pubPlace>Cheltenham</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Moving Towards Integration: The Housing of Asylum Seekers and Refugees in Britain</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Phillips</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02673030600709074</idno>
+		<ptr target="https://doi.org/10.1080/02673030600709074" />
+	</analytic>
+	<monogr>
+		<title level="j">Housing Studies</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="539" to="553" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Housing, Ethnicity and Advanced Marginality in England</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Powell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Class, Ethnicity and State in the Polarized Metropolis: Putting Wacquant to Work</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Flint</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Powell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="187" to="212" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<title level="m" type="main">The Ends of Perpetual Crisis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Roitman</surname></persName>
+		</author>
+		<idno type="DOI">10.1332/204378921X16376650676641</idno>
+		<ptr target="https://doi.org/10.1332/204378921X16376650676641" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="692" to="696" />
+		</imprint>
+	</monogr>
+	<note>Global Discourse 12 (3-4</note>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">The Emerging World of Humanitarian Energy: A Conceptual Research Review</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rosenberg-Jansen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2022.102779</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2022.102779" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page">102779</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<title level="m" type="main">The Evolving Private Rented Sector: Its Contribution and Potential</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rugg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rhodes</surname></persName>
+		</author>
+		<ptr target="https://nationwidefoundation.org.uk/wp-content/uploads/2018/09/Private-Rented-Sector-report.pdf" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of York</orgName>
+		</respStmt>
+	</monogr>
+	<note>Centre for Housing Policy</note>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">Categorizing Communication Errors in Integrated Hospital Information</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saboor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ammenwerth</surname></persName>
+		</author>
+		<idno type="DOI">10.3414/ME9220</idno>
+		<ptr target="https://doi.org/10.3414/ME9220" />
+	</analytic>
+	<monogr>
+		<title level="j">Methods of Information in Medicine</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="203" to="210" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Said</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Orientalism</title>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<publisher>Pantheon Books</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">Understanding the Energy Use Behaviour of British Indian Households to Shape Optimised Sustainable Housing Strategies in Existing Housing Stock</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Satish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brennan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scs.2019.101542</idno>
+		<ptr target="https://doi.org/10.1016/j.scs.2019.101542" />
+	</analytic>
+	<monogr>
+		<title level="j">Sustainable Cities and Society</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">101542</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<monogr>
+		<author>
+			<persName><forename type="first">Scottish</forename><surname>Government</surname></persName>
+		</author>
+		<ptr target="https://www.gov.scot/binaries/content/documents/govscot/publications/strategy-plan/2021/12/tackling-fuel-poverty-scotland-strategic-approach2/documents/tackling-fuel-poverty-scotland-strategic-approach/tackling-fuel-poverty-scotland-strategic-approach/govscot%3Adocument/tackling-fuel-poverty-scotland-strategic-approach.pdf" />
+		<title level="m">Tackling Fuel Poverty in Scotland: A Strategic Approach. Edinburgh: The Scottish Government</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<monogr>
+		<title level="m" type="main">Geographies of Asylum, Welfare, and the State at the Margins</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sheldrick</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Manchester</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">PhD Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<monogr>
+		<title level="m" type="main">Asylum Support: Money and Practical Help, Shelter England</title>
+		<author>
+			<persName><surname>Shelter</surname></persName>
+		</author>
+		<ptr target="https://england.shelter.org.uk/housing_advice/homelessness/people_seeking_asylum_housing_and_support/money_and_practical_help" />
+		<imprint>
+			<date type="published" when="2024-06-25">2024. June 25, 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<title level="m" type="main">Who Can Join the Housing register, Shelter England</title>
+		<author>
+			<persName><forename type="first">Shelter</forename><surname>England</surname></persName>
+		</author>
+		<ptr target="https://england.shelter.org.uk/housing_advice/council_housing_association/how_to_apply_for_council_housing/who_can_join_the_housing_register" />
+		<imprint>
+			<date type="published" when="2021-01-10">2021. January 10, 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">A Cure-All for Energy Poverty? Thinking Critically About Energy Advice</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/02610183231219185</idno>
+		<ptr target="https://doi.org/10.1177/02610183231219185" />
+	</analytic>
+	<monogr>
+		<title level="j">Critical Social Policy</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main">Rendered Invisible: Institutional Misrecognition and the Reproduction of Energy Poverty</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Frankowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geoforum.2021.05.005</idno>
+		<ptr target="https://doi.org/10.1016/j.geoforum.2021.05.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title level="a" type="main">Identifying Double Energy Vulnerability: A Systematic and Narrative Review of Groups At-Risk of Energy and Transport Poverty in the Global North</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E H</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lacey-Barnacle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mattioli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hopkins</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2021.102351</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2021.102351" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page">102351</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">The Myth of &apos;Broken Britain&apos;: Welfare Reform and the Production of Ignorance</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Slater</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/anti.12002</idno>
+		<ptr target="https://doi.org/10.1111/anti.12002" />
+	</analytic>
+	<monogr>
+		<title level="j">Antipode</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="948" to="969" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main">The Privatization of Council Housing: Stock Transfer and the Struggle for Accountable Housing</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Smyth</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0261018312457870</idno>
+		<ptr target="https://doi.org/10.1177/0261018312457870" />
+	</analytic>
+	<monogr>
+		<title level="j">Critical Social Policy</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="37" to="56" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<monogr>
+		<title level="m" type="main">Tenants: The People on the Frontline of Britain&apos;s Housing Emergency</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Spratt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Profile Books</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<monogr>
+		<title level="m" type="main">Understanding the Government&apos;s Problematic New Asylum Bill, Refugee Council</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Stewart</surname></persName>
+		</author>
+		<ptr target="https://www.refugeecouncil.org.uk/latest/news/understanding-the-governments-problematic-new-asylum-bill/" />
+		<imprint>
+			<date type="published" when="2023-10-27">2023. October 27, 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<monogr>
+		<title level="m" type="main">UK Parliament -House of Commons Library</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sturge</surname></persName>
+		</author>
+		<ptr target="https://commonslibrary.parliament.uk/research-briefings/sn01403/" />
+		<imprint>
+			<date type="published" when="2023-10-27">2023. October 27, 2023</date>
+		</imprint>
+	</monogr>
+	<note>Asylum Statistics, Research Briefing</note>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<analytic>
+		<title level="a" type="main">Energy Poverty and Indoor Cooling: An Overlooked Issue in Europe</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Thomson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petrova</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enbuild.2019.05.014</idno>
+		<ptr target="https://doi.org/10.1016/j.enbuild.2019.05.014" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy &amp; Buildings</title>
+		<imprint>
+			<biblScope unit="volume">196</biblScope>
+			<biblScope unit="page" from="21" to="29" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<analytic>
+		<title level="a" type="main">Designed to Fail: A Biopolitics of British Citizenship</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Tyler</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13621020903466357</idno>
+		<ptr target="https://doi.org/10.1080/13621020903466357" />
+	</analytic>
+	<monogr>
+		<title level="j">Citizenship Studies</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="61" to="74" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<monogr>
+		<title level="m" type="main">Revolting Subjects: Social Abjection and Resistance in Neoliberal Britain. London: Zed Books. UK Government. 2023</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Tyler</surname></persName>
+		</author>
+		<ptr target="https://www.gov.uk/government/statistics/immigration-system-statistics-year-ending-june-2023/how-many-people-do-we-grant-protection-to" />
+		<imprint>
+			<date type="published" when="2013-06-28">2013. June 28, 2024</date>
+		</imprint>
+	</monogr>
+	<note>How Many People Do We Grant Protection To? GOV.UK</note>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<analytic>
+		<title level="a" type="main">Refugee Research Methodologies: Consolidation and Transformation of a Field</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Voutira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Doná</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jrs/fem017</idno>
+		<ptr target="https://doi.org/10.1093/jrs/fem017" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Refugee Studies</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="163" to="171" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b104">
+	<analytic>
+		<title level="a" type="main">The Discourse of Deservingness: Morality and the Dilemmas of Poverty Relief in Debate and Practice</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Watkins-Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kovalsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Oxford Handbook of the Social Science of Poverty</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Brady</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Burton</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b105">
+	<monogr>
+		<title level="m" type="main">Underclass: A History of the Excluded Since 1880</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Welshman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Bloomsbury</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b106">
+	<analytic>
+		<title level="a" type="main">Stranger Danger? The Intersectional Impacts of Shared Housing on Young people&apos;s Health &amp; Wellbeing</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ortega-Alcázar</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.healthplace.2019.102191</idno>
+		<ptr target="https://doi.org/10.1016/j.healthplace" />
+	</analytic>
+	<monogr>
+		<title level="j">Health &amp; Place</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page">102191</biblScope>
+			<date type="published" when="2019">2019. 2019.102191</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b107">
+	<analytic>
+		<title level="a" type="main">Using the Capability Approach to Evaluate Energy Vulnerability Policies and Initiatives in Victoria, Australia</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Willand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Middha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Walker</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13549839.2021.1962830</idno>
+		<ptr target="https://doi.org/10.1080/13549839.2021.1962830" />
+	</analytic>
+	<monogr>
+		<title level="j">Local Environment</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1109" to="1127" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b108">
+	<analytic>
+		<title level="a" type="main">Recognition Justice in Australia: Hidden Energy Vulnerability Through the Experiences of Intermediaries</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Willand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Torabi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Horne</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2023.103013</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2023.103013" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page">103013</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b109">
+	<analytic>
+		<title level="a" type="main">A Mixed Methods Systematic Review of Studies Examining the Relationship Between Housing and Health for People from Refugee and Asylum-Seeking Backgrounds</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ziersch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Due</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.socscimed.2018.07.045</idno>
+		<ptr target="https://doi.org/10.1016/j.socscimed.2018.07.045" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Science &amp; Medicine</title>
+		<imprint>
+			<biblScope unit="volume">213</biblScope>
+			<biblScope unit="page" from="199" to="219" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b110">
+	<monogr>
+		<title level="m" type="main">Belonging Begins at Home: Housing, Social Inclusion and Health and Wellbeing for People from Refugee and Asylum Seeking Backgrounds</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ziersch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Due</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Arthurson</surname></persName>
+		</author>
+		<ptr target="https://www.flinders.edu.au/content/dam/documents/research/southgate-institute/belonging-begins-at-home-report-final.pdf" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Flinders Press</publisher>
+			<pubPlace>Adelaide</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

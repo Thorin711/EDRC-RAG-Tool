@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Eating, heating or taking the bus? Lived experiences at the intersection of energy and transport poverty</title>
+				<funder ref="#_Dvx5sYY">
+					<orgName type="full">Economic and Social Research Council</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Engineering and Physical Sciences Research Council</orgName>
+				</funder>
+				<funder ref="#_3KcX3nP">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2023-09">2023-09</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Mari</forename><surname>Martiskainen</surname></persName>
+							<idno type="ORCID">0000-0002-3503-9197</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Debbie</forename><surname>Hopkins</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gerardo</forename><forename type="middle">A</forename><surname>Torres Contreras</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Kirsten</forename><forename type="middle">E H</forename><surname>Jenkins</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Giulio</forename><surname>Mattioli</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Neil</forename><surname>Simcock</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Max</forename><surname>Lacey-Barnacle</surname></persName>
+						</author>
+						<title level="a" type="main">Eating, heating or taking the bus? Lived experiences at the intersection of energy and transport poverty</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Global Environmental Change</title>
+						<title level="j" type="abbrev">Global Environmental Change</title>
+						<idno type="ISSN">0959-3780</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">82</biblScope>
+							<biblScope unit="page">102728</biblScope>
+							<date type="published" when="2023-09" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">BC3F8B4253FF05DA739DB5BAF453B12F</idno>
+					<idno type="DOI">10.1016/j.gloenvcha.2023.102728</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Ensuring equitable transport services for all 1 See, for example, NHS (no date) 'Healthcare Travel Costs Scheme (HTCS)', NHS website. <ref type="url" target="https://www.nhs.uk/nhs-services/help-with-health-costs/healthcare-travel-costs-scheme-htcs">https://www.nhs.uk/nhs-services/  help-with-health-costs/healthcare-travel-costs-scheme-htcs</ref> 2 Martiskainen M, Hopkins D, Torres Contreras G, Jenkins K, Mattioli G, Simcock N and Lacey-Barnacle M (2023) 'Eating, heating or taking the bus? Lived experiences at the intersection of energy and transport poverty', Global Environmental Change, 82.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>I magine a situation where you have been offered an interview for a new job. You are excited about the potential new opportunity, but quickly realise that your chances of getting the job may be diminished by the fact that you will likely arrive at the interview all hot and flustered, perhaps even sweaty. This is because you will have to walk two hours to get to the interview. You are not walking because you want to be active in your daily life, but because you cannot afford the bus fare to get there. Similarly, imagine a situation where you keep cancelling medical appointments because you have to rely on expensive taxis to get to the hospital due to the lack of public transport, and while you can claim expenses for those costs, the process feels too complicated. <ref type="bibr">1</ref> Lastly, how would you feel if you had a beautiful national park near your home, but could not go there as it would require owning or having access to a car, both out of your reach as you do not drive due to a health condition? These are some of the real-life examples of transport inequities, as told by people who took part in our UKRI-funded research on transport poverty in the UK at the University of Sussex. 2 "how would you feel if you had a beautiful national park near your home, but could not go there …?"</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>WHAT ARE TRANSPORT INEQUITIES SUCH AS TRANSPORT POVERTY?</head><p>Transport poverty does not have an official definition in UK policy, but it has been defined by several academic researchers. A nuanced definition for transport poverty has been provided by Lucas and colleagues, 3 who include a combination of four subsets of transport poverty:</p><p>• transport unaffordabilitythat is, the inability to meet transport costs • mobility povertythat is, the lack of adequate transport • accessibility povertythat is, having issues reaching key services and activities such as healthcare and employment • exposure to transport externalitiesthat is, disproportionate negative exposures caused by the transport system.</p><p>Simcock and colleagues use a wider definition of transport poverty: "the inability to attain a sociallyand materially-necessitated level of transport services". <ref type="bibr">4</ref> There are various reasons why someone may experience transport poverty, but it is mainly due to a lack of access to transport, high transport costs and/or the unavailability of transport services. A person facing such inequities cannot easily meet their regular travel needs as transport servicessuch as local busesmay be too expensive, services may not take them where they want to go at the time they want to go or there may be no services available at all.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>WHO IS AT RISK AND WHERE?</head><p>Given that there is no official definition of transport poverty in UK policy, we do not have official statistics on how many people are affected (unlike statistics on fuel poverty, for example). However, a review we conducted found that there are people from certain sociodemographics who may be more at risk. <ref type="bibr">5</ref> Factors associated with a higher risk of transport poverty include:</p><p>• having a low income</p><p>• being unemployed or precariously employed • older age • having children • having disabilities • having pre-existing health conditions • gender (with women more at risk) • being from an ethnic minority.</p><p>Initial research findings from follow-on research by colleagues at the Energy Demand Research Centre (EDRC) indicate that there are also safety aspects, as, for example, women, people from ethnic minorities and lesbian, gay, bisexual, transgender, queer plus (LGBTQ+) people are more likely to receive abuse or experience harassment on public transport, possibly discouraging some people to use those services. <ref type="bibr">6</ref> In terms of who is at risk of transport inequities, it is important to note that people often have intersecting vulnerabilities, which may mean that they are even more at risk.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>"people often have intersecting vulnerabilities"</head><p>In our research, we have also uncovered large regional differences in the UK in terms of public transport availability. For example, there is a limited rail network in Northern Ireland and there are limited bus services in many rural areas across the UK. Furthermore, local bus services were affected by the Covid-19 pandemic and overall usage remains below pre-pandemic levels. <ref type="bibr">7</ref> Transport inequities in urban areas also persist. Many of the sociodemographic groups who are at risk of transport inequities often live in urban areas (for example, people on low incomes, people from ethnic minority and immigrant backgrounds, people who rent their homes or are in transient/ precarious housing, and families with young children). <ref type="bibr" target="#b0">8</ref> Issues like the cost of public transport, service unreliability or the lack of cross-town and cross-neighbourhood services can be a significant disadvantage to people living in urban areas, especially for those who are dealing with challenges such as uncertain housing or shift work. There is therefore a very important spatial aspect to transport inequities, with people in both urban and rural locations being affected.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>WHAT ARE THE IMPACTS OF TRANSPORT INEQUITIES?</head><p>The impacts of transport poverty go far beyond being able to travel from A to B. For those people who face transport inequities, the impacts can be detrimental to both life chances and quality of life. Without sufficient transport services, people can miss out on key aspects of life, including being able to travel to a place of study or work, medical appointments, leisure and recreation activities or family and friends.</p><p>"Without sufficient transport services, people can miss out on key aspects of life"</p><p>Our research participants highlighted how transport poverty was hindering what they considered to be a 'good life'. People spoke about the impact it has on their health, for example if they had to walk everywhere and carry heavy grocery shopping bags in cold and wet weather. Similarly, the inability to visit local parks, leisure centres or the cinema, not to mention loved ones like family and friends, was mentioned as having a negative impact on mental health. One father spoke of wanting to provide the experience of a restaurant meal for his children, but due to the high cost of the whole of his family travelling by bus to the restaurant, he resorted to going by himself and bringing the meal back home for the children to eat. In fact, many parents reflected on the missed opportunities for their children that were caused by limited travel options, and the impact it was having on them. And many young people were worried about how the lack of affordable public transport, for example, was affecting their educational opportunities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>HOW CAN WE ENSURE EQUITABLE TRANSPORT SERVICES FOR EVERYONE?</head><p>The UK has an objective to become a net zero society by 2050. <ref type="bibr">9</ref> The transport sector is the country's largest emitting sector; in 2023, domestic transport (excluding international aviation and shipping) accounted for 29.1 per cent of greenhouse gas emissions. <ref type="bibr">10</ref> Transport emissions must therefore be urgently addressed. Modes of transport such as electric vehicles, low-carbon public transport and active travel by walking, wheeling and cycling have been given as examples of lower-carbon modes of travel.</p><p>In July 2024, new transport secretary, Louise Haigh, set out five key strategic priorities, one of which is to transform infrastructure so that it works for the whole country, promoting social mobility and tackling regional inequality. <ref type="bibr" target="#b2">11</ref> To achieve this, we must identify who travels and how, and how the system can be made more inclusive. The wealthiest 0.1 per cent of people in Great Britain emit at least 22 times more from transport than people on the lowest incomes, 12 and most car miles in the UK are driven by people on the wealthiest incomes. <ref type="bibr">13</ref> As many solutions for decarbonising the transport system are focussed on the electrification of cars, this results in subsidising and spending on wealthier people. In addition, not everyone has access to the physical space and charging infrastructure for an electric vehicle, not to mention the financial resources required for purchasing, insuring and using one. While active travel has a key part to play in sustainable transport systems, not everyone can walk or cycle, and others may not have access to active travel infrastructure such as cycle lanes or pavements. As mentioned earlier, public transport links are not within everyone's reach. These infrastructural inequalities can put people even more at risk of transport poverty.</p><p>"public transport links are not within everyone's reach"</p><p>Many calls have been made for the net zero transition to be inclusive and fair, so that everyone can live and move around more sustainably in the net zero society. An inclusive approach recognises inequities such as transport poverty, their causes rooted in both infrastructural and socioeconomic in inequalities, and how these can addressed. We need better data on who is affected by transport inequities, but policymakers must also hear people's stories. Lived experience research can help highlight more nuanced aspects such as the long-term impacts of transport poverty on health, education and employment. A fully inclusive transport system is affordable and accessible for all, meaning better public transport, cheaper and simpler fares, and improvements to walking and wheeling environments (and cycling for those who can). The net zero transition provides an opportunity to make transport work better for everyone. This is vital since good transport services are key to a good quality of life.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_0"><p>Simcock N, Jenkins K, Lacey-Barnacle M, Martiskainen M, Mattioli G and Hopkins D (2021) 'Identifying double energy vulnerability: a systematic and narrative review of groups at-risk of energy and transport poverty in the global north', Energy Research &amp; Social Science, 82: 102351. https://doi.org/10.1016/j.erss.2021.102351</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_1"><p>Martiskainen M, Hopkins D, Torres Contreras G, Jenkins K, Mattioli G, Simcock N and Lacey-Barnacle M (2023) 'Eating, heating or taking the bus? Lived experiences at the intersection of energy and transport poverty', Global Environmental Change, 82. https://doi.org/10.1016/j.gloenvcha.2023.102728</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_2"><p>See also Transport Scotland (2022) 'Social and Equality Impact Assessment (SEQIA) -NTS Delivery Plan', Transport Scotland website. https://www.transport.gov.scot/publication/social-and-equality-impact-assessment-seqia-nts-delivery-plan/2-key-issues-and-evidence</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3"><p>25732331, 2024, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/newe.12406 by University Of Surrey, Wiley Online Library on [05/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGEMENTS</head><p>Energy Demand Research Centre (EDRC) is supported by the <rs type="funder">Engineering and Physical Sciences Research Council</rs> and the <rs type="funder">Economic and Social Research Council</rs> [grant number <rs type="grantNumber">EP/Y010078/1</rs>].</p></div>
+			</div>
+			<div type="funding">
+<div><p>Frost S and Singer Hobbs M (2024) Moving together: A people-focussed pathway to fairer and greener transport, IPPR. <ref type="url" target="http://www.ippr.org/articles/moving-together">http://www.  ippr.org/articles/moving-together</ref> 13 Department for Transport (2024) 'Travel by vehicle availability, income, ethnic group, household type, mobility status and <rs type="projectName">NS-SEC</rs>', statistical data set, last updated 28 August 2024. <ref type="url" target="https://www.gov.uk/government/statistical-data-sets/nts07-car-ownership-and-access">https://www.gov.uk/government/statistical-data-sets/nts07-car-ownership- and-access</ref> </p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_Dvx5sYY">
+					<idno type="grant-number">EP/Y010078/1</idno>
+				</org>
+				<org type="funded-project" xml:id="_3KcX3nP">
+					<orgName type="project" subtype="full">NS-SEC</orgName>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DATA AVAILABILITY STATEMENT</head><p>There is no dataset associated specifically with this article. Data related to the wider project is available from UK Data Service.</p><p>Mari Martiskainen is the director of the Energy Demand Research Centre (EDRC) and professor of energy and society at the University of Sussex Business School, University of Sussex.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Eating, heating or taking the bus? Lived experiences at the intersection of energy and transport poverty</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hopkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Torres</forename><surname>Contreras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mattioli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lacey-Barnacle M</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2023.102728</idno>
+		<ptr target="https://doi.org/10.1016/j.gloenvcha.2023.102728" />
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Net zero means achieving a balance between the carbon emitted into the atmosphere and the carbon removed from it. 10 Department for Energy Security &amp; Net Zero (2024) &apos;2023 UK greenhouse gas emissions, provisional figures</title>
+		<ptr target="https://assets.publishing.service.gov.uk/media/6604460f91a320001a82b0fd/uk-greenhouse-gas-emissions-provisional-figures-statistical-release-2023.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Official Statistics</title>
+		<imprint>
+			<date type="published" when="2024-03-28">28 March 2024</date>
+		</imprint>
+	</monogr>
+	<note>GOV.UK website</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Transport Secretary sets out 5 key priorities to deliver the biggest overhaul to transport in a generation</title>
+		<ptr target="https://www.gov.uk/government/news/transport-secretary-sets-out-5-key-priorities-to-deliver-the-biggest-overhaul-to-transport-in-a-generation" />
+	</analytic>
+	<monogr>
+		<title level="j">GOV.UK website</title>
+		<imprint>
+			<date type="published" when="2024-07-10">2024. 10 July 2024</date>
+			<publisher>Department for Transport</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

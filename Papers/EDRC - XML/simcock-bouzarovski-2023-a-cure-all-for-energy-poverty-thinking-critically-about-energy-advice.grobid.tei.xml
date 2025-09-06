@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A cure-all for energy poverty? Thinking critically about energy advice</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2023-12-21">2023-12-21</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Neil</forename><surname>Simcock</surname></persName>
+							<email>n.d.simcock@ljmu.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Liverpool John Moores University</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">School of Biological and Environmental Sciences</orgName>
+								<orgName type="institution">University of Manchester</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="institution">Liverpool John Moores University</orgName>
+								<address>
+									<settlement>Liverpool</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Stefan</forename><surname>Bouzarovski</surname></persName>
+						</author>
+						<title level="a" type="main">A cure-all for energy poverty? Thinking critically about energy advice</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Critical Social Policy</title>
+						<title level="j" type="abbrev">Critical Social Policy</title>
+						<idno type="ISSN">0261-0183</idno>
+						<idno type="eISSN">1461-703X</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">45</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="49" to="71"/>
+							<date type="published" when="2023-12-21" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">AD2B15DF56E920FBA0791202A14A2F52</idno>
+					<idno type="DOI">10.1177/02610183231219185</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>energy advice</term>
+					<term>energy poverty</term>
+					<term>fuel poverty</term>
+					<term>vulnerability</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Dramatic increases in global energy prices in 2022 have sharpened focus on the suffering experienced by people living in energy povertya situation where they are unable to afford the energy required to meet their basic needs. In many countries, providing energy advice to householders is part of a wider strategy to assist those who are experiencing such hardship. However, little research scrutinises whether and how energy advice can be useful in reducing vulnerability to energy poverty. It is this research gap we address here. Drawing on an extensive qualitative dataset, we find that efforts to provide tailored, in-person advice can help to partially ameliorate energy poverty, but its impacts are limited by structural factors that are beyond the immediate influence of advisors or individual citizens. Energy advice should be seen as a supplement to, not a replacement for, more ambitious and transformative political action that addresses the structural and institutional drivers of inequality.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Dramatic increases in global energy prices in 2022 sharpened focus on the severe hardship experienced by those unable to afford their basic energy needs. In the UK, around 8.5 million households were estimated to be in 'fuel poverty' at the end of 2022 <ref type="bibr">(End Fuel Poverty Coalition, 2022)</ref>. Typically known as 'energy poverty' or 'energy insecurity' outside of the UK <ref type="bibr" target="#b32">(Hernández et al., 2022)</ref>, this condition is characterised by the inability to secure essential levels of energy service (such as sufficient warmth or lighting) in the home. Its deleterious and often severe impacts on people's health, wellbeing and life quality have been widely documented (e.g., <ref type="bibr" target="#b17">Chipango, 2021;</ref><ref type="bibr" target="#b29">Grossmann and Trubina, 2021)</ref>. Even with government intervention, the sheer extent of energy price increases has led some to term the UK situation a "humanitarian crisis" (Disability Poverty Campaign <ref type="bibr">Group and Disability Benefits Consortium, 2022)</ref>.</p><p>Separating poverty into different 'types'such as clothing poverty, food poverty and period povertyhas been critiqued for obscuring the underlying systemic and structural causes of a lack of financial resources <ref type="bibr" target="#b18">(Crossley et al., 2019)</ref>. Several scholars have argued persuasively, however, that energy poverty should be understood as a distinct form of material deprivation <ref type="bibr" target="#b5">(Boardman, 1991;</ref><ref type="bibr" target="#b15">Buzar, 2007;</ref><ref type="bibr" target="#b33">Hills, 2012)</ref>, with causes that extend beyond low incomes to also encompass wider infrastructural and environmental inequalities <ref type="bibr" target="#b10">(Bouzarovski and Robinson, 2022)</ref>. In short, whilst energy poverty is related to and overlaps with (income) poverty it is not reducible to it <ref type="bibr" target="#b40">(Middlemiss and Simcock, 2019)</ref>.</p><p>In many countries, providing energy advice to householders has long been seen as an important element of addressing energy poverty <ref type="bibr" target="#b21">(DellaValle and Czako, 2022;</ref><ref type="bibr" target="#b55">Warren and Foulds, 2020)</ref>. The hope has been that advice will assist vulnerable households in making informed choices that reduce their energy use whilst creating a more comfortable living environment <ref type="bibr" target="#b38">(Maby, 2020)</ref>. The role that advice and behaviour change could play in shielding households from energy poverty has received attention in the news media, with some politicians and commentators presenting 'wiser' consumer choices and behavioural 'hacks' as a potential solution to rising energy costs <ref type="bibr" target="#b58">(Zakir-Hussain, 2022)</ref>. For example, the UK finance minister Jeremy Hunt suggested households should seek out information on how to reduce their energy use, stating that "in the end everyone is going to have to take responsibility for their energy bills" <ref type="bibr" target="#b41">(Morton, 2022)</ref>.</p><p>In this context, it is notable that there is little research that scrutinises whether, how and under what circumstances energy advice can be useful in reducing vulnerability to energy poverty <ref type="bibr" target="#b55">(Warren and Foulds, 2020)</ref>. Most research on energy advice focuses principally on the process of delivery, rather than its outcomes and socio-material implications (e.g., <ref type="bibr" target="#b0">Ambrose et al., 2019;</ref><ref type="bibr" target="#b2">Baker et al., 2019;</ref><ref type="bibr" target="#b51">Simcock et al., 2014)</ref>. Gaining a realistic understanding of the potential role of advice in mitigating energy poverty is of crucial importance, especially at a time when so many people are struggling to afford basic energy costs. It is this research gap that we address in this paper. We ask: how does energy advice assist people living in energy poverty? We find that energy advice can play a favourable but, alone, only a partial role in addressing energy poverty. We argue that advice needs to be implemented alongside more ambitious and transformative political action that addresses the structural and institutional drivers of inequality.</p><p>The next section of the paper reviews current evidence on the impacts of energy advice. We then detail the study methods, before presenting the results. The paper finishes with a concluding discussion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The impact of energy advice: Current evidence</head><p>Information on how to reduce energy costs can be delivered in diverse ways, including websites, leaflets, telephone, email, home visits, exhibitions and energy cafés, and can involve public, private, and third sector organisations <ref type="bibr" target="#b19">(Darby, 1999;</ref><ref type="bibr" target="#b21">DellaValle and Czako, 2022)</ref>. Energy advice can be considered a subset of this broader information provision. Whereas some information targets a general audience, the distinguishing feature of advice is that it is "specific to individuals and their circumstances" <ref type="bibr">(Boardman and Darby, 2000: 12)</ref>.</p><p>In the case of the UKthe particular context of this paperthe geographical coverage and stability of energy advice provision has been spatially and temporally inconsistent <ref type="bibr" target="#b38">(Maby, 2020)</ref>. Until 2012, the UK government funded the Energy Saving Trust (EST) to provide a coordinated network of regional energy advice centres that provided in-person consultations, and these were often supplemented locally by council and charitable programmes <ref type="bibr" target="#b0">(Ambrose et al., 2019)</ref>. EST's regional network was replaced in 2012 by a national telephone service, which was then discontinued in 2018 and replaced by a government website. Some local organisations and charities still provide in-person advice and home visits, but in general energy advice, particularly regarding energy efficiency, has become scarcer and there is no consistent or coordinated nationwide programme <ref type="bibr" target="#b0">(Ambrose et al., 2019)</ref>.</p><p>Most research on energy advice has focused on its mode of delivery, emphasising the importance of, inter alia, advice being provided in-person and via people and organisations perceived to be trustworthy and impartial <ref type="bibr" target="#b0">(Ambrose et al., 2019;</ref><ref type="bibr" target="#b2">Baker et al., 2019;</ref><ref type="bibr" target="#b7">Boardman and Darby, 2000;</ref><ref type="bibr" target="#b19">Darby, 1999;</ref><ref type="bibr" target="#b44">Ramsden, 2020;</ref><ref type="bibr" target="#b46">Reeves, 2016;</ref><ref type="bibr" target="#b51">Simcock et al., 2014;</ref><ref type="bibr" target="#b55">Warren and Foulds, 2020)</ref>. There is less critical consideration of the effects of energy advice in practice, and of its wider role within energy poverty mitigation strategies. The limited evidence on the impacts of energy advice "has been inconclusive and often contradictory" <ref type="bibr">(Warren and Foulds, 2020: 17)</ref>. One of the few studies attempting to identify the effects of energy advice among lowincome households suggested that, if "well-focused", it can "give substantial benefits in terms of comfort, health and well-being and can lead to fuel savings of the order of 10% from behavioural changes alone" <ref type="bibr">(Boardman and Darby, 2000: 7)</ref>.</p><p>More critically, <ref type="bibr" target="#b55">Warren and Foulds (2020)</ref> argue that energy advice is often underpinned by "deficit model" assumptions about human action, which presume people will make rational "choices" if provided with the correct information. This logic ignores the ways that human behaviour is influenced by social systems and relations <ref type="bibr" target="#b49">(Sayer, 2017)</ref>. In this vein, <ref type="bibr" target="#b27">Forster et al. (2019)</ref> evaluated the impact of in-person energy advice among Traveller Communities. They found that while advice facilitated access to state benefits and improved people's sense of control over their energy use, its impact was limited by structural constraints that were beyond the decision-making control of advice recipients. Evaluating a charity-led energy advice project in England, <ref type="bibr" target="#b44">Ramsden (2020)</ref> found that whilst most recipients believed the advice to be useful and estimated that it had saved them money, it did not lead to fundamental changes in people's circumstances. An investigation into the effects of advice provision on energy market engagement found its impacts to be limited, with only 13% of participants acting upon recommendations to switch their energy tariff <ref type="bibr" target="#b37">(Lorenc et al., 2013)</ref>. Overall, this body of research suggests a more cautious and critical tone is needed when considering the impacts of energy advice.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data collection and analysis</head><p>This paper combines qualitative data from two sources. The first involved research in the Greater Manchester area of the UK between summer 2018 and autumn 2020, as part of a larger project funded under the Horizon2020 programme. In this project, we worked closely with frontline energy advisors employed by the charity Groundwork, who run the Energyworks programme in Greater Manchester. Over the duration of the project, these advisors delivered one-to-one consultations with households vulnerable to energy poverty. During these consultations, the advisors provided personalised information and guidance on four principal topics: (i) energy market engagement to reduce energy costs; (ii) increasing income by ensuring households were claiming their entitled benefits; (iii) improving the energy efficiency of the home and appliances; (iv) reducing energy consumption through behavioural changes. These consultations were initially undertaken 'in-person' during a visit to the individual's home. However, in the latter part of the project these consultations were conducted via telephone due to lockdown restrictions imposed by the UK government in response to the COVID-19 pandemic. In this paper, we focus mostly on data collected through in-person consultations, as this better reflects the dominant mode of advice provision in the UK and is closer to the recommended 'best practice' of advice delivery.</p><p>Households were recruited to the programme through a combination of self-referral (signing-up via a website or over the telephone), or through 'partner referrals' from local authorities, charities or private companies who work with communities or individuals likely to be at risk of energy poverty. To advertise the scheme, the advisors regularly distributed leaflets, attended community events, and met with partner organisations. After households were 'referred' to the scheme, an advisor contacted them via telephone to arrange a suitable time for a consultation. The project was fairly successful at achieving engagement with groups at high-risk of energy poverty, including people with cognitive and physical disability, people with long-term illness, and households with children <ref type="bibr" target="#b11">(Bouzarovski et al., 2021)</ref>.</p><p>Advice was provided over the course of two consultations. The first lasted up to 90 min, depending on the breadth and depth of advice required. This was followed by a second, 'follow-up' consultation undertaken 6-8 weeks later, lasting around 20 min and during which the impact of the first consultation was assessed and further advice administered as deemed necessary. Overall, the advice provided in the consultations adhered to what research literature identifies as "good practice": it was detailed and tailored to the circumstances of an individual or households; it was delivered in-person (when possible); communicated in a dialogical manner; and involved a second consultation. The advisor consultation process is summarised in Figure <ref type="figure" target="#fig_0">1</ref>.</p><p>During and after each consultation, the energy advisors took written case notes describing the householders' circumstances, the advice they provided, and its observable impact. These anonymised notes, from a total of 564 consultations, were shared with us as part of the project and provide an extensive set of qualitative data.</p><p>We supplement our analysis of these case notes with interviews (N = 16) with frontline energy and housing advisors working for a diversity of organisations in England, undertaken between autumn 2019 and summer 2021 as part of a separate but complementary research project. The interviews were in-depth, lasting between thirty-seven and eighty-five minutes with an average length of around one hour. They explored a range of topics, including the advisors' reflections on the causes of energy poverty and the role that advice can play in its amelioration. They complement the advisor fieldnotes by allowing specific issues to be probed in greater detail. Furthermore, by interviewing advisors working outside Energyworks, we could also garner a wider set of perspectives and identify issues that cut across different energy advice programmes. All interviews were audio recorded and then transcribed. A full list of the interviewees with related job role is provided in Annex 1. For both the interview and field note data, we followed ethics procedures regarding informed consent, confidentiality and data protection. Ethical approval for the case note data was provided by Energyworks before being shared with university project partners via a data sharing agreement. Approval for the interviews was given by Liverpool John Moores University Research Ethics Committee (approval reference 19/NSP/051).</p><p>Both the advisor fieldnotes and interview transcripts were analysed using combination of inductive and deductive qualitative content analysis, following the processes described in <ref type="bibr" target="#b34">Hsieh and Shannon (2005)</ref>. During the inductive stage, a set of initial ideas and codes relating to the efficacy and impacts of energy advice were developed by closely reading a subset of the transcripts and notes. These various codes were then categorised into four broader themes (prices and tariffs, income, energy efficiency, household practices) that were derived deductively from existing theory about the causes of energy poverty. The dataset was then coded, with case notes and segments of interview transcripts labelled according to the specific theme they related to. The case note data was coded in Excel, whilst the interview data was coded in NVivo. Coding was undertaken by the first author, with validity checking by the second author.</p><p>As with all research designs, this study does have some limitations. Relying on the perceptions, observations and notes of energy advisors misses the first-hand experiences of householders who have received advice although we would argue that the two approaches are complementary, and our study adds new insights to previous research that has gathered householder experiences directly. The case notes were also of variable length and quality, ranging from a couple of sentences to short paragraphs of ∼100-150 words, and so varied in their detail and efficacy for research purposes. This is partially offset by using interviews to gather more in-depth data; nonetheless, gathering more detailed case notes in future research would be beneficial. Finally, future research could also make use of more realist evaluation methods to directly measure the impact of energy advice, such as temperature and humidity monitors installed over an extended period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>In this section, we analyse the role that energy advice can play in ameliorating energy poverty. We structure the section around four sub-themes that relate to the proximate factors shaping vulnerability to energy poverty in the Global North: (i) the unit cost of energy paid by a household; (ii) household income;</p><p>(iii) the level of energy efficiency of appliances and the building fabric; (iv) the energy-related practices and needs of households.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Energy costs and prices</head><p>In the UK, domestic gas and electricity are supplied to households through a market-based system, comprising multiple suppliers and hundreds of tariffs of various structures and prices. This system places a large onus on individuals to lower their own energy costs, with consumers expected to actively 'shop around' and 'switch' their energy supplier or tariff to access the cheapest available deal. Those who never or rarely switch typically pay proportionately more for their energy, putting them at higher risk of energy poverty.</p><p>The process of identifying and undertaking a tariff switch has been critiqued as highly complex <ref type="bibr" target="#b52">(Thomas and Pickard, 2017)</ref>. Several marginalised groups in society -including people over-65, ethnic minorities, people earning less than £18,000 a year, disabled people, and those living in rental housing -face particular barriers that mean they are less likely to switch tariff or supplier <ref type="bibr" target="#b1">(Ambrosio-Albala et al., 2020;</ref><ref type="bibr">Bouzarovski et al., 2022;</ref><ref type="bibr">Department for Business, Energy and Industrial Strategy, 2018;</ref><ref type="bibr" target="#b33">Hills, 2012)</ref>. Essentially, some of the most disadvantaged people pay the most for the energy they consume.</p><p>In the advice programme we studied, advisors were sometimes able to remedy this injustice by helping guide and facilitate energy market engagement for disadvantaged peopleincluding several of the marginalised groups noted above as usually being less likely to switch tariff. Guidance involved the advisor demonstrating how to read energy bills and use price comparison websites, informing the householder how much money they could save by switching tariff or supplier, and, in some cases, making the switch on behalf of the householder. Overall, 22 per cent of households visited in-person switched tariff <ref type="bibr" target="#b11">(Bouzarovski et al., 2021</ref>)a rate significantly higher than the 13 per cent reported in the study by <ref type="bibr" target="#b37">Lorenc et al. (2013)</ref>, suggesting that the advice process in our study was relatively successful. Switching could save substantial amounts of money, with the advisors noting energy bill reductions typically between £100-£250 per year, and over £300 per year in a few cases. Alongside tariff switching, the advisors also encouraged people to enrol onto the 'Warm Home Discount' (WHD) if eligiblea government scheme providing a one-off £150 energy bill rebate over the winter months. Some householders also experienced poor service from their energy supplier, such as payment errors and confusing energy bills. In these cases, advisors offered assistance by helping people to understand their bill; directly contacting the energy provider to organise a debt repayment plan; and registering them onto the 'Priority Services Register,' a free service operated by energy suppliers that provides additional support, such as priority assistance in an emergency, to people deemed to be in vulnerable circumstances.</p><p>However, these benefits were not always achievable. In some cases, the consulted householders were reluctant to switch tariff, despite being advised to do so, for a variety of reasons such as fear of financial penalties or loyalty to a familiar company. In a few cases, the energy suppliers themselves resisted customer switching. For example, one case note stated "[The customer's] energy supplier won't let her switch because of the way she pays on electric." A general point that arose from several of our interviews was the sheer complexity of the retail energy market, with multiple rules and sub-clauses determining the ease with which people can change supplier or tariff. The complexity is such that even experienced energy advisors can find it to be confusing.</p><p>The rules governing the retail energy market also require repeat, not simply one-off, consumer engagement. Low-cost energy tariffs are temporary, with households automatically reverting to a relatively expensive 'standard variable' tariff when their cheaper deal ends. Consumers thus need to repeatedly switch tariffs every 1-2 years to avoid being disadvantaged. Similarly, the WHD requires some householders to reapply for support each winter, with rebates provided on a first-come first serve basis (O'Brien, 2020). Several of the people assisted by the advisors would be unable to independently change tariff when their cheaper deal ended or reapply for the WHD. For example, some did not have home internet access or could not understand a price comparison site. Yet the advice service involved only two consultations within a short timeframe and could not guarantee longer-term support (most energy advice services in the UK provide only single consultations). The risks such a system creates were surmised by one interviewee:</p><p>"[Energy advice] Programmes that are designed around a single visit, yes they work in terms of they support X number of households over that period. … You can lift somebody out of fuel poverty for a 12-month period. [But] if, at the end of that 12-month period, their bills revert to a standard tariff, they fall off the Warm Home Discount register, you're putting them in a better financial position for a short period of time and then you're critically worsening them off. A change like that, in somebody's personal finance situation, can be catastrophic." (A2, Energy advisor) Whilst energy advice programmes can enable households to save money by engaging with the retail energy market, they are unable to change the rules governing this marketrules that make engagement challenging for many disadvantaged people. Combined with the short-term nature of most advice provision, this limits the possibility of energy advice providing sustained reductions in people's domestic energy costs. And the dramatic increases in global energy prices experienced in 2022 have clearly demonstrated that energy prices can be strongly determined by geopolitical and economic policies that are far beyond the control of any advice service.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Income</head><p>Low income is another key driver of energy poverty. Straightforwardly, people with limited financial means often struggle to afford their energy costs (and other everyday essentials). In our project, if the advisors determined low income was a problem in any given case, they typically offered to refer the household to Citizens Advicean independent consumer charity that could provide a more specialist service of 'income maximisation.' Many of the households visited by the advisors were reliant on social security as their primary income, and onward referrals could ensure they were claiming all the benefits to which they were entitled. This was especially helpful for those with additional needs, such as people experiencing chronic illness, disabled people, or carers:</p><p>"They were referred to Citizens' Advice and have had a chat to them and are entitled to a little bit more money." (Advisor case note 12, follow-up consultation)</p><p>"Just came out of hospital that day as her health is bad … They spoke to Citizens' Advice through the referral and managed to get a higher rate mobility payment back so they are slightly more well off." (Advisor case note 37, follow-up consultation)</p><p>"They have spoken to Citizens Advice as a result of the visit … the benefit check came back and they could claim a bit more Universal Credit and Carers Allowance." (Advisor case note 13, follow-up consultation) Therefore, alongside providing advice directly, the advisors played an important role as intermediaries that connected vulnerable people to additional support services.</p><p>Yet despite these achievements, the advice services were swimming against a tide of political-economic pressures that severely limited the assistance they could provide. Following the global economic crisis of 2008, UK governments have embarked on a programme of fiscal austerity that has intensified socioeconomic inequalities and led to stagnating or declining living standards among working class people <ref type="bibr" target="#b30">(Hall, 2023)</ref>. Austerity has included cuts to welfare expenditure estimated at £37bn/year <ref type="bibr" target="#b30">(Hall, 2023)</ref>, accelerating a longerterm trend of declining benefit levels that has left the UK with one of the least generous welfare systems in the Global North <ref type="bibr" target="#b3">(Bell et al., 2020;</ref><ref type="bibr" target="#b12">Brewer et al., 2022)</ref>. Against this backdrop, and as the descriptions of "a little bit more money", "a bit more" and "slightly more well off" in the case notes quoted above indicate, the financial gains energy advisors could provide through income maximisation services were often modest and unlikely to greatly reduce vulnerability to energy poverty. Another case note admitted that there was "not much that can be done" for one householder simply because "she was not terribly well off".</p><p>Alongside cuts to benefit levels, the UK welfare system has also become increasingly punitive and conditional over the past two decades, operating under a disciplinary system of sanctions and tightening eligibility <ref type="bibr" target="#b45">(Reeve, 2017)</ref>. Disabled people and those in ill health have been among the most affected by these changes <ref type="bibr" target="#b23">(Dwyer et al., 2020)</ref>. In our study, the energy advisors encountered several households who had been plunged into hardship by benefit reductions:</p><p>"Is struggling with her health and is worried about having her PIP award taken off her because she can't get out to find the relevant paperwork from the doctors." (Advisor case note 90, initial consultation) "He is currently on Universal Credit receiving £277 a month after having £95.00 deducted from his personal allowance of Universal Credit. He said his electricity is due to go off tomorrow afternoon and has £1.30 left on it. … I have advised to speak to work coach to try get these deductions reduced … He also made a claim for PIP as struggles after two strokes last year but this was refused which he has appealed." (Advisor case note 376, initial consultation) Several interviewees also described the severe vulnerability to energy poverty among refugees or recent migrants with 'No Recourse to Public Funds' status -a condition attached to some visas which restricts access to much of the welfare state <ref type="bibr" target="#b57">(Yeo, 2019)</ref>. As one participant explained, "They've not got the income to put the heating on. […] They're not able to apply for benefits, so they've not got the income or the money to spend" (A3, Environmental Health Officer).</p><p>Problems resulting from insufficient income became even more acute during 2020. In response to the COVID-19 pandemic, the UK government imposed 'lockdowns' in the spring and autumn. At its peak in May 2020, 8.9 million people were 'furloughed' (kept off work on 80 per cent of their usual salary or wage) (UK Government, 2021), and many others either had their employment hours reduced or were made redundant. Throughout the spring and summer of 2020, many households contacting the advisors had experienced a reduction in their income that led to difficulties affording energy costs. Some were unfamiliar with how to apply for benefits, or experienced errors and delays in processing their applications. The advisor case notes make abundantly clear the extreme level of hardship suffered during this period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Energy efficiency</head><p>People living in uninsulated dwellings, or who use older and inefficient appliances, consume more energy to keep their homes warm and meet basic needs. Improving the energy efficiency of the UK housing stock is seen by many as a crucial long-term solution to energy poverty <ref type="bibr" target="#b6">(Boardman, 2010)</ref>. In the energy advice programme we analyse here, advisors engaged with energy efficiency principally by installing, free of charge, 'small' energy efficiency measures (such as LED bulbs, draftproofing strips, door brushes, and radiator reflector foil) in the homes of households they visited. During the pre-Covid stage of the project, 72% of visited households had some measures installed. These can make reductions in energy consumption. For example, the Energy Saving Trust estimates that replacing all lightbulbs in a home to LEDs can reduce energy bills by around £55 per year (Energy Saving Trust, 2022), with greater savings achievable by installing multiple small measures simultaneously. The advisor case notes also include multiple accounts of positive householder feedback relating to increased comfort.</p><p>Despite these benefits, the energy savings resulting from small energy efficiency measures are, by themselves, insufficient for significant reductions in householder bills. Larger interventions, involving insulating the building fabric, are usually necessary, but many people in energy poverty lack the upfront capital to invest in such measures. In theory, energy advice can play an important role in providing householders with guidance on the suitability of large energy efficiency retrofits and directing people toward available funding streams <ref type="bibr" target="#b0">(Ambrose et al., 2019)</ref>. In the programme we study here, advisors were able to refer households to services that provided free central heating system repairs or upgrades. In instances when referred households were experiencing delays in the installation of their new system, advisors also had a key role as an intermediary that 'chased up' funders and installers. The benefits of new heating systems for improving householder comfort were made clear in multiple case notes, with one indicative example stating: "Has a new central heating system fitted recently and the house is much warmer as they were using a single electric heater" (Advisor note 44, follow-up visit). In comparison to heating system upgrades, very few households were referred to funding for home insulation despite this being recognised as crucial for the long-term amelioration of energy poverty <ref type="bibr" target="#b6">(Boardman, 2010)</ref>. One reason for this is that the advice consultations did not allow time for a thorough energy efficiency audit of individual properties, due to time and budget constraints (echoing the finding of <ref type="bibr" target="#b44">Ramsden, 2020)</ref>. As one interviewee explained:</p><p>"Because we've got targets to hit, we need to get 500 visits in a certain space of time so you're driven by targets. It's so difficult but I don't suppose that's any different than social workers or other charities, funders need to see value for money. You can see that, many a time, you're just touching the surface with a lot of people." (A16, energy advisor) Another important factor is the of lack of funding available to financially support households in installing insulation. The Energy Company Obligation (ECO) is the main nationwide insulation programme targeted at people in energy poverty in Great Britain, providing grants to cover some or all of the cost of insulation among eligible households. Over the past decade the programme has experienced severe funding cuts and more restrictive eligibility criteria, which has made accessing the scheme more difficult and resulted in substantial decreases in the number of homes being insulated <ref type="bibr" target="#b26">(Evans, 2022)</ref>.</p><p>Even in relation to heating system upgrades, the advisors were sometimes limited by a lack of funding or narrow entitlement criteria. To be eligible for an upgrade a household needed to be in receipt of qualifying benefits and also in a 'no heat situation' (defined as either having no central heating in the home or having a broken gas heating boiler). People with an inefficient but nonetheless functioning boiler were not eligible for a free replacement. As one case note stated: "She said that her boiler is 13 years old but hasn't broken yet but was asking about available funding. Told her that if the boiler breaks then she should ring and ask about the options available to her." As such, in some cases people who would have benefited from substantial energy efficiency measures could not be assisted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Energy-related practices</head><p>A fourth driver of energy poverty can relate to people's energy behaviours and needshow they use heating, lighting, and appliances in the home. In our study, energy advisors provided guidance on how householders could change their behaviours to reduce energy consumption. Recommendations made by the advisors were common for energy advice schemes <ref type="bibr" target="#b44">(Ramsden, 2020)</ref>, and included telling participants about the likely high-consuming appliances in their home, washing at lower temperatures, switching off lights, and keeping doors in living areas closed to ensure they remained warm. The case notes indicate that behaviour change advice was most useful when focused on the correct usage of heating controls, particularly for those which were complex or unintuitive. Thermostat control can potentially lead to reduced energy costs, with the Energy Saving Trust (2022) estimating that a one-degree Celsius reduction in thermostat temperature reduces heating bills by around 10%. The case notes also provide some evidence of a favourable impact, with accounts of households feeling more comfortable and, in a few cases, having reduced their consumption.</p><p>However, there were also a range of factors that limited the efficacy of such advice. For starters, households suffering from energy poverty are often already reasonably knowledgeable regarding their energy usage and undertake multiple actions to minimise their consumption <ref type="bibr" target="#b13">(Brunner et al., 2012;</ref><ref type="bibr" target="#b56">Willand et al., 2017)</ref>. In situations where energy consumption is already tightly rationed, or households are even 'under-consuming' energy (i.e., using less than they need to), the scope to reduce energy costs through behavioural changes is extremely limited. One energy advisor we interviewed explained this powerfully:</p><p>"… there are things that we can say to help people understand how much [energy] they're using … and reducing that, but I would say a more common problem I see is people … under-using, if you see what I mean. [They are] not putting the heating on, and sitting around in jumpers, and getting a load of colds and aggravating their COPD (chronic obstructive pulmonary disease), or whatever else you might see. […] So, even though we do work at saying, 'Don't use the tumble dryer so much, make sure your house is nice and ventilated, use the timer,' all this sort of thing … Although we do that type of work, a lot of the time, we also just say to people, 'Turn your heating on'." (A11, energy advisor)</p><p>The advisor case notes also contained several examples of chronic health conditions requiring more continuous or intensive use of heating and energy, corroborating wider literature on the relations between energy poverty, health, and disability (e.g., <ref type="bibr" target="#b20">de Chavez, 2018)</ref>. As such, there was little possibility for consumption reductions without people incurring harms to their well-being: "Caller's daughter has medical conditions which make her susceptible to cold and flu virus … and they have to keep the central heating on for 24 h of the day. [I] asked if she wears multiple layers of clothes hat, scarf, gloves and socks and she replied she does and she cannot get warm." (Advisor case note 301, initial consultation)</p><p>"She is the main carer for her husband. She has to keep the heating on to keep her husband warm." (Advisor case note 149, initial consultation) Occupancy patterns also have an important influence on domestic energy consumption. Groups who spend more hours at home for physiological or social reasonsincluding older people, disabled people and people who are unemployedoften need to make greater usage of heating and appliances <ref type="bibr" target="#b50">(Simcock et al., 2021)</ref>. This was particularly noticeable during the 2020 phase of our research, when much of the UK population spent more time in their homes as many workplaces, schools and public buildings were closed due to COVID-19 lockdown policies. The advisor case notes included examples of this resulting in increased energy costs and vulnerability, especially among households with children:</p><p>"Struggling a bit because they are using more electric as all 3 children have been at home for ages." (Advisor case note 339, initial consultation) "She is struggling financially and is finding it difficult to make ends meet […] She has £1.41 in emergency for electric. She has plenty of gas but because the children have been off the electric has been a really big problem." (Advisor case note 396, follow-up consultation)</p><p>The underlying assumption behind 'behaviour change' advice is that people's energy-use behaviour is strongly determined by their knowledge and values, and that more informed households will make "smarter" or more "ethical" choices to lower their consumption <ref type="bibr" target="#b39">(Malier, 2019;</ref><ref type="bibr" target="#b55">Warren and Foulds, 2020)</ref>. However, evidence from our research supports the view a household's energy consumption is not purely the result of individual choices. Past research has shown that energy consumption patterns are influenced by multiple socio-material relations that are often beyond an individual's immediate control <ref type="bibr" target="#b14">(Butler, 2022;</ref><ref type="bibr" target="#b48">Royston et al., 2018;</ref><ref type="bibr" target="#b54">Wang, 2016)</ref>. As we have shown above, this can include challenges relating to personal illness or disability, the need to spend more time at home, and domestic relations of care that can be experienced most strongly by those already vulnerable to energy poverty <ref type="bibr" target="#b31">(Hargreaves and Middlemiss, 2020)</ref>. Providing individuals with advice and tips on 'behaviour change' can only ever have a limited and partial impact.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concluding discussion</head><p>This paper has demonstrated that tailored energy advice, delivered on a one-to-one basis by a trusted expert, can help to partially reduce vulnerability to energy poverty. Alongside the provision of direct advice regarding energy market engagement and energy-saving practices, some of the key beneficial impacts arose from referring households to further services and support schemes. This emphasises the value of energy advice programmes coordinating with other domains of advice provision, particularly when assisting people experiencing complex and multifaceted challenges, and supports the recent development of 'one-stop shops' that bring together multiple advice organisations under a single entry point <ref type="bibr" target="#b4">(Bertoldi et al., 2021)</ref>.</p><p>However, the beneficial impacts of the advice programme were also sometimes limited in terms of temporality (being relatively short-term) and magnitude (comprising relatively marginal and incremental improvements in people's circumstances). These limitations were partly due to the design of the particular programme we studied. Although it followed several aspects of "good practice" in advice delivery, the expectations of the programme funder and the need to hit targets regarding the number of households assisted meant that the scheme was limited to two relatively short consultations per household, conducted 4-8 weeks apart. There was insufficient time and resources to undertake thorough energy efficiency audits, which limited the scope to provide advice on more substantial retrofits. Furthermore, people who required assistance over an extended period, such as those unable to independently switch energy tariffs or apply for the Warm Home Discount, could not be provided with such long-term support. This is similar to other energy advice services in the UK, which typically operate around a single consultation. There is also no UK-wide programme providing detailed energy efficiency recommendations <ref type="bibr" target="#b0">(Ambrose et al., 2019)</ref>, and the local availability of advice is highly uneven geographically <ref type="bibr" target="#b38">(Maby, 2020)</ref>. Overall, our findings suggest that to maximise the benefits of energy advice, the accessibility and scope of advice provision needs to be increased nationwide. This includes providing technical training for advisors to allow them to provide recommendations on property-level energy efficiency measures and low-carbon heating systems, introducing longer-term funding models that enable ongoing and in-depth support for those who require it, and providing a consistent level of support across different regions <ref type="bibr" target="#b9">(Bouzarovski et al., 2023;</ref><ref type="bibr" target="#b44">Ramsden, 2020)</ref>.</p><p>Regardless of the particularities of an advice programme, our evidence also shows more fundamental limitations in attempting to ameliorate energy poverty simply through administering advice. Energy advice is arguably underpinned by assumptions about individuals having the capacity make choices that will reduce their vulnerability to energy poverty. Yet we found that the ability of advisors to provide assistance, and for people to act upon and benefit from the advice they are given, was restricted by deeper systemic issues. These included the design of the UK's retail energy provision, which favours those with greater economic, social, and cultural resources; the restrictive eligibility criteria of energy efficiency funding programmes; over a decade of austerity leading to a meagre and highly conditional social security system; and the influence of social relations, occupancy patterns and health circumstances on domestic energy usage. The COVID-19 pandemic and its associated lockdowns and economic recession, and more recently severe increases in energy prices and the wider cost-of-living, have greatly exacerbated the challenges and suffering experienced by many. In the face of such macro-scale pressures, the ability of individual advice provision to ameliorate energy poverty is limited. Whilst it may offer important but partial respite, many households are ultimately rendered vulnerable to energy poverty by structural and institutional arrangements that cannot be altered simply through advice provision and individuals making different choices.</p><p>There is thus a need to be realistic about what energy advice alone can achieve. It can provide valuable benefits, but it is not a panacea to energy poverty. Recent attempts by politicians and commentators to promote energy advice and individual behaviour change as simple and straightforward solutions to the energy price crisis <ref type="bibr" target="#b42">(Nixon, 2022)</ref> and energy poverty more generally, represent a characteristically neoliberal form of governmentality that seeks to responsibilise individuals who are suffering whilst obscuring the political and structural roots of their plight <ref type="bibr" target="#b16">(Childs, 2022;</ref><ref type="bibr" target="#b47">Robinson, 2022)</ref>. This is not an entirely new concern, as other social policies centring on education and "correcting" individual behavioursuch as the Troubled Families Programme in the UK <ref type="bibr" target="#b36">(Lambert and Crossley, 2017;</ref><ref type="bibr" target="#b49">Sayer, 2017)</ref> and schemes focusing on budgeting and financial literacy <ref type="bibr" target="#b35">(Humpage et al., 2023)</ref> have faced similar critiques. Likewise, policies that seek to promote "green" lifestyles through individual behaviour change often moralise and stigmatise disadvantaged groups, including women and people on low incomes <ref type="bibr" target="#b39">(Malier, 2019;</ref><ref type="bibr" target="#b54">Wang, 2016)</ref>. Our research suggests these problems risk entering the energy domain, building upon a small body of previous research taking a more critical and nuanced perspective on the potential implications of energy advice <ref type="bibr" target="#b27">(Forster et al., 2019;</ref><ref type="bibr" target="#b44">Ramsden, 2020;</ref><ref type="bibr" target="#b55">Warren and Foulds, 2020)</ref>.</p><p>To address energy poverty, fundamentally what is required are "transformative" <ref type="bibr" target="#b28">(Fraser, 1995)</ref> policies that address and reconfigure the structural and institutional arrangements that generate the problem in the first place. Energy advice would still play an important role in such an approachfor example, by supporting households in navigating a new and extensive set of funding programmes available to finance domestic energy efficiency retrofits, and by cultivating collective capacities for action at the level of entire neighbourhoods and communities <ref type="bibr" target="#b9">(Bouzarovski et al., 2023)</ref>. But it would be one part of a larger programme of concerted, comprehensive, and ambitious political action to promote social justice. participate in our research. Thank you to Suzanne Barningham, Samuel Evans, Ami Crowther, Manon Burbridge, Tianyuan Wang and Majd Jayyousi who were involved in one of the research projects underpinning this paper, and to the partners across Europe for the excellent collaboration on the 'STEP-IN' project.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article:</p><p>This work was supported by the HORIZON EUROPE Climate, Energy and Mobility cluster (grant number 785125) and the Royal Geographical Society (with IBG) (grant number SRG09/19). Stefan Bouzarovski kindly acknowledges funding from the Energy Demand Research Centre (EDRC), supported by the Engineering and Physical Sciences Research Council and the Economic and Social Research Council under grant number EP/Y010078/1.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. The process of advisor consultations.</figDesc><graphic coords="6,103.07,156.13,234.20,361.19" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>C r i t i c a l S o c i a l P o l i c y 0(0)</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>S i m c o c k a n d B o u z a r o v s k i</p></note>
+		</body>
+		<back>
+
+			
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>We send sincere thanks to all the "Green Doctors" team at Energyworks in Greater Manchester, who provide such valuable support to people struggling with energy costs and who were fantastic research partners. Thanks also to the advice programme funders and managers, to Greater Manchester Combined Authority, and to all interviewees who kindly contributed their time to</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author biographies</head><p>Neil Simcock is Senior Lecturer of the Geography and Environmental Science Research Group at the School of Biological and Environmental Sciences, Liverpool John Moores University. He researches on inequality and vulnerability, particularly in relation to energy systems and the use of energy in the home. His work aims to uncover the institutional and structural arrangements that render some people vulnerable to experiencing fuel poverty. Relevant publications: Simcock N, Frankowski J, Bouzarovski S. ( <ref type="formula">2021</ref>  </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Reaching the</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ambrose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Batty</surname></persName>
+		</author>
+		<ptr target="https://www.shu.ac.uk/centre-regional-economic-social-research/publications/reaching-the-hardest-to-reach-with-energy-advice-final-report" />
+	</analytic>
+	<monogr>
+		<title level="j">Hardest to Reach&apos; with Energy Advice: Final Report</title>
+		<imprint>
+			<date type="published" when="2019-07">2019. July 2022</date>
+			<publisher>Sheffield Hallam University</publisher>
+			<pubPlace>Sheffield, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">From rational to relational: How energy poor households engage with the British retail energy market</title>
+		<author>
+			<persName><forename type="first">Ambrosio-Albala P</forename><surname>Middlemiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page">101765</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Never try and face the journey alone: Exploring the face-to-face advocacy needs of fuel poor householders in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mould</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Stewart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="210" to="219" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Corlett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Handscomb</surname></persName>
+		</author>
+		<title level="m">Death by £1000 Cuts? London: Resolution Foundation</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The role of one-stop shops in energy renovation -a comparative analysis of OSSs cases in Europe</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bertoldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Boza-Kiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Della</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy and Buildings</title>
+		<imprint>
+			<biblScope unit="volume">250</biblScope>
+			<biblScope unit="page">111273</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Fuel Poverty: From Cold Homes to Affordable Warmth</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Boardman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Belhaven Press</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Fixing Fuel Poverty: Challenges and Solutions</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Boardman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><surname>Boardman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Darby</surname></persName>
+		</author>
+		<title level="m">Effective Advice: Energy Efficiency and the Disadvantaged</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+		<respStmt>
+			<orgName>Environmental Change Institute, University of Oxford</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The diversity penalty: Domestic energy injustice and ethnic minorities in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burbidge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sarpotdar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page">102716</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">The UK needs a national energy advice service</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Crowther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<ptr target="http://theconversation.com/the-uk-needs-a-national-energy-advice-service-197176" />
+		<imprint>
+			<date type="published" when="2023-05">2023. May 2023</date>
+			<biblScope unit="volume">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Injustices at the air-energy nexus</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robinson</forename><forename type="middle">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environment and Planning F</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2-4</biblScope>
+			<biblScope unit="page" from="168" to="186" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">STEP-IN Final Report -Urban Living Lab</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Evans</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>European Union</publisher>
+			<pubPlace>Brussels, Belgium</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Assessing Trends in Social Security to Prepare for the Decade of Change Ahead</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brewer</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Resolution Foundation</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Handscomb</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Resolution Foundation</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kelly</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Resolution Foundation</orgName>
+			</affiliation>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Experiencing fuel poverty. Coping strategies of low-income households in Vienna/Austria</title>
+		<author>
+			<persName><forename type="first">K-M</forename><surname>Brunner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Spitzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Christanell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Special Section: Fuel Poverty Comes of Age: Commemorating 21 Years of Research and Policy</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="53" to="59" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Energy Poverty, Practice, and Policy</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Butler</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-99432-7</idno>
+		<ptr target="https://link.springer.com/10.1007/978-3-030-99432-7" />
+		<imprint>
+			<date type="published" when="2022-12">2022. December 2022</date>
+			<publisher>Springer International Publishing</publisher>
+			<pubPlace>Cham</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Buzar</surname></persName>
+		</author>
+		<title level="m">Energy Poverty in Eastern Europe: Hidden Geographies of Deprivation</title>
+		<meeting><address><addrLine>Aldershot</addrLine></address></meeting>
+		<imprint>
+			<publisher>Ashgate</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Helpful&apos; money saving tips are mostly bullshit</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Childs</surname></persName>
+		</author>
+		<ptr target="https://www.vice.com/en/article/88qdzb/money-saving-myths-debunked" />
+		<imprint>
+			<date type="published" when="2022-12-02">2022. 2 December 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Beyond utilitarian economics: A capability approach to energy poverty and social suffering</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Chipango</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Human Development and Capabilities</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="446" to="467" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The different &apos;types&apos; of poverty: is there a problem with how we currently talk about poverty?</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Crossley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Garthwaite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Patrick</surname></persName>
+		</author>
+		<ptr target="https://blogs.lse.ac.uk/politicsandpolicy/uk-poverty-whats-the-problem/" />
+	</analytic>
+	<monogr>
+		<title level="m">British Politics and Policy at LSE</title>
+		<imprint>
+			<date type="published" when="2019-05">2019. May 2023</date>
+			<biblScope unit="volume">24</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Energy advice -what is it worth?</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Darby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the ECEEE Conference</title>
+		<meeting>the ECEEE Conference</meeting>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The triple-hit effect of disability and energy poverty: A qualitative case study of painful sickle cell disease and cold homes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>De Chavez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Energy Poverty and Vulnerability: A Global Perspective</title>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Thomson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Petrova</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Abingdon, Oxon</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="169" to="187" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Empowering energy citizenship among the energy poor</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Dellavalle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Czako</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page">102654</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Modernising Consumer Markets: Consumer Green Paper. London: UK Government. Disability Poverty Campaign Group and Disability Benefits Consortium (2022) Letter to the Prime Minister Liz Truss from disability campaign groups</title>
+		<ptr target="https://www.moneysavingexpert.com/news/2022/09/open-letter-to-pm-urges-gov-to-increase-disability-benefits-and-/" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Department for Business, Energy and Industrial Strategy</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Work, welfare, and wellbeing: The impacts of welfare conditionality on people with mental health impairments in the UK</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dwyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Scullion</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Policy &amp; Administration</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="311" to="326" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">About fuel poverty</title>
+		<ptr target="https://www.endfuelpoverty.org.uk/about-fuel-poverty/" />
+	</analytic>
+	<monogr>
+		<title level="m">End Fuel Poverty Coalition</title>
+		<imprint>
+			<publisher>End Fuel Poverty Coalition</publisher>
+			<date type="published" when="2022-07">2022. July 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Buying energy efficienct products: Lighting</title>
+		<ptr target="https://energysavingtrust.org.uk/advice/lighting/" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Saving Trust</title>
+		<imprint>
+			<date type="published" when="2022-09">2022. September 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Analysis: Cutting the &apos;green crap&apos; has added £2.5bn to UK energy bills</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Evans</surname></persName>
+		</author>
+		<ptr target="https://www.carbonbrief.org/analysis-cutting-the-green-crap-has-added-2-5bn-to-uk-energy-bills/" />
+		<imprint>
+			<date type="published" when="2022-12">2022. December 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Energy advice for traveller communities in the context of ethnic and spatial premiums: &apos;paying the price&apos; for other people&apos;s choices</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Forster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hodgson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bailey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Poverty and Social Justice</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="61" to="78" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">From redistribution to recognition? Dilemmas of justice in a &apos;postsocialist&apos; age</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Fraser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Left Review</title>
+		<imprint>
+			<biblScope unit="volume">212</biblScope>
+			<biblScope unit="page" from="68" to="93" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">How the concept of dignity is relevant to the study of energy poverty and energy justice</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Grossmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Trubina</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Sustainable Cities</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">644231</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Social reproduction, labour and austerity: Carrying the future</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="27" to="46" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The importance of social relations in shaping energy demand</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hargreaves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Middlemiss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Energy</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="195" to="201" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Basing &quot;energy justice&quot; on clear terms: Assessing key terminology in pursuit of energy justice</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hernández</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Justice</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="127" to="138" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hills</surname></persName>
+		</author>
+		<title level="m">Getting the Measure of Fuel Poverty: Final Report of the Fuel Poverty Review</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>London School of Economics</publisher>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Three approaches to qualitative content analysis</title>
+		<author>
+			<persName><forename type="first">H-F And</forename><surname>Hsieh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Shannon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Qualitative Health Research</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1277" to="1288" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Responsibilising young benefit recipients: Income management and financial capability in New Zealand</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Humpage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bielefeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marston</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Critical Social Policy</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="337" to="358" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Getting with the (troubled families) programme&apos;: A review</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lambert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Crossley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Policy and Society</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="87" to="97" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Tackling fuel poverty through facilitating energy tariff switching: A participatory action research study in vulnerable groups</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lorenc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pedro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Badesha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Health</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="894" to="901" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Maby</surname></persName>
+		</author>
+		<title level="m">Energising Advice: A Scoping Study on Domestic Consumer Energy Advice and Information Services in the UK. Cheshire: MCS Charitable Foundation</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Greening the poor: The trap of moralization</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Malier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The British Journal of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1661" to="1680" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Energy poverty or just poverty? A response to &apos;what&apos;s the problem?</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Middlemiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<ptr target="https://www.whatstheproblem.org.uk/blog/energy-poverty-or-just-poverty-a-response-to-whats-the-problem" />
+		<imprint>
+			<date type="published" when="2019-05">2019. May 2023</date>
+			<biblScope unit="volume">24</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Jeremy Hunt: Cut energy use to stop Putin &apos;blackmail&apos;. BBC News, 23 November</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Morton</surname></persName>
+		</author>
+		<ptr target="https://www.bbc.com/news/uk-politics-63738388" />
+		<imprint>
+			<date type="published" when="2022-12-02">2022. 2 December 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Here&apos;s how to save £28 a week from October. The Times, 28 August</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Nixon</surname></persName>
+		</author>
+		<ptr target="https://www.thetimes.co.uk/article/heres-how-to-save-28-a-week-from-october-lw9wxtjxv" />
+		<imprint>
+			<date type="published" when="2022-12">2022. December 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>O'brien</surname></persName>
+		</author>
+		<ptr target="https://www.cas.org.uk/system/files/publications/mind_the_fuel_poverty_gap_06.08.pdf" />
+		<title level="m">Mind the Fuel Poverty Gap: Warm Home Discount in the Scottish Context. Edinburgh, Scotland: Citizen&apos;s Advice Scotland</title>
+		<imprint>
+			<date type="published" when="2020-07">2020. July 2022</date>
+			<biblScope unit="page">31</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Tackling fuel poverty through household advice and support: Exploring the impacts of a charity-led project in a disadvantaged city in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ramsden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page">101786</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Welfare conditionality, benefit sanctions and homelessness in the UK: Ending the &apos;something for nothing culture&apos; or punishing the poor?</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Reeve</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Poverty and Social Justice</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="65" to="78" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Exploring local and community capacity to reduce fuel poverty: The case of home energy advice visits in the UK</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Reeves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energies</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">276</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">How energy-saving advice can hurt the most vulnerable households</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Robinson</surname></persName>
+		</author>
+		<ptr target="http://theconversation.com/how-energy-saving-advice-can-hurt-the-most-vulnerable-households-190113" />
+		<imprint>
+			<date type="published" when="2022-12-02">2022. 2 December 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Invisible energy policies: A new agenda for energy demand reduction</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Royston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Selby</forename><forename type="middle">J</forename><surname>Shove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="127" to="135" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Responding to the troubled families programme: Framing the injuries of inequality</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sayer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Policy and Society</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="155" to="164" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Identifying double energy vulnerability: A systematic and narrative review of groups at-risk of energy and transport poverty in the global north</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Keh</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lacey-Barnacle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page">102351</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Factors influencing perceptions of domestic energy information: Content, source and process</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Macgregor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Catney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="455" to="464" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Confusing tariffs deter UK energy customers from switching</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pickard</surname></persName>
+		</author>
+		<ptr target="https://www.ft.com/content/" />
+	</analytic>
+	<monogr>
+		<title level="j">Financial Times</title>
+		<imprint>
+			<date type="published" when="2017-05">2017. May. May 2023</date>
+		</imprint>
+	</monogr>
+	<note>e5e2554a-34a7-11e7-bce4-9023f8c0fd2e</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Coronavirus job retention scheme statistics</title>
+		<author>
+			<persName><surname>Uk Government</surname></persName>
+		</author>
+		<ptr target="https://www.gov.uk/government/statistics/coronavirus-job-retention-scheme-statistics-16-december-2021/coronavirus-job-retention-scheme-statistics-16-december-2021" />
+		<imprint>
+			<date type="published" when="2021-08">2021. 16 December 2021. August 2022</date>
+			<biblScope unit="volume">22</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Green practices are gendered: Exploring gender inequality caused by sustainable consumption policies in Taiwan</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="88" to="95" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Foulds</surname></persName>
+		</author>
+		<title level="m">Better&apos; Domestic Energy Advice in England? A Narrative Literature Review</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>UK Energy Research Centre</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">It&apos;s not too bad&quot; -the lived experience of energy saving practices of low-income older and frail people</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Willand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Maller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ridley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Improving Residential Energy Efficiency International Conference</title>
+		<imprint>
+			<date type="published" when="2017">2017. 2017</date>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="166" to="173" />
+		</imprint>
+	</monogr>
+	<note>Supplement C</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">What is the no recourse to public funds condition?</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yeo</surname></persName>
+		</author>
+		<ptr target="https://freemovement.org.uk/what-is-the-no-recourse-to-public-funds-condition/" />
+	</analytic>
+	<monogr>
+		<title level="m">Free Movement</title>
+		<imprint>
+			<date type="published" when="2019-05">2019. May 2023</date>
+			<biblScope unit="volume">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Watch Martin Lewis&apos;s despairing reaction to Edwina Currie&apos;s energy-saving &apos;tip</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zakir-Hussain</surname></persName>
+		</author>
+		<ptr target="https://www.independent.co.uk/news/uk/home-news/martin-lewis-energy-bills-advice-edwina-currie-b2159925.html" />
+		<imprint>
+			<date type="published" when="2022-12-02">2022. 2 December 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The key role of sufficiency for low demand-based carbon neutrality and energy security across Europe</title>
+				<funder>
+					<orgName type="full">Fondation pour le Progrès de l&apos;Homme</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">FPS Economy</orgName>
+				</funder>
+				<funder ref="#_hcPw73C">
+					<orgName type="full">Belgian Minister of Energy, Environment and Sustainable Development</orgName>
+				</funder>
+				<funder ref="#_F4BnDZM">
+					<orgName type="full">European Union</orgName>
+				</funder>
+				<funder ref="#_cqpbcCD #_4B9B9pB">
+					<orgName type="full">European Climate Foundation</orgName>
+					<orgName type="abbreviated">ECF</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">German Federal Ministry of Education and Research (BMBF)</orgName>
+				</funder>
+				<funder ref="#_229gPcT">
+					<orgName type="full">French Agency for Ecological Transition (ADEME)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Strategy Research for Sustainability (FONA)</orgName>
+				</funder>
+				<funder ref="#_PUMubPk">
+					<orgName type="full">endowment fund Watt For Change</orgName>
+				</funder>
+				<funder ref="#_2cRn5cW">
+					<orgName type="full">Energy Demand Research Centre</orgName>
+					<orgName type="abbreviated">EDRC</orgName>
+				</funder>
+				<funder ref="#_khBsCux #_tncUtMA #_MjtzSMh">
+					<orgName type="full">as part of its Social-Ecological Research funding priority</orgName>
+				</funder>
+				<funder ref="#_uApA9ew">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-10-19">2024-10-19</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Frauke</forename><surname>Wiese</surname></persName>
+							<email>frauke.wiese@uni-flensburg.de</email>
+							<idno type="ORCID">0000-0001-9101-3605</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Sustainable Energy Transition</orgName>
+								<orgName type="institution">Europa-Universität Flensburg</orgName>
+								<address>
+									<settlement>Flensburg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Nicolas</forename><surname>Taillard</surname></persName>
+							<idno type="ORCID">0009-0003-3662-494X</idno>
+							<affiliation key="aff1">
+								<orgName type="department">négaWatt Association</orgName>
+								<address>
+									<postBox>BP 16280</postBox>
+									<postCode>26958</postCode>
+									<settlement>Alixan VALENCE Cedex 9</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Emile</forename><surname>Balembois</surname></persName>
+							<idno type="ORCID">0009-0000-3731-4335</idno>
+							<affiliation key="aff1">
+								<orgName type="department">négaWatt Association</orgName>
+								<address>
+									<postBox>BP 16280</postBox>
+									<postCode>26958</postCode>
+									<settlement>Alixan VALENCE Cedex 9</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Benjamin</forename><surname>Best</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">City of Bonn</orgName>
+								<address>
+									<addrLine>Climate Neutral Bonn 2035 Program Office</addrLine>
+									<settlement>Bonn</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Stephane</forename><surname>Bourgeois</surname></persName>
+							<idno type="ORCID">0009-0004-9546-9748</idno>
+							<affiliation key="aff1">
+								<orgName type="department">négaWatt Association</orgName>
+								<address>
+									<postBox>BP 16280</postBox>
+									<postCode>26958</postCode>
+									<settlement>Alixan VALENCE Cedex 9</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">José</forename><surname>Campos</surname></persName>
+							<idno type="ORCID">0000-0001-5793-0776</idno>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Environmental and Landscape Geography</orgName>
+								<orgName type="institution">ELTE University</orgName>
+								<address>
+									<settlement>Budapest</settlement>
+									<country key="HU">Hungary</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Luisa</forename><surname>Cordroch</surname></persName>
+							<idno type="ORCID">0000-0003-1439-4517</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Sustainable Energy Transition</orgName>
+								<orgName type="institution">Europa-Universität Flensburg</orgName>
+								<address>
+									<settlement>Flensburg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mathilde</forename><surname>Djelali</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">négaWatt Association</orgName>
+								<address>
+									<postBox>BP 16280</postBox>
+									<postCode>26958</postCode>
+									<settlement>Alixan VALENCE Cedex 9</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alexandre</forename><surname>Gabert</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">négaWatt Association</orgName>
+								<address>
+									<postBox>BP 16280</postBox>
+									<postCode>26958</postCode>
+									<settlement>Alixan VALENCE Cedex 9</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Adrien</forename><surname>Jacob</surname></persName>
+							<idno type="ORCID">0009-0002-5134-6338</idno>
+							<affiliation key="aff1">
+								<orgName type="department">négaWatt Association</orgName>
+								<address>
+									<postBox>BP 16280</postBox>
+									<postCode>26958</postCode>
+									<settlement>Alixan VALENCE Cedex 9</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Elliott</forename><surname>Johnson</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Sustainability Research Institute</orgName>
+								<orgName type="institution">University of Leeds</orgName>
+								<address>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sébastien</forename><surname>Meyer</surname></persName>
+							<idno type="ORCID">0009-0005-2650-2249</idno>
+							<affiliation key="aff5">
+								<orgName type="institution">negaWatt Belgium</orgName>
+								<address>
+									<addrLine>Rue du Blanc-Ry 163 Ottignies-Louvain- la-Neuve</addrLine>
+									<postCode>1342</postCode>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Materials and Civil engineering</orgName>
+								<orgName type="institution" key="instit1">Institute of Mechanics</orgName>
+								<orgName type="institution" key="instit2">Université Catholique de Louvain</orgName>
+								<address>
+									<settlement>Louvain-la-Neuve</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Béla</forename><surname>Munkácsy</surname></persName>
+							<idno type="ORCID">0000-0003-4207-1299</idno>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Environmental and Landscape Geography</orgName>
+								<orgName type="institution">ELTE University</orgName>
+								<address>
+									<settlement>Budapest</settlement>
+									<country key="HU">Hungary</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lorenzo</forename><surname>Pagliano</surname></persName>
+							<idno type="ORCID">0000-0001-8962-0422</idno>
+							<affiliation key="aff7">
+								<orgName type="department">Architecture and Urban Studies Department</orgName>
+								<orgName type="institution">Politecnico di Milano</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sylvain</forename><surname>Quoilin</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Andrea</forename><surname>Roscetti</surname></persName>
+							<idno type="ORCID">0000-0003-2628-4294</idno>
+							<affiliation key="aff7">
+								<orgName type="department">Architecture and Urban Studies Department</orgName>
+								<orgName type="institution">Politecnico di Milano</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff9">
+								<orgName type="institution" key="instit1">Università della Svizzera italiana</orgName>
+								<orgName type="institution" key="instit2">Accademia di Architettura</orgName>
+								<address>
+									<settlement>Architettura</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Johannes</forename><surname>Thema</surname></persName>
+							<idno type="ORCID">0000-0002-7039-483X</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Sustainable Energy Transition</orgName>
+								<orgName type="institution">Europa-Universität Flensburg</orgName>
+								<address>
+									<settlement>Flensburg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff10">
+								<orgName type="department">Transport and Climate Policy Division</orgName>
+								<orgName type="institution">Wuppertal Institute for Climate, Environment and Energy</orgName>
+								<address>
+									<settlement>Energy Wuppertal</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Paolo</forename><surname>Thiran</surname></persName>
+							<idno type="ORCID">0000-0001-6125-7115</idno>
+							<affiliation key="aff6">
+								<orgName type="department">Materials and Civil engineering</orgName>
+								<orgName type="institution" key="instit1">Institute of Mechanics</orgName>
+								<orgName type="institution" key="instit2">Université Catholique de Louvain</orgName>
+								<address>
+									<settlement>Louvain-la-Neuve</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Adrien</forename><surname>Toledano</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">négaWatt Association</orgName>
+								<address>
+									<postBox>BP 16280</postBox>
+									<postCode>26958</postCode>
+									<settlement>Alixan VALENCE Cedex 9</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Bendix</forename><surname>Vogel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Sustainable Energy Transition</orgName>
+								<orgName type="institution">Europa-Universität Flensburg</orgName>
+								<address>
+									<settlement>Flensburg</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff11">
+								<orgName type="institution">Potsdam Institute for Climate Impact Research (PIK) e.V</orgName>
+								<address>
+									<settlement>Potsdam</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Carina</forename><surname>Zell-Ziegler</surname></persName>
+							<idno type="ORCID">0000-0002-4958-8496</idno>
+							<affiliation key="aff12">
+								<orgName type="department">Department of Landscape Planning and Development</orgName>
+								<orgName type="institution">Technische Universität Berlin</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff13">
+								<orgName type="institution" key="instit1">Energy &amp; Climate Division</orgName>
+								<orgName type="institution" key="instit2">Oeko-Institut</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yves</forename><surname>Marignac</surname></persName>
+							<idno type="ORCID">0009-0008-7629-5075</idno>
+							<affiliation key="aff1">
+								<orgName type="department">négaWatt Association</orgName>
+								<address>
+									<postBox>BP 16280</postBox>
+									<postCode>26958</postCode>
+									<settlement>Alixan VALENCE Cedex 9</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The key role of sufficiency for low demand-based carbon neutrality and energy security across Europe</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Nature Communications</title>
+						<title level="j" type="abbrev">Nat Commun</title>
+						<idno type="eISSN">2041-1723</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">15</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<date type="published" when="2024-10-19" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">CF4FB2F18CCDCB20694DBBBBF02FC3BB</idno>
+					<idno type="DOI">10.1038/s41467-024-53393-0</idno>
+					<note type="submission">Received: 7 August 2023 Accepted: 4 October 2024</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A detailed assessment of a low energy demand, 1.5 ∘ C compatible pathway is provided for Europe from a bottom-up, country scale modelling perspective. The level of detail enables a clear representation of the potential of sufficiency measures. Results show that by 2050, 50% final energy demand reduction compared to 2019 is possible in Europe, with at least 40% of it attributable to various sufficiency measures across all sectors. This reduction enables a 77% renewable energy share in 2040 and 100% in 2050, with very limited need for imports from outside of Europe and no carbon sequestration technologies. Sufficiency enables increased fairness between countries through the convergence towards a more equitable share of energy service levels. Here we show, that without sufficiency measures, Europe misses the opportunity to transform energy demand leaving considerable pressure on supply side changes combined with unproven carbon removal technologies.</p><p>Most energy scenarios focus on technical strategies to achieve decarbonisation at the lowest cost and pay little attention to the environmental and social consequences of these strategies other than the reduction of greenhouse gas (GHG) emissions 1-3 . Consequently, important dynamics of a sustainable transformation are ignored, such as the social and ecological consequences of resource extraction and energy imports that are necessary for the respective scenario. With an increasingly broader focus on other sustainability dimensions beyond climate protection, demand-side climate mitigation solutions are receiving increased attention 4 as they increase the probability of reaching climate ambitions and have high synergies with other Sustainable Development Goals 5 . However, most techno-economic optimisation approaches ignore demand-side and, in particular, sufficiency strategies. The energy sufficiency concept 6-8 refers to reducing, in absolute terms where adequate, the consumption and production of end-use products and services through changes in social</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>practices (supported by adequate infrastructures and frameworks), to remain within planetary boundaries while ensuring a decent social foundation for all people. This social foundation commonly refers to the idea of decent living standards <ref type="bibr" target="#b8">9</ref> . Millward-Hopkins et al. <ref type="bibr" target="#b9">10</ref> have suggested minimum energy service levels per person that comply with decent living standards and would result in 60% lower global final energy consumption in 2050, despite the population being 30% larger. This indicates a lower boundary for the sufficiency corridor. On the other side, Grubler et al. <ref type="bibr" target="#b10">11</ref> estimate a 40% reduction in total global final energy in 2050 compared to 2020 worldwide that is necessary to comply with a 1.5 °C climate target without negative emission technologies. The reduction in their study is partly caused by increases in energy conversion efficiency and partly by 'use efficiency', which is a combination of organisational, institutional and infrastructural factors. Sufficiency levers were included to a lesser degree, e.g., a reduction in passenger-km/capita in the Global North and increases in the Global South. Barrett et al. <ref type="bibr" target="#b11">12</ref> investigated the potential of energy demand reduction in a case study for the United Kingdom. Using a bottom-up approach, the energy scenario demonstrates potential energy demand reductions of 52% by 2050 in comparison to 2020, via a combination of efficiency and sufficiency measures. This is achieved while increasing quality of life, thanks to the associated co-benefits in areas such as health, improved local environments, better work practices, reduced investment needs.</p><p>In this paper, we present a scenario at the European level with a strong focus on sufficiency options and exchange and transmission of hydrogen and power between European countries as an essential characteristic. This enables a strong reduction of dependency on energy imports from outside Europe as well as excluding the further use of nuclear and the introduction of carbon capture and storage technologies (CCS) by 2050. The so-called Collaborative Low Energy Vision for the European Region (CLEVER) scenario describes overall reductions in final energy consumption at the European level (EU30: EU27, plus UK, Norway and Switzerland) but suggests an increase for some energy service demands in Member States where per capita consumption is below the level considered sufficient (concept of convergence). Social and environmental components of sustainability are both considered as integral to this scenario. 50% of final energy demand reduction is realised (compared to 2019). At least 40% of this final energy demand reduction is due to sufficiency, offering short-term reductions that are essential to address cumulative emissions. Sufficiency is also essential to achieve deep sustainability and limit other socio-environmental impacts, such as the impacts of mining and the demand for materials, including (i) materials requiring energy-intensive industrial processes and (ii) other biotic or abiotic materials for non-energy uses. The methodology, a bottom-up collaborative modelling approach, is tailored to the national contexts but also coherent at the continental level and fills the gap in sufficiency scenarios between global and national level.</p><p>Key components of the theoretical framework behind the CLEVER scenario are: (1) rapid reductions in energy demand to address cumulative emissions (2) a fair distribution of the remaining carbon budget (3) improved energy, materials security and resilience (4) contribution to other sustainability principles beyond climate change mitigation and (5) enhanced political and economic collaboration in Europe. To comply with (1) the scenario is a 1.5 ∘ C compatible pathway, which implies not only carbon neutrality in the 30 investigated countries of Europe, but also near-term, rapid GHG reductions to stay within the cumulative budget. Taking a 50% probability and per capita distribution of the global budgets (IPCC Sixth Assessment Report <ref type="bibr" target="#b12">13</ref> AR6 I, SPM, p.29, Table <ref type="table">SPM</ref>.2) results in 30-32 GtCO 2 as the maximal EU30 CO 2 budget for 2020-2050, which corresponds to 6% of the global budget (further information on the budget calculation can be found at Bourgeois et al. <ref type="bibr" target="#b13">14</ref> , p.18). The range refers to the various points of cumulative emissions in 2045 and 2050, with cumulative emissions peaking at 32 GtCO 2 in 2045, before declining to 30 GtCO 2 in 2050 as a result of net negative emissions. A per capita distribution of the budget results in a fairer distribution of the remaining carbon budget, emphasising equity within the CLEVER scenario (2) and is consistent with the concept of common but differentiated responsibility as defined in the Paris Agreement. Improved energy and materials security (3) implies a quick reduction of sensitive energy and materials imports and the avoidance of additional dependencies in the form of energy carriers and materials. The base supply in the scenario is built on local resources, supporting exchanges within Europe (EU30). Nuclear power production, as a high-risk supply option contributing to import dependencies, is phased-out by 2050. To further comply with the key aspect of resilience, the pathway construction ensures a balance of ambition and realism regarding the pace of expansion of technology and infrastructure as well as depth of changes. Technologies with a technology readiness level (TRL) of at least 7 were privileged as those less developed currently are unlikely to be deployed at scale before 2050 or only at limited capacities. The choice of available GHG reduction options is also premised on a principle of deep sustainability (4) to deliver a scenario compatible with the other planetary boundaries beyond climate change mitigation <ref type="bibr" target="#b14">15</ref> . A detailed consideration of the implications of these choices for other planetary boundaries is provided in the Supplementary Discussion. The key component of enhancing solidarity across Europe (5) results in a fair distribution of resources and contributions to mitigation by approaching a target level corridor. This leads to a convergence of energy service demands within the examined European states. In contrast to other climate-neutrality scenarios for Europe <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr">[19]</ref><ref type="bibr" target="#b18">[20]</ref> , energy demand reduction strategies beyond efficiency are considered to achieve multiple sustainability objectives.</p><p>The modelling approach involves several steps, beginning with the development of bottom-up national trajectories, followed by a comparison of the ambition levels of the national trajectories by one another and by other references to provide a basis for a harmonised European scenario and to check whether the ambitions are sufficient and realistic, harmonisation of the data and convergence of sufficiency indicators until 2050, and ultimately synthesis and contraction in an iterative process aimed at achieving European sustainability targets. National trajectories have been developed by the active partners (for an overview of organisations, countries and roles see Bourgeois et al. <ref type="bibr" target="#b13">14</ref> , p.6,13), either from modelling specifically dedicated to the scenario or from existing scenarios, and detailed national data was collected in a common dashboard template. For other European countries, normalised (and conservative) trajectories were developed and reviewed by national experts. Using data from the literature, target level corridors for key indicators such as heated living space per capita or passenger-kilometres per capita were defined, with a minimum floor, among others, shaped by decent living standards <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10</ref> and the maximum on 1.5 ∘ C compatible service levels <ref type="bibr" target="#b10">11</ref> . Decent living standards define minimum living standards on an individual level (i.e., activity levels per capita). At the national level, total energy consumption projections based on these activity levels would reflect a theoretical minimum level of consumption for a given country. However, due to intra-country inequality of service-level-indicators (e.g., m 2 /cap), this would result in a proportion of the population falling below decent living minimum standards. We thus do not apply theoretical minima, but set national average activity-levels to exceed decent living thresholds to account for within-country inequalities. Sufficiency indicators touch upon dimensional (e.g., size of vehicles), service-related (intensity and duration of use of vehicles) or organisational (e.g., as the development of collective transport) aspects of energy consumption. Exceptions to the target corridor levels were made in cases of justified national specificities. Table <ref type="table" target="#tab_0">1</ref> provides a summary of main sufficiency indicators applied in CLEVER.</p><p>In this work, we present detailed national energy and emissions pathways for 30 European countries, consistent at both the country and regional level. Each country's pathway contains comprehensive information on energy service demands and carriers for each end use sector, as well as extensive energy production data, which can be used by both national-and European-level policymakers to guide policy and target-setting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Greenhouse gas emission reductions</head><p>By 2030 and 2040, net GHG emissions in the CLEVER scenario are cut by approximately 50% and 90%, respectively, compared to 2019 (3.9 GtCO 2 eq.). Substantial GHG emission reductions (Fig. <ref type="figure">1</ref>) in the scenario occur in the heat and power sector, residential sector and transport sector (which includes aviation). Remaining emissions (0.3 GtCO 2 eq.) in 2050 are mostly from the industry and agriculture sector, and can be offset by natural carbon sinks through land and forestry management (approx. 0.5 GtCO 2 eq.). Net zero emissions are reached by 2046 without a reliance on nuclear or dedicated CCS technologies, which aligns with other low energy demand scenarios <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b19">21,</ref><ref type="bibr">22</ref> . These results are compatible with a European carbon budget for limiting global warming to 1.5 ∘ C with a probability of 50%, based on an equal per capita approach distribution.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reduction in final energy and service demand</head><p>Strong reductions in final energy consumption are achieved through sufficiency and efficiency levers. Total final energy consumption is cut by 50.3% (final energy consumption for all energies, excluding ambient heat, maritime bunkers, the energy sector and non-energy uses <ref type="bibr" target="#b20">23</ref> ) from 2019 to 2050 (corresponding to a reduction from 13,250 TWh to 6590 TWh), with each country achieving per capita reductions of between 27% and 72% (Fig. <ref type="figure">2</ref>), illustrating how Western European countries (i.e., those that currently have the highest energy consumption) are estimated to contribute the greatest towards demand reduction in the CLEVER scenario.</p><p>Figure <ref type="figure" target="#fig_1">3</ref> shows the results of the approach of combining strong reductions with fairness considerations for two key energy service demands in the residential buildings <ref type="bibr" target="#b21">24</ref> and transport sectors <ref type="bibr" target="#b22">25</ref> . The base year of 2019 is chosen to account for anomalous energy service levels in 2020 as a result of restrictions imposed by the global pandemic response.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sufficiency and efficiency impact in the industry sector</head><p>Sufficiency in the industrial sector consists of adjusting the nature and intensity of industrial demand to meet needs and services while minimising materials consumption. As industrial demand is created by other sectors (buildings, transport and food), the levers of sufficiency in these sectors (for example, reducing new construction leads to a reduction in industrial demand for steel and cement) are essential to achieving high levels of final energy demand reduction (Fig. <ref type="figure" target="#fig_2">4</ref>). The production volumes are based on sufficiency-oriented consumption at the product and service level, but refer to other studies; they are not modelled at the product level in this study. The historic rate of production over consumption of material is kept in the CLEVER scenario.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supply side -high exchange within Europe, limited imports</head><p>The considerable reductions in final demand outlined above have significant implications for the transformation of energy supply and mitigate against many of the risks associated with the supply-side transition. Lower demand means that a much smaller energy system is required, which allows for net zero emissions to be achieved with a much smaller-scale rollout of low-carbon technologies, limits the proliferation of the electricity grid and storage infrastructures, offers the possibility for Europe to almost completely remove its dependence on energy imports and limit dependence on imported materials. Demand can also be met whilst excluding high-risk supply-side technologies, such as nuclear power. Figure <ref type="figure" target="#fig_3">5</ref> illustrates the difference in size and energy flows between the energy system for EU30 in 2019 and 2050. Renewable energy sources are scaled up from 3096 TWh/y in 2019, to 8837 TWh/y by 2050, with solar PV (1683 TWh/y, 1046% increase in capacity compared to 2019), onshore (1782 TWh/y, 384% increase) and offshore wind (1697 TWh, 2183% increase) making up the majority of production. Bioenergy contributes to supply, with solid biomass contributing towards 1296 TWh/y of primary demand (a 9% increase), biogas making up 619 TWh (213% increase) and liquid biomass contributing 205 TWh (7% increase). The sustainability issues relating to bioenergies are documented in research, such as the scale of land use required, food security, water supply, biodiversity and social issues <ref type="bibr" target="#b23">[26]</ref><ref type="bibr" target="#b24">[27]</ref><ref type="bibr" target="#b25">[28]</ref> . To minimise these problems, the scaling up of bioenergy would need to be realised without inducing unintended and undesirable land use changes <ref type="bibr" target="#b26">29</ref> . Thus, a conservative approach was taken to bioenergies, with assumptions on bioenergy potentials on the low end of existing estimates for Europe -without relying on imports. For details on the bioenergy potential modelling, see Section Methods and Supplementary Method.</p><p>The remainder of primary demand in 2050 is supplied by miscellaneous renewables (marine, geothermal, hydro, solar thermal, ambient heat and waste heat recovery -1539 TWh), petroleum (104 TWh) and waste (17 TWh non-renewable, 16 TWh renewable). Furthermore, total extra-EU imports are reduced tenfold, from 10.5 to 0.1 PWh from 2019 to 2050, with just 104 TWh of imported petroleum being required in 2050 as a feedstock for the olefins industry. The share of local primary energy production (i.e., energy produced within </p><formula xml:id="formula_0">E U 2 7 E U 3 0 M T R O B G E L P T C Y H R E S U K P L L T H U I T S K C H E E L V F R I E D K C Z S I D E N L B E S E A T N O F I L U Reduction of</formula><p>FEC 2050 vs 2019 FEC 2019 FEC 2050 Fig. 2 | Development of the final energy demand. Annual final energy consumption (FEC) per capita (left axis) and percentage reductions in final energy consumption per capita (2019-2050, right axis) across the EU30 countries. For final energy consumption, we apply the definition of Eurostat 23 -excluding ambient heat, non-energy consumption, the energy sector and maritime bunkers from the total. A list of countries included in EU30 and EU27 and full names of countries can be found in Supplementary Table 7. Source data are provided as a Source Data file. CO2eq (Gt) -1 0 1 2 3 4 5 -1 1 3 5 2020 2025 2030 2035 2040 2045 2050 Net emissions Land use and forestry (negative) Waste management Residential Tertiary Agriculture Industry Transport Heat and power Fig. 1 | Annual greenhouse gas emissions in the CLEVER (Collaborative Low Energy Vision for the European Region) scenario by emitting sector, 2019-2050 (EU30). Carbon neutrality is reached before 2050. Remaining emissions are offset by natural sinks. The carbon budget is compatible with a European carbon budget for limiting global warming to 1.5 °C with a probability of 50%, based on an equal per capita approach distribution. Gt CO 2 eq: gigaton CO 2 equivalent. A list of countries included in EU30 can be found in Supplementary Table 7. Source data are provided as a Source Data file. Europe) increases greatly, from 44% in 2019 up to 99% in 2050. In the CLEVER scenario, the basis of Europe's energy supply is affordable and local production. Nuclear power production is slowly phased out by 2050, from 2297 TWh/y in 2015 without a corresponding increase in coal demand.</p><p>As can be seen in Fig. <ref type="figure" target="#fig_3">5</ref>, energy flows in total are reduced and electricity is the backbone of the whole system. While hydrogen plays an important role for industry and non-energy use, for the other sectors it has a very limited role compared to electricity as an energy carrier.</p><p>There are high levels of inter-European trading of hydrogen and electricity (Fig. <ref type="figure" target="#fig_4">6</ref>), but energy imports from outside of Europe are almost entirely eliminated (Fig. <ref type="figure" target="#fig_3">5</ref>). Crucially, EU30 countries are not reliant on imports from outside of Europe for hydrogen or hydrogen feedstocks, with Europe-wide production coverage reaching 107% of demand, producing 755 TWh/y in 2050. By managing hydrogen Units: square meter ((m 2 ) per capita (cap) on average. An increase in residential floor space [m 2 ] per person is assumed for countries with smaller living spaces per capita and capped at 40 m 2 /capita. However, due to the strong inertia inherent in the building stock and trends that are difficult to reverse (larger houses and a reduction in people per household), reversing the floor space per person was deemed infeasible -it would imply a destruction of buildings without replacement. Thus, the objective is to stabilise m 2 /cap for those countries that already exceeded the upper limit of 40 m 2 /capita and prevent further increases in inequalities. Full names of countries can be found in Supplementary Table <ref type="table">7</ref>. Source data are provided as a Source Data file. b Development of passenger transport demand. Units: 1000 passenger-kilometres (pkm) per capita (cap) and year on average. Here, passenger traffic excludes soft modes (walking, cycling) but includes air traffic (domestic and international). The convergence approach enables countries with low levels of consumption below the minimum threshold (e.g., passenger traffic per capita in Slovakia, Poland and Hungary, amongst others) to reach a level that is consistent with decent living standards. High levels of energy service demands are reduced through sufficiency levers, for example, passenger traffic in Italy decreases from 18,513 pkm/cap in 2019 to 12,881 pkm/cap in 2050. Transgression of the upper boundary of the consumption corridor is a result of international aviation in countries with geographies that will require higher levels of demand for this mode of transport (e.g., island countries) or have other national specificity. Full names of countries can be found in Supplementary Table <ref type="table">7</ref>. Source data are provided as a Source Data file. imports within Europe, there is no need for externalisation of generation needs to other world regions, which is a key element of a global just energy transition. Another aspect of a just energy transition that goes beyond the quantitative analysis of this paper, would be to consider the role of imported manufactured goods and not only the import of energy carriers as potential justice issues might continuously occur due to unequal exchange between European countries and the Global South.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The CLEVER scenario contributes to the growing research basis that is developing around the potential for energy demand reduction in developed countries. A comparison to other scenarios that prioritise reductions in energy demand, with varying geographical scopes (world: Low Energy Demand (LED) for the Global North <ref type="bibr" target="#b10">11</ref> , Transform scenario for the UK <ref type="bibr" target="#b11">12</ref> , 2050 energy scenario for France 22 and Germany's RESCUE GreenSupreme scenario <ref type="bibr" target="#b19">21</ref> ), demonstrates an ambitious range of potentials, coalescing around the -50 to -55% mark for final energy reduction. One consistent result across these scenarios is that a strong emphasis on energy demand reduction ensures that they can all reach net zero emissions without relying on CCS technologies.</p><p>Although the CLEVER scenario does not account for costs and investment requirements, previous research suggests that lower final demand achieved through sufficiency can limit the energy system costs of the transition to net zero emissions. Low energy demand results in a smaller energy system, meaning that less renewable supplyside and storage infrastructure is required to meet demand and displace fossil fuels <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b27">30</ref> . Furthermore, lower demand results in fewer residual emissions, meaning that expensive technologies such as carbon capture are not required and do not inflate investment costs <ref type="bibr" target="#b11">12</ref> . The CLEVER scenario also demonstrates increased integration of domestic European energy systems through high levels of hydrogen and power exchange via transmission, which has been shown to reduce costs in a 100% renewable European energy system <ref type="bibr" target="#b28">31</ref> . Additionally, smaller energy system reduce materials requirements, embodied energy and emissions of the energy transition <ref type="bibr">22,</ref><ref type="bibr" target="#b29">32,</ref><ref type="bibr" target="#b30">33</ref> .</p><p>Sufficiency is adopted within the modelling framework at the international level but intra-country inequalities are not explored. By reducing national average energy consumption, energy demand reduction has the potential to lead to the lowest consumers falling below decent living standards without addressing energy inequality <ref type="bibr" target="#b31">34</ref> . The CLEVER scenario adopts sufficiency floors above that recommended limits, to allow for sufficient space for the lowest consumers. For example, assumptions for average residential floor space of approximately 42m 2 /capita (EU30) are between 2.1 and 2.8 times the recommended decent living minimum standards <ref type="bibr" target="#b9">10</ref> , allowing for a floorspace Gini of between 0.36 and 0.48, according to the framework developed by Pauliuk <ref type="bibr" target="#b32">35</ref> . Similarly, for surface transport, the population-weighted average for surface travel in the CLEVER scenario for the countries assessed would permit a passenger-kilometres Gini coefficient of up to 0.38 in relation to decent living standards suggested by Millward-Hopkins et al. <ref type="bibr" target="#b9">10</ref> .</p><p>Future work should build upon this by assessing how variations in income inequality impact access to energy services and the resulting compatibility with decent living energy thresholds. Sufficient analysis also needs to be given to how policy measures must be designed not only to ensure that the sufficiency corridor is achieved on average per country, but also to ensure fair distribution within countries so that minimum standards are achieved for each person.</p><p>As for renewables and efficiency potentials, the realisation of sufficiency potentials and its fair distribution is contingent on a respective policy framework <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b33">36,</ref><ref type="bibr" target="#b34">37</ref> partly in interdependence with deeper cultural and social changes. However, sufficiency does not play a major role in policy frameworks of existing scenarios yet, as renewable energies and efficiency are usually the dominant strategies in rather technology-focused narratives <ref type="bibr" target="#b35">38</ref> . In the present scenario, policies were not modelled in detail, but instruments have been outlined for all sectors. In the Supplementary Data 1, about 100 policy measures are listed. Additionally, for a better overview, a summary of main policy strategies per sector pursued by sufficiency policies within the CLEVER scenario, and examples for specific instruments. Some of the policy measures are not only aimed at achieving the sufficiency corridor per country in Europe, but also explicitly at ensuring that every individual within the country achieves the basis for a good life.</p><p>Sufficiency policy mixes require a range of instrument types, regulative but also fiscal and information policies <ref type="bibr" target="#b36">[39]</ref><ref type="bibr" target="#b37">[40]</ref><ref type="bibr" target="#b38">[41]</ref> . Effective policy mixes are characterised by consistency (to exclude contradictions), coherence (to use synergies between instruments) and comprehensiveness (to support the full range of strategies for a shift to a 100% renewable energy system) <ref type="bibr" target="#b39">42</ref> .</p><p>The instrument mix proposed to achieve the CLEVER scenario varies by sector and mostly targets structural changes (by regulation, economic instruments, education) rather than individual behaviour (information). In contrast to the present European National Energy and Climate Plans 39 , all sectors include a large share of regulatory sufficiency measures (20%-50%). For an overview graph of instrument types per sector, see the Supplementary Fig. <ref type="figure" target="#fig_3">5</ref>. This approach of mixed policy instruments resonates with the recommendations of Climate Citizen Assemblies in European countries, which additionally call for a regulatory framework in climate policy, where the state sets clear rules rather than relying on price and market instruments <ref type="bibr" target="#b37">40</ref> . The strong focus of citizens' assemblies on sufficiency measures to combat climate change can also be interpreted as an indication that the cultural and social changes required for comprehensive sufficiency have already begun.</p><p>For significant reduction in final energy demand and for reaching ambitious climate goals, energy sufficiency cannot be considered in isolation but must be complemented by energy efficiency measures and a rapid transition to renewable energy sources. Furthermore, the reinforcement and deployment of interconnection infrastructure is paramount to unlocking synergies between EU countries. Increased reliance on electrical backbones enables the exploitation of energy resources within Europe and reduces Europe's energy dependence to In the vast majority of industrial sectors, circularity enables a reduction in unit energy consumption. When the applications of materials produced by recycling processes are the same as those from primary production, we could consider that circularity is part of efficiency measures if we restrict ourselves to the energy perimeter. However, a more systemic approach integrating the issue of reducing the consumption of mining products and so limiting the socio-environmental impacts of extractive activities and refining, could consider circularity as part of sufficiency. A list of countries included in EU30 can be found in Supplementary Table <ref type="table">7</ref>. Source data are provided as a Source Data file.</p><p>almost zero. In the particular case of the electricity grid, a scaling up is required to host additional electricity generation capacity and meet the final electricity demand, but this increase remains limited compared to alternative European scenarios. Exchange within Europe significantly reduces the need for import of renewable fuels and externalisation of generation needs to other world regions -a key element of a global just energy transition. However, sufficiency is a crucial lever in reducing energy demand that must be considered on a level playing field with the other mitigation strategies -efficiency and renewables. This requires an explicit inclusion of sufficiency policy in EU policy frameworks, such as the National Energy and Climate Plans and EU scenario studies. To enable an improved integration of sufficiency options in scenarios, common indicators for energy service demands, as well as the collection of statistical data for those indicators are required. To conclude, sufficiency increases the probability of reaching climate targets while significantly decreasing imports, thus lowering dependencies, risks and the externalisation of environmental and social damage and thus qualifies -in contrast to most technical solutions -as a multi-solving strategy. It is consistent with other sustainability goals as it reduces resource needs and land use change compared to other technical solutions. As sufficiency targets imply corridors of energy use in line with well-being, it can contribute to a more just energy transition within a region and globally.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>The Sufficiency-Efficiency-Renewables framework</p><p>The main principles underlying the CLEVER scenario are (1) GHG neutrality as soon as possible and (2) reaching 100% renewable energy supply from sources within Europe, reducing import needs to a minimum. Achieving these objectives requires a significant transformation of the energy system -both supply and demand. Thus, a whole-system, socio-technical approach was required. The Sufficiency-Efficiency-Renewables (SER) framework <ref type="bibr">22,</ref><ref type="bibr" target="#b40">43</ref> was therefore adopted, which offers  <ref type="table">7</ref>. Source data are provided as a Source Data file.</p><p>the best opportunities for action across three cascading but transformative levers -sufficiency, efficiency and then renewables. Figure <ref type="figure" target="#fig_5">7</ref> provides a graphical representation of the SER framework. Firstly, energy service levels are rescaled to a more equitable level through sufficiency measures. Sufficiency includes action at both the individual or collective level, considering both service needs and limitations (e.g., modal shifts or avoidance of unnecessary consumption). Next, sufficiency is combined with efficiency, which reduces the amount of energy required to meet the adjusted energy service demands through technical improvement, reducing losses at all stages of the energy chain. Finally, after accounting for the combined effects of sufficiency and efficiency, renewables energy sources are substituted in, displacing fossil fuels earlier and at a faster pace, thus limiting the cumulative impacts of GHG emissions.</p><p>The SER framework, with its emphasis on sufficiency on the demand-side first, allows for ambitious reductions in energy demand, as seen in the CLEVER scenario. This, in turn, allows for the scenario to achieve broader social and sustainability objectives beyond just GHG emission reductions, such as a fair distribution of mitigation efforts across countries, reducing materials throughput, and ensuring the supply-side transition can be met without relying on energy imports, or unproven and high-risk technologies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Greenhouse gas targets</head><p>The general objective of CLEVER is to obtain a quantified scenario that at least meets the EU targets for GHG-emissions and renewable energy shares in the years 2030 and 2050, while meeting climate-neutrality as early as possible in line with the objective to limit global warming to 1.5 degrees. In this respect, the median of C1a scenarios <ref type="bibr">44,p.20]</ref> from IPCC has been applied as the upper limit (550 GtCO 2 ) of the global carbon budget corridor and the 1.5 degree budget (500 GtCO 2 for 50% probability <ref type="bibr">13,p.29]</ref> ) as an objective. The share of the budget assumed to be available for the EU30 countries in this study corresponds to the share in the global population (6%) <ref type="bibr" target="#b42">45</ref> . For GHG-emission accounting, a territorial approach is applied: net domestic emissions are considered, excluding imported emissions of energy carriers and consumer goods. As EU targets include international flights while excluding international maritime, we apply the same accounting for comparison with EU targets. The climate neutrality and GHG emission goals apply to CO 2equivalents, also including CH 4 , N 2 O (in agriculture) and HFC (in product uses).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Collaborative bottom-up approach</head><p>The scenarios have been developed by 26 organisations from 20 European countries (see Bourgeois eta al. <ref type="bibr">14,p.6 and p.13]</ref> for an overview). The partner organisations are experts in energy and climate scenarios for their national countries or regions. Active partners developed and contributed national bottom-up trajectories considering countryspecific circumstances. The trajectories are either based on the authors' modelling or on extraction from existing scenarios. The trajectories of countries that do not have active partners, called normalised trajectories, were built iteratively with a conservative and simplified approach.</p><p>During the first phase, for indicators indispensable for the modelling (e.g., FEC by sector and carrier, some indicators of energy production and conversion, population), basic trajectories (historical data and projection over 2019-2050) were built based on existing EU scenarios and first national scenarios gathered. Then a continuous and iterative improvement took place through: the integration of outputs from the harmonisation process, including target corridors; comparisons between improved trajectories and existing national scenarios from active partners and feedback from national commenting and observing partners.</p><p>Conversely, normalised trajectories were also good reference trajectories to inform the trajectories of active partners. Subsequently, an iterative harmonisation process took place for a consistent EU scenario. The collaborative approach enabled an active technical dialogue between the country experts and led to an exchange of best practices of energy modelling and scenario building with a focus on accounting for sustainability and sufficiency. As no standard methods exist yet for including sufficiency aspects in this kind of modelling, the dialogue and harmonisation process has set the foundation for comparing, questioning and mutually reinforcing the respective approaches. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Construction of a common sufficiency modelling language</head><p>As an important precondition for constructing a harmonised sufficiency scenario, measurable key indicators on the level of energy service demand have to be defined and applied in the same way for all partners and countries. In that respect, experts from partner organisations collected and categorised sufficiency indicators and drivers. Designated working groups for the transport and building sector defined and prioritised sector-specific sufficiency indicators. Indicators were considered sufficiency-related drivers when they touch upon a dimensional (e.g., size of vehicles), service-related (intensity and duration of use of vehicles) or organisational (e.g., as the development of collective transport) characteristics of energy consumption. There are indicators of quantitative and qualitative character. The prioritisation was based on the relevance of the indicators for energy demand, their uniqueness in quantification and whether it was possible to integrate them into the model.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Development of national trajectories</head><p>Common indicator dashboards were developed, which include the derived sufficiency indicators and other key energy system parameters. These dashboards serve as data entry files for each country and include pathways for energy demand and supply. Dashboards are structured by sectors, supply and demand and include parameters on activity levels, sufficiency indicators, technologies, efficiencies and energy carriers. The standardised template enables country comparison and serves as an interface for the modelling and commenting process. It forms the basis for translating national scenarios that are partly based on different methodologies, models, scopes and level of aggregation into a common sufficiency-focused language and data format. While a high level of detail and disaggregation for energy service demands are preferred, the dashboard also offers clustered, aggregated entry points for top-down disaggregation, where national detail was not available. With the objective to ensure a comparable starting point, indicators from Eurostat and the Odyssee-Mure database <ref type="bibr" target="#b43">46</ref> were partly used. Furthermore, dedicated comparison parameters including intermediary results like final energy consumption per country were summarised. The National Calculation Model generates energy balances for each country by cross-referencing consumption and production data for each country's dashboard. Summarised dashboards per country are available under the link provided in the section Data availability below.</p><p>For the industry sector, the modelling approach differed due to the lack of detailed industry modelling per country and the interconnectedness of the sector in European countries. A top-down centralised modelling of national trajectories was undertaken guided by the options of (1) sufficiency: scaling down material demand, (2) circularity: optimise the products lifecycle and (3) efficiency: reduce the energy intensity of production. Energy-intensive sectors were modelled with higher levels of detail covering production levels, for less energy-consuming sectors an aggregated and conservative approach was taken, giving place to a narrative on industrial reshoring and the emergence of strategic industries such as green technologies as part of a reindustrialisation process ensuring employment and industrial sovereignty in Europe. The industry indicators of the CLEVER scenario are on the level of amount of material produced and are not directly calculated based on the amount of products on the service level like clothes, phones per person etc. The amounts of material produced in the CLEVER scenario are however informed by other scenarios which consider detailed analysis of consumption of goods with a high level of disaggregation, specifically the French sufficiency scenario 22 . Thus, results from detailed French scenario are adapted to the context of other European countries, which is the basis for the production corridors for other countries. The historic rate of production over consumption of material is kept in the CLEVER scenario. National partners adapted the industry trajectories according to specific national circumstances. The top-down industry trajectories are based on other major scenarios that are ambitious regarding technical options, but also in terms of circularity and sufficiency options. They thus include substantial reductions in both demand and production. An overview of the main references for the industry-sector target corridors can be found in Toledano et al. <ref type="bibr" target="#b44">47</ref> . The materials considered in the CLEVER scenario include: (i) materials requiring energy-intensive industrial processes studied quantitatively on the basis of several references and corridors integrating sufficiency <ref type="bibr" target="#b44">47</ref> (steel, cement, pulp and paper and chemicals and glass when data was available for countries) and (ii) other biotic or abiotic materials for non-energy uses considered qualitatively as we incorporated the assumptions and guidelines of other country/European/global-scale scenarios or studies <ref type="bibr" target="#b45">[48]</ref><ref type="bibr" target="#b46">[49]</ref><ref type="bibr" target="#b47">[50]</ref> that indicates a substantial reduction in materials requirements under an energy transition scenario based on sufficiency (wood, crops and other foodstuffs, non-metallic ores for construction and metal products, including critical raw materials <ref type="bibr" target="#b48">51</ref> such as lithium and copper.). For the Agriculture, Forestry and Other Land Use and Bioenergy (AFOLUB) sector, the initial step has been a top-down modelling by Couturier et al. <ref type="bibr" target="#b49">52</ref> , which has been submitted to the national partners for revision and adjustment. The main objectives of the sector scenarios were (1) mitigation of emissions within the sector (2) substitution of fossil fuels and (3) sequestration. For this purpose, the main guiding principles were a switch to a sustainable bioeconomy (diet shift, substantial reduction in animal livestock) and 100% agroecology (a form of agriculture that supports soil conservation and organic farming). Furthermore, a cascading hierarchy of the use of biomass has been applied, from high-value products to food, buildings, and chemistry. An increase in bioenergy production was modelled thanks to products coming from agroecology practices, which do not compete with agricultural products. However, this production comes in addition to today's bioenergy production. The calculation is based on a physical model describing mass and energy flows as well as surface use also considering social and economic impacts. The core is a supply and consumption balance without cost-optimisation. Twenty-two main crops, which are 90% of agricultural land area in Europe, are modelled in detail based on EUROSTAT and FAOSTAT data while for further 100 crops aggregated information is included. The modelling approach is described in detail in Couturier et al. <ref type="bibr" target="#b49">52</ref> and most relevant data and assumptions regarding bioenergy for this scenario are summarised in the Supplementary Methods.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Harmonisation of national trajectories</head><p>A process was developed to ensure consistency in national trajectories on the level of ambition on major hypotheses. This process can be simplified in 3 steps.</p><p>First, partners were invited to collect historical and prospective data from national statistics and existing scenarios and integrate them in the common framework (dashboard).</p><p>Second, corridors, which are minimum and maximum value for a given indicator such as residential floor space per capita [m 2 /capita], have been developed based on (1) minimum and maximum levels in scientific literature, (2) current ranges and speed of change, (3) sector and country expertise of the partners and (4) current and expected EU policy. The basic principle behind the corridors is the convergence of living standards <ref type="bibr" target="#b50">53</ref> while constraining excessive consumption associated with high-income lifestyles. For achieving adequate levels of effort, the percentage reduction in relation to a reference year has also been analysed. Further detailed descriptions of the method and the quantified corridors in the buildings and transport sector can be found in Toledano et al. <ref type="bibr" target="#b22">25</ref> and Taillard et al. <ref type="bibr" target="#b21">24</ref> .</p><p>Third, indicators' values of initial national trajectories were compared to corridors and partners were invited to adapt values if necessary to comply with the corridors. In some cases, national specificities justified values outside of the corridors. In reality, the process has been more iterative, with input from national partners feeding into the definition or adaptation of corridors, with corridors (e.g., feedback from other countries) opening up possibilities and justifications for national partners to strengthen the ambition of the scenario. Iterative reviews for harmonisation and efforts towards compliance with EU targets also influenced the final corridors. In the case of countries without a partner able to provide feedback on the proposed values, the high corridor values have generally been retained so as not to make over-ambitious assumptions without validation from a national partner. This methodology has been followed in particular for the residential, passenger mobility and industrial sectors, with the production of associated methodological notes. For the tertiary and freight sectors, a similar approach was followed, but with less formalisation. Some indicators were treated top-down (e.g., AFOLUB) with a partners' review to check consistency and some indicators were considered to converge in all countries (e.g., efficiency of vehicles). Some specific indicators, dependent on the national context, for example ambition on PV and wind, as described in the next chapter, were refined on a case-by-case basis.</p><p>The assumptions on population followed the EUROSTAT baseline projection <ref type="bibr" target="#b51">54</ref> . Historical data (based on EUROSTAT and ODYSSEE) has been an important basis to define corridors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Matching supply with demand considering deep sustainability</head><p>For the harmonisation at European level, a European synthesis module was developed. The aggregated results are compared with EU targets for identifying the need for further ambition. Additionally, an energy carrier balance review is performed, in combination with additional harmonisation and convergence. This iterative process required reviews and adaptation of all national trajectories.</p><p>For each subsector, corridors for the share of each energy carrier were derived based on techno-economic evaluations. Sectoral constraints such as limited possibilities for specific industrial processes, or district heating being an option only in urbanised areas additionally limited the potentials. Guidelines from detailed materials flow modelling as well as expert consultation were applied for taking materials restrictions into account (e.g., on lithium in electric vehicles or copper for electrification). As technologies with a lower technology readiness level (TRL) than 7 (prototype is working in the expected conditions) are unlikely to be deployed at scale before 2050 or only in limited proportion, technologies with a TRL of at least 7 <ref type="bibr" target="#b52">55</ref> were privileged. Then partners were invited to adapt values of their national scenarios to fit into the proposed corridors.</p><p>For defining sustainable potentials of renewable energies, detailed analyses have been performed for each technology. Here we summarise the main principles. For bioenergy production, the main restrictions are food security (and more general social and societal issues), climate and biodiversity issues.</p><p>The evaluation of the sustainable bioenergy potentials based on the systemic approach described above and more in detail in the Supplementary Methods led to in total, potential domestic primary production of bioenergy in this scenario increases for EU28 from 1500 TWh in 2015 to 2290 TWh in 2050. Two thirds of the increase comes from biogas production based on manure, cover crops, some residues and biowaste. Wood energy from forest stays on the same level while other solid biomass increases due to wood-by-products, waste and agroforestry. Biofuel potential in the scenario is restricted to 150 TWh for 1st generation (slight reduction from current level), 50 TWh for 2nd generation and 20 TWh for 3rd generation. As shown in Supplementary Table <ref type="table">5</ref> regarding the bioenergy potential applied in different scenarios as studies, the resulting potential of bioenergy production in CLEVER (2290 TWh) and even more the production required by the scenario (2120 TWh) are close or below several evaluations of sustainable potentials, including the threshold defined for 2040 by The European Scientific Advisory Board on Climate Change <ref type="bibr" target="#b53">56</ref> . The main specificity of the CLEVER estimation is be the role of sequential cropping for biogas production, which is not included in most estimations of sustainable potential, but has the potential for simultaneous biogas and food production along with biodiversity benefits <ref type="bibr" target="#b54">57</ref> .</p><p>The starting point for PV and wind potentials is the technoeconomic potentials identified by Ruiz Castello et al. <ref type="bibr" target="#b55">58</ref> . However, country experts evaluated these country-specific potentials as very high, so they were refined on a case-by-case basis. The main reasons for difference in ambitions are the varying levels of acceptability in different countries and different circumstances for the speed of expansion. Different political status/will/announcements also contributed to adaptations in national potential estimations. In summary, the CLEVER scenario had significantly lower installed capacities in 2050 in EU27 countries than the lower variant of JRC capacities for PV (1360 GW vs 4400 GW), onshore wind (546 GW vs 2891 GW) and than the higher variant got offshore wind (328 GW vs 2710 GW).</p><p>Hydropower capacities and production have been considered stable between today and 2050. Solar thermal, ocean energies, CSP, deep geothermal and waste heat were considered but constitute rather low potentials compared to other renewable options.</p><p>As conversion technologies for Hydrogen and Power-to-X (PtX) raise sustainability issues, electrification is preferred if it presents equivalent or better overall efficiency. However, those conversion technologies are key to full decarbonisation. Priority for PtX applications is given to aviation and international shipping as well as hightemperature applications in industry and long-term electricity storage. These are the applications with high efficiency potentials and very limited decarbonisation alternatives. A threshold/maximum of 350 TWh/y of syngas production in 2050 for EU27 by biomass gasification/pyrogasification is assumed. Here, the availability of solid biomass is restricted at national level and the use of biomass in buildings, industry and district heating is prioritised, which leads to the production of 214 TWh/y of syngas.</p><p>For matching supply with demand, most critical sectors, where there are limited decarbonisation options and smaller low-carbon potentials, are supplied first. It is checked if the respective demand can be supplied with one of the suitable carriers whilst respecting the defined corridor. This process continues and ends with less critical sectors and less critical carriers, such as electricity. This modelling step includes several iterations and consistency checks, in exchange with partners. The corridors for the share of a carrier in a subsector in 2050 can be found in Bourgeois et al. <ref type="bibr" target="#b13">14</ref> , p.58. An overview table on the order of supply-carrier-matching can be found in Bourgeois et al. <ref type="bibr" target="#b13">14</ref> , p.64.</p><p>Regarding the system adequacy of the renewable electricity supply in this scenario, methane and hydrogen thermal plants, hydropower (reservoir and pumped), batteries and transmission between European countries provide flexibility. A dispatchable production corridor (in percent of the final electricity demand excluding storage and transmission) of at least 14% for each country has been determined. This results in 18% share of flexible production over total demand for EU27 including hydro reservoirs. The flexible power production in the CLEVER scenario is rather overestimated as a comparison of dispatchable production in other scenarios shows. A benchmark analysis of selected scenarios (see p.69, Table <ref type="table">3</ref> in Bourgeois et al. <ref type="bibr" target="#b13">14</ref> ), yields a range of 8-15% flexible production, which is lower than this value in CLEVER. Transmission between European countries is generally assumed in CLEVER, but a detailed grid simulation has not been done. As exchange between countries lowers the flexibility needs within countries <ref type="bibr" target="#b56">59</ref> , a detailed grid modelling of the scenario would most likely emphasise that hourly dispatch would also work with lower installed capacities of flexible production than currently assumed in CLEVER.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations of this work</head><p>The proposed framework for energy systems modelling involves simplifying assumptions. Adequacy and flexibility of the system are not explicitly estimated through an hourly dispatch model, but a conservative value for flexible power generation assures the flexibility requirements. To refine this hypothesis further, a high time-resolution simulation could be used, resulting in a more accurate evaluation of the firm capacity required in the system. Similarly, the electrical grid is not explicitly modelled but assumed to be a key component of the system, and congestion between and within countries is disregarded. To describe the need for further grid reinforcement, an hourly power flow model with capacity expansion could be used. Finally, there is no explicit quantification of the investment required for new generation capacities and flexibility resources such as storage or demand response. As a result, the proposed energy mix may not correspond to a conventional economic optimum, but is the result of a robust supplydemand matching process based on expert opinion, considering the specificities of each country.</p><p>In this study, territorial-based accounting of emissions has been applied and the historic rate of production over consumption of goods and material has been kept. For a fully consistent approach referring to decent living standards also on a consumption goods level, consumption-based accounting of emissions would be required in combination. This would however imply additional model types.</p><p>While the scenario provides an illustration of the policy framework needed to enforce sufficiency measures, it does not formally include the policies within the model, nor does it explicitly quantify their potential effects. This is partly due to the lack of empirical quantitative data relating specific policy measures to the sufficiency indicators. Similarly, effects such as financial or time-use rebounds could significantly impact consumption behaviours, but they require further research and were not included in this work.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>(FEC) per capita (MWh/cap per year) Reduction of final energy consumption (FEC) 2050 vs 2019 (%)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3 |</head><label>3</label><figDesc>Fig. 3 | Corridors and development of two energy service demand indicators. a Development of living space per capita in residential buildings in 2019 and 2050.Units: square meter ((m 2 ) per capita (cap) on average. An increase in residential floor space [m 2 ] per person is assumed for countries with smaller living spaces per capita and capped at 40 m 2 /capita. However, due to the strong inertia inherent in the building stock and trends that are difficult to reverse (larger houses and a reduction in people per household), reversing the floor space per person was deemed infeasible -it would imply a destruction of buildings without replacement. Thus, the objective is to stabilise m 2 /cap for those countries that already exceeded the upper limit of 40 m 2 /capita and prevent further increases in inequalities. Full names of countries can be found in Supplementary Table7. Source data are provided as a Source Data file. b Development of passenger transport demand. Units: 1000 passenger-kilometres (pkm) per capita (cap) and year on average. Here,</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 4 |</head><label>4</label><figDesc>Fig.4| Changes in final energy consumption (FEC) in three energy-intensive industrial subsectors in EU30. Unit: Terawatt hours (TWh) per year (a). Demand reduction in cement industry is mainly driven by sufficiency (Red. by sufficiency), whereas demand reduction in steel and pulp &amp; paper industries is driven by efficiency and circularity improvements (Red. by efficiency and circularity). In the vast majority of industrial sectors, circularity enables a reduction in unit energy consumption. When the applications of materials produced by recycling processes are the same as those from primary production, we could consider that circularity is part of efficiency measures if we restrict ourselves to the energy perimeter. However, a more systemic approach integrating the issue of reducing the consumption of mining products and so limiting the socio-environmental impacts of extractive activities and refining, could consider circularity as part of sufficiency. A list of countries included in EU30 can be found in Supplementary Table7. Source data are provided as a Source Data file.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 5 |</head><label>5</label><figDesc>Fig. 5 | Energy conversion chains in EU30. a Energy flows in 2019. b Energy flows in 2050. The two Sankey diagrams are drawn at the same scale. Values for main flows are indicated in Petawatt hours (PWh) per year. By contrast to the rest of the document, this graph considers ambient heat, non-energy consumption, the energy sector (except blast furnaces) and maritime bunkers in the energy flows. A list of countries included in EU30 can be found in Supplementary Table7. Source data are provided as a Source Data file.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 6 |</head><label>6</label><figDesc>Fig. 6 | Exchange of two main energy carriers per year within Europe in 2050 in the CLEVER (Collaborative Low Energy Vision for the European Region) scenario. a Exchange of hydrogen. Unit: Net hydrogen (H2) export in Terawatt hours (TWh) per year (a). Values are rounded to the nearest TWh/a. Hydrogen trading within Europe is required for countries that have high industrial energy consumption (Germany, Italy, Belgium) and for those that have less ambitious renewable potential due to geographical constraints, such as access to the sea for offshore wind in Eastern Europe (e.g., Hungary, Slovakia and Czech Republic) or political and institutional barriers. Source data are provided as a Source Data file. b Exchange of electricity. Unit: Net electricity export in Terawatt hours (TWh) per year (a). Values are rounded to the nearest TWh/a. Transmission and trading of electricity between countries in Europe is enabled by increased levels of European political and economic collaboration. Luxembourg (LU) and Cyprus (CY) are not shown in the map, but numbers are provided. Source data are provided as a Source Data file.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 7 |</head><label>7</label><figDesc>Fig. 7 | Graphical representation of modelling framework. The principles that underpin the model begin with a modification of energy services, based on dedicated, quantifiable indicators for each end use sector. The model then works backwards to establish the required energy level and carriers needed to meet these service demands, minimising losses throughout the energy chain. Finally, primary energy sources are matched to meet secondary and final energy demand.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 |</head><label>1</label><figDesc>Overview of main energy sufficiency indicators applied in the CLEVER scenario</figDesc><table><row><cell>Sector</cell><cell>Indicator</cell><cell>Unit</cell><cell>Explanation</cell></row><row><cell>Mobility</cell><cell>Passenger transport demand</cell><cell cols="2">pkm/cap per year Distance travelled per capita: Number of kilometres travelled per person and per year</cell></row><row><cell></cell><cell>Passenger transport</cell><cell cols="2">pkm/cap per year Number of kilometres travelled by air per person and per year (domestic and</cell></row><row><cell></cell><cell>demand: Plane</cell><cell></cell><cell>international)</cell></row><row><cell></cell><cell>Share of active mobility</cell><cell>pkm/cap per year</cell><cell>Distance travelled per person and per year via active modes (mainly cycling and</cell></row><row><cell></cell><cell></cell><cell>or%</cell><cell>walking) expressed in passenger-kilometres or as a share of total distance travelled per</cell></row><row><cell></cell><cell></cell><cell></cell><cell>capita</cell></row><row><cell></cell><cell>Share of collective transports</cell><cell>%</cell><cell>Share of domestic distance travelled per capita (pkm), except air and active mobility,</cell></row><row><cell></cell><cell></cell><cell></cell><cell>travelled by bus, coach, metro/tram, train or boat</cell></row><row><cell></cell><cell>Car occupancy</cell><cell>person/car</cell><cell>Average number of passengers per car travelling (weighted average over all segments</cell></row><row><cell></cell><cell></cell><cell></cell><cell>of cars)</cell></row><row><cell>Freight</cell><cell>Domestic freight transport</cell><cell cols="2">tkm/cap per year Domestic freight amount and distances: Tons times kilometres transported per year</cell></row><row><cell></cell><cell>demand</cell><cell></cell><cell>divided by the population</cell></row><row><cell></cell><cell>Share of rail transport</cell><cell>tkm/cap per year</cell><cell>Part of domestic freight transport by rail</cell></row><row><cell></cell><cell></cell><cell>or%</cell><cell></cell></row><row><cell></cell><cell>International maritime freight</cell><cell cols="2">tkm/cap per year International maritime freight amounts and distances: Tons times kilometres trans-</cell></row><row><cell></cell><cell>transport</cell><cell></cell><cell>ported on international waterways to the country per year divided by the population</cell></row><row><cell>Residental</cell><cell>Living space</cell><cell>m 2 /person</cell><cell>Useful floor space of dwellings permanently occupied, divided by the population</cell></row><row><cell></cell><cell>Domestic hot water FEC</cell><cell>kWh/person</cell><cell>Final energy consumption per person for hot water per person per year; mix of suffi-</cell></row><row><cell></cell><cell></cell><cell>per year</cell><cell>ciency (hot water needs per person) and efficiency of the water heating system</cell></row><row><cell></cell><cell>FEC for specific electricity</cell><cell>kWh/person</cell><cell>Final energy consumption per person for specific electricity; mix of sufficiency (size and</cell></row><row><cell></cell><cell></cell><cell>per year</cell><cell>number of equipments; frequency/duration of use) and efficiency (energy performance</cell></row><row><cell></cell><cell></cell><cell></cell><cell>of the equipment)</cell></row><row><cell>Industry</cell><cell>Production / demand of a</cell><cell>Index (2015)</cell><cell>Evolution by comparison to 2015 of the production of several materials (cement, steel,</cell></row><row><cell></cell><cell>material</cell><cell></cell><cell>pulp/paper, glass, ammonia and high value chemicals); no relocalisation/delocalisation</cell></row><row><cell></cell><cell></cell><cell></cell><cell>assumptions have been made. The ratio between national demand and national pro-</cell></row><row><cell></cell><cell></cell><cell></cell><cell>duction is supposed to remain stable. Then an evolution of demand (in%) is equals to the</cell></row><row><cell></cell><cell></cell><cell></cell><cell>evolution of production</cell></row><row><cell></cell><cell>FEC of an industrial sector</cell><cell>Index (2015)</cell><cell></cell></row></table><note><p>Evolution by comparison to 2015 of the final energy consumption of an industrial sector (food, chemicals, non-ferrous metals and "Others"); mix of sufficiency (evolution of the demand, circularity) and efficiency of the process Agriculture and Food Meat consumption g/day Average daily meat consumption per person Consumption of dairy products g/day Average daily consumption of dairy products per person</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Nature Communications | (2024) 15:9043</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgements F.W, J.T., C.Z-Z. are funded by <rs type="funder">German Federal Ministry of Education and Research (BMBF)</rs>, within the framework of the <rs type="funder">Strategy Research for Sustainability (FONA)</rs>, <rs type="funder">as part of its Social-Ecological Research funding priority</rs> (grant numbers <rs type="grantNumber">01UU2004A</rs>, <rs type="grantNumber">01UU2004B</rs>, <rs type="grantNumber">01UU2004C</rs>). N.T., S.B., M.D., A.G., A.J., A.T. and Y.M. received funding in 2022 and 2023 for the <rs type="projectName">CLEVER</rs> project from the <rs type="funder">European Climate Foundation (ECF)</rs> (grant number <rs type="grantNumber">2201-63204</rs>), from the <rs type="funder">Fondation pour le Progrès de l'Homme</rs>, from the <rs type="funder">endowment fund Watt For Change</rs> (grant number <rs type="grantNumber">21-49</rs>) and the <rs type="funder">French Agency for Ecological Transition (ADEME)</rs> (grant number <rs type="grantNumber">22ESD0042</rs>). B.M., J.C., S.M., A.R., L.P. and B.V. were in 2022 partly funded for the <rs type="projectName">CLEVER</rs> project by the <rs type="funder">European Climate Foundation (ECF)</rs> (grant number <rs type="grantNumber">2201-63204</rs>). E.J. received funding from the <rs type="funder">Energy Demand Research Centre (EDRC)</rs> (<rs type="grantName">UKRI grant</rs> award <rs type="grantNumber">EP/Y010078/1</rs>). P.T. is funded by the <rs type="programName">Energy Transition Fund</rs> from <rs type="funder">FPS Economy</rs>, which represents the <rs type="funder">Belgian Minister of Energy, Environment and Sustainable Development</rs>. L.P. and A.R. received funding from the project <rs type="projectName">FULFILL -Fundamental Decarbonisation Through Sufficiency By Lifestyle Chan-ges</rs>, funded by the <rs type="funder">European Union</rs>'s <rs type="programName">Horizon 2020 research and innovation programme</rs> (Grant Agreement No. <rs type="grantNumber">101003656</rs>). We acknowledge financial support by <rs type="person">Land Schleswig-Holstein</rs> within the <rs type="programName">funding programme Open Access-Publikationsfonds</rs>.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>Open Access funding enabled and organized by <rs type="person">Projekt DEAL</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_khBsCux">
+					<idno type="grant-number">01UU2004A</idno>
+				</org>
+				<org type="funding" xml:id="_tncUtMA">
+					<idno type="grant-number">01UU2004B</idno>
+				</org>
+				<org type="funded-project" xml:id="_MjtzSMh">
+					<idno type="grant-number">01UU2004C</idno>
+					<orgName type="project" subtype="full">CLEVER</orgName>
+				</org>
+				<org type="funding" xml:id="_cqpbcCD">
+					<idno type="grant-number">2201-63204</idno>
+				</org>
+				<org type="funding" xml:id="_PUMubPk">
+					<idno type="grant-number">21-49</idno>
+				</org>
+				<org type="funded-project" xml:id="_229gPcT">
+					<idno type="grant-number">22ESD0042</idno>
+					<orgName type="project" subtype="full">CLEVER</orgName>
+				</org>
+				<org type="funding" xml:id="_4B9B9pB">
+					<idno type="grant-number">2201-63204</idno>
+				</org>
+				<org type="funding" xml:id="_2cRn5cW">
+					<idno type="grant-number">EP/Y010078/1</idno>
+					<orgName type="grant-name">UKRI grant</orgName>
+					<orgName type="program" subtype="full">Energy Transition Fund</orgName>
+				</org>
+				<org type="funded-project" xml:id="_hcPw73C">
+					<orgName type="project" subtype="full">FULFILL -Fundamental Decarbonisation Through Sufficiency By Lifestyle Chan-ges</orgName>
+				</org>
+				<org type="funding" xml:id="_F4BnDZM">
+					<idno type="grant-number">101003656</idno>
+					<orgName type="program" subtype="full">Horizon 2020 research and innovation programme</orgName>
+				</org>
+				<org type="funding" xml:id="_uApA9ew">
+					<orgName type="program" subtype="full">funding programme Open Access-Publikationsfonds</orgName>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>The input and output datasets generated during the current study are available in the Zenodo repository named Simplified Energy Prospective and Interterritorial Analysis (SEPIA) tool, applied to the CLE-VER energy transition scenario <ref type="url" target="https://doi.org/10.5281/zenodo.11546125">https://doi.org/10.5281/zenodo.  11546125</ref>. An extract of detailed assumptions/key parameters for each country and sector as well as data on the policy instruments for all sectors considered for the scenario are provided as Supplementary Data 1 in an easy to access Excel-file. For figures within this manuscript, Source data are provided with this paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Code availability</head><p>The code developed and applied for this study is available under an open license in the Zenodo repository named Simplified Energy Prospective and Interterritorial Analysis (SEPIA) tool, applied to the CLE-VER energy transition scenario <ref type="url" target="https://doi.org/10.5281/zenodo.11546125">https://doi.org/10.5281/zenodo.  11546125</ref>, including instructions for system requirements, installation and use.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>F.W. had designed, organised and structured the paper and writing process and has written main parts of the text. N.T. has coordinated the modelling work and was responsible for structuring and organising the modelling process with all national partners. Y.M. has proposed the idea of a bottom-up European scenario based on sufficiency and brought in the concept and methodological approach. N.T., F.W., Y.M., E.B., B.B., S.B., J.C., L.C., M.D., A.G., A.J., E.J., S.M., B.M., L.P., S.Q., A.R., J.T., P.T., A.T., B.V., C.Z.-Z. have been involved in the national modelling, data and figure preparation, writing and reviewing of the article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary information</head><p>The online version contains supplementary material available at <ref type="url" target="https://doi.org/10.1038/s41467-024-53393-0">https://doi.org/10.1038/s41467-024-53393-0</ref>.</p><p>Correspondence and requests for materials should be addressed to Frauke Wiese.</p><p>Peer review information Nature Communications thanks Joel Millward-Hopkins, and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. A peer review file is available.</p><p>Reprints and permissions information is available at <ref type="url" target="http://www.nature.com/reprints">http://www.nature.com/reprints</ref> Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p><p>Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ref type="url" target="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/  licenses/by/4.0/</ref>.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Demand-side approaches for limiting global warming to 1.5</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mundaca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ürge-Vorsatz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">°C. Energy Efficiency</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="343" to="362" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Do energy scenarios pay sufficient attention to the environment? Lessons from the UK to support improved policy outcomes</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hooper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="397" to="408" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Energy systems modeling for twenty-first century energy challenges</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pfenninger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hawkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Keirstead</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Renew. Sustain. Energy Rev</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="74" to="86" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Towards demand-side solutions for mitigating climate change</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Creutzig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Clim. Change</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="260" to="263" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Demand-side solutions to climate change mitigation consistent with high levels of well-being</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Creutzig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Clim. Change</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="36" to="46" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Sufficiency: A systematic literature review</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jungell-Michelsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Heikkurinen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Econ</title>
+		<imprint>
+			<biblScope unit="volume">195</biblScope>
+			<biblScope unit="page">13</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Sufficiency and transformation-A semi-systematic literature review of notions of social change in different concepts of sufficiency</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lage</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Sustain</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">954660</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Sufficiency transitions: A review of consumption changes for environmental sustainability</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sandberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clean. Prod</title>
+		<imprint>
+			<biblScope unit="volume">293</biblScope>
+			<biblScope unit="page">16</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Decent Living Standards: Material Prerequisites for Human Wellbeing</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Min</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Indic. Res</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page" from="225" to="244" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Providing decent living with minimum energy: A global scenario</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Millward-Hopkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Steinberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Oswald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Glob. Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page">102168</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">A low energy demand scenario for meeting the 1.5 °C target and sustainable development goals without negative emission technologies</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Grubler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="515" to="527" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Energy demand reduction options for meeting national zero-emission targets in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barrett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="726" to="735" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Climate Change 2021. The Physical Science Basis</title>
+		<author>
+			<persName><surname>Ipcc</surname></persName>
+		</author>
+		<ptr target="https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Working Group I Contribution to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Intergovernmental Panel on Climate Change</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Climate neutrality, Energy security and Sustainability: A pathway to bridge the gap through Sufficiency, Efficiency and Renewables</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bourgeois</surname></persName>
+		</author>
+		<ptr target="https://clever-energy-scenario.eu/wp-content/uploads/2023/10/CLEVER_final-report.pdf" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>Association négawatt</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Earth beyond six of nine planetary boundaries</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Richardson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Adv</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">16</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Speed of technological transformations required in Europe to achieve different climate goals</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Victoria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Zeyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joule</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1066" to="1086" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Diversity of options to eliminate fossil fuels and reach carbon neutrality across the entire European energy system</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pickering</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Lombardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pfenninger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joule</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1253" to="1276" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<ptr target="https://static.agora-energiewende.de/fileadmin/Projekte/2021/2021_07_EU_GEXIT/A-EW_292_Breaking_free_WEB.pdf" />
+		<title level="m">Agora Energiewende Breaking free from fossil gas -A new path to a climate-neutral Europe</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">Entso-E &amp;</forename><surname>Entsog</surname></persName>
+		</author>
+		<ptr target="https://2022.entsos-tyndp-scenarios.eu/wp-content/uploads/2022/04/TYNDP2022_Joint_Scenario_Full" />
+		<title level="m">TYNDP 2022 Scenario Report</title>
+		<imprint>
+			<date type="published" when="2022-04">-April-2022.pdf (2022</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Resource-Efficient Pathways towards Greenhouse-Gas-Neutrality -RESCUE Summary Report</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Günther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lehmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Purr</surname></persName>
+		</author>
+		<ptr target="https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/rescue_kurzfassung_eng.pdf" />
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<pubPlace>Umweltbundesamt, Dessau-Roßlau</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Statistics Explained: Glossary: Final energy consumption</title>
+		<author>
+			<persName><surname>Eurostat</surname></persName>
+		</author>
+		<ptr target="https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Final_energy_consumption</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Establishment of energy consumption convergence corridors to 2050 -Residential sector</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Taillard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bourgeois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hadjur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">É</forename><surname>Balembois</surname></persName>
+		</author>
+		<ptr target="https://clever-energy-scenario.eu/wp-content/uploads/2023/03/2210-Convergence-corridors-Residential.pdf" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Establishment of energy consumption convergence corridors to 2050 -Mobility sector</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Toledano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Taillard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bourgeois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">É</forename><surname>Balembois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hadjur</surname></persName>
+		</author>
+		<ptr target="https://clever-energy-scenario.eu/wp-content/uploads/2023/03/2403-Convergence-corridors-Mobility.pdf" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The effect of bioenergy expansion: Food, energy, and environment</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Popp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Lakner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Harangi-Rákos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fári</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Renew. Sustain. Energy Rev</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="559" to="578" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Bentley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Geng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability Assessment of Bioenergy from a Global Perspective: A Review. Sustanability</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">2739</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Bioenergy for climate change mitigation: Scale and sustainability</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Calvin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">GCB Bioenergy</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1346" to="1371" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The role of bioenergy for global deep decarbonization: CO2 removal or lowcarbon energy?</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Butnar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Broad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Solano Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Dodds</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">GCB Bioenergy</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="198" to="212" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The potential of behavioral changes to achieve a fully renewable energy system -A case study for Germany</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Eerma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Renew. Sustain. Energy Transit</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">100028</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Flexible electricity generation, grid exchange and storage for the transition to a 100% renewable energy system in Europe</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Child</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kemfert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bogdanov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Breyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Renew. Energy</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="80" to="101" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Energy requirements and carbon emissions for a low-carbon energy transition</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Slameršak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kallis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>O'neill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">6932</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Prospective -Transitions 2050 -Rapport</title>
+		<author>
+			<persName><surname>Ademe</surname></persName>
+		</author>
+		<ptr target="https://librairie.ademe.fr/cadic/6531/transitions2050-rapport-compresse2.pdf" />
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Distributing less, redistributing more: Safe and just low-energy futures in the united kingdom</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Millward-Hopkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page">102915</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Decent living standards, prosperity, and excessive consumption in the lorenz curve</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pauliuk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Econ</title>
+		<imprint>
+			<biblScope unit="volume">220</biblScope>
+			<biblScope unit="page">108161</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">A Societal Transformation Scenario for Staying Below 1.5 °C</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kuhnhenn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mahnke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lange</surname></persName>
+		</author>
+		<ptr target="https://www.boell.de/de/2020/12/09/societal-transformation-scenario-staying-below-15degc" />
+	</analytic>
+	<monogr>
+		<title level="m">Heinrich Böll Stiftung &amp; Konzeptwerk Neue Ökonomie</title>
+		<meeting><address><addrLine>Berlin / Leipzig</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="volume">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">New times, new policies? Policies to change energy use in the context of zero carbon</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Eyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Bobrova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nolden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rosenow</surname></persName>
+		</author>
+		<ptr target="https://www.eceee.org/library/conference_proceedings/eceee_Summer_Studies/2022/2-efficiency-and-beyond-innovative-energy-demand-policies/new-times-new-policies-policies-to-change-energy-use-in-the-context-of-zero-carbon/2022/2-043-22_Eyre.pdf/" />
+	</analytic>
+	<monogr>
+		<title level="m">eceee Summer Study Proceedings</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Lessons from a meta-analysis of German energy scenarios</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wiese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Thema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cordroch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Renew. Sustain. Energy Transit</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">100015</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>Strategies for climate neutrality</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Enough? The role of sufficiency in European energy and climate plans</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zell-Ziegler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="page">112483</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Citizens call for sufficiency and regulation -A comparison of European citizen assemblies and National Energy and Climate Plans</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lage</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Building a database for energy sufficiency policies [version 2; peer review: 2 approved]</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Best</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">F1000Res</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">229</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Policy mixes for sustainability transitions: An extended concept and framework for analysis</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Rogge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Reichardt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Res. Policy</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1620" to="1635" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Association négawatt. négaWatt scenario 2017-2050 -A blueprint for a succesfull energy</title>
+		<ptr target="https://negawatt.org/IMG/pdf/181128_negawatt-scenario_eng_12p.pdf" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>transition in France</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Climate Change 2022: Mitigation of Climate Change -Summary for Policymakers</title>
+		<author>
+			<persName><surname>Ipcc</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intergovernmental Panel on Climate Change</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title/>
+		<ptr target="https://population.un.org/wpp/Download/Standard/Population" />
+	</analytic>
+	<monogr>
+		<title level="j">United Nations World Population Prospects</title>
+		<imprint>
+			<date type="published" when="2022">2022. 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<author>
+			<persName><surname>Ademe &amp; Partners</surname></persName>
+		</author>
+		<ptr target="https://www.measures.odyssee-mure.eu/energy-efficiency-policies-database.html#/" />
+		<title level="m">MURE database on energy efficiency measures of ODYSSEE-MURE</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Establishment of energy consumption convergence corridors to 2050 -Industrial sector</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Toledano</surname></persName>
+		</author>
+		<ptr target="https://clever-energy-scenario.eu/wp-content/uploads/2023/02/2206-Convergence-corridors-Industry.pdf" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">The material impacts of an energy transition based on sufficiency, efficiency, and renewables. eceee Summer Study Proceedings</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rauzier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Toulouse</surname></persName>
+		</author>
+		<ptr target="https://www.eceee.org/library/conference_proceedings/eceee_Summer_Studies/2022/9-deep-decarbonisation-of-industry/the-material-impacts-of-an-energy-transition-based-on-sufficiency-efficiency-and-renewables/" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="1343" to="1352" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">In Climate Change 2022 -Mitigation of Climate Change, 953-1048</title>
+		<author>
+			<persName><surname>Ipcc</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Buildings</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Clean and lean: Battery metals demand from electrifying passenger transport</title>
+		<ptr target="https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter09.pdf" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+		<respStmt>
+			<orgName>Transport and Environment</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Study on the critical raw materials for the EU 2023 -Final report</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Industry</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Smes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Grohol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Veeh</surname></persName>
+		</author>
+		<idno type="DOI">10.2873/725585</idno>
+		<ptr target="https://data.europa.eu/doi/10.2873/725585" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Publications Office of the European Union</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Agriculture, forestry, other land-use changes and bioenergy (AFOLUB) Main assumptions and preliminary trajectory of the CLEVER scenario</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Couturier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Charru</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Djelali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">É</forename><surname>Balembois</surname></persName>
+		</author>
+		<ptr target="https://clever-energy-scenario.eu/wp-content/uploads/2023/03/2303-CLEVER-AFOLUB-note.pdf" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Consumption Corridors: Living a Good Life within Sustainable Limits</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fuchs</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Demographic balances and indicators by type of projection</title>
+		<author>
+			<persName><surname>Eurostat</surname></persName>
+		</author>
+		<ptr target="https://ec.europa.eu/eurostat/databrowser/view/PROJ_19NDBI__custom_160151/default/table?lang=en" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Iea</surname></persName>
+		</author>
+		<ptr target="https://www.iea.org/data-and-statistics/data-tools/etp-clean-energy-technology-guide" />
+	</analytic>
+	<monogr>
+		<title level="j">ETP Clean Energy Technology Guide</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<pubPlace>Paris; Paris</pubPlace>
+		</imprint>
+	</monogr>
+	<note>IEA</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Scientific advice for the determination of an EU-wide 2040 climate target</title>
+		<author>
+			<persName><surname>Esabcc</surname></persName>
+		</author>
+		<idno type="DOI">10.2800/609405</idno>
+		<ptr target="https://doi.org/10.2800/609405" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The Role of Sequential Cropping and Biogasdo-neright™ in Enhancing the Sustainability of Agricultural Systems in Europe</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Magnolo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agronomy</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">2102</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">ENSPRESO -an open data, EU-28 wide, transparent and coherent database of wind, solar and biomass energy potentials</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ruiz Castello</surname></persName>
+		</author>
+		<ptr target="https://publications.jrc.ec.europa.eu/repository/handle/JRC116900" />
+	</analytic>
+	<monogr>
+		<title level="m">Publisher: European Commission</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Geophysical constraints on the reliability of solar and wind power worldwide</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">6146</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

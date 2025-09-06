@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">How much storage do we need in a fully electrified future? A critical review of the assumptions on which this question depends</title>
+				<funder ref="#_EBkfVnh">
+					<orgName type="full">Centre for Research on Energy Demand Solutions)</orgName>
+				</funder>
+				<funder ref="#_4hX7S2M">
+					<orgName type="full">UK Research and Innovation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-05-17">17 May 2024</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Greg</forename><surname>Marsden</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Transport Studies</orgName>
+								<orgName type="institution">University of Leeds</orgName>
+								<address>
+									<postCode>LS2 9JT</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Elizabeth</forename><surname>Shove</surname></persName>
+							<email>e.shove@lancaster.ac.uk</email>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Sociology</orgName>
+								<orgName type="institution">Lancaster University</orgName>
+								<address>
+									<postCode>LA1 4YW</postCode>
+									<settlement>Lancaster</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jacopo</forename><surname>Torriti</surname></persName>
+							<email>j.torriti@reading.ac.uk</email>
+							<affiliation key="aff2">
+								<orgName type="department">School of Construction Management and Engineering</orgName>
+								<orgName type="institution">University of Reading</orgName>
+								<address>
+									<addrLine>Shinfield Road</addrLine>
+									<postCode>RG6 6UR</postCode>
+									<settlement>Reading</settlement>
+									<region>West Berkshire</region>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">How much storage do we need in a fully electrified future? A critical review of the assumptions on which this question depends</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Energy Research &amp; Social Science</title>
+						<title level="j" type="abbrev">Energy Research &amp; Social Science</title>
+						<idno type="ISSN">2214-6296</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">114</biblScope>
+							<biblScope unit="page">103580</biblScope>
+							<date type="published" when="2024-05-17">17 May 2024</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">4D272FD2E919FC61D3874FC32C76AC5C</idno>
+					<idno type="DOI">10.1016/j.erss.2024.103580</idno>
+					<note type="submission">Received 3 December 2023; Received in revised form 26 March 2024; Accepted 6 May 2024</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Energy storage Electrification Electric vehicles Demand</term>
+					<term>equivalence</term>
+					<term>consumption patterns</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>How much storage do we need in a fully electrified future?' On the face of it, this is a perfectly sensible technical question that needs to be answered if energy systems are to be decarbonised and if climate change goals are to be met. In this deliberately provocative paper, we argue that this question is itself part of the problem.</p><p>In working towards this conclusion, we argue that assumptions surrounding i) spatial and temporal scale; ii) the equivalence of storage and demand side management; and iii) the nature of demand that underpin methods of calculating the need for energy storage are critical, yet often hidden or absent. We demonstrate the importance of such assumptions in practice today through the instrumental case of the electrification of the car fleet.</p><p>Our analysis advances the argument that current approaches reproduce interpretations of normality that are, ironically, rooted in an era of fossil fuels. This has the perverse effect of reproducing present standards and modes of living and perpetuating ultimately unsustainable routines and expectations. We argue that the way out of this impasse is to invite more open discussion about the social worlds implicit in contemporary scenarios and forecasts. Rather than thinking about the types of storage needed to preserve the status quo, the challenge is to imagine the temporal, spatial and organisational qualities of energy systems, including systems of storage, that might be compatible with much lower carbon ways of life, and with very different patterns and levels of demand.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Background</head><p>Debates about energy storage are hugely important in the UK, a country which has one of the first global commitments to reduce emissions to 'net zero' <ref type="bibr" target="#b0">[1]</ref>. Part of the story in the UK is that coal, nuclear, and the oldest gas fired power stations are reaching the end of their lives. This, together with increasing reliance on intermittent forms of renewable energy, means that the mix of energy supply is changing, so much so that strategies like those of activating and deactivating gas fired power stations in response to changes in demand for electricity over the course of the day, or year, are less and less viable. In this context, the challenge is not that of storing the means to produce electricity (e.g. coal, gas), but of finding ways of storing electricity that has already been generated from intermittent sources such as wind or solar.</p><p>This becomes especially pressing given parallel proposals to extend (decarbonised) electrification to areas of energy demand (heating and transport) which have traditionally depended on fossil fuels. In essence the vision is of a 'fully electrified future', that is a future in which fossil fuels are not consumed at all, supposes the widespread penetration of electric vehicles and heat pumps on every street and in every home <ref type="bibr" target="#b1">[2]</ref>, and a correspondingly massive increase in electricity consumption <ref type="bibr" target="#b2">[3]</ref>. So, how much storage do we need in a fully electrified future? For experts who work in these areas <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>, figuring this out is central to a host of decisions about the sorts of technologies that will be required, and the types of investment needed if carbon emissions targets are to be met.</p><p>In response to this shift, there has been a body of work which attempts to estimate the need for energy storage. In Section 2 of the paper, we review some key studies to demonstrate that, whilst different traditions of modelling and forecasting exist, most take current demand for granted and most evaluate possible technical solutions in terms of their ability to meet these 'needs' now, or in a projected future assuming that growth continues, and that it is 'business as usual'. This is problematic in that estimates of future demand for energy and for storage are 'performative' -by which we mean they influence patterns of investment and related interpretations of normal and acceptable provision. We conclude the section by contending that there are three key assumptions which underpin methods of calculating the need for energy storage which are critical to exploring questions of timing, scale and the nature of storage needs but which are currently marginalised:</p><p>i) The flattening out of the importance of spatial and temporal scale; ii) the equivalence of storage and demand side management; and iii) the nature of demand is taken for granted.</p><p>Section three explores each of these assumptions through an examination of the case of the electrification of passenger cars. Electric vehicles 1 are a critical technology in the transition to net zero <ref type="bibr" target="#b5">[6]</ref>. As part of this transition, the potential for vehicles to charge during times of excess supply and feed back to the home, business or grid 2 during times where demand might otherwise exceed supply has long been recognised <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b7">8]</ref>. As such, it is both a significant case but also one where all three assumptions are under the spotlight. Our methodological approach is 'critical review' <ref type="bibr" target="#b8">[9]</ref> where the aim is to provide a "reflective account' of the previous work on a topic to expose points for further theoretical and methodological improvement. We use the electrification of passenger cars as an 'instrumental case' which <ref type="bibr" target="#b9">Stake (1995)</ref>  <ref type="bibr" target="#b9">[10]</ref> suggests is important because it is illustrative of a broader issue.</p><p>Having established that these assumptions matter for how the future need for storage is understand, we discuss the implications for research and practice in Section 4. The current approaches, by marginalising these assumptions inadvertently reproduce an ultimately counterproductive logic of substitution in which the aim is to decarbonise supply whilst perpetuating current levels of consumption <ref type="bibr" target="#b10">[11]</ref>. We argue that the way out of the challenges we identify is, therefore, to think differently about the future. One frequently deployed approach is to construct alternative societal scenarios, where quite other forms and scales of storage should be in scope. The scenario work around storage which has been conducted to date has tended to explore the dialling up or down of adoption rates for technologies without considering the wider social questions which our work suggests matter. In confronting these topics head on we contribute to the literature on energy storage by questioning 'normal' methods of evaluation and assessment and calling for greater transparency and debate about lower carbon social futures, and the energy systems associated with them (see <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref> for evidence on the need for such debate).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Estimates of storage needs and key assumptions</head><p>This section reviews some of the main approaches to estimating how much energy storage we need. There already exists a huge range of estimates of potential storage needs, with recent estimates of the amount of storage required to integrate renewable sources of electricity into a net zero grid in Great Britain ranging from 13 GW <ref type="bibr" target="#b13">[14]</ref> to 46 GW <ref type="bibr" target="#b14">[15]</ref> see Table <ref type="table" target="#tab_0">1</ref>.</p><p>Any estimate of storage need has, as one of its key inputs, some estimate of the overall demand for electricity or energy against which the characteristics of the supply system is compared. The National Infrastructure Commission concluded, for example, that without storage in 2050 the need for electricity at peak times of the day could double from 60 GW to 120 GW, owing to an influx of heat pumps and electric vehicles <ref type="bibr">[16]</ref>. Equations of this kind reflect the anticipated shift from gas, oil etc. to (decarbonised) forms of electricity supply. However, little attention is paid to the history or the patterning of consumption. In other words, the 'need' to keep homes warm or to travel is taken for granted: what varies are the means by which this is achieved.</p><p>Whilst issues of temporal patterns of demand and their spatial distribution have always been important, they are now becoming even more so. For example, whilst storage provides a means of managing the uneven 'production' of wind and of solar power, peaks in wind supply can be five to six times as much as those of solar, even though the annual output for both is broadly comparable depending on latitudes <ref type="bibr" target="#b15">[17]</ref>. For example, the proposal to electrify heating implies there will be some mechanism for storing large amounts of electricity over long periods, in order to manage seasonal swings in consumption. At present gas provides at least 220 GWh within-day energy storage <ref type="bibr" target="#b15">[17]</ref> for about half of the days in the October to March heating season: at the moment there is no equivalent buffer in the electricity system, and no means of providing one.</p><p>As this example suggests, preferred strategies vary depending on the amount of time for which energy is stored -what are known as short duration batteries (currently) last up to four hours; long duration batteries last for longer, and pumped hydro, compressed air, liquid air and flow batteries provide storage over days and months. In the 'real world', location is also important. Some planners are, for instance, keen on reducing costs to end consumers by co-locating storage in areas where renewable energy is generated <ref type="bibr" target="#b16">[18]</ref>. Others are in favour of more distributed systems and more localised forms of battery storage geared towards the 'needs' of specific areas, districts and neighbourhoods. Arguments run in both directions but as <ref type="bibr" target="#b17">Boait et al. (2019)</ref> point out <ref type="bibr" target="#b17">[19]</ref>, the 'local' bleeds into the 'regional' meaning that distinctions between larger scale, and more localised patterns of supply and demand are also contested <ref type="bibr" target="#b18">[20]</ref>. This leads us to our first key assumption: Assumption 1. Models tend to flatten out the importance of spatial and/or temporal scale.</p><p>A further complication for analyses of storage relates to the equivalence which can be presumed between different technologies which only vary with respect to their ability to store energy and the cost of doing so over different timescales <ref type="bibr" target="#b19">[21]</ref>. This notion of equivalence explains why storage and demand side response (which is a technique deployed to avoid the need for storage and other grid upgrades) are 1 Electric Vehicles may be abbreviated to EV 2 Such systems can be referred to as V2X -a term which captures the potential for energy from the vehicle battery to go direct to domestic use or to feed into the grid treated as alternatives. Both can be used to smooth discrepancies between supply and demand and the pros and cons of both can be quantified and compared (given some of the assumptions noted above). The UK Government 'Smart Systems and Flexibility Plan' is clear on this point. To quote:</p><p>'By 2050, our illustrative scenarios indicate that we will need around 60GW of total flexible capacity, with around 30GW of combined short-term storage and demand side response (DSR) and 27GW of interconnection leading to the lowest system cost. The analysis indicated that short-term storage and DSR were broadly substitutable. In our scenarios we assume 15GW of each technology, but other combinations would likely lead to similar outcomes' ( <ref type="bibr" target="#b20">[22]</ref>, p. 23).</p><p>Energy modellers typically initiate their analyses by considering current or modified future projected demand scenarios and explore how different combinations of energy supply and storage options could be integrated to optimally meet these requirements. However, the detailed assessment of the equivalence between storage and demand-side measures, particularly concerning their estimated impact and cost, remains inadequately addressed. For instance, reports such as that by the Royal Society highlight the need for large-scale storage solutions, encompassing various technologies such as batteries, or by compressing air, using heat, or making hydrogen using electrolysers, over a wide range of timescales <ref type="bibr" target="#b21">[23]</ref>. Analyses like these give a sense of scale, but they do not consider exactly what it is that is stored (gas, coal, oil or electricity), when or for how long. For instance, Hirth <ref type="bibr" target="#b22">[24]</ref> aims to evaluate the cost of generating power at peak time compared with that of bringing stored energy on stream. The complexity of the energy sector introduces challenges in assessing the cost implications of storage technologies. While government models suggest that using electric vehicles and heat pumps to store electricity and moderate demand will have the lowest impact and that reliance on Li-Ion batteries would be the most expensive option <ref type="bibr" target="#b20">[22]</ref>, studies also highlight uncertainties regarding consumer uptake and the viability of grid-connected electric vehicles as electricity providers during peak demand periods <ref type="bibr" target="#b23">[25,</ref><ref type="bibr" target="#b24">26]</ref>. The comparative evaluation of alternative storage options, such as that conducted by <ref type="bibr" target="#b25">Chang et al. (2021)</ref>  <ref type="bibr" target="#b25">[27]</ref>, emphasises factors like total system costs, investment costs, dispatch costs, and social welfare implications. However, the underlying assumptions and methodological choices shaping these results are frequently obscured, thereby hindering a comprehensive understanding of the cost-effectiveness of storage solutions. Whilst on the one hand, there is a notion of interchangeability between storage and demand side measures, they are not equivalent. For demand side management to work requires large amounts of under-utilised assets capable of avoiding, accepting or releasing charge at times when this helps the grid and, therefore, makes a much broader set of assumptions about the social world than simply adding additional batteries would. This leads to our second assumption: Assumption 2. There is a misleading equivalence between storage and demand-side measures, that underpins comparisons of potential impact and cost.</p><p>Underpinning both the issues of the timing and spatial location of demand and the costs of different storage and demand-side response models is some model of the social world in which this demand-storage provision is playing out. Looking across academic studies which have tried to answer the question as to how much storage is needed, we typically see demand as an assumed input. <ref type="bibr" target="#b26">Ueckerdt et al. (2017)</ref>  <ref type="bibr" target="#b26">[28]</ref> for example begin their work with assumed electrical load profiles. <ref type="bibr">Kondziella and Bruckner (2016, p16)</ref>  <ref type="bibr" target="#b27">[29]</ref> reviewed a range of studies exploring storage needs and concluded that "most of the modeling approaches evaluated in this paper have a focus on the electricity market. Thus, further constraints due to social, environmental, or sustainability aspects are neglected." <ref type="bibr" target="#b3">Cebulla et al. (2018)</ref>  <ref type="bibr" target="#b3">[4]</ref> review 18 studies and do not mention the assumptions underpinning demand as part of their review. One of the potential reasons for this might be the complexity of the task even if you put demand to one side, there is "a wide range of storage requirements, which makes it difficult for the policy maker to identify clear recommendations" <ref type="bibr">[4, p450]</ref>. Complexity is clearly one consideration in making decisions about what to model. Our point here is that those tasked with modelling storage needs seem to do so by paying limited, if any, attention to the social world underpinning the different demand profiles used.</p><p>More practice oriented exercises such as the National Grid's Future Energy Scenarios<ref type="foot" target="#foot_0">foot_0</ref> offer greater connection to demand <ref type="bibr" target="#b24">[26]</ref>. In their work, four scenarios are elaborated which each imply different levels of demand for electricity and different social worlds in which the willingness to adopt different technologies is included. For example, 'Consumer Transformation' identifies a typical home owner as someone with "an electric heat pump with a low temperature heating system and an Electric Vehicle" whilst in their 'Falling Short' scenario "While home insulation improves, there is still heavy reliance on natural gas, particularly for domestic heating. Electric Vehicle take-up grows more slowly…" <ref type="bibr">[26, p7]</ref>. What matters to these scenarios are different responses to changes in energy prices and the willingness (or not) to uptake specific technologies. So, whilst alternative levels of demand can be created, they are thought to be informed by variations around a broadly standard set of assumptions about how society is structured which mirrors the limitations of the academic system modelling set out above and leads us to our third assumption: Assumption 3. The nature and scale of future demand is taken for granted or marginalised.</p><p>We turn now to electric vehicles as our 'instrumental case', exploring each of the three assumptions in turn to illustrate more specifically why these assumptions matter to answering the overarching challenge posed of understanding how much energy is needed in a fully electrified future.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Assumptions and the electric vehicle transition</head><p>Vehicles that run on petrol or diesel depend on a fuelling system which has been almost entirely independent from the electricity grid (oil fields, refineries, storage tankers, fuelling stations). Storage considerations for fossil fuel cars relate to fuel providers' judgements about aggregate demand at the pump and individuals deciding how much fuel to keep in the tank. Since there is no substantial interaction between vehicles and electricity supply, questions about how much fuel is consumed, when and where are irrelevant for the management of the grid.</p><p>It is now widely agreed that if transport is to become a zero emission sector, there will need to be a complete shift away from fossil fuel powered vehicles to those powered by zero emission energy provided by the grid <ref type="bibr" target="#b28">[30]</ref>. The electric vehicle (EV) changes the relationship between vehicles and electricity systems completely. Ofgem, <ref type="foot" target="#foot_1">4</ref> for example, suggest that the demand for electricity from EVs will be in the range 65-100TWh by 2050, an increase of 20-30 % in total demand and that the scale of peak demand could rise by more than 20GW, an increase of 35 % of current peak demand <ref type="bibr" target="#b29">[31]</ref>. The relation to the electricity system is further complicated by the fact that electric vehicles can potentially act as 'stores', taking in excess electricity when supply exceeds demand, and feeding it back into the grid when demand exceeds supply <ref type="bibr" target="#b33">[35]</ref>. With the introduction of EVs issues that were previously irrelevant to grid managers but that are now important, include the number of vehicles, the distances travelled, the intensity of use of each vehicle, the timing of charging, the speed of charging, the capacity of the engine (batteries), the location of charging, the synchronicity of charging and the extent to which vehicles would be available to act as stores or sources of supply. We explore recent work on these issues to understand how they relate to the three key assumptions we set out.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Assumption 1: the flattening of temporal and spatial scale</head><p>Understanding the detailed temporal and spatial patterning of vehicle use, which is necessary to think about electricity demand and storage potential, is a comparatively new undertaking <ref type="bibr" target="#b34">[36]</ref>. <ref type="bibr" target="#b35">Babrowski et al. (2014)</ref>  <ref type="bibr" target="#b35">[37]</ref> explore the importance of spatial variation in charging patterns, by exploring the impacts of whether vehicles are available to be charged or to return charge at the workplace during the 9-5 working day. This, they conclude makes a big difference to "potential for load shifting through controlled charging" <ref type="bibr">[37, p283]</ref>. This provides insights into the potential for spatially distributed patterns of charging and storage but does not engage with questions of how work is changing, such as increased patterns of telework, shorter working weeks, changes in departure times or the nature of work <ref type="bibr" target="#b36">[38]</ref>. Nor does it connect well to policy interventions which might seek to reduce car commuting because of the other congestion, safety and health impacts that the commute has <ref type="bibr" target="#b37">[39]</ref>. The lack of consideration of spatial variation can also be found in work on estimating the need for charge points by the UK Department for Transport, looking out to 2030. Even with such a short time window, estimates of the range of points needed varies between 280,000 and 720,000 <ref type="bibr" target="#b38">[40]</ref>. As the authors of that research acknowledge, theirs is an economic model with no spatial component andwe might addno understanding of current trends and variations in mobility. Instead, their method is to average anticipated demand "across all days of the year" <ref type="bibr">[40, p134]</ref>.</p><p>Other research considers temporal patterns, but the implications for future storage are based on an assumption of a perpetuation of current patterns of movement or charging. For example, Castillo et al. ( <ref type="formula">2022</ref>) <ref type="bibr" target="#b39">[41]</ref> explored the importance of diurnal variations in charging patterns from EVs with two scenarios. One, where all future EV charging was based on patterns of EV charging established in 2014 and a second where controls were placed on EV charging for charging at times of "base-load, such as during midnight hours" <ref type="bibr">[41, p3]</ref>. This approach relies on early EV adopters which, whilst providing data on actual charging events, significantly risks building models that assume that the practices of early adopters of EVs are indicative of future patterns of demand when they are known not to be representative of the driving population <ref type="bibr" target="#b40">[42]</ref>. <ref type="bibr" target="#b41">Dixon and Bell (2020)</ref>  <ref type="bibr" target="#b41">[43]</ref> evaluate the implications of different battery size, charge station numbers and charging speeds on demand at the peak. Their assessment assigns vehicles to users based on an existing travel diary data set and assesses the demand implications at a neighbourhood scale. They find that increasing battery sizes and charging opportunities reduces the likely impact of electrification on peak demand whereas greater charging power could increase the peak demand <ref type="bibr">[43, p1]</ref>. This example takes a broader behavioural basis than Castillo et al. <ref type="bibr" target="#b39">[41]</ref> as it draws on travel diary data. However, sophisticated though the work is in merging data sources, it takes existing mobility profiles as the basis for the system design when these have changed substantially over recent decades. So, whilst this body of work recognises the importance of spatiality and temporality of demand, that importance is not underpinned by any basis for understanding how temporality or spatiality of demand is changing.</p><p>Whilst the literature suggests that energy modelling is beginning to take account of spatial and temporal patterns of driving, it is currently positioned within a paradigm where such patterns remain unchanged. There are elements of travel patterns which have greater certainty. Sleep patterns have changed relatively slowly over time, for example, and so the tendency for vehicles to be close to their home address overnight seems likely to persist. This makes assumptions about the potential to nighttime charge more robust. By contrast, those which rely on where and when vehicles are connected during the day and their ability to resolve peaks in grid demand by acting as stores and feeding back to the grid are much more uncertain. If, as the existing work suggests, spatial and temporal patterns are important, then it is also necessary to understand how those patterns might also be on the move. We discuss this further as part of considerations in the next two assumptions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Assumption 2: the misleading equivalence of storage and demand side flexibility</head><p>The second assumption points to the assumed interchangeability of storage and demand side flexibility. In the UK, Ofgem's ambition is to "ensure they [energy networks] are prepared for the increased demand for electricity" and to build "a smart and flexible energy system that can utilise the huge number of EV batteries that are going to be plugged into our system to keep costs down for everyone" and allowing "the sale of electricity back to the grid when it's most needed" [31, p3, brackets added]. Ofgem draws on National Grid's Future Energy Scenarios which explore potential routes through which the energy system might align with nationally agreed goals on climate change. In it, different system transformation projections are made which are estimated on the basis of different technology uptake rates of smart meters, time of Use Tariffs and vehicle to grid connections. Coupled with different incentives <ref type="bibr">[26, p87]</ref>. Ofgem concludes that smart charging could avoid 5-15GW of peak demand and the capacity of V2X could exceed 30GW. In this work <ref type="bibr" target="#b29">[31]</ref>, the equivalence between storage and demand potential of electrification is quite clear.</p><p>The fact that vehicles are stationary when feeding back electricity from their stores or charging their batteries does not mean these processes are equivalent. Vehicles will need to be plugged in with sufficient charge and sufficient battery capacity to meaningfully contribute to grid balancing to input energy during the peak. Here, we can see that the assumptions in play are that the car of the future will be similar in nature to that of today with the principal variable being the size of the batteries and the range (see Assumption one). Alternative options are being actively explored which would challenge those assumptions with, for example, innovations in light electric vehicles that might change what people move around in, which is not 'a car' <ref type="bibr" target="#b42">[44]</ref>. A recent analysis of the potential impacts of a more mixed light electric fleet, for example, found that compared with a like for like replacement of electric vehicles, using light electric mobility could result in electricity demand being 15 % lower and the battery capacity required for the vehicles one third lower <ref type="bibr" target="#b42">[44]</ref>. 96 % of all journeys in the UK are under 35 miles in length <ref type="bibr" target="#b43">[45]</ref> meaning that there is scope for actively modifying ideas about what cars 'are' and what they should be able to do. This example shows that, if we size the technology quite differently, lower demand could result. This both mitigates against the need to feed back in to the grid as peak demand would be lower but thinking is instead dominated by actors in the energy system <ref type="bibr" target="#b44">[46]</ref>. Equally, the 'storage capacity' of the fleet is distinct as is the time required for charging. This suggests quite different costs could be contemplated when thinking about demand and storage. If you consider this only from a grid perspective and presume business as usual then V2X could be an efficient means of resolving constraints. However, in this example, avoiding the problem (or diminishing its extent) through different transport strategy approaches tackles this in a different way with, it is suggested, lower overall costs. By implication, managing peak loads through demand reduction or demand shifting and storage and V2X are not equivalent and neither are the associated total costs or distribution of where they might fall.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Assumption 3: the nature and scale of future demand is taken for granted or marginalised</head><p>The scale and nature of travel demand change is a matter of significant debate <ref type="bibr" target="#b45">[47,</ref><ref type="bibr" target="#b46">48]</ref>. Attempts to forecast future vehicle ownership and travel demand have been undertaken for decades to help plan for investments in transport infrastructure. The growth in car ownership, historically, has been strongly linked with rising incomes <ref type="bibr" target="#b47">[49]</ref>. Exercises at a national level consider such trends as likely to persist, but moderated by assumptions about the saturation of the market for cars <ref type="bibr" target="#b48">[50]</ref>. So, for example, the Department for Transport expects a range of 38 to 42 million cars <ref type="bibr" target="#b48">[50]</ref> to be on our roads by 2050, compared with 27 million in 2023. These assumptions are taken forward into national projections of energy demand <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b28">30]</ref>. There is a presumption, therefore, that ownership patterns will continue as they have done in the past, despite evidence to suggest this is not happening <ref type="bibr" target="#b49">[51]</ref>. Such work also assumes that the model of individual ownership persists rather than a more shared access fleet model <ref type="bibr" target="#b50">[52]</ref>. Shared access vehicle models are interesting because they might reduce total vehicle fleet holding but might mean that cars are replaced more regularly or used more intensively. They have, to date, been associated with an overall reduction in vehicle miles for those who adopt them <ref type="bibr" target="#b51">[53]</ref>.</p><p>As well as estimates of the number of cars on the roads, there are projections made about the scale of travel demand. As with the size of the vehicle fleet, future traffic growth is largely assessed to be influenced by income but moderated by fuel price and by levels of congestion <ref type="bibr" target="#b52">[54]</ref>. Under such a world view, almost every scenario anticipates the continued growth in road traffic. Even within the relatively constrained scenarios described, national forecasts estimate a change from 286bn vehicle miles in 2015 to between 301bn and 391bn vehicle miles by 2040, almost a four-fold difference in growth <ref type="bibr" target="#b52">[54]</ref>. However, it is important to think beyond the numbers and the modelling framework from which they are derived. Society is in a constant state of flux and this matters to demand. For example, in many developed economies the distances people drive, particularly in younger cohorts, has been diminishing <ref type="bibr" target="#b53">[55]</ref>. Research has shown this is due to a complex web of factors including changes to higher education systems and delaying starting a family <ref type="bibr" target="#b54">[56]</ref>. The Covid-19 pandemic accelerated trends around home working which can reduce overall distances travelled <ref type="bibr" target="#b43">[45]</ref> but is also changing the pattern of the working day and week <ref type="bibr" target="#b55">[57]</ref>. Patterns of travel to access retail have been changing with the shift to online and the move to smaller metro 'mini-market' business models <ref type="bibr" target="#b56">[58]</ref>. Little of this seems directly related to the factors which are included in the modelling tools which are currently in play.</p><p>Not only are there broader societal changes underway which will impact demand but there are also alternative policy approaches which might shape how demand unfolds. The Committee on Climate Change suggests that, to be consistent with the 6th Carbon Budget, a maximum increase of 6 billion vehicle kilometres (2 %) by 2035 would be possible compared with 2019 <ref type="bibr" target="#b57">[59]</ref>. In Scotland, a target for a 20 % reduction in vehicle kilometres by 2030 has been set <ref type="bibr" target="#b58">[60]</ref> and in Wales a 10 % reduction per head of population <ref type="bibr" target="#b59">[61]</ref> in order to meet current climate change commitments. What, then, is the social future for which we should be planning? If traffic levels were to reducewhat kinds of journeys would be impacted and how would this impact on the time of day of travel, charging practices, or the range requirements for vehicles? There is very little said about this in the modelling exercises undertaken despite the fact that different policy pathways also mean adopting a set of assumptions about how social practices might be changing (or not).</p><p>Overall, we suggest that, whilst a variety of outcomes in terms of kilometres travelled are considered in transport modelling exercises, they are derived from relatively reductionist approaches <ref type="bibr" target="#b46">[48]</ref>. These kinds of analysis reveal little about the role of the car within society, the car as an object, why people travel, or of when and where they go. Although there are evident differences between approaches in energy and transport modelling there are also powerful commonalities in how 'technical potential' is represented, in how current versions of 'normality' are inscribed into models, how averages are mobilised and in how 'systems' are understood. In essence, as we suggest in assumption three, both traditions play down local variations, and both take present 'need' for granted, focusing on how it is met and at what (energy) cost, and how this might be optimised.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion and ways forward</head><p>We began by reviewing methods of answering the seemingly technical question 'How much storage do we need in a fully electrified future?'. It is by now obvious that this question takes much for granted. Through the example of electrification of passenger cars we have illustrated three key assumptions. For example, 'need' usually refers to the 'need' to maintain current standards of living. Rather than promoting and provoking debate about all these topics, the forms of transport and energy forecasting that we have described close the field down. In this context the fact that technical and economic options are evaluated in terms of their ability to meet present needs is especially important. It is so in that the resulting analyses legitimise investments that suppose and reinforce existing patterns of demand. Ironically, policy makers charged with the task of carbon reduction have come to rely on models and estimates that reproduce the features and characteristics of a society that supposes and relies on fossil fuel. This is not the only way to go, and it is possible to think about the 'need' for storage not as a technical solution to a technical problem, but as a necessary part of a more fundamental debate about energy demand and the future of consumption. One option to open up such discussions is to consider scenarios which provide a richer description of possible social futures. This provides the opportunity to more meaningfully connect the demand and storage system assumptions to on-going processes of social change and alternative futuring assumptions at play in sectors which impact on the energy sector.</p><p>Johnson et al. ( <ref type="formula">2023</ref>) <ref type="bibr" target="#b60">[62]</ref> review 12 UK-based climate scenarios conducted for four different organisations, looking out to 2050. The studies all combined the assessment of demand reduction coupled with an understanding of the resultant supply side implications if the scenario is to be compliant with the legislated pathways for CO 2 reduction for the period. Their study found that "All the pathways explored achieve reductions of at least 32.8% in total final energy demand" and that this could be as high as 52 % <ref type="bibr">[59, p1]</ref>. The studies approach the understanding of alternative demand futures with varying depth. Perhaps the most comprehensive is that by <ref type="bibr" target="#b10">Barrett et al. (2022)</ref>  <ref type="bibr" target="#b10">[11]</ref> called Positive Low Energy Demand Futures. There, the method began with representatives from different sectors of the economy being tasked with thinking about how and why demand might change. For example, in the food sector, significant emissions reductions might be expected following a switch to vegetarian and vegan diets and a reduction in calorific intake to current public health guideline levels. This would have further implications for the energy intensity of farming and the amount of farmland available for reforestation <ref type="bibr" target="#b61">[63]</ref>. In housing, alternative assumptions about re-purposing existing building stock led to very different levels of house building and, the resultant material energy demand and in-use emissions for the homes <ref type="bibr" target="#b10">[11]</ref>. This in turn would impact where people live and where the demand for energy would be concentrated.</p><p>Connecting back to the transport example above, one of the future visions for transport in the study <ref type="bibr" target="#b10">[11]</ref> built a scenario in which fewer trips were expected to be made for shopping, business and commuting but in which there was an increase in local and long-distance leisure travel as a result of a reduction in flying <ref type="bibr" target="#b43">[45]</ref>. The study explored changes in trip frequency and trip length for different journey types and policy shifts were also assessed which would enable those journeys to be made in different ways. Potential trends that were thought to interact with demand changes included a greater proportion of the population who are retired, increased teleworking enabling a reduction in commute and business trips and a four-day working week. Such changes could have wide-ranging effects, resulting in the removal (or 'unlocking') of what seem to be fixed routines and the redistribution of activity through the day <ref type="bibr" target="#b62">[64]</ref> or result in longer distances between home and work <ref type="bibr" target="#b63">[65]</ref>. The purpose here is not to describe, in-depth, the assumptions of the Positive Low Energy Demand Futures study, but to show that different plausible social futures matter to energy demand. In the most ambitious 'Transform' scenario, the total kilometres travelled by passengers is only 3 % lower than in 2015 but the car mode share (including taxi services) is 44 % lower. In tandem with the change in travel demand patterns there is an anticipated decline in the car fleet from around 32 million to 24 million by 2050, a halving of car miles driven and an increase in car occupancy from 1.6 to 2.1 (see Anonymised 2022a for full details). <ref type="bibr" target="#b10">Barrett et al. (2022)</ref>  <ref type="bibr" target="#b10">[11]</ref> do not attempt to model the consequences of reconfiguring the car and its place in society, but the underlying assumption is that the whole 'system' is in flux and that this will be important for likely charging patterns and for when, where and how energy is stored and demanded.</p><p>What is included and excluded from thinking in future scenarios matters. This does not mean that we need to declare that one scenario is in some absolute sense better than another. Our point is that all of the scenarios depend on a raft of assumptions about the social world, and about what counts as 'normal' practice even when those are not explicitly stated. It is also clear that there is contestation and uncertainty about social futures and that these have a material impact on the nature of the system that people who are planning for storage work with.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusion</head><p>We began by reviewing methods of answering the seemingly technical question 'How much storage do we need in a fully electrified future?'. It is by now obvious that this question takes much for granted.</p><p>In this paper our first step has been to draw out three core assumptions that underpin efforts to answer the question 'How much storage do we need in a fully electrified future'. Along the way we have discovered that 'need' usually refers to the 'need' to maintain current standards of living. We have also shown that storage is usually treated as a singular concepta solution in its own right, disconnected from complicating considerations of location, timing and scale.</p><p>Our second step is to suggest that whether analysts are aware of it or not, estimates of the need for storage suppose and reproduce some social futures and not others. Future planning and the forms of transport and energy forecasting that we have described tend to take the present for granted, and to suppose scenarios that represent a continuation of past trends, but this need not be the case. In this context, the fact that technical and economic options are evaluated in terms of their ability to meet present needs is especially important in that the resulting analyses legitimise investments that suppose and reinforce existing patterns of demand.</p><p>Ironically, the result is a situation in which policy makers charged with the task of carbon reduction have come to rely on models and estimates that reproduce the features and characteristics of a society that supposes and relies on fossil fuel.</p><p>The reproduction of an energy system capable of mimicking that which has been built around fossil fuels is problematic, but this is where methods of evaluating options, including options for storage, currently lead. This is no accident in that dominant methods arguably revolve around a restricted set of interests: thus the 'we' in the question 'how much storage do we need in a fully electrified future' is usually taken to refer to grid operators or distribution network manager. In practice, 'we' might be broadened to include those responsible for many policy domains and for realising multiple objectives beyond decarbonisation and grid management. To grasp this bigger picture, depends on recognising competing socio-technical imaginaries which have a role in configuring the kind of society we are transitioning towards.</p><p>It is, we argue, possible to think about the 'need' for storage not as a technical solution to a technical problem, but as a necessary part of a more fundamental debate about energy demand and the future of consumption. In conclusion, we argue that one way forward is to open these methods up to debate and invite discussion about the social worlds implicit in contemporary scenarios and forecasts. Rather than thinking about the types of storage needed to preserve the status quo, the challenge is to imagine the temporal, spatial and organisational qualities of energy systems, including systems of storage, that might be compatible with much lower carbon ways of life, and with very different patterns and levels of demand.</p><p>If policy makers and researchers are to avoid reproducing the very problems they seek to address, they need to articulate and debate expectations and understandings tacitly inscribed in the questions they ask and in the methods they use to evaluate the costs and benefits of different 'solutions'. At a minimum this implies a change of tack, and a new agenda. Instead of jumping in and asking 'how much storage do we need in a fully electrified future' the problem needs to be flipped around. In conclusion, our argument is that it is possible, and sensible, to think about storage but it is counterproductive to do so without also thinking about practices and patterns of consumption, and about ways of life that might (or might not) be compatible with carbon reduction on the scale that is required.</p><p>Until these foundational questions of consumption and practice are taken to heart, energy researchers, economists and policy makers will continue digging themselves into a hole from which it will be difficult to escape. Although exercises to imagine alternative social futures are necessarily speculative, they have the positive effect of prompting and promoting thought about how the world might look and work and how technologies form part of this, rather than somehow standing apart from it. In our view, there is much to be gained from bringing these approaches together in order to develop forms of forecasting and evaluation that are more transparent, and more open about the visions and assumptions on which they depend.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics approval and consent to participate</head><p>Not applicable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Consent for publication</head><p>Not applicable.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Example estimates of storage requirements.</figDesc><table><row><cell>Organisation</cell><cell>How much storage</cell><cell>Key document(s)</cell></row><row><cell>Energy department</cell><cell>30 GW of storage by 2050</cell><cell>Transitioning to a net zero</cell></row><row><cell>(BEIS)</cell><cell></cell><cell>energy system: smart systems</cell></row><row><cell></cell><cell></cell><cell>and flexibility plan 2021 [22]</cell></row><row><cell>Transmission</cell><cell>13GW of energy storage</cell><cell>National Grid (2021). Future</cell></row><row><cell>System Operator</cell><cell>by 2030</cell><cell>Energy Scenarios. [14]</cell></row><row><cell>(National Grid)</cell><cell></cell><cell></cell></row><row><cell>Climate Change</cell><cell>18 GW of battery storage</cell><cell>The Sixth Carbon Budget [30]</cell></row><row><cell>Committee</cell><cell>capacity by 2035.</cell><cell></cell></row><row><cell>Aurora</cell><cell>46GW of electricity</cell><cell>Long Duration Electricity</cell></row><row><cell></cell><cell>storage and 24GW of long</cell><cell>Storage in GB [15]</cell></row><row><cell></cell><cell>duration electricity</cell><cell></cell></row><row><cell></cell><cell>storage required by 2035</cell><cell></cell></row><row><cell></cell><cell>to integrate wind power</cell><cell></cell></row><row><cell></cell><cell>into a secure Net Zero</cell><cell></cell></row><row><cell></cell><cell>electricity system</cell><cell></cell></row><row><cell>Energy regulator</cell><cell>By 2050 smart charging</cell><cell>Enabling the transition to</cell></row><row><cell>(Ofgem)</cell><cell>and V2X together could</cell><cell>electric vehicles: The</cell></row><row><cell></cell><cell>reduce peak demand by</cell><cell>regulator's priorities for a</cell></row><row><cell></cell><cell>32GW</cell><cell>green, fair future. [31]</cell></row><row><cell>National</cell><cell>Without storage in 2050</cell><cell>Smart Power [16]</cell></row><row><cell>Infrastructure</cell><cell>the need for electricity at</cell><cell></cell></row><row><cell>Commission</cell><cell>peak times of the day</cell><cell></cell></row><row><cell></cell><cell>could double (i.e. 120</cell><cell></cell></row><row><cell></cell><cell>GW)</cell><cell></cell></row><row><cell>Research studies</cell><cell>(i) how much storage</cell><cell></cell></row><row><cell></cell><cell>capacity is technically</cell><cell>[4,28,29,32-34]</cell></row><row><cell></cell><cell>needed.</cell><cell></cell></row><row><cell></cell><cell>(ii) economic potential of</cell><cell></cell></row><row><cell></cell><cell>storage in a fully</cell><cell></cell></row><row><cell></cell><cell>electrified future</cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_0"><p>National Grid is the UK's transmission and distribution network utility</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_1"><p>Ofgem is the government regulator for gas and electricity markets in the UK</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors are grateful to the teams in the Flexibility and Mobility themes of the <rs type="institution">Centre for Research on Energy Demand</rs> for discussion and feedback on earlier drafts.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by <rs type="funder">UK Research and Innovation</rs> under research grants <rs type="grantNumber">EP/R035288/1</rs> (<rs type="funder">Centre for Research on Energy Demand Solutions)</rs> and <rs type="grantNumber">EP/Y010078/1</rs> (<rs type="programName">Energy Demand Research Centre</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_4hX7S2M">
+					<idno type="grant-number">EP/R035288/1</idno>
+				</org>
+				<org type="funding" xml:id="_EBkfVnh">
+					<idno type="grant-number">EP/Y010078/1</idno>
+					<orgName type="program" subtype="full">Energy Demand Research Centre</orgName>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>Data sharing is not applicable to this article as no datasets were generated or analysed during the current study.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CRediT authorship contribution statement</head><note type="other">Greg</note></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>The authors declare that they have no competing interests.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Net</forename><forename type="middle">Zero</forename><surname>Beis</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Strategy</surname></persName>
+		</author>
+		<ptr target="https://www.gov.uk/government/publications/net-zero-strategy" />
+		<imprint>
+			<date type="published" when="2021-10-31">2021. 31 Oct 2023</date>
+			<publisher>Build Back Greener</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Benefits of flexibility from smart electrified transportation and heating in the future UK electricity system</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Teng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Aunedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Strbac</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Energy</title>
+		<imprint>
+			<biblScope unit="volume">167</biblScope>
+			<biblScope unit="page" from="420" to="431" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The impact of social and weather drivers on the historical electricity energy demand in Europe</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Cassarino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Barrett</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apenergy.2018.07.018</idno>
+		<ptr target="https://doi.org/10.1016/j.apenergy.2018.07.018" />
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Energy</title>
+		<imprint>
+			<biblScope unit="volume">229</biblScope>
+			<biblScope unit="page" from="176" to="185" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">How much electrical energy storage do we need? A synthesis for the US</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cebulla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Haas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eichman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Nowak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mancarella</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.clepro.2018.01.144</idno>
+		<ptr target="https://doi.org/10.1016/j.clepro.2018.01.144" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Clean. Production</title>
+		<imprint>
+			<biblScope unit="volume">181</biblScope>
+			<biblScope unit="page" from="449" to="459" />
+			<date type="published" when="2018">2018</date>
+			<pubPlace>Europe, and Germany</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Meeting UK heat demands in zero emission renewable energy systems using storage and interconnectors</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Cassarino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Barrett</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apenergy.2021.118051</idno>
+		<ptr target="https://doi.org/10.1016/j.apenergy.2021.118051" />
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Energy</title>
+		<imprint>
+			<biblScope unit="volume">306</biblScope>
+			<biblScope unit="page">118051</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Lifestyle, efficiency and limits: modelling transport energy and emissions using a socio-technical approach</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Anable</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Morton</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12053-108-9678-9</idno>
+		<ptr target="https://doi.org/10.1007/s12053-108-9678-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Energ. Effic</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="187" to="207" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The impact of vehicle-to-grid on the distribution grid</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Clement-Nyns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Haesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Driesen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.epsr.2010.08.007</idno>
+		<ptr target="https://doi.org/10.1016/j.epsr.2010.08.007" />
+	</analytic>
+	<monogr>
+		<title level="j">Electrical Power Systems Res</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="185" to="192" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Integration of electric vehicles in smart grid: A review on vehicle to grid technologies and optimization techniques</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Tan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Ramachandaramurthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Yong</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.rser.2015.09.012</idno>
+		<ptr target="https://doi.org/10.1016/j.rser.2015.09.012" />
+	</analytic>
+	<monogr>
+		<title level="j">Renew. Sustain. Energy Rev</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="720" to="732" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Handbook of eHealth Evaluation: An Evidence-based Approach</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Paré</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kitsiou</surname></persName>
+		</author>
+		<ptr target="https://www.ncbi.nlm.nih.gov/books/NBK481583/" />
+		<editor>F. Lau, C. Kuziemsky</editor>
+		<imprint>
+			<date type="published" when="2017-03-03">2017. 03 Mar 2024</date>
+		</imprint>
+	</monogr>
+	<note>Methods for Literature Reviews</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">The Art of Case Study Research</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Stake</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Sage Publications</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Energy demand reduction options for meeting national zero-emission targets in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Betts-Davies</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="726" to="735" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Deliberating the social acceptability of energy storage in the UK</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Demski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pidgeon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="page">110908</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Purely ornamental? Public perceptions of distributed energy storage in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ambrosio-Albalá</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Upham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S E</forename><surname>Bale</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2018.09.014</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2018.09.014" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. &amp; Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="139" to="150" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<ptr target="https://www.nationalgrideso.com/future-energy/future-energy-scenarios/fes-2021" />
+		<title level="m">Future Energy Scenarios</title>
+		<imprint>
+			<date type="published" when="2021-10-31">2021. 31 Oct 2023</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Grid</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">Aurora</forename><forename type="middle">Energy</forename><surname>Research</surname></persName>
+		</author>
+		<ptr target="https://auroraer.com/insight/long-duration-electricity-storage-in-gb-2/" />
+		<title level="m">Long Duration Electricity Storage in GB</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Flexibility in Great Britain&apos;s gas networks: analysis of linepack</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rowley</surname></persName>
+		</author>
+		<ptr target="https://research.birmingham.ac.uk/en/publications/flexibility-in-great-britains-gas-networks-analysis-of-linepack" />
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Centralized vs. distributed energy storage-benefits for residential users</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zakeri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Gissey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Dodds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Subkhankulova</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.energy.2021.121443</idno>
+		<ptr target="https://doi.org/10.1016/j.energy.2021.121443" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy</title>
+		<imprint>
+			<biblScope unit="volume">236</biblScope>
+			<biblScope unit="page">121443</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The practice and potential of renewable energy localisation: results from a UK field trial</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Boait</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Snape</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Darby</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su11010215</idno>
+		<ptr target="https://doi.org/10.3390/su11010215" />
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">215</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">An innovative approach for estimating energy demand and supply to inform local energy transitions</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mcgookin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Ó</forename><surname>Gallochóir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Byrne</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.energy.2021.120731</idno>
+		<ptr target="https://doi.org/10.1016/j.energy.2021.120731" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy</title>
+		<imprint>
+			<biblScope unit="volume">229</biblScope>
+			<biblScope unit="page">120371</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Assessment of energy storage technologies: A review</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">O</forename><surname>Oni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gemechu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enconman.2020.113295</idno>
+		<ptr target="https://doi.org/10.1016/j.enconman.2020.113295" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Convers. Manag</title>
+		<imprint>
+			<biblScope unit="volume">223</biblScope>
+			<biblScope unit="page">113295</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><surname>Beis</surname></persName>
+		</author>
+		<ptr target="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1003787/smart-systems-appendix-i-electricity-system-flexibility-modelling.pdf" />
+		<title level="m">Transitioning to a net zero energy system Smart Systems and Flexibility Plan 2021 -Appendix I: Electricity System Flexibility Modelling</title>
+		<imprint>
+			<date type="published" when="2021-10-31">2021. 31 Oct 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<ptr target="https://royalsociety.org/-/media/policy/projects/large-scale-electricity-storage/Large-scale-electricity-storage-report.pdf" />
+		<title level="m">Large-scale electricity storage, Available at</title>
+		<imprint>
+			<publisher>Royal Society</publisher>
+			<date type="published" when="2023-10-31">2023. 31 Oct 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The optimal share of variable renewables: how the variability of wind and solar power affects their welfare-optimal deployment</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hirth</surname></persName>
+		</author>
+		<idno type="DOI">10.5547/01956574.36.1.6</idno>
+		<ptr target="https://doi.org/10.5547/01956574.36.1.6" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy J</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Electric vehicle charging and end-user motivation for flexibility: a case study from Norway</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Henriksen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Throndsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ryghaug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Skjølsvold</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s13705-021-00319-z</idno>
+		<ptr target="https://doi.org/10.1186/s13705-021-00319-z" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy, Sustainability and Soc</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<ptr target="https://www.nationalgrideso.com/document/283101/download" />
+		<title level="m">Future Energy Scenarios</title>
+		<imprint>
+			<date type="published" when="2023-10-31">2023. 31 Oct 2023</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Grid</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Trends in tools and approaches for modelling the energy transition</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Z</forename><surname>Thellufsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zakeri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pickering</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pfenninger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Østergaard</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apenergy.2021.116731</idno>
+		<ptr target="https://doi.org/10.1016/j.apenergy.2021.116731" />
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Energy</title>
+		<imprint>
+			<biblScope unit="volume">290</biblScope>
+			<biblScope unit="page">116731</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Decarbonizing global power supply under region-specific consideration of challenges and options of integrating variable renewables in the REMIND model</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ueckerdt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pietzcker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Scholz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Stetter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Giannousakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Luderer</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.eneco.2016.05.012</idno>
+		<ptr target="https://doi.org/10.1016/j.eneco.2016.05.012" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Econ</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="665" to="684" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Flexibility requirements of renewable energy based electricity systems-a review of research results and methodologies</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kondziella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bruckner</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.rser.2015.07.199</idno>
+		<ptr target="https://doi.org/10.1016/j.rser.2015.07.199" />
+	</analytic>
+	<monogr>
+		<title level="j">Renew. Sustain. Energy Rev</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="10" to="22" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">The Sixth Carbon Budget: the UK&apos;s Path to Net Zero, Climate Change Committee</title>
+		<author>
+			<persName><surname>Ccc</surname></persName>
+		</author>
+		<ptr target="https://www.theccc.org.uk/publication/sixth-carbon-budget/" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Enabling the transition to electric vehicles: The regulator&apos;s priorities for a green</title>
+		<author>
+			<persName><surname>Ofgem</surname></persName>
+		</author>
+		<ptr target="https://www.ofgem.gov.uk/publications/electric-vehicles-ofgems-priorities-green-fair-future" />
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Frew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Z</forename><surname>Jacobson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.energy.2016.10.074</idno>
+		<ptr target="https://doi.org/10.1016/j.energy.2016.10.074" />
+	</analytic>
+	<monogr>
+		<title level="m">Temporal and spatial tradeoffs in power system modeling with assumptions about storage: an application of the POWER model</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="198" to="213" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Reduced storage and balancing needs in a fully renewable European power system with excess wind and solar power generation</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Heide</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Greiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Von Bremen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.renene.2011.02.009</idno>
+		<ptr target="https://doi.org/10.1016/j.renene.2011.02.009" />
+	</analytic>
+	<monogr>
+		<title level="j">Renew. Energy</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="2515" to="2523" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Inage</surname></persName>
+		</author>
+		<ptr target="https://iea.blob.core" />
+		<title level="m">Prospects for large-scale energy storage in decarbonised power grids, International Energy Agency</title>
+		<imprint>
+			<date type="published" when="2009-03">2009. Mar 2024</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Working Paper</note>
+	<note>windo ws.net/assets/6bb67be5-0b74-403f-ac02-395c3f3a0762/energy_storage.pdf</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><surname>Cenex</surname></persName>
+		</author>
+		<ptr target="https://www.cenex.co.uk/app/uploads/2021/05/Sciurus-Trial-Insights.pdf" />
+		<title level="m">Project Scirius Trial Insights: Findings from 300 Domestic V2G Units in 2020</title>
+		<imprint>
+			<date type="published" when="2021-10">2021. Oct 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">A week in the life of a car: A nuanced view of possible EV charging regimes</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mattioli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Anable</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Goodwin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019-06-07">2019. 2019 Summer Study, 03-07 Jun 2019. 2019</date>
+			<biblScope unit="page" from="1105" to="1116" />
+			<pubPlace>Hyères France</pubPlace>
+		</imprint>
+	</monogr>
+	<note>European Council for an Energy Efficient Economy (ECEEE) Summer Study</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Load shift potential of electric vehicles in Europe</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babrowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Heinrichs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jochem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Fichtner</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jpowersour.2014.01.019</idno>
+		<ptr target="https://doi.org/10.1016/j.jpowersour.2014.01.019" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">255</biblScope>
+			<biblScope unit="page" from="283" to="293" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Working time and the future of work, International Labour Organization, Research Paper 6, ILO Future of work research paper series</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Messenger</surname></persName>
+		</author>
+		<ptr target="https://www.ilo.org/wcmsp5/groups/public/-dgreports/-cabinet/documents/publication/wcms_649907.pdf" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Does commuting mode choice impact health?</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Jacob</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Munford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Roberts</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/hec.4184</idno>
+		<ptr target="https://doi.org/10.1002/hec.4184" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Econ</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="207" to="230" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Taking charge: the electric vehicle infrastructure strategy, Department for Transport</title>
+		<author>
+			<persName><surname>Dft</surname></persName>
+		</author>
+		<ptr target="https://www.gov.uk/government/publications/uk-electric-vehicle-infrastructure-strategy" />
+		<imprint>
+			<date type="published" when="2022-10-31">2022. 31 Oct 2023</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Future global electricity demand load curves</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">Z</forename><surname>Castillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H.-S</forename><surname>De Boer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Muñoz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E H J</forename><surname>Gernaat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Benders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Van Vuuren</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.energy.2022.124741</idno>
+		<ptr target="https://doi.org/10.1016/j.energy.2022.124741" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy</title>
+		<imprint>
+			<biblScope unit="volume">258</biblScope>
+			<biblScope unit="page">124741</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">On the road to an electric mobility mass market-How can early adopters be characterized</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ensslen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A.-G</forename><surname>Paetz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Babrowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jochem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Fichtner</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-319-24229-3_3</idno>
+		<ptr target="https://doi.org/10.1007/978-3-319-24229-3_3" />
+	</analytic>
+	<monogr>
+		<title level="s">Lecture Notes in Mobility Springer</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Fornahl</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Hülsmann</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<pubPlace>Cham</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Markets and Policy Measures in the Evolution of Electric Mobility</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Electric vehicles: battery capacity, charger power, access to charging and the impacts on distribution networks</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dixon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bell</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.etran.2020.100059</idno>
+		<ptr target="https://doi.org/10.1016/j.etran.2020.100059" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">100059</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Shifting the Focus: Smaller Electric Vehicles for Sustainable Cities</title>
+		<author>
+			<persName><surname>Itf</surname></persName>
+		</author>
+		<ptr target="https://www.itf-oecd.org/shifting-focus-smaller-electric-vehicles" />
+	</analytic>
+	<monogr>
+		<title level="m">International Transport Forum Policy Papers</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2023-10">2023. Oct 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Anonymised</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">A transition to battery electric vehicles without V2G: an outcome explained by a strong electricity regime and a weak automobility regime?</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aarhaug</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s13705-023-00409-0</idno>
+		<ptr target="https://doi.org/10.1186/s13705-023-00409-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Energ Sustain. Soc</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">29</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Anonymised</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Improving future travel demand projections: a pathway with an open science interdisciplinary approach</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kyle</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/2516-1083/ac86b5</idno>
+		<ptr target="https://doi.org/10.1088/2516-1083/ac86b5" />
+	</analytic>
+	<monogr>
+		<title level="j">Progress in Energy</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">43002</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Comparison of car ownership models</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">De</forename><surname>Jong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Daly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pieters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Smit</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/0144164032000138733</idno>
+		<ptr target="https://doi.org/10.1080/0144164032000138733" />
+	</analytic>
+	<monogr>
+		<title level="j">Transplant. Rev</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="379" to="408" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Road Traffic Forecasts</title>
+		<author>
+			<persName><surname>Dft</surname></persName>
+		</author>
+		<ptr target="https://www.gov.uk/government/publications/road-traffic-forecasts-2018" />
+		<imprint>
+			<date type="published" when="2018-10-31">2018. 2018. 31 Oct 2023</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">A micro-model of car ownership dynamics: are preferences changing?</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Carrone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rich</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/19427867.2020.1716473</idno>
+		<ptr target="https://doi.org/10.1080/19427867.2020.1716473" />
+	</analytic>
+	<monogr>
+		<title level="j">Transp. Letters</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="138" to="147" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Planning and the so-called &apos;sharing&apos; economy…</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nelson</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14649357.2019.1599612</idno>
+		<ptr target="https://doi.org/10.1080/14649357.2019.1599612" />
+	</analytic>
+	<monogr>
+		<title level="j">Plan. Theory &amp; Pract</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="261" to="287" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Mobility and environmental impacts of car sharing in the Netherlands</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nijland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Meerkerk</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.eist2017.02.001</idno>
+		<ptr target="https://doi.org/10.1016/j.eist2017.02.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Env. Innovation and Soc. Transit</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="84" to="91" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">National Road Traffic Projections 2022, Department for Transport</title>
+		<author>
+			<persName><surname>Dft</surname></persName>
+		</author>
+		<ptr target="https://assets.publishing.service.gov.uk/media/63975bcfd" />
+		<imprint>
+			<date type="published" when="2022-10">3bf7f3f7d1cf440. 2022. Oct 2023</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>/nati onal-road-traffic-projections-2022.pdf</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Peak-Car phenomenon revisited for urban areas: microdata analysis of household travel surveys from five European capital cities</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wittwer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gerike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hubrich</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0361198119835509</idno>
+		<ptr target="https://doi.org/10.1177/0361198119835509" />
+	</analytic>
+	<monogr>
+		<title level="j">Transp. Res. Rec</title>
+		<imprint>
+			<biblScope unit="volume">2673</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="686" to="699" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Young People&apos;s travel -What&apos;s changed and why? Review and analysis</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chatterjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Goodwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Schwanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Melia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Middleton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Plyushteva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ricci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stokes</surname></persName>
+		</author>
+		<ptr target="UK.www.gov.uk/government/publications/young-peoples-travel-whats-changed-andwhy" />
+	</analytic>
+	<monogr>
+		<title level="j">Report to Department for Transport. UWE Bristol</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">A bifurcation of the peak: new patterns of traffic peaking during the Covid-19 era</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Levinson</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11116-022-10329-1</idno>
+		<ptr target="https://doi.org/10.1007/s11116-022-10329-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Transp</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="329" to="349" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Impacts of online shopping on travel demand: a systematic review</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T K</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Carrel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shah</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01441647.2021.196917</idno>
+		<ptr target="https://doi.org/10.1080/01441647.2021" />
+	</analytic>
+	<monogr>
+		<title level="j">Transplant. Rev</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2022">2022. 196917</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<author>
+			<persName><surname>Ccc</surname></persName>
+		</author>
+		<ptr target="https://www.theccc.org.uk/publication/2022-progress-report-to-parliament/" />
+		<title level="m">Progress Report to Parliament, Climate Change Committee</title>
+		<imprint>
+			<date type="published" when="2022-10-31">2022. 2022. 31 Oct 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Reducing car use for a healthier, fairer and greener Scotland, Glasgow</title>
+		<ptr target="https://www.transport.gov.scot/news/reducing-car-use-for-a-healthier-fairer-and-greener-scotland/" />
+		<imprint>
+			<date type="published" when="2022-01">January 2022. 2022. Oct 2023</date>
+		</imprint>
+		<respStmt>
+			<orgName>Transport Scotland</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<author>
+			<persName><forename type="first">Welsh</forename><surname>Government</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zero</forename><surname>Net</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wales</surname></persName>
+		</author>
+		<ptr target="https://www.gov.wales/sites/default/files/publications/2021-10/net-zero-wales-summary-document.pdf" />
+		<title level="m">Carbon Budget 2021-2025</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Comparative analysis of UK net-zero scenarios: the role of energy demand reduction</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Betts-Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barrett</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enpol.2023.113620</idno>
+		<ptr target="https://doi.org/10.1016/j.enpol.2023.113620" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">179</biblScope>
+			<biblScope unit="page">113620</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Garvey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Norman</surname></persName>
+		</author>
+		<ptr target="https://low-energy.creds.ac.uk/nutrition/,2021" />
+		<title level="m">Nutrition, Sector Summary Report for Positive Low Energy Demand Futures</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Work-related practices: an analysis of their effect on the emergence of stable practices in daily activity schedules</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Lőrincz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Ramírez-Mendiola</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Xxxx</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/13607804221084344</idno>
+		<ptr target="https://doi.org/10.1177/13607804221084344" />
+	</analytic>
+	<monogr>
+		<title level="j">Sociological Res. Online</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<author>
+			<persName><forename type="first">B</forename><surname>Caldarola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sorrell</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tra.2022.03.026</idno>
+		<ptr target="https://doi.org/10.1016/j.tra.2022.03.026" />
+	</analytic>
+	<monogr>
+		<title level="m">Do teleworkers travel less? Evidence from the English National Travel Survey</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="volume">159</biblScope>
+			<biblScope unit="page" from="282" to="303" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">(Re-)locating ‘place’ in energy demand: Implications for research and policy</title>
+				<funder ref="#_yyQNhWn">
+					<orgName type="full">Engineering and Physical Sciences Research Council and Economic and Social Research Council</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2025-08-01">1 August 2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Greg</forename><surname>Marsden</surname></persName>
+							<email>g.r.marsden@its.leeds.ac.uk</email>
+							<idno type="ORCID">0000-0003-3570-2793</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Institute for Transport Studies</orgName>
+								<orgName type="institution">University of Leeds</orgName>
+								<address>
+									<addrLine>Woodhouse Lane</addrLine>
+									<postCode>LS2 9JT</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Stefan</forename><surname>Bouzarovski</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Geography</orgName>
+								<orgName type="department" key="dep2">School of Environment, Education and Development</orgName>
+								<orgName type="institution">University of Manchester</orgName>
+								<address>
+									<addrLine>Oxford Rd</addrLine>
+									<postCode>M13 9PL</postCode>
+									<settlement>Manchester</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kanika</forename><surname>Balani</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Science Policy Research Unit</orgName>
+								<orgName type="institution" key="instit1">University of Sussex</orgName>
+								<orgName type="institution" key="instit2">Sussex House</orgName>
+								<address>
+									<postCode>BN1 9RH</postCode>
+									<settlement>Falmer Brighton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shawn</forename><surname>Bodden</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">School of Social and Political Science</orgName>
+								<orgName type="institution">University of Edinburgh</orgName>
+								<address>
+									<addrLine>18 Buccleuch Place</addrLine>
+									<postCode>EH8 9LN</postCode>
+									<settlement>Street Edinburgh</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Victoria</forename><surname>Kasprowicz</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Science Policy Research Unit</orgName>
+								<orgName type="institution" key="instit1">University of Sussex</orgName>
+								<orgName type="institution" key="instit2">Sussex House</orgName>
+								<address>
+									<postCode>BN1 9RH</postCode>
+									<settlement>Falmer Brighton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mari</forename><surname>Martiskainen</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Science Policy Research Unit</orgName>
+								<orgName type="institution" key="instit1">University of Sussex</orgName>
+								<orgName type="institution" key="instit2">Sussex House</orgName>
+								<address>
+									<postCode>BN1 9RH</postCode>
+									<settlement>Falmer Brighton</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Imogen</forename><surname>Rattle</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">School of Earth and Environment</orgName>
+								<orgName type="institution">University of Leeds</orgName>
+								<address>
+									<addrLine>Woodhouse Lane</addrLine>
+									<postCode>LS2 9JT</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Katherine</forename><surname>Sugar</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Geography</orgName>
+								<orgName type="department" key="dep2">School of Environment, Education and Development</orgName>
+								<orgName type="institution">University of Manchester</orgName>
+								<address>
+									<addrLine>Oxford Rd</addrLine>
+									<postCode>M13 9PL</postCode>
+									<settlement>Manchester</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Faye</forename><surname>Wade</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">School of Social and Political Science</orgName>
+								<orgName type="institution">University of Edinburgh</orgName>
+								<address>
+									<addrLine>18 Buccleuch Place</addrLine>
+									<postCode>EH8 9LN</postCode>
+									<settlement>Street Edinburgh</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">(Re-)locating ‘place’ in energy demand: Implications for research and policy</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Geoforum</title>
+						<title level="j" type="abbrev">Geoforum</title>
+						<idno type="ISSN">0016-7185</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">165</biblScope>
+							<biblScope unit="page">104375</biblScope>
+							<date type="published" when="2025-08-01">1 August 2025</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F4C753A4532C8F0D6A4ED6924E4B7F0C</idno>
+					<idno type="DOI">10.1016/j.geoforum.2025.104375</idno>
+					<note type="submission">Received 21 March 2025; Received in revised form 27 June 2025; Accepted 29 July 2025 Geoforum 165 (2025) 104375</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Place Place-based Energy Demand Relational</keywords>
+			</textClass>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Addressing the climate crisis requires a complex mix of actions by policy makers, businesses and citizens. Policy pathways imply not only a transition to a cleaner energy system, but also a shift towards reduced energy use <ref type="bibr" target="#b4">(Barrett et al., 2022)</ref>, while ensuring that development needs of communities worldwide are met. For many years local governments have argued the importance of having the powers and resources to make decisions on decarbonisation and energy demand reduction <ref type="bibr" target="#b25">(Eurocities, 2022;</ref><ref type="bibr">UK100, 2021;</ref><ref type="bibr" target="#b14">CCC, 2020)</ref>. This has begun to be reflected in the language of national governments with the establishment of 'place-based' decarbonisation strategies <ref type="bibr" target="#b22">(DfT, 2021;</ref><ref type="bibr" target="#b47">OEERE, 2023)</ref>. A recent study by a major UK innovation agency estimated that, by taking a 'place-based' approach the same climate and energy outcomes could be achieved at around 25 % of the cost of a 'place-agnostic' approach while delivering greater financial savings to consumers and health and economic co-benefits <ref type="bibr" target="#b40">(InnovateUK, 2022)</ref>. It is, however, far from clear what 'place' means in these studies and what differentiates it from the 'local scale' (as in e.g. local government) or 'locale' (as in an area). Is 'place' anything more than a rebranding of the multi-scalar politics of climate and energy policy?</p><p>Devine-Wright and Peacock (2025) systematically review the literature on place in connection to the siting of energy infrastructures. The review identifies a wide lexicon of place related terms but a lack of coherence and a superficial or narrow use of place concepts. Crucially, for this paper, exploring place and energy transitions, the review found little work on "place-technology fit" <ref type="bibr">(Devine-Wright and Peacock, 2025, 16)</ref>. This paper builds a conceptual framework to guide researchers and policy-makers to make greater sense out of 'place' within the context of energy demand transitions, to enable a richer understanding of the potential for place-based approaches to be generative of new ways of thinking, acting and designing policy. It begins by reviewing the way in which energy demand is understood, drawing on practice theory perspectives <ref type="bibr" target="#b61">(Shove and Walker, 2014)</ref>. The paper explores how elements of the transition come together and connect people, places and policies spatially and temporally, moving beyond mapping the differences between territories <ref type="bibr" target="#b12">(Bridge, 2018)</ref>. It draws on examples largely from the Global North but, through its approach to territorial relationality explores why place is not simply a local or national concern.</p><p>Through the application of this framework, we argue that new insights into how to steer the energy transition will emerge, as a place lens enables the transformation of how we recognise problems and, therefore, understand the potential for action of different sorts. <ref type="bibr" target="#b61">Shove and Walker (2014)</ref> argue that energy is used to accomplish social practices. The nature of those social practices is an outcome of the "social, infrastructural and institutional" constitution of society <ref type="bibr">(Rinkinen et al., 2020, 8)</ref>. Rather than energy demand being an abstract quantum of energy consumed, this definition requires attention to be paid to the nature of the social practices which demand energy, the ways in which those demands are serviced and the histories and trajectories which exist in a given context <ref type="bibr" target="#b16">(Coutard and Shove, 2018)</ref>. These different histories and trajectories form part of the energy inequalities we see in society today <ref type="bibr" target="#b63">(Tornel, 2023)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Energy demand and place</head><p>If we understand energy demand through a practice theory lens, then it is also necessary to recognise that social practices are "entwined with configurations of space and time, as well as with infrastructures, materials and institutions" <ref type="bibr">(Rinkinen et al., 2020, p8)</ref>. That is, these different elements are relational and changes to infrastructures enable practices to shift and vice-versa. Such an interpretation directly challenges the use of tight cartographic interpretations as a means of interpreting change. Practices are not the property of singular locations and the material arrangements under consideration may rely on infrastructures which are of national or global reach and systems of consumption which are only made possible through material flows and global trade.</p><p>In their work on place-based reflexivity for just energy, Devine-Wright and Ryder (2024; 2) point to the importance of "people-place relations". They also discuss the "inside and the outside" of a place to capture the importance of resource flows, inequalities and power in steering particular outcomes (ibid.). Whilst coming from a different research tradition to practice theory, there appears to be some important points of consensus in the place-energy demand nexus which include the need for:</p><p>• A socio-spatial and relational approach to understanding outcomes; • A recognition of the importance of the coming together of social doings, infrastructures and institutions; and • An acceptance that outcomes today are the result of historical struggles and that future actions too are shaped by the institutional settings in play and the way in which 'the problem' is recognised.</p><p>We explore these elements in the sections that follow, to enable a framework for making sense of 'place-based' research and practice. Place, Cresswell (2015; 1) suggests, is a "concept that travels quite freely between disciplines". The purpose of the analysis is to show in what ways 'place' matters to energy demand. This will differ depending on the lens that is used: citizen or policy maker, transport planner or energy network provider. It is the intertwinement of these insights in specific contexts which brings to the fore the importance of a place-based approach.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Socio-spatial relations in place</head><p>Taking a relational approach to place means examining the social 'life-worlds' in which questions, concerns, and decisions about energy arise in everyday life <ref type="bibr" target="#b61">(Shove and Walker 2014)</ref>. Traditions within sociology and geography that emphasise the intersubjective negotiation of social order offer resources for understanding how, for example, the transition to Net Zero is received and responded to in individual lives. Crucially, these responses are "structured by <ref type="bibr">[their]</ref> place in the world, <ref type="bibr">[their]</ref> plans and <ref type="bibr">[their]</ref> projects" and conversations with others (see <ref type="bibr">Lynch 2007: 501-502;</ref><ref type="bibr" target="#b55">Sacks 1992)</ref>.</p><p>Places can be thought of as "meeting points" in which unique flows of social relations intensify at a given point in space and time <ref type="bibr">(Massey 1994, pp.154-194</ref>; also see <ref type="bibr" target="#b69">Zhang (2018)</ref> on how temporal flows of relations shape place-making). This recommends an inquiry into how people 'place themselves' in relation to others as well as socio-political concerns <ref type="bibr" target="#b5">(Bodden 2023)</ref>. It also invites a consideration of how people are 'placed' by the social relations they form a part of <ref type="bibr" target="#b43">(Massey, 1994)</ref>. Drawing on the 'path-finding' style of analysis developed within time geography <ref type="bibr" target="#b23">(Ellegård 2018;</ref><ref type="bibr" target="#b31">Hägerstrand, 1982)</ref>, there can be value in understanding where in the course of a day, and in the course of their lives, people confront decisions about energy, and what temporalities, experiences, memories and external considerations might shape how these issues are addressed <ref type="bibr" target="#b27">(Feola et al., 2023.)</ref> These ordinary conversations are important sites for reflection, learning, and reasoning with others <ref type="bibr" target="#b34">(Hitchings 2012)</ref>. They can include conversations with energy practitioners, advisors and experts that shape how energy is used <ref type="bibr" target="#b67">(Wade et al. 2016)</ref>, as well as informal engagements with friends, family and neighbours. Such conversations help convey competing visions for a place's future within an individual community <ref type="bibr" target="#b35">(Holmes et al. 2022</ref>), but also how these visions are shared and changed through interaction with others <ref type="bibr" target="#b3">(Barnett 2014)</ref>.</p><p>Hargreaves and Middlemiss (2020) find that energy demand is strongly influenced by social relations with family and friends, and with agencies and communities, as well as those associated with social identities. <ref type="bibr" target="#b45">Middlemiss et al. (2024)</ref> extend this further to include neighbourhood geographies, local service provision and housing archetypes and tenures. The relational approach tells us that energy systems are deeply entangled with social relations, as embedded in a place, in ways that reflect deep-seated asymmetries tied to gender, class, race, and historical processes including colonialism and imperialism <ref type="bibr" target="#b63">(Tornel, 2023)</ref>. The geography of places also has an impact on the networks and services which individuals and businesses have available to them <ref type="bibr" target="#b59">(Sébastien, 2019)</ref>. This can impact the choices and the price of services, with vast differences among places in terms of 'energy footprints' <ref type="bibr" target="#b2">(Baltruszewicz et al., 2023)</ref>.</p><p>A focus on practices and local social relational processes as a lens to understand energy use is one route to understanding how energy demand is configured in place. However, using social relational approaches is not to reduce 'place' to 'local'. <ref type="bibr" target="#b44">Massey (2011:</ref>3) argues that there is a "relationship between relationality and territoriality" where the identities of places are "relationally constructed" which means that "interdependence and identity, difference and connectedness, uneven development and the character of place, are in each pairing two sides of the same coin". For example, dormitory and commuter towns provide housing for labour markets 'elsewhere' and tourism honey pots are servicing tourists from outwith the local area (or country). Similarly, energy transitions in one region often draw on resources and labour from another, creating interdependencies that transcend geographical boundaries. This approach invites the place-based understanding to consider disparities within and between the Global North and the Global South, energy resource producers and consumers, and colonisers and the colonised <ref type="bibr" target="#b63">(Tornel 2023;</ref><ref type="bibr" target="#b1">Barker &amp; Pickerill, 2020)</ref>. Energy injustices are expressed and felt well beyond particular localesprincipally because of the economic and political interconnectedness of contemporary global economies, and different forms of dependency and domination that exist among different locales. In an era of globalized supply chains, the claims to localism and 'local' energy or carbon targets often obscures these connections. <ref type="bibr" target="#b62">Son (2024)</ref> explores the case of food supply chains where spatial imaginaries of "local" are mostly technocratic or administratively bounded, and the procurement policies often promote local sourcing without fully integrating ecological sustainability and recognizing regional interdependencies. It has been argued that, whilst the use of 'local' administrative boundaries is often necessary from a policy legitimacy perspective, it results in 'methodological cityism' which only counts what can be counted within the jurisdiction in question <ref type="bibr" target="#b0">(Angelo and Wachsmuth, 2014)</ref>. A place-based lens, by contrast, would consider for instance, how capitalist social relations drive inequities in energy demand by grounding global processes in specific geographic and social contexts <ref type="bibr" target="#b11">(Brand and Wissen, 2021)</ref>.</p><p>A key area of research interest has been the under-consumption of energy services by households and businesses and how this relates to wider inequalities both within and outside of the energy sector which do not map neatly together <ref type="bibr" target="#b53">(Rodríguez-Pose &amp; Bartalucci, 2024)</ref>. The work on place-based energy inequalities suggests that at least three issues should be taken into account. Firstly, place-based energy use injustices reveal the infrastructural and social workings of their constituent social and political systems <ref type="bibr" target="#b48">(Pilo', 2022)</ref>. Inadequate access to energy services in the residential, transport and commercial sectors alikeis fundamentally a non-energy issue, extending into broader assemblages involving the economic and political organization of urban and regional life.</p><p>Secondly, place-based energy use injustices are collective and multisited, in social and material terms alike <ref type="bibr" target="#b9">(Bouzarovski et al., 2024)</ref>. The literature on energy communities is instructive in this regard, revealing how shared forms of consumption and production may exacerbate existing vulnerabilities, while being underpinned by multiple justice struggles <ref type="bibr" target="#b32">(Hanke, Guyet, &amp; Feenstra, 2021)</ref>. Equally useful is research on low-carbon governance and place, which reveals that localized decarbonisation ambitions are dependent upon narratives and power relations that operate at geographical scales well beyond the boundaries of their target locations <ref type="bibr" target="#b36">(Holmes, 2021)</ref>, while also relying on prefigurative imaginaries and mobilizations of place in order to achieve particular policy targets and political goals <ref type="bibr" target="#b18">(Crowther, Petrova, Evans, &amp; Scott, 2023)</ref>.</p><p>Thirdly, thinking about energy inequalities-in-place also allows us to unpack the broader scalarity and relationality of energy systems themselves. Area-based policies for energy poverty alleviation and retrofit are increasingly gaining traction in scientific and policy terms, thanks to their explicit focus on prioritizing the needs and prospects of vulnerable neighbourhoods and districts <ref type="bibr" target="#b30">(Gupta &amp; Gregg, 2020;</ref><ref type="bibr" target="#b68">Walker, McKenzie, Liddell, &amp; Morris, 2012)</ref>. However, this approach runs the risk of implicitly ascribing the causes of injustice to narrow territorial boundaries, while neglecting the broader institutional and economic dynamics that perpetuate energy inequalities at the regional, national and transnational scales. Finally, given the relational nature of demand, we can also observe that, whilst there is a growing field of work exploring 'excess' consumption, less of this is rooted in place <ref type="bibr" target="#b29">(Garvey et al., 2022)</ref> despite its importance for norm setting, technology and resource demands and justice struggles.</p><p>We conclude that, to understand energy demand it is necessary to take a socio-spatial perspective and avoid falling into the false dichotomy of people or place.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Transitions, infrastructure and institutions in place</head><p>Whilst the energy transition can be narrowly defined as "the shift from one dominant energy resource-or set of resources-to another" <ref type="bibr">(Carley and Konisky, 2020, 569)</ref> our definition of energy demand requires us to consider the transitions in society, infrastructure and institutions and their interactions with resources. Place, as a relational, historically-produced, contested and political entity actively shapes how transition pathways are defined. The presence (and absence) of technologies and infrastructures are the result of sequences of decisions over time which shape the need and potential to respond <ref type="bibr" target="#b57">(Sareen et al., 2021)</ref>. For example, the prior installation of district heat networks in areas with high quality public transport networks establishes one set of practices and energy demands which is quite distinct from an area with little public transport and a need to shift from gas boilers to heat pumps, where discussions about smart-grid management to balance the resultant electricity loads are at the fore <ref type="bibr" target="#b66">(Vigurs et al., 2022)</ref>. Different historical choices about how to service demand and the energy implications of those choices, create different patterns of demand today, alternative injustices and dilemmas, and distinct futures <ref type="bibr" target="#b46">(Nicolosi and Feola, 2016)</ref>. There are relational advantages and disadvantages in the systems and demand patterns we see and the choices that brought us here are "deeply intertwined…with the ordering of politics and society" <ref type="bibr">(Marquardt and Delina, 2021, 1)</ref> and therefore very much part of place.</p><p>Infrastructural transitions are connected to the processes of institutional decision-making over time, including histories and the "remnants of earlier planning decisions, the logic of which is no longer applicable" <ref type="bibr" target="#b37">(Hommels, 2005)</ref>. <ref type="bibr">Elsner et al. (2019: 650)</ref> suggest that this can relate to the "material components of infrastructure systems such as power plants, electricity grids and boilers" which "are built for long time spans". In this way, past energy and wider infrastructure asset investments can create path dependencies that strongly shape the policy choices promoted for the future <ref type="bibr" target="#b19">(Dahlmann et al., 2017)</ref>. The infrastructures in place are not neutral, but instead represent the outcomes of previous logics and struggles. <ref type="bibr" target="#b38">Hope (2021)</ref> argues that place is coproduced through these acts of resistance, struggle and alternative knowledge, particularly in indigenous contexts.</p><p>Exploring infrastructure transitions in place draws attention to the different histories, structures, economics, logics and politics around different policy sectors, where different infrastructures are typically 'managed'. <ref type="bibr">Salder (2023, p.1)</ref> suggests that it is necessary to understand outcomes by "positioning the local as a point of convergence for economic activities and actors rather than as a bounded unit" because of the interactions of networked and spatial governance. <ref type="bibr" target="#b50">Rattle and Taylor (2023;</ref><ref type="bibr">1)</ref> demonstrate this through their exploration of the push towards hydrogen and carbon capture and storage, which finds that this favours mature coastal industrial clusters building off their "favourable location and shared history and culture" all "factors that cannot be easily replicated elsewhere". <ref type="bibr" target="#b28">Gailani and Taylor (2025)</ref> find that, in Great Britain, with rising electrification across all sectors, industry could be capacity constrained after 2030 and this will be particularly challenging for England and Wales. Such variations have consequences for other sectors such as residential <ref type="bibr" target="#b64">(Torritti and Green, 2019)</ref>. Large industrial facilities and the networks of actors around them may create arguments for adoption of particular infrastructural shifts, but research suggests more must be done to establish a social licence for change in places <ref type="bibr" target="#b40">(Lai et al., 2025)</ref>.</p><p>The territorial relationality in socio-spatial relations is also important when considering the infrastructures and technologies that are necessary to connect daily life. We illustrate this by considering the transition from fossil fuel cars to Electric Vehicles (EVs). National and local planning focuses on how to provide sufficient public charging infrastructure to encourage the adoption of EVs and this becomes a point of national and international comparison <ref type="bibr" target="#b26">(Falchetta and Noussan, 2021)</ref>. Whilst counting local EV uptake rates works well when seeking to minimise the carbon emitted within a particular bounded local area, it fails to take account of their global impacts. <ref type="bibr" target="#b51">Remme et al. (2023;</ref><ref type="bibr">p 323)</ref> reflecting on Norway's globally leading position on EV adoption, comment that "EVs come from somewhere (which entails extraction and heavy material transport), exist somewhere (which means occupying limited public space and shaping spatial planning), and go somewhere (which implies end-of-life arrangements and limited material salvage)." The externalisation of environmental and social costs from the Global North to the Global South perpetuate the existing ways of life and reflect the historical and structural inequalities between core and peripheral economies <ref type="bibr" target="#b58">(Schlosser, 2020;</ref><ref type="bibr" target="#b8">Bonelli and</ref><ref type="bibr">Dorador, 2021, IEA, 2022)</ref>. The resource-rich, yet economically marginalised regions in the Global South often endure extraction, displacement, and environmental degradation to benefit the industrialised cores in the Global North <ref type="bibr" target="#b6">(Boatcȃ, 2015;</ref><ref type="bibr" target="#b49">Rammelt et al., 2023)</ref>.</p><p>Starting with place would mean exploring the materials and practices supporting daily life and system boundaries would be drawn to consider the holistic implications of the observed realities or planned initiatives. The current technology-oriented lens explores questions of how quickly and where adoption of something like EVs can occur and what adjustments might need to be made for those for whom the technology is not a good fit <ref type="bibr" target="#b15">(CCC, 2025)</ref>. The solution comes first, the placebased implications are something to address later, if at all. In the case of the electrification of driving, those with off-street parking and home charging will have cheaper motoring than today, whilst those reliant on public charging will not (CCC, 2025). A place-based approach would explore the distributional inequities up front, in context, and consider what solutions could tackle both the energy switch and the existing inequalities. <ref type="bibr">Howlett et al. (2009: 92)</ref> argue; "The manner and form in which problems are recognized, if they are recognized at all, are important determinants of whether, and how, they will ultimately be addressed by policy-makers". Policy-makers tend to be organised around the formal institutional scales (national, regional, local) which reflect their democratic or institutional mandates. This leads decision-making logics to organise around territorial demarcations, reflecting the spatial scope of decision-making powers and the social mandate rather than the sociospatial relations and coming together of infrastructures and practices in place, with all of the relational connectivity which this infers. Policy making also brings a set of often tightly inscribed, yet distinct, sectoral logics. These logics come together in different combinations in different places in ways which are often invisible to the decision-makers <ref type="bibr" target="#b54">(Royston and Selby, 2021)</ref>. Because the organising logics of policy are by administrative boundary and sector, the fundamental understanding of place which we propose is overlooked <ref type="bibr" target="#b56">(Salder, 2023;</ref><ref type="bibr" target="#b60">Sharp et al., 2024)</ref>. Place is recognised as a problem or opportunity through a lens of inquiry which asks why national or local policies are being implemented, or not, in different areas. This is, indeed, part of what a place lens can offer. However, such a reading does not allow a place lens to define "the manner and form of problems" and, therefore, seems likely to exclude interventions which address the specific coming together of policies, people, infrastructures, geographies and politics that a given context has.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusion</head><p>A place lens requires some fundamental considerations if it is to be more than just a rebranding of 'local' in policy and research speak. In considering energy demand we argue for:</p><p>1) The integration of socio-spatial relations which shape the patterns of energy demand today and the injustices within and between locations; and 2) The importance of the institutional and temporal aspects of the transition which connect the political, infrastructural and social histories of place to the imagined futures in context</p><p>As such, place-based analyses move beyond area-based approaches, avoiding ascribing the problem or prescribing the solutions in terms which fit artificial spatial boundaries and logics. Similarly, from an energy demand perspective, paying attention to the social, infrastructural and institutional aspects of the transition invokes connections with policies and places which reside well outside of what might traditionally be seen as 'energy concerns', broadening the potential of different forms of intervention to contribute to the transition. If, as Salder (2023) argues, place is a point of convergence of the relationships we define as important above then, by starting with place, it should be possible to work outwards to explore new paths forwards. This seems certain to result in a more diverse description of the 'energy problem' and will move debate beyond the false area-versus-people dichotomy, acknowledging that the social networks and material and energy flows can, but do not necessarily have to, be geographically nested.</p><p>If a place lens enables a different framing of problems then, what might change as a result? Such a question demands empirical inquiry but, as Devine-Wright and Peacock (2025) suggest, based around a more coherent approach to such work, which we hope this paper provides. For decision-makers, it offers the potential to deliver solutions which address multiple problems and to build solutions which fit the circumstances and cultures of the places rather than trying to adjust the place to fit the solution <ref type="bibr" target="#b10">(Büscher et al., 2023)</ref>. For citizens and businesses, it offers the opportunity to shape the problems being addressed and build ownership of the policies being designed.</p><p>Whilst it seems certain that a place lens will be generative of different questions and, therefore, potential solutions, the very fact that it does not align with (or directly challenges) the spatially drawn policy structures it will exist within may limit its adoption. A place-based lens would challenge existing power structures and it is unclear who would hold the ring for more multi-sector and multi-scalar decision-making. There is a paradox too that, whilst the richer description of place helps explain better the circumstances in which individuals and communities are located, the complexity and contingencies may be too challenging for policy processes. Recognising long-standing inequalities in materiality and politics does not, of itself, guarantee a path forward.</p><p>To conclude then, (re-)locating 'place' offers a different way of thinking about energy demand. It remains to be demonstrated how such insights can usefully inform future action. We hope this paper offers greater structure and clarity to researchers seeking to answer such questions. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CRediT authorship contribution statement</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Greg Marsden :</head><label>Marsden</label><figDesc>Writingreview &amp; editing, Writingoriginal draft, Methodology, Investigation, Conceptualization. Stefan Bouzarovski: Writingreview &amp; editing, Writingoriginal draft, Investigation, Conceptualization. Kanika Balani: Writingoriginal draft. Shawn Bodden: Writingreview &amp; editing, Writingoriginal draft. Victoria Kasprowicz: Writingreview &amp; editing, Writingoriginal draft. Mari Martiskainen: Writingreview &amp; editing. Imogen Rattle: Writingreview &amp; editing, Writingoriginal draft. Katherine Sugar: Writingoriginal draft. Faye Wade: Writingreview &amp; editing, Writingoriginal draft.</figDesc></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>This research was funded as part of the <rs type="programName">Energy Demand Research centre</rs>, funded by the <rs type="funder">Engineering and Physical Sciences Research Council and Economic and Social Research Council</rs> via <rs type="grantName">UKRI grant</rs> <rs type="grantNumber">EP/ Y010078/1</rs>. The authors are grateful to other members of the Place theme for their insights in shaping this paper.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_yyQNhWn">
+					<idno type="grant-number">EP/ Y010078/1</idno>
+					<orgName type="grant-name">UKRI grant</orgName>
+					<orgName type="program" subtype="full">Energy Demand Research centre</orgName>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>No data was used for the research described in the article.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Urbanizing urban political ecology: a critique of methodological cityism</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Angelo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wachsmuth</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1468-2427.12105</idno>
+		<ptr target="https://doi.org/10.1111/1468-2427.12105" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Urban Reg. Res</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="16" to="27" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Doings with the land and sea: decolonising geographies, Indigeneity, and enacting place-agency</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Barker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pickerill</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0309132519839863</idno>
+		<ptr target="https://doi.org/10.1177/0309132519839863" />
+	</analytic>
+	<monogr>
+		<title level="j">Prog. Hum. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="640" to="662" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Social outcomes of energy use in the United Kingdom: household energy footprints and their links to well-being</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Baltruszewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Steinberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Paavola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ivanova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">I</forename><surname>Brand-Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Owen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ecolecon.2022.107686</idno>
+		<ptr target="https://doi.org/10.1016/j.ecolecon.2022.107686" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Econ</title>
+		<imprint>
+			<biblScope unit="volume">205</biblScope>
+			<biblScope unit="page">107686</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Geography and ethics III: from moral geographies to geographies of worth</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Barnett</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0309132513514708</idno>
+		<ptr target="https://doi.org/10.1177/0309132513514708" />
+	</analytic>
+	<monogr>
+		<title level="j">Prog. Hum. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="151" to="160" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Energy demand reduction options for meeting national zero-emission targets in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Betts-Davies</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41560-022-01057-y</idno>
+		<ptr target="https://doi.org/10.1038/s41560-022-01057-y" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat Energy</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="726" to="735" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Working through our differences: Limits of ontology in the ordinary lives of critical geographical theory</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bodden</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/20438206231221618</idno>
+		<ptr target="https://doi.org/10.1177/20438206231221618" />
+	</analytic>
+	<monogr>
+		<title level="m">Dialogues in Human Geography</title>
+		<imprint>
+			<date type="published" when="2023">2023. 20438206231221616</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Boatcȃ</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781315584867</idno>
+		<title level="m">Global Inequalities Beyond Occidentalism</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>st ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marsden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page">104375</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Endangered Salares: micro-disasters in Northern Chile</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bonelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dorador</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/25729861.2021.1968634</idno>
+		<ptr target="https://doi.org/10.1080/25729861.2021" />
+	</analytic>
+	<monogr>
+		<title level="j">Tapuya: Latin American Sci</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2021">2021. 1968634</date>
+		</imprint>
+	</monogr>
+	<note>Technol. Soc.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The determinants of double energy vulnerability: a geospatial analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lonie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sarpotdar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mattioli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/geoj.12610</idno>
+		<ptr target="https://doi.org/10.1111/geoj.12610" />
+	</analytic>
+	<monogr>
+		<title level="j">Geogr. J</title>
+		<imprint>
+			<date type="published" when="2024">2024. 12610</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Making response-ability: societal readiness assessment for sustainability governance</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Büscher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cronshaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kirkbride</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Spurling</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su15065140</idno>
+		<ptr target="https://doi.org/10.3390/su15065140" />
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">5140</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">U</forename><surname>Brand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wissen</surname></persName>
+		</author>
+		<title level="m">The Imperial Mode of Living. Everyday Life and the Ecological Crisis of Capitalism</title>
+		<imprint>
+			<publisher>Verso</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The map is not the territory: a sympathetic critique of energy research&apos;s spatial turn</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bridge</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2017.09.033</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2017.09.033" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="11" to="20" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The justice and equity implications of the clean energy transition</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Carley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Konisky</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41560-020-0641-6</idno>
+		<ptr target="https://doi.org/10.1038/s41560-020-0641-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="569" to="577" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><surname>Ccc</surname></persName>
+		</author>
+		<ptr target="https://www.theccc.org.uk/wp-content/uploads/2020/12/Local-Authorities-and-the-Sixth-Carbon-Budget.pdf" />
+		<title level="m">Local Authorities and the Sixth Carbon Budget, Climate Change Committee</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><surname>Ccc</surname></persName>
+		</author>
+		<ptr target="https://www.theccc.org.uk/publication/the-seventh-carbon-budget/" />
+		<title level="m">The Seventh Carbon Budget, Climate Change Committee</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Infrastructures, practices and the dynamics of demand</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Coutard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shove</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Shove, E. and Trentmann, F. Infrastructures, practices and the synamics of demand</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="10" to="22" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Place: An introduction</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cresswell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Wiley Blackwell</publisher>
+		</imprint>
+	</monogr>
+	<note>Second Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Making and mobilising place: the governance of Greater Manchester&apos;s decarbonisation ambitions</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Crowther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petrova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Scott</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00291951.2023.2217817</idno>
+		<ptr target="https://doi.org/10.1080/00291951.2023.2217817" />
+	</analytic>
+	<monogr>
+		<title level="j">Norsk Geografisk Tidsskrift -Norwegian J. Geography</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="157" to="170" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Emerging energy geographies: scalimng and spatial divergence in EUropeand electricity generation capacity</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Dahlmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kolk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindeque</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0969776416663808</idno>
+		<ptr target="https://doi.org/10.1177/0969776416663808" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur. Urban Reg. Stud</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="381" to="404" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Place-based reflexivity for just energy science</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Devine-Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ryder</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41560-023-01423-4</idno>
+		<ptr target="https://doi.org/10.1038/s41560-023-01423-4" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Putting energy infrastructure into place: a systematic review</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Devine-Wright</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Peacock</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.rser.2023.114272</idno>
+		<ptr target="https://doi.org/10.1016/j.rser.2023.114272" />
+	</analytic>
+	<monogr>
+		<title level="j">Renew. Sustain. Energy Rev</title>
+		<imprint>
+			<biblScope unit="volume">197</biblScope>
+			<biblScope unit="page">114272</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><surname>Dft</surname></persName>
+		</author>
+		<ptr target="282/decarbonising-transport-a-better-greener-britain.pdf" />
+		<title level="m">Decarbonising Transport: A Better, Greener Britain, Department for Transport</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ellegård</surname></persName>
+		</author>
+		<title level="m">Thinking Time Geography</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Decarbonising rotterdam?</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Elsner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Monstadt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Raven</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13604813.2019.1689735</idno>
+		<ptr target="https://doi.org/10.1080/13604813.2019.1689735" />
+	</analytic>
+	<monogr>
+		<title level="j">City</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">4-5</biblScope>
+			<biblScope unit="page" from="646" to="657" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<author>
+			<persName><surname>Eurocities</surname></persName>
+		</author>
+		<ptr target="https://eurocities.eu/latest/cop-27-local-governments-must-be-empowered-to-deliver-climate-agreement/" />
+	</analytic>
+	<monogr>
+		<title level="m">Local governments must be empowered to deliver climate agreement</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="volume">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Electric vehicle charging network in Europe: an accessibility and deployment trends analysis</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Falchetta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Noussan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.trd.2021.102813</idno>
+		<ptr target="https://doi.org/10.1016/j.trd.2021.102813" />
+	</analytic>
+	<monogr>
+		<title level="j">Transp. Res. Part D: Transp. Environ</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page">102813</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Collective memories, placeframing and the politics of imaginary futures in sustainability transitions and transformation</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Feola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Goodman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Suzunaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Soler</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geoforum.2022.103668</idno>
+		<ptr target="https://doi.org/10.1016/j.geoforum.2022.103668" />
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page">103668</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Assessing electricity network capacity requirements for industrial decarbonisation in Great Britain</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gailani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Taylor</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enpol.2025.114559</idno>
+		<ptr target="https://doi.org/10.1016/j.enpol.2025.114559" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">201</biblScope>
+			<biblScope unit="page">114559</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">A &quot;spatially just&quot; transition? A critical review of regional equity in decarbonisation pathways</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Garvey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Norman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Buchs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barrett</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2022.102630</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2022.102630" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page">102630</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Domestic energy mapping to enable area-based whole house retrofits</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gregg</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enbuild.2020.110514</idno>
+		<ptr target="https://doi.org/10.1016/j.enbuild.2020.110514" />
+	</analytic>
+	<monogr>
+		<title level="j">Energ. Build</title>
+		<imprint>
+			<biblScope unit="volume">229</biblScope>
+			<biblScope unit="page">110514</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Diorama, path and project</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hägerstrand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tijdschrift Voor Econ. En Soc. Geografie</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="323" to="339" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Do renewable energy communities deliver energy justice? Exploring insights from 71 European cases</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hanke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Guyet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Feenstra</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2021.102244</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2021.102244" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page">102244</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The importance of social relations in shaping energy demand</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hargreaves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Middlemiss</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41560-020-0553-5</idno>
+		<ptr target="https://doi.org/10.1038/s41560-020-0553-5" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="195" to="201" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">People can talk about their practices</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hitchings</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1475-4762.2011.01060.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1475-4762.2011.01060.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Area</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="61" to="67" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The politics of the rural and relational values: contested discourses of rural change and landscape futures in west wales</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Holmes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Clemoes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Marriot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wynne-Jones</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geoforum.2022.05.014</idno>
+		<ptr target="https://doi.org/10.1016/j.geoforum.2022.05.014" />
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="153" to="164" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Roles, responsibilities and capacities: Theorizing space, social practice, and the relational constitution of energy demand in and beyond Manchester</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Holmes</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2021.102293</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2021.102293" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page">102293</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Studying obduracy in the city: toward a productive fusion between technology studies and urban studies</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hommels</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0162243904271759</idno>
+		<ptr target="https://doi.org/10.1177/0162243904271759" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Technol. Human Values</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="323" to="351" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Conservation in the Pluriverse: anti-capitalist struggle, knowledge from resistance and the &apos;repoliticisation of nature&apos; in the TIPNIS, Bolivia</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hope</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geoforum.2021.04.006</idno>
+		<ptr target="https://doi.org/10.1016/j.geoforum.2021.04.006" />
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page" from="217" to="225" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Global Supply Chains of EV Batteries</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Howlett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ramesh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Perl</surname></persName>
+		</author>
+		<ptr target="https://www.iea.org/reports/global-supply-chains-of-ev-batteries" />
+	</analytic>
+	<monogr>
+		<title level="m">Studying Public Policy: Policy Cycles and Policy Subsytems, Third Edition</title>
+		<meeting><address><addrLine>Oxford; Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2009">2009. 2022</date>
+		</imprint>
+	</monogr>
+	<note>IEA</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Accelerating Net Zero Delivery: Unlocking the benefits of climate action in UK city-regions, Innovate UK in association with PWC</title>
+		<author>
+			<persName><forename type="first">H.-L</forename><surname>Innovateuk ; Lai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Devine-Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Clery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rattle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ryder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Taylor</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2025.103967</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2025.103967" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page">103967</biblScope>
+			<date type="published" when="2022">2022. 2025</date>
+		</imprint>
+		<respStmt>
+			<orgName>Otley Energy, University of Leeds</orgName>
+		</respStmt>
+	</monogr>
+	<note>A Place-based, just transition framework can guide industrial decarbonisation with a social licence</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The origins of ethnomethodology</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lynch</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/B978-044451542-1/50015-5</idno>
+		<ptr target="https://doi.org/10.1016/B978-044451542-1/50015-5" />
+	</analytic>
+	<monogr>
+		<title level="m">philosophy of anthropology and sociology</title>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="485" to="515" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Making time, making politics: problematizing temporality in energy and climate studies</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Marquardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Delina</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2021.102073</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2021.102073" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page">102073</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Space, Place, and Gender</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Massey</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>University of Minnesota Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">A counterhegemonic relationality of place</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Massey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mobile Urbanism: Cities and Policy-Making in the Global Age</title>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Mccann</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Ward</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Minneapolis</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Minnesota Press</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="1" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Developing a relational approach to energy demand: a methodological and conceptual guide</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Middlemiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bookbinder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Cairns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Mininni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Brisbois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hannon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hall</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2024.103441</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2024.103441" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page">103441</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Transitions in place: dynamics, possibilities, and constraints</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nicolosi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Feola</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geoforum.2016.09.017</idno>
+		<ptr target="https://doi.org/10.1016/j.geoforum.2016.09.017" />
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="153" to="163" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Your Way: Place-Based Solutions for a Local Clean Energy Transition</title>
+		<author>
+			<persName><surname>Oeere</surname></persName>
+		</author>
+		<ptr target="https://www.energy.gov/eere/articles/your-way-place-based-solutions-local-clean-energy-transition" />
+	</analytic>
+	<monogr>
+		<title level="j">Office of Energy Efficiency and Renewable Energy</title>
+		<imprint>
+			<date type="published" when="2023-05">2023. May 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Security planning, citizenship, and the political temporalities of electricity infrastructure</title>
+		<author>
+			<persName><forename type="first">'</forename><surname>Pilo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+		<idno type="DOI">10.1080/02723638.2022.2091303</idno>
+		<ptr target="https://doi.org/10.1080/02723638.2022.2091303" />
+	</analytic>
+	<monogr>
+		<title level="j">Urban Geogr</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1285" to="1304" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Impacts of meeting minimum access on critical earth systems amidst the Great Inequality</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Rammelt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Liverman</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41893-022-00995-5</idno>
+		<ptr target="https://doi.org/10.1038/s41893-022-00995-5" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat Sustain</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="212" to="221" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Factors driving the decarbonisation of industrial clusters: a rapid evidence assessment of international experience</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rattle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Taylor</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2023.103265</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2023.103265" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page">103265</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Electric Vehicle Paradise? Exploring the Value Chains of Green Extractivism</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Remme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sareen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Haarstad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rommetveit</surname></persName>
+		</author>
+		<idno type="DOI">10.1163/9789004686182_013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Afterlives of Extraction: Alternatives and Sustainable Futures&apos;. Chapter</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="323" to="348" />
+			<date type="published" when="2023">2023</date>
+			<publisher>Brill | Nijhoff</publisher>
+			<pubPlace>Leiden, The Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Conceptualising Demand: A Distinctive Approach to Consumption and Practice</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rinkinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marsden</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<pubPlace>Routledge, London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The green transition and its potential territorial discontents</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rodríguez-Pose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bartalucci</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/cjres/rsad039</idno>
+		<ptr target="https://doi.org/10.1093/cjres/rsad039" />
+	</analytic>
+	<monogr>
+		<title level="j">Camb. J. Reg. Econ. Soc</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="339" to="358" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">How non-energy policies shape demand for energy</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Royston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Selby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tingey</surname></persName>
+		</author>
+		<idno type="DOI">10.4337/9781839100710.00029</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Research Handbook on energy and Society</title>
+		<editor>
+			<persName><surname>Eds</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Webb</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="259" to="271" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sacks</surname></persName>
+		</author>
+		<title level="m">Lectures on conversation</title>
+		<imprint>
+			<publisher>Blackwell</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Reading the relational local economy: regional governance and the rescaling of local dynamics</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Salder</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geoforum.2023.103785</idno>
+		<ptr target="https://doi.org/10.1016/j.geoforum.2023.103785" />
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page">103785</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">A matter of time: Explicating temporality in science and technology studies and Bergen&apos;s car-free zone development</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sareen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Remme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wågsaether</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Haarstad</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2021.102128</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2021.102128" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page">102128</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Externalised costs of electric automobility: Social-ecological conflicts of lithium extraction in Chile</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Schlosser</surname></persName>
+		</author>
+		<ptr target="https://www.econstor.eu/handle/10419/222406" />
+		<imprint>
+			<date type="published" when="2020">2020. 2020</date>
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Hochschule für Wirtschaft und Recht Berlin, Institute for International Political Economy (IPE)</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Working Paper 144</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">The power of place in understanding place attachments and meanings</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sébastien</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geoforum.2019.11.001</idno>
+		<ptr target="https://doi.org/10.1016/j.geoforum.2019.11.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Pluralising place frames in urban transition management: net-zero transitions at precinct scale</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Raven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Farrelly</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.eist.2023.100803</idno>
+		<ptr target="https://doi.org/10.1016/j.eist.2023.100803" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ.Innov. Soc. Trans</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page">100803</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">What is energy for? Social practice and energy demand</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Walker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Theory, Culture &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="41" to="58" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Constructing &apos;Local&apos; and &apos;Sustainable&apos;: a critical analysis of place-based public food procurement</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Son</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geoforum.2024.103989</idno>
+		<ptr target="https://doi.org/10.1016/j.geoforum.2024.103989" />
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page">103989</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Decolonizing energy justice from the ground up: political ecology, ontology, and energy landscapes</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tornel</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/03091325221132561</idno>
+		<ptr target="https://doi.org/10.1177/03091325221132561" />
+	</analytic>
+	<monogr>
+		<title level="j">Prog. Hum. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="43" to="65" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Electricity: making demand more flexible</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Torritti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Green</surname></persName>
+		</author>
+		<idno>978-1- 913299-04-0</idno>
+		<ptr target="https://www.creds.ac.uk/publications/shifting-the-focus-5-electricity-making-demand-more-flexible/" />
+	</analytic>
+	<monogr>
+		<title level="m">Shifting the focus: energy demand in a net-zero carbon</title>
+		<editor>
+			<persName><surname>Uk</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Eyre</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Killip</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford, UK. ISBN</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Power Shift: Research into Local Authority powers relating to climate ambition</title>
+		<ptr target="https://www.uk100.org/sites/default/files/publications/Power_Shift.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Quantum Strategy &amp; Technology Ltd for UK100</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">100</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Building and unlocking flexibility with smart local energy systems (SLES)</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vigurs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Maidment</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Fell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shipworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Revolution Research Centre</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>UK. University of Strathclyde Publishing</publisher>
+			<pubPlace>Strathclyde</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Understanding the missing middlemen of domestic heating: Installers as a community of professional practice in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hitchings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shipworth</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2016.05.007</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2016.05.007" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="39" to="47" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Area-based targeting of fuel poverty in Northern Ireland: an evidenced-based approach</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Liddell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Morris</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apgeog.2012.04.002</idno>
+		<ptr target="https://doi.org/10.1016/j.apgeog.2012.04.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="639" to="649" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Thinking temporally when thinking relationally: Temporality in relational place-making</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geoforum.2018.02.007</idno>
+		<idno>02.007</idno>
+		<ptr target="https://doi.org/10.1016/j.geoforum" />
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="91" to="99" />
+			<date type="published" when="2018">2018. 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

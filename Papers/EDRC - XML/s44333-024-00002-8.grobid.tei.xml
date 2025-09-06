@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Planning to fail? How science can respond to reduced climate mitigation ambition</title>
+				<funder ref="#_GZWxG8D">
+					<orgName type="full">UK Research and Innovation through the Centre for Research into Energy Demand Solutions</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-05-22">2024-05-22</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Greg</forename><surname>Marsden</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Tim</forename><surname>Schwanen</surname></persName>
+						</author>
+						<title level="a" type="main">Planning to fail? How science can respond to reduced climate mitigation ambition</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">npj Sustainable Mobility and Transport</title>
+						<title level="j" type="abbrev">npj. Sustain. Mobil. Transp.</title>
+						<idno type="eISSN">3004-8664</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">1</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<date type="published" when="2024-05-22" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">5BFDA72F25654524611051386F99BDDE</idno>
+					<idno type="DOI">10.1038/s44333-024-00002-8</idno>
+					<note type="submission">Received: 3 January 2024; Accepted: 15 March 2024;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Planning to fail? How science can respond to reduced climate mitigation ambition Check for updates Greg Marsden <ref type="bibr" target="#b0">1</ref> &amp; Tim Schwanen <ref type="bibr" target="#b1">2</ref> The prospect of remaining within 1.5C of planetary warming relies on developed economies tracking increasingly steep and challenging emission reduction pathways. This paper explores how the UK is now proactively planning to miss its targets, using the surface transport sector as a critical case. It discusses how the research-policy interface might both challenge downgraded ambition and provide more actionable routes forward.</p><p>The UK Government has staked a claim as a global leader in climate policy, being the first national government worldwide to establish a Climate Change Act (2008), which mandated an 80% reduction in climate emissions by 2050. It updated this act in 2019 to 100% net emission reductions, the socalled 'Net Zero'. Progress has been made, in particular in decarbonising the power sector, which has underpinned a meeting of carbon budgets in the period up to 2023<ref type="foot" target="#foot_0">foot_0</ref> . However, as policy change now requires actions across all sectors at pace, the Government is currently off track to meet the budget goals out to 2037. This is particularly problematic for the transport sector as surface transport (excluding domestic and international maritime and aviation) saw no reductions in CO 2eq emissions from 1990 to 2019. It is the largest contributor to total emissions at 26% (109MtC), despite reductions in car use since the COVID-19 pandemic <ref type="bibr" target="#b1">2</ref> .</p><p>In 2021, the UK Government published its first Transport Decarbonisation Plan (TDP), which suggested multiple policy pathways and considered the possibility of going further and faster than the Government's Advisory Body, the Climate Change Committee (CCC), had recommended a year earlier <ref type="bibr" target="#b2">3</ref> . Yet, the 2021 ambitions have been watered down. By March 2023, the TDP pathways had been superseded by a pathway that falls well behind that proposed by the CCC in 2020, and most of the policies to reduce emissions by influencing travel demand had been removed <ref type="bibr" target="#b3">4</ref> . In September 2023, Prime Minister Rishi Sunak announced the intention to push back the dates for the phase-out of the sale of new fossil fuel-powered vehicles from 2030 to 2035. He also attacked devolved and local government initiatives on lower speed limits, car sharing, 15-min cities, and traffic calming for residential areas. A "Plan for Drivers" accompanied this policy shift, declaring that the UK "can decarbonise and maintain our freedoms" <ref type="bibr" target="#b4">5</ref> .</p><p>In this short commentary, we reflect on why a simultaneous shift in problem framing, politics, and policies has occurred. UK transport policy offers, we suggest, an early example of how strategies that are developed to meet the increasingly challenging carbon budget obligations may fare when faced with the politics of implementation. We conclude by exploring the role research plays in influencing change in one of the defining challenges of our lifetimes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Policy change and Kingdon's three streams model</head><p>Our paper takes inspiration from political theorist John Kingdon's three streams model of policy change <ref type="bibr" target="#b5">6</ref> . In it, he argues that there are three separate but inter-related streams that need to be aligned during so-called 'policy windows.' The first stream is 'problems', which relate to the recognition of an issue as important relative to others through reports, indicators, or failures that show that an issue needs attention. In our case, the climate challenge is well documented and formally recognised in legislation. The second stream is 'solutions', where a set of recognised and acceptable policy options needs to be available to address the problem in ways that make its formal recognition politically salient. The third stream is 'politics,' where there needs to be sufficient alignment with the politics of the day and, relative to tackling other issues across government, the political benefit from making a change must outweigh the perceived challenges and risks of adopting a new solution or policy. Our discussion revolves around a case where previously 'necessary' solutions are removed from the policy arena rather than how new policies come about. We, therefore, pay less attention to other aspects of the three streams framework, such as 'policy entrepreneurs', who work to get things on the agenda and draw together the streams to deliver change. We refer readers to reviews discussing Kingdon's approach and the breadth of its application <ref type="bibr" target="#b6">7</ref> , as well as its utility for transport and climate policy analysis <ref type="bibr" target="#b7">8</ref> for further detail.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Problem recognition: the equivalent of 10 pandemics</head><p>The recent shifts in UK transport policy have significantly increased an already monumental CO 2eq emissions reduction challenge. A pathway for transport consistent with the country's legal decarbonisation targets requires some mix of measures that reduce how much people travel by car, increase the use of alternative modes of transport, and shift away propulsion from fossil fuels completely <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b8">9</ref> . Part of this mix is a mandated ending to the sale of new fossil fuel-powered vehicles by 2035 and for 80% of new car sales to be zero emission by 2030 <ref type="bibr" target="#b9">10</ref> . This locks in key aspects of the emissions reduction pathway, which, while ambitious, still lags behind what the CCC anticipated in 2020. As travel demand reduction and mode shift have been removed almost entirely from the anticipated policy pathway, the CCC now estimates that annual emissions reduction gaps of 22.7 MtC for 2023-2028 and 19.2 MtC for 2028-2032 have arisen 1 . Marsden <ref type="bibr" target="#b10">11</ref> estimates that the downgrading of policy ambition has resulted in a 224 MtC overshoot compared to the CCC's plans from 2020. Since the technology pathway has now been legislated, this overshoot would have to be compensated through travel demand and mode shift actions, notwithstanding their downgrading in recent national policy. To put the emissions gap in context, the reduction in emissions between 2019 and 2020, when large parts of the UK economy were closed down due to the COVID-19 pandemic, was 24 MtC 1 . In other words, the scale of required travel behaviour change equals the impacts of around 10 consecutive years of pandemic-scale traffic reductions. The mechanisms for formal problem recognition now serve to ratchet up the pressure to act.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Politics, reframing the problem and recasting the solutions</head><p>In the context of an increase in the recognised scale of the problem, the recent change in Prime Minister Sunak's messaging in support of motorists is clearly a political choice to push back the need to act and to reject a substantive travel reduction strategy. The legitimisation of that choice, Kingdon's three streams model suggests, requires reframing the problem, attacking the previous solutions (which sought to solve the 'wrong problem'), and proposing some alternative actions. All three strategies are evident.</p><p>Consider problem framing. Acting on Net Zero has overwhelming public support, with recent polling suggesting that 70% of the public support the goal of being Net Zero by 2050, against 17% who do not <ref type="bibr" target="#b11">12</ref> . Sunak and his team therefore decided to reframe the decarbonisation problem as less urgent and earlier action as being socially regressive. The subtle reframing of the UK's climate commitments as being about 2050 and not about the total carbon budget left to consume is at odds with climate science <ref type="bibr" target="#b12">13</ref> but plays to decision-makers' and the public's lack of detailed understanding of it.</p><p>Kingdon's work suggests that policies are only recognised and enacted when they are deemed capable of tackling the problem in ways with which politics can cope. This, we believe to constitute the biggest challenge for transport and one which may well spread to other policy domains and geographical contexts. Because the scale of change required now equals '10 pandemics' and meaningful demand reduction is marginalised further, the policy mix to stay on transport sector pathways that are commensurate with the UK's legal obligations becomes more difficult to imagine. The reframing of solutions that accompany the problem reframing is one that enables slower progress on electrification and explicitly repositions demand reduction policies as unnecessary, undemocratic, undesirable, and/or unfair. All of these strategies have been deployed in more recent policy announcements.</p><p>Of course, decarbonisation policy is developed and implemented in a multilevel governance setting and not wholly decided by the UK Government in Westminster. There are devolved national governments in Scotland, Wales and Northern Ireland, and local authorities also play critical roles, particularly regarding implementation and in major cities <ref type="bibr" target="#b13">14</ref> . The Scottish Government has set a target for a 20% reduction in car kilometres by 2030 and the Welsh Government a reduction of 10% per capita. Local authorities declared climate emergencies and had goals for zero emissions from transport as early as 2028. Policy ambitions and political commitment to transport decarbonisation remain at these levels, at least for now. However, actions and achievements on the ground are already lagging behind ambition <ref type="bibr" target="#b0">1</ref> , and meeting local targets will only become more difficult in the absence of a whole-UK approach because of the importance of national taxation regimes to transport decarbonisation and the heavy dependence on devolved administrations and local governments on funding allocations from Westminster. Worse, lower-tier governments now need to counter the narrative that their climate policies are part of a 'war on motorists' and seek to penalise 'hard-working families'.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lessons</head><p>The experience of recent UK transport policy suggests that the climate policy consensus might be more vulnerable than has been imagined. This, plus the significant societal changes that are needed to transform UK transport in ways that are aligned with the Climate Change Act, will, it is argued, require more rather than less politics <ref type="bibr" target="#b14">15</ref> . This, in turn, challenges scholars to reconsider the legitimate role academia should play in this defining issue. We see three key opportunities where there is a strong imperative and an opportunity for different or stronger engagement.</p><p>First, it is important for us, as scientists and scholars, to act as clearly independent scrutineers of the assumptions behind the watering down of climate commitments and shifts in problem framing. In so doing, we should recognise that we are active participants in the policy process and not somehow stood apart from it <ref type="bibr" target="#b15">16</ref> .</p><p>Second, we need to become better at developing policy-aware and deliverable solutions and policy pathways. While much research has focused on the very substantial changes needed to remain within global carbon budgets, a huge disparity has opened up between actual policymaking today and 'what the science tells us' is needed. The gap between the hypothetical and the deliverable is, in part, reproduced by traditions of studying policies rather than the process and politics surrounding policy making <ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18</ref> . Helping policy to close this gap is a critical priority if the risk of policy rejection is to be reduced.</p><p>Finally, as academic researchers, we can adapt our modes of research to become more proactive in reframing the debate, identifying solutions and challenging the downgrading of ambition <ref type="bibr" target="#b11">12</ref> . As well as active engagement in public arenas, there is a range of research approaches that are oriented towards change processes and action, including transition management <ref type="bibr" target="#b18">19</ref> , design experimentation <ref type="bibr" target="#b19">20</ref> and more research activist approaches <ref type="bibr" target="#b20">21</ref> .</p><p>There is a spectrum of views within academia on whether taking more proactive and public positions on climate policy is a legitimate or institutionally valued role for researchers. However, the extent to which the climate policies needed to be consistent with 1.5C can survive contact with the politics of the day is becoming a defining question of the current decade. In our view, it is one with which scientists and scholars supporting such policies must engage.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Institute for Transport Studies, University of Leeds, LS2 9JT Leeds, UK.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>Transport Studies Unit, School of Geography and the Environment, University of Oxford, Oxford, UK. e-mail: g.r.marsden@its.leeds.ac.uk npj Sustainable Mobility and Transport | (2024) 1:2 1 1234567890():,; 1234567890():,;</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>npj Sustainable Mobility and Transport | (2024) 1:2</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This article was written following a 2-year research collaboration involving <rs type="person">Dr. Ersilia Verlinghieri</rs> and <rs type="person">Dr. Thomas Haines-Doran</rs>. The authors are grateful to both for their insightful discussions throughout. The authors gratefully acknowledge support from <rs type="funder">UK Research and Innovation through the Centre for Research into Energy Demand Solutions</rs>, grant reference number <rs type="grantNumber">EP/R 035288/1</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_GZWxG8D">
+					<idno type="grant-number">EP/R 035288/1</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head><p>G.M. was jointly responsible for conceptualisation, literature review, writing and editing. T.S. was jointly responsible for conceptualisation, literature review, writing and editing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare no competing interests.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Climate Change Committee</title>
+		<ptr target="https://www.theccc.org.uk/publication/2023-progress-report-to-parliament/" />
+	</analytic>
+	<monogr>
+		<title level="m">Progress Report to Parliament</title>
+		<imprint>
+			<date type="published" when="2023">2023. 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marsden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Anable</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Docherty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Brown</surname></persName>
+		</author>
+		<ptr target="https://www.creds.ac.uk/publications/at-a-crossroads-travel-adaptations-during-covid-19-restrictions-and-where-next/" />
+		<title level="m">At a Crossroads: Travel Adaptations During Covid-19 Restrictions and Where Next?</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Centre for Research into Energy, Demand Solutions</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<ptr target="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009448/decarbonising-transport-a-better-greener-britain.pdf" />
+		<title level="m">Department for Transport. Transport Decarbonisation Plan</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><surname>Hm Government</surname></persName>
+		</author>
+		<ptr target="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1147369/carbon-budget-delivery-plan.pdf" />
+		<title level="m">Carbon Budget Delivery Plan. HC1269</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<idno type="DOI">10.1038/s44333-024-00002-8</idno>
+		<idno>gov.uk/media/651fe3022548ca000dddee82/the- plan-for-drivers.pdf</idno>
+		<ptr target="https://doi.org/10.1038/s44333-024-00002-8" />
+		<title level="m">Department for Transport. The Plan for Drivers</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Alternatives and Public Policies, 2nd edn</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Kingdon</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Agendas</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Longman</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A river runs through it: a multiple streams metareview</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Policy Stud. J</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="13" to="36" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Why are material efficiency solutions a limited part of the climate policy agenda? An application of the Multiple Streams Framework to UK policy on CO 2 emissions from cars</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cooper-Searle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Livesey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Allwood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Policy Gov</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="51" to="64" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Decarbonising transport to achieve Paris Agreement targets</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Huizenga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Peet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Medimorec</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bakker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Effic</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="363" to="386" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">6537c6821bf90d0013d8450b/zev-mandate-consultation-summaryof-responses-and-joint-government-response</title>
+		<author>
+			<persName><surname>Uk Government</surname></persName>
+		</author>
+		<ptr target="https://assets.publishing.service.gov.uk/media/" />
+	</analytic>
+	<monogr>
+		<title level="m">Zero Emission Vehicle (ZEV) Mandate Consultation: Summary of Responses and Joint Government Response</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">Reverse</forename><surname>Marsden</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Gear</surname></persName>
+		</author>
+		<ptr target="https://www.creds.ac.uk/publications/reverse-gear-the-reality-and-implications-of-national-transport-emission-reduction-policies/" />
+	</analytic>
+	<monogr>
+		<title level="m">The Reality and Implications of National Transport Emission Reduction Policies</title>
+		<meeting><address><addrLine>Oxford, UK</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<ptr target="https://eciu.net/analysis/polling-cards/public-embarrassed-by-politicians-that-renege-on-climate-pledges" />
+		<title level="m">Public Embarrassed by Politicians that Renege on Climate Pledges</title>
+		<imprint>
+			<publisher>Energy &amp; Climate Intelligence Unit</publisher>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">A factor of two: how the mitigation plans of &apos;climate progressive&apos; nations fall far short of Pariscompliant pathways</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Broderick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Stoddard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clim. Policy</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1290" to="1304" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Behind the targets? The case for coherence in a multi-scalar approach to carbon action plans in the transport sector</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marsden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Anable</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">7122</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The role of national politicians in global climate governance</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Willis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Plan. E: Nat. Space</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="885" to="903" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Fischer</surname></persName>
+		</author>
+		<title level="m">Reframing Public Policy: Discursive Politics and Deliberative Practices</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Howlett</surname></persName>
+		</author>
+		<title level="m">Policy Paradigms in Theory and Practice: Discourses, Ideas and Anomalies in Public Policy Dynamics</title>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Questions of Governance: rethinking the study of Transportation Transp</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marsden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Reardon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Res. Part A: Policy Pract</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="238" to="251" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Transition governance for just, sustainable urban mobility: an experimental approach from Rotterdam, the Netherlands</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Loorbach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Urban Mobil</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">100009</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Designerly living labs: design-driven experimentation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sjöman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hesselgren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Experimentation of Sustainable Transport? Risks, Strengths and Governance Implications</title>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Oldbury</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Isaksson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Marsden</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Linnefors Förlag</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="page" from="139" to="157" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Demand the possible: journeys in changing our world as a public activist-scholar</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chatterton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Practising Public Scholarship: Experiences and Possibilities Beyond the Academy</title>
+		<editor>
+			<persName><forename type="first">Ed</forename><surname>Mitchell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename></persName>
+		</editor>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="73" to="79" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

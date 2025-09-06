@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Impact of Climate Change on the Mental Health of Populations at Disproportionate Risk of Health Impacts and Inequities: A Rapid Scoping Review of Reviews</title>
+				<funder>
+					<orgName type="full">National Institute for Health and Care Research Applied Research Collaboration</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Institute for Health and Care Research</orgName>
+				</funder>
+				<funder ref="#_nG2BgYj">
+					<orgName type="full">Centre for Research into Energy Demand Solutions</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Royal Society (TK)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">GA-AG)</orgName>
+				</funder>
+				<funder ref="#_NMpDgaT">
+					<orgName type="full">Wellcome</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">UCL Cities Partnership Programme</orgName>
+				</funder>
+				<funder ref="#_SBDbcp3">
+					<orgName type="full">Energy Demand Research Centre</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>MDPI AG</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-10-25">25 October 2024</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Germán</forename><forename type="middle">Andrés</forename><surname>Alarcón Garavito</surname></persName>
+							<idno type="ORCID">0000-0002-2856-4356</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Lina</forename><forename type="middle">Fernanda</forename><surname>Toncón Chaparro</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Sarah</forename><surname>Jasim</surname></persName>
+							<email>s.jasim@lse.ac.uk</email>
+							<idno type="ORCID">0000-0003-3940-6350</idno>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Care Policy and Evaluation Centre</orgName>
+								<orgName type="department" key="dep2">London School of Economics and Political Science</orgName>
+								<address>
+									<postCode>WC2A 2AE</postCode>
+									<settlement>London</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Francesca</forename><surname>Zanatta</surname></persName>
+							<email>f.zanatta@ucl.ac.uk</email>
+							<idno type="ORCID">0000-0002-8490-2217</idno>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Primary Care and Population Health</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<postCode>WC1E 7HB</postCode>
+									<settlement>London</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ioanna</forename><surname>Miliou</surname></persName>
+							<email>ioanna.miliou@dsv.su.se</email>
+							<idno type="ORCID">0000-0002-1357-1967</idno>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Computer and Systems Sciences</orgName>
+								<orgName type="institution">Stockholm University</orgName>
+								<address>
+									<postCode>SE-10691</postCode>
+									<settlement>Stockholm</settlement>
+									<country>Sweden;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Maria</forename><surname>Bampa</surname></persName>
+							<email>maria.bampa@dsv.su.se</email>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Computer and Systems Sciences</orgName>
+								<orgName type="institution">Stockholm University</orgName>
+								<address>
+									<postCode>SE-10691</postCode>
+									<settlement>Stockholm</settlement>
+									<country>Sweden;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gesche</forename><surname>Huebner</surname></persName>
+							<email>g.huebner@exeter.ac.uk</email>
+							<affiliation key="aff5">
+								<orgName type="laboratory">European Centre for Environment and Human Health</orgName>
+								<orgName type="institution">University of Exeter</orgName>
+								<address>
+									<postCode>TR10 9FE</postCode>
+									<settlement>Cornwall</settlement>
+									<country>UK;</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tara</forename><surname>Keck</surname></persName>
+							<email>t.keck@ucl.ac.uk</email>
+							<idno type="ORCID">0000-0001-6623-1037</idno>
+							<affiliation key="aff6">
+								<orgName type="department">Department of Neuroscience, Physiology and Pharmacology</orgName>
+								<orgName type="institution">University College London</orgName>
+								<address>
+									<postCode>WC1E 6DE</postCode>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Impact of Climate Change on the Mental Health of Populations at Disproportionate Risk of Health Impacts and Inequities: A Rapid Scoping Review of Reviews</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">International Journal of Environmental Research and Public Health</title>
+						<title level="j" type="abbrev">IJERPH</title>
+						<idno type="eISSN">1660-4601</idno>
+						<imprint>
+							<publisher>MDPI AG</publisher>
+							<biblScope unit="volume">21</biblScope>
+							<biblScope unit="issue">11</biblScope>
+							<biblScope unit="page">1415</biblScope>
+							<date type="published" when="2024-10-25">25 October 2024</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2E8E065CB165B5369BFE604FCDE6716B</idno>
+					<idno type="DOI">10.3390/ijerph21111415</idno>
+					<note type="submission">Received: 8 September 2024 Revised: 13 October 2024 Accepted: 21 October 2024</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>climate change</term>
+					<term>mental health</term>
+					<term>populations at disproportionate risk of health impacts and inequities</term>
+					<term>literature review</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The impacts of climate change on mental health are starting to be recognized and may be exacerbated for populations at disproportionate risk of health impacts or inequalities, including some people living in low-and middle-income countries, children, indigenous populations, and people living in rural communities, among others. Here, we conduct a rapid scoping review of reviews to summarize the research to date on climate impacts on the mental health of populations at disproportionate risk. This review highlights the direct and indirect effects of climate change, the common mental health issues that have been studied related to climate events, and the populations that have been studied to date. This review outlines key gaps in the field and important research areas going forward. These include a need for more systematic methodologies, with before-and-after comparisons or exposure/non-exposure group comparisons and consistent mental health outcome measurements that are appropriately adapted for the populations being studied. Further research is also necessary in regard to the indirect effects of climate change and the climate effects on indigenous populations and populations with other protected and intersecting characteristics. This review highlights the key research areas to date and maps the critical future research necessary to develop future interventions.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Climate change is considered to be one of the biggest challenges of current times and affects many aspects of life <ref type="bibr" target="#b0">[1]</ref>, including environmental conditions, livelihoods, and health. Climate change also has significant implications for mental health and well-being, including with respect to how people interact with their communities and societies <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref>. Understanding the multifaceted impacts of climate change on mental health involves considering both its direct and indirect effects <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b4">5]</ref>. The direct impacts of climate change on mental health are often studied in relation to the aftermath of extreme weather events, such as floods, wildfires, or storms, which can have an immediate impact on mental health <ref type="bibr" target="#b5">[6]</ref>. Specifically, individuals who have lost their homes or loved ones due to extreme weather events may suffer from post-traumatic stress disorder (PTSD) or other forms of psychological distress <ref type="bibr" target="#b5">[6]</ref>. Climate change also affects mental health indirectly <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b6">7]</ref>, extending beyond immediate effects. But because many longer-lasting climate events, such as droughts or changes in wildlife patterns, are not discrete, it can be more difficult to link mental health effects to these events. The climate change impacts from these types of events can include the displacement of communities and the loss of social support networks, which may further exacerbate mental health issues <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>. These indirect effects may also be rooted in changes in socioeconomic structures or environmental degradation. For example, climate-change-induced droughts or crop failures leading to the loss of livelihood and economic stability can increase anxiety, depression, and feelings of hopelessness among affected individuals <ref type="bibr" target="#b8">[9]</ref>.</p><p>It is important to note that not all people's mental health is affected by climate change equally. Certain populations at disproportionate risk of adverse health impacts and inequities, due to a combination of social, economic, and environmental factors, may also face an increased risk of mental health impacts from climate change <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b9">10]</ref>, but research into these groups is sparse. These populations could include, but are not limited to, racial or ethnic minorities, children, older adults, individuals experiencing socioeconomic disadvantages, or individuals contending with specific medical and mental health conditions <ref type="bibr" target="#b2">[3]</ref>. While each factor alone may not signify a disproportionate risk of health impacts or inequities per se, these factors' cumulative impact can create risk for individuals and communities, which may be compounded by climate change stressors <ref type="bibr" target="#b2">[3]</ref>.</p><p>There are often disparities in the support for mental health among populations at disproportionate risk, and these groups may be left out of discussions about the impacts of climate change. Supporting these populations' mental health requires not only the provision of accessible and culturally sensitive mental health services but also comprehensive social, economic, and environmental policies that foster resilience within populations and for individuals. Furthermore, any interventions for a given population need to be co-produced with and targeted for the specific needs of said population <ref type="bibr" target="#b4">[5]</ref>. The urgency of this issue has sparked a growing body of literature and research endeavors aimed at understanding the climate change-mental health nexus with the goal of developing interventions to provide mental health support. As a result of this urgency, we conducted a rapid scoping review of reviews aiming to summarize existing research areas that have been focused on to date and identify the research gaps that need to be addressed to develop future strategies for mitigating these climate-related impacts on the mental health of populations at disproportionate risk.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Methods</head><p>The initial concepts and ideas for this review were discussed at an international mental health and climate change workshop in Stockholm, where the scope and methods were discussed and agreed upon by the co-authors. The review design was informed by guidance for conducting reviews of reviews <ref type="bibr" target="#b10">[11]</ref>. We also followed the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) statement and used it to guide the review design and report the methods and findings <ref type="bibr" target="#b11">[12]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Search Strategy</head><p>We identified search terms by exploring keywords and terms from previous related publications <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b12">13]</ref> and incorporating co-authors' experience-based suggestions. We limited our search strategy to a smaller number of terms given the rapid nature of this scoping review of reviews, a process that may have imposed some limitations on our results (see <ref type="bibr">Section 4)</ref>. We adopted a definition of climate change that encompassed the terms "climate change", "global warming", "extreme weather", "extreme events", "heat wave(s)", and "sea level rise". Mental health was broadly defined to include not only mental health disorders but also emotional states, leading to search terms like "eco-anxiety", "eco-agency", "eco-advocacy", "solastalgia", "climate grief", "mental health", "depression", "anxiety", "suicide", "PTSD", "worry", "hope", "fear", "anxiety", "anger", "despair", "sadness", "hopelessness", and "guilt". Search terms for groups at disproportionate risk included "vulnerable population", "underserved population", "disadvantaged population", "minority groups", and "indigenous people". The search terms for populations at disproportionate risk were broad to avoid defining who comprises these populations and instead identify groups the research conducted to date has identified. We tested and interchanged the terms by conducting exploratory searches on PubMed (Appendix A). The search strategy focused on four categories (mental health, climate change, populations at disproportionate risk, and review). Final searches were conducted in June 2023 on three databases: PubMed, PsycINFO, and EMBASE.</p><p>The search was limited to articles published between January 2013 and June 2023 and written in the English language. There were no location limitations because previous reviews had maintained a global scope in their searches. The selected timeframe is likely to cover a majority of the relevant work on the topic, given that the mental health impacts of climate change have only started to receive attention as an important research topic in the last few years. For instance, both the Lancet Countdown mental health indicator <ref type="bibr" target="#b13">[14]</ref> and the WHO's first policy brief on this topic <ref type="bibr" target="#b14">[15]</ref> were published in 2021 and 2022, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Document Selection</head><p>The search results were imported into Rayyan, a validated tool with semi-automated features enabling the detection of duplicated publications from the different databases <ref type="bibr" target="#b15">[16]</ref>. Title-and abstract-level screening was conducted independently by one researcher (LF-TC). Following the initial screening at the title/abstract level, one researcher (GA-AG) crosschecked 10% of exclusions against the inclusion criteria. The remaining publications that met the inclusion criteria were organized to continue full-text screening for eligibility. In this phase, 100% of the included papers and 25% of the excluded papers were reviewed by two researchers (GA-AG and LF-TC), and discrepancies were resolved via discussion until consensus was reached. While a variety of definitions of mental health and well-being are present in the literature, we followed the structured framework for defining well-being <ref type="bibr" target="#b7">[8]</ref>. This understanding considers the dynamic interplay between individuals, families, communities, and societies and the multiple circumstances that they experience. We followed the previously established healthcare approach to populations at disproportionate risk of health impacts and inequities, which defines these populations as including factors such as ethnicity, race, gender, age, culture, language, occupation, religion, education, socioeconomic status, medical condition status, or living with disability <ref type="bibr" target="#b16">[17]</ref>. Detailed inclusion and exclusion criteria are provided in Table <ref type="table" target="#tab_0">1</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Data Extraction</head><p>Data extraction was conducted by using an extraction Google Sheets database to organize the review process. The extraction form was first piloted by two researchers (GA-AG and LF-TC), and necessary amendments were made before extracting data from the included documents. We adopted an inductive approach to extract data from the reviews guided by this review's aims.</p><p>Extracted information included authors' names and publication years, study locations, review objectives, databases searched, the number of records identified, quality-appraisal methods and tools used, population characteristics of the included studies, types of climate events, mental health outcomes addressed, findings, conclusions, and identified research gaps. Data were extracted by one researcher (LF-TC) and checked by a second researcher (GA-AG).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Data Synthesis</head><p>To identify the areas of focus of the research that has been conducted to date, data were organized using framework analysis <ref type="bibr" target="#b17">[18]</ref>. The analysis centered on establishing themes that appropriately represented the data. The categories for the framework were determined based on the research questions that guided the review and the information collected from the documents. Categories included descriptions of contexts and/or locations, population characteristics, mental health outcomes addressed, and the type of climate event detailed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Article Selection</head><p>Our initial search yielded 1286 records. After removing duplicates, we screened 967 titles and abstracts, leading to the exclusion of 926 records that did not meet the inclusion criteria. Subsequently, we conducted a full-text review of 41 articles. Two papers were not retrieved successfully, resulting in 39 articles being assessed for eligibility. Through full-text screening, we excluded 25 papers because they were not reviews (n = 18), not related to mental health (n = 5), and not related to populations at disproportionate risk (n = 2). Ultimately, 14 studies met our inclusion criteria (see Figure <ref type="figure" target="#fig_0">1</ref> for the PRISMA Flow Diagram). The included reviews and their characteristics are listed in Table <ref type="table" target="#tab_1">2</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Quality Assessment</head><p>The methodological quality of the articles was critically appraised in parallel to data synthesis using the Joanna Briggs Institute checklist for systematic reviews <ref type="bibr" target="#b18">[19]</ref>. The checklist includes 11 questions that help guide appraisal, and each question was answered as "yes", "no", or "unclear". The assessment was performed by two reviewers (GA-AG and LF-TC). Once the reviewers had reached an agreement, each review was given one point for each positive "yes" answer, a half-point for "unclear" answers, and zero points for "no" answers. This tool was used to assess and report on the reviews' methodological quality rather than as a screening tool. Overall, the reviews had an average score of 8.6 of 11 (Appendix B). The included reviews' scores were strengthened by the authors' clear review questions, clear search strategies, and good data extraction practices, such as using data extraction forms. Reductions in scores were typically related to insufficient qualityappraisal efforts, such as not mentioning quality-appraisal tools or stating how many reviewers performed quality evaluations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Article Characteristics</head><p>The included reviews conducted searches using many different sources including academic research electronic databases such as CINAHL, Cochrane Library, EBSCO, Embase, GeoBase, Google Scholar, Healthstar, Medline, Pandora, and Web of Science. Some authors incorporated additional sources from the grey literature, documentary films, reports from the Red Cross and other international emergency and disaster management organizations, media outlets, and intergovernmental agency reports, including reports from the World Health Organization (WHO) published between 1981 and 2023.</p><p>Among the selected reviews, six were scoping reviews [20-25], five were systematic reviews <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref>, and three were non-systematic reviews (e.g., narrative and thematic reviews) <ref type="bibr">[30]</ref><ref type="bibr">[31]</ref><ref type="bibr" target="#b31">[32]</ref>. The reviews were published between 2016 and 2023. The number of records included in the reviews varied between 12 records <ref type="bibr" target="#b22">[23]</ref> and 294 records <ref type="bibr" target="#b26">[27]</ref>. Further information is presented in Table <ref type="table" target="#tab_1">2</ref>.</p><p>The studies included in the reviews were conducted in 58 different countries, including multiple entries from the United States (n = 7) <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b27">28,</ref><ref type="bibr" target="#b28">29,</ref><ref type="bibr" target="#b31">32]</ref>, China (n = 6) [20-22,24-26], Australia (n = 5) <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b27">28]</ref>, Canada (n = 5) <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b28">29]</ref>, India (n = 5) [20, <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b27">28]</ref>, Bangladesh (n = 4) [20,22,24,30], the United Kingdom (n = 4) <ref type="bibr" target="#b21">[22,</ref><ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b27">28]</ref>, Brazil (n = 3) <ref type="bibr" target="#b23">[24,</ref><ref type="bibr" target="#b24">25,</ref><ref type="bibr">30]</ref>, Finland (n = 3) <ref type="bibr" target="#b23">[24,</ref><ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b27">28]</ref>, Mexico (n = 3) [20, <ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b25">26]</ref>, the Philippines (n = 3) [20-22], Russia (n = 3) <ref type="bibr" target="#b23">[24,</ref><ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b28">29]</ref>, and Sweden (n = 3) <ref type="bibr" target="#b23">[24,</ref><ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b28">29]</ref>. A graphic summary of the locations of the studies included in the reviews is shown in Figure <ref type="figure" target="#fig_1">2</ref>.</p><p>The reviews reported on a wide range of climate events. We categorized the events into environmental impacts, extreme weather events and phenomena, and general climate change, as depicted in Table <ref type="table" target="#tab_5">3</ref>. This categorization was performed based on the analysis of the included reviews, and discussion between two researchers (GA-AG and LF-TC) following the principles of framework analysis <ref type="bibr" target="#b17">[18]</ref>.</p><p>The categorization of the mental health outcomes was performed according to the guidance of the Diagnostic and Statistical Manual of Mental Disorders 5 (DSM-5) Classification. We categorized the mental health outcomes into groups including anxiety disorders, mental health and well-being, mood disorders, schizophrenia spectrum and other psychotic disorders, substance use disorders, suicidal behavior/non-suicidal self-injury, and traumaand stressor-related disorders. The studies are shown in Table <ref type="table" target="#tab_6">4</ref>.   Table 4. Cont.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Category Mental Health Outcome Authors</head><p>Substance use disorders Substance misuse <ref type="bibr" target="#b9">[10,</ref><ref type="bibr">20,</ref><ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b27">28,</ref><ref type="bibr" target="#b28">29,</ref><ref type="bibr" target="#b31">32]</ref> Suicidal behavior/Non-suicidal self-injury Non-suicidal self-injury <ref type="bibr" target="#b27">[28]</ref> Suicidal behavior <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr">[30]</ref> Trauma-and stressor-related disorders Acute stress disorder (ASD) [20,21,27,31] Chronic stress disorders <ref type="bibr" target="#b22">[23]</ref> Post-traumatic stress disorder (PTSD)/trauma disorders <ref type="bibr" target="#b9">[10,</ref><ref type="bibr">20,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b25">26,</ref><ref type="bibr">[30]</ref><ref type="bibr">[31]</ref><ref type="bibr" target="#b31">[32]</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Main Populations at Disproportionate Risk of Health Impacts and Inequities</head><p>The reviews focused on several different populations at disproportionate risk of health impacts and inequities. Five reviews examined the mental health of people living in low-and-middle-income countries (LMICs) <ref type="bibr">[20,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b27">28,</ref><ref type="bibr">31]</ref>, with one review specifically focused on children in LMIC contexts <ref type="bibr" target="#b20">[21]</ref>. While not all people living in LMICs are at a disproportionate risk of health impacts and inequities, the populations living in LMICs highlighted in these reviews were disproportionately affected by climate-changerelated events [20, <ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b27">28,</ref><ref type="bibr">31]</ref>, and there was a reported lack of mental health service capacity to support the community's needs, particularly in response to acute climate events. Furthermore, many children living in LMICs face disproportionate risks related to climatechange-related events, where situations such as environmental disasters can put them at risk of exploitation or abuse <ref type="bibr" target="#b22">[23]</ref>.</p><p>Four reviews examined effects on the mental health of indigenous people <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b28">29]</ref>, who have been affected in numerous ways by climate change. For example, for the Saami communities living in the Arctic (northern parts of Norway, Sweden, Finland, and the Kola Peninsula in Russia), climate change and the resulting changing weather patterns have disrupted cultural practices in this community (such as reindeer herding and ice fishing), which is associated with anxiety and depression <ref type="bibr" target="#b26">[27]</ref>. Lebel et al. <ref type="bibr" target="#b28">[29]</ref> reported similar results in the Inuit, Inupiat, and Gwich'in communities in the Circumpolar North. In these communities, activities closely connected to the ice and land are interrupted by changes in the ground due to changing temperatures, disrupting access and causing accidents. The forced avoidance of culturally important land has also reduced traditional knowledge and eroded cultural skills <ref type="bibr" target="#b28">[29]</ref> and may result in a decreased sense of belonging to their communities <ref type="bibr" target="#b6">[7]</ref>.</p><p>Two reviews examined people living in a rural or remote areas <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b27">28]</ref>, who were reported to be disproportionately affected by elevated mental health conditions linked to severe climate events, potentially due to a lack of resources and infrastructure to support mental health needs in rural communities. These results were consistent across a number of countries, including Australia, Canada, Finland, Germany, Greece, India, Iran, Japan, the UK, and the USA <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b27">28]</ref>.</p><p>One review focused on racial and ethnic groups <ref type="bibr" target="#b31">[32]</ref>, one review focused on people with pre-existing mental health conditions <ref type="bibr" target="#b24">[25]</ref>, one review focused on persons living with chronic health conditions or persons with disability <ref type="bibr" target="#b21">[22]</ref>, and one review focused on climate migrants <ref type="bibr">[30]</ref>. These studies indicate that all of these groups may be disproportionately at risk of experiencing the mental health effects of climate change, although research into these populations is extremely limited to date.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Gaps Identified in the Literature</head><p>Many of the reviews identified important gaps in the literature, and several themes emerged across the reviews. First, a number of methodological gaps were identified. Several reviews mentioned issues regarding the lack of comparisons between exposed and unexposed groups <ref type="bibr" target="#b9">[10,</ref><ref type="bibr">20,</ref><ref type="bibr" target="#b20">21]</ref> or the absence of longitudinal studies that compare effects before and after events [20, <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b27">28]</ref>. Without these group or before/after comparisons, it is extremely difficult to quantify the effects of climate-related events on mental health. Second, while many studies have focused on the direct effects of climate change on the mental health of populations at disproportionate risk, there have been relatively few studies investigating the longer-term effects of climate change not associated with acute extreme weather, like long-term droughts or reduced biodiversity, or the indirect effects of climate change, such as eco-anxiety and migration <ref type="bibr">[20,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b27">28]</ref>. While these effects are harder to study as they do not have a clear start and finish point like many extreme weather events, they may play a large role in mental health and well-being and require further research. Finally, several reviews called for the assessment tools that are used to measure mental health outcomes to be consistent and standardized to allow for comparisons across studies <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b25">26]</ref>. These tools also need to be appropriately adapted for use in non-Western cultures <ref type="bibr" target="#b22">[23,</ref><ref type="bibr" target="#b25">26]</ref>.</p><p>Numerous reviews called for more extensive research on the effects of climate change on the mental health of specific groups. While research on indigenous groups was highlighted in several of the reviews <ref type="bibr" target="#b23">[24,</ref><ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b28">29]</ref>, many of these populations face unique effects of climate change due to cultural relationships with the land. As a result, many reviews emphasized the need for further and more in-depth research to understand the specific risk factors for indigenous people and ethnic minorities <ref type="bibr" target="#b22">[23,</ref><ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b31">32]</ref>, as well as people in geographical regions underrepresented in the literature, such as LMICs [20, <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b27">28,</ref><ref type="bibr">31]</ref>. A number of reviews also highlighted a gap in the literature on the effects of climate change on the mental health of people with other protected characteristics, including gender <ref type="bibr" target="#b24">[25,</ref><ref type="bibr">31]</ref> and age <ref type="bibr" target="#b21">[22,</ref><ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b27">28,</ref><ref type="bibr">31]</ref>, as well as the intersectionality of characteristics <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b21">22,</ref><ref type="bibr">31,</ref><ref type="bibr" target="#b31">32]</ref>. Finally, climate change is creating climate migrants in many geographical areas, and further research is necessary to understand the effects of climate migration on mental health <ref type="bibr">[30]</ref>. The identified gaps and research recommendations are detailed in Table <ref type="table">5</ref>.</p><p>Table <ref type="table">5</ref>. The main research gaps and recommendations discussed in the reviews.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gap Themes Recommended Research Approach/Area Authors</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methodological gaps</head><p>Comparisons before and after weather events with longitudinal studies [20, <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b27">28]</ref> Comparisons of groups exposed and unexposed to climate events <ref type="bibr" target="#b9">[10,</ref><ref type="bibr">20,</ref><ref type="bibr" target="#b20">21]</ref> Consistent use of mental health scales to allow for cross-study comparisons <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b25">26]</ref> Development and adaptation of mental health scales appropriate for non-Western cultures <ref type="bibr" target="#b22">[23,</ref><ref type="bibr" target="#b25">26]</ref> Measures of long-term and indirect effects of climate change <ref type="bibr">[20,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b27">28]</ref> Research into additional groups that are underrepresented in the literature Age <ref type="bibr" target="#b21">[22,</ref><ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b27">28,</ref><ref type="bibr">31]</ref> Gender <ref type="bibr" target="#b24">[25,</ref><ref type="bibr">31]</ref> Indigenous populations and ethnic minorities <ref type="bibr" target="#b22">[23,</ref><ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b31">32]</ref> Intersectionality between multiple protected characteristics <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b21">22,</ref><ref type="bibr">31,</ref><ref type="bibr" target="#b31">32]</ref> Migrants due to climate change <ref type="bibr">[30]</ref> Populations from geographic areas that are underrepresented in the literature, including LMICs <ref type="bibr">[20,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b25">26,</ref><ref type="bibr" target="#b27">28,</ref><ref type="bibr">31]</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>This rapid scoping review of reviews summarized the research areas to date on how climate change affects the mental health of populations at disproportionate risk of health impacts and inequities and the identified gaps in the literature, which, if addressed, could be beneficial for developing future recommendations and interventions. To the best of our knowledge, this is the first review of reviews exploring this topic in this emerging field.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Critical Gaps in the Field</head><p>While this review highlighted the specific impacts of climate change on several populations, including people living in LMICs, indigenous communities, and people living in rural areas, there was also a clear need for further research to address effects on other populations that may be at disproportionate risk. There is a critical lack of studies focusing on other protected characteristics, such as gender, disability, and pre-existing mental health conditions. The intersectionality of these characteristics is also underexplored, which limits the understanding of how multiple risks interact to impact mental health in the context of climate change <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b21">22,</ref><ref type="bibr">31,</ref><ref type="bibr" target="#b31">32]</ref>.</p><p>Age is also a key factor to consider. Older people may be at an increased risk of mental health issues due to isolation and physical health risks <ref type="bibr" target="#b21">[22]</ref>. Children are also particularly susceptible to the mental health impacts of climate change <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b32">33]</ref>. Climate impacts occurring during childhood, such as extreme weather events and displacement, can have long-term effects on mental health, affecting cognitive function <ref type="bibr" target="#b33">[34]</ref>, and these traumatic events can lead to severe distress, causing children to more frequently experience PTSD and depression <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b32">33,</ref><ref type="bibr" target="#b33">34]</ref>. Moreover, educational system disruptions, school damage, and extreme heat affect children's learning and overall well-being <ref type="bibr" target="#b8">[9]</ref>. The loss of social support networks during disasters may increase their risk of developing mental health issues and impact their ability to cope.</p><p>Climate anxiety in young people is not a mental health disorder per se <ref type="bibr" target="#b34">[35]</ref>. It can be seen as a normal adaptive response to the threat of climate change and can motivate action against it; however, it may also be a risk factor for generalized anxiety disorder, with a potential bidirectional relationship between climate anxiety and generalized anxiety disorder <ref type="bibr" target="#b35">[36]</ref>. This area requires further research to understand these possible cause-effect relationships <ref type="bibr" target="#b34">[35]</ref>.</p><p>While there is a growing body of research on the direct impacts of climate change on mental health, there is a need for further studies to explore and address the long-term consequences of slow and gradual environmental changes resulting from climate change, particularly as these may have consequences for the mental health of populations at disproportionate risk of health impacts and inequities by increasing subclinical mental health issues and reducing well-being <ref type="bibr">[20,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b27">28]</ref>. Previous research has shown that subclinical mental health conditions, when co-existing with other risk factors, can increase the risk of developing clinically diagnosed mental health conditions <ref type="bibr" target="#b36">[37]</ref>. Thus, the gradual effects of climate change may be an additional factor that interacts with other risk factors to increase mental health risk. Understanding the broad range of the direct and indirect effects of climate change on mental health is critical to develop effective interventions to support the mental health and well-being of populations at disproportionate risk.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Strategies for Mitigating Mental Health Impacts</head><p>In the context of climate change, the increasing occurrence of extreme weather events and environmental disruptions is creating a pervasive sense of uncertainty affecting individuals worldwide, which may contribute to mental health concerns indirectly and over the long-term. Thus, it is crucial to explore strategies that address these mental health challenges. To date, most of the selected reviews primarily emphasize the necessity of more robust studies that investigate the effects of climate change on populations' mental health <ref type="bibr">[20,</ref><ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b24">25,</ref><ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b27">28,</ref><ref type="bibr">31,</ref><ref type="bibr" target="#b31">32]</ref> rather than proposing specific interventions or policies, indicating that additional research may be necessary before informed interventions can be developed.</p><p>A recent report <ref type="bibr" target="#b37">[38]</ref> put forward policy-level suggestions, emphasizing the importance of increasing community involvement in policy responses to climate change. This 2023 report on sexual and reproductive health and rights in climate commitments described important participatory processes that engaged individuals, especially from younger demographics, offering a fresh perspective on this issue and reiterating the need for political action <ref type="bibr" target="#b37">[38]</ref>. The cited report identified 42 countries that have included young people in their policy responses to climate change, particularly in relation to education and awareness. For instance, in Seychelles, young people were invited to participate in monitoring, reporting, and verifying policy implementation, while in South Sudan, strategies such as organizing climate change discussions in clubs and schools and revising school curricula to include climate change and environmental education were deployed <ref type="bibr" target="#b37">[38]</ref>. Empowering young people to participate in climate action may positively impact their mental health <ref type="bibr" target="#b20">[21]</ref>. More recently, the Connecting Climate Minds initiative <ref type="bibr" target="#b38">[39]</ref> worked in co-production with people with lived experience to develop agendas for different global regions and populations that are at disproportionate risk due to the effects of climate change, such as small farmers and fisher-people. These two reports provide examples of how populations affected by climate change can be supported to develop approaches to support their mental health, which can then be incorporated into policy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Strengths and Limitations</head><p>The choice to use a review-of-reviews method was motivated by the existence of previous reviews in the field and the absence of published work that summarizes the current areas of research and highlights the key areas for future research. We also used two independent reviewers during the search for and screening and quality appraisal of the articles, adhering to rigorous systematic research procedures.</p><p>While the use of a rapid design in this review allowed for timely results, it meant that only a limited number of databases were searched in a specific time frame. We also used a limited number of search terms, potentially overlooking some subject headings, keywords, and synonyms. This may have limited our results, particularly in identifying populations at disproportionate risk of health impacts and inequities. We specifically used broad terms related to these populations to determine which populations have been identified in the literature as facing disproportionate risk and to avoid bias toward particular groups. However, this approach may have unintentionally excluded certain populations, particularly in cases where reviews chose not to use the broad terms we identified.</p><p>We also focused the search on reviews written in English. While it is not likely that there are many reviews in other languages in this emerging field, research studies and grey literature reports in other languages could have key information from non-Western countries, including LMICs. Finally, while there was no intent to perform a meta-analysis in this review, we also did not comment on the magnitude, robustness, and functional relevance of the mental health outcomes in the reviews analyzed; we only addressed the areas of research that have been focused on to date. As noted in the identified gaps, better measurement and quantification of the mental health outcomes are necessary for this field. As these studies become available, a future review or meta-analysis synthesizing these effects would be valuable to clarify the type and degree of impact of climate change on mental health.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p>This rapid scoping review of reviews has highlighted the research areas to date on the impacts of climate change on the mental health of populations at disproportionate risk of health impacts and inequities. While this emerging field continues to grow, there are clearly identified gaps in the research, both in terms of methodology and areas of interest, that are important to address in the coming years to more concretely establish the severity and frequency of these impacts. This research will be critical as the basis for developing solutions to support the mental health of populations at disproportionate risk of health impacts and inequities in response to climate events, and it should be co-produced with these populations and the relevant stakeholders in society.</p><p>Table A1. Cont. Record # Author JBI Score 7 Lebel 2022 9.5 8 Lindsay 2022 8 9 Rataj 2016 9.5 10 Sahu 2022 7 11 Sharpe 2021 8.5 12 Sharpe 2022 6.5 13 Varshney 2023 10.5 14 Woodland 2023 6.5</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. PRISMA flow diagram [12].</figDesc><graphic coords="4,166.39,450.05,270.65,309.85" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Studies' locations.</figDesc><graphic coords="10,81.68,86.89,431.64,264.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Inclusion and exclusion criteria.</figDesc><table><row><cell>Inclusion</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Reviews' characteristics.</figDesc><table><row><cell>Authors</cell><cell>Dates</cell><cell>Source/Database Searched</cell><cell>Research Question/Review Aim</cell><cell>Population Characteristics in Included Studies</cell><cell>Types of Climate Events</cell><cell>Mental Health Outcome Addressed</cell><cell>Number of Records</cell></row><row><cell>Batterham et al., 2022 [28]</cell><cell>up until March 2021</cell><cell>PsycINFO, MEDLINE, and Web of Science</cell><cell>What is the effect of environmental factors associated with climate change on rural communities?</cell><cell>Rural residents, people living in LMICs</cell><cell>Access to green space, drought, extreme heat, floods, land degradation</cell><cell>Anxiety, depression, non-suicidal self-injury, substance misuse, suicidal behavior, well-being</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>What are the effects of</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Berberian et al., 2022 [32]</cell><cell>2017 to 2022</cell><cell>PubMed</cell><cell>extreme weather events on health outcomes for racial and ethnic minority groups, including children,</cell><cell>Racial and ethnic groups, children</cell><cell>Extreme cold, hurricanes extreme heat, floods,</cell><cell>Anxiety, depression, misuse, well-being PTSD, substance</cell><cell>89</cell></row><row><cell></cell><cell></cell><cell></cell><cell>in the USA?</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>MEDLINE, Academic</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Search Premier,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Deglon et al., 2023 [23]</cell><cell>2008 to 2021</cell><cell>Africa-Wide Information, CINAHL, Health Source: Nursing/Academic Edition, APA PsycARTICLES and APA PsycINFO, Scopus, Web of</cell><cell>What are the effects of extreme weather events on the mental health of populations in Africa?</cell><cell>People living in LMICs, including children, women, people of low farmers socioeconomic status,</cell><cell>Brushfires, drought, extreme heat, floods</cell><cell>Anxiety, chronic behavior stress, depression, disorders, suicidal PTSD/trauma</cell><cell>12</cell></row><row><cell></cell><cell></cell><cell>Science Core Collection,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>and SciELO</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Herrán and Biehler, 2020 [30]</cell><cell>2010 to 2020</cell><cell>Google Scholar and grey literature</cell><cell>What are the effects of climate migration on mental health?</cell><cell>Climate migrants</cell><cell>Climate change, droughts, extreme heat</cell><cell>Anxiety, depression, behavior mood disorders, PTSD, suicidal</cell><cell>15</cell></row><row><cell>Jaakkola et al., 2018 [27]</cell><cell>1990 to 2017</cell><cell>Ebsco, Academic Search Premiere, PubMed, Web of Science, and Scopus</cell><cell>What are the primary, secondary, and tertiary effects of climate change on the Saami population?</cell><cell>Indigenous people-Saami</cell><cell>Climate change</cell><cell>Acute stress, anxiety, depression, well-being</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 .</head><label>2</label><figDesc>Cont.</figDesc><table><row><cell>Authors</cell><cell>Dates</cell><cell>Source/Database Searched</cell><cell>Research Question/Review Aim</cell><cell>Population Characteristics in Included Studies</cell><cell>Types of Climate Events</cell><cell>Mental Health Outcome Addressed</cell><cell>Number of Records</cell></row><row><cell></cell><cell></cell><cell></cell><cell>What are the effects of</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Kelman et al., 2021 [31]</cell><cell>up until June 2020</cell><cell>Google Scholar, MEDLINE, PsycNet, PubMed, Scopus, and Web of Science</cell><cell>climate change in small-island developing states (SIDS) on mental</cell><cell>People living in LMICs</cell><cell>Hurricanes, rising sea levels</cell><cell>Acute stress, depression, PTSD, well-being</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>health and well-being?</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Lebel et al., 2022 [29]</cell><cell>2010 to 2020</cell><cell>PubMed, PsycInfo, Web of Science, Embase, Cochrane, GeoBase, and CINAHL</cell><cell>What are the effects of climate change on the mental well-being and daily lives of indigenous people in the Circumpolar North?</cell><cell>Indigenous people, specifically those in the Circumpolar North</cell><cell>Access to land (changes in ice), changes in wildlife, weather unpredictable</cell><cell>Anxiety, substance misuse, suicidal behavior, well-being</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Drought, dust storms,</cell><cell></cell><cell></cell></row><row><cell>Lindsay et al., 2023 [22]</cell><cell>2002 to 2022</cell><cell>Web of Science, Scopus, PsycINFO, Healthstar, MEDLINE, Embase, and ProQuest</cell><cell>What are the effects of climate events on the health of persons living with disability?</cell><cell>Persons living with disabilities and chronic conditions</cell><cell>extreme cold, canes/typhoons, extreme heat, floods, hurri-</cell><cell>Depression, well-being</cell><cell>45</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>wildfires</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>MEDLINE, Embase, Web</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Rataj et al., 2016 [26]</cell><cell>Up to 2014</cell><cell>of Science, PsycINFO, CAB Direct, PILOTS, Google Scholar, the WHO's Virtual Health Library (VHL), and Environmental Change and Manual searches in Global</cell><cell>What are the effects of LMICs? extreme weather events on the mental and physical health of people living in</cell><cell>People living in LMICs</cell><cell>Cyclones/hurricanes, floods, snowstorms, tornados</cell><cell>Anxiety, depression, PTSD</cell><cell>17</cell></row><row><cell></cell><cell></cell><cell>Climatic Change</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sahu et al., 2023 [24]</cell><cell>2002 to 2022</cell><cell>MEDLINE/PubMed, Google Scholar, and Cochrane Library</cell><cell>What are the effects of climate change on the mental health of globally? indigenous people</cell><cell>Indigenous people</cell><cell>Access to land weather (changes in ice), unpredictable</cell><cell>Anxiety, well-being</cell><cell>29</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 .</head><label>2</label><figDesc>Cont.</figDesc><table><row><cell>Authors</cell><cell>Dates</cell><cell>Source/Database Searched</cell><cell>Research Question/Review Aim</cell><cell>Population Characteristics in Included Studies</cell><cell>Types of Climate Events</cell><cell>Mental Health Outcome Addressed</cell><cell>Number of Records</cell></row><row><cell></cell><cell></cell><cell>MEDLINE, Embase, APA</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>PsycInfo, Global Health,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Sociological Abstracts,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>grey literature, and</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sharpe and Davison, 2021 [20]</cell><cell>2007 to 2019</cell><cell>Manual searches of the 2019 volumes of the following journals: International Journal of Environmental Research and Environmental Change, Public Health, Global</cell><cell>What are the primary and LMICs? secondary effects of climate change and climate events on the mental health of people living in</cell><cell>People living in LMICs</cell><cell>Drought, extreme heat, floods, hurri-snowstorms canes/typhoons</cell><cell>Acute stress, anxiety, substance misuse depression, PTSD,</cell><cell>58</cell></row><row><cell></cell><cell></cell><cell>Climatic Change, Disaster</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Medicine and Public Health</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Preparedness, and</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Environmental Health</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>MEDLINE, Embase, APA</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>PsycInfo, Global Health,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Sociological Abstracts,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Grey literature, and</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Manual searches of the</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sharpe and Davison, 2022 [21]</cell><cell>2007 to 2019</cell><cell>2019 volumes of the following journals: International Journal of Environmental Research and Public Health, Global</cell><cell>What are the effects of climate events on the mental health of children living in LMICs?</cell><cell>Children living in LMICs</cell><cell cols="2">Cyclones/typhoons/tropical tornados storms, floods, Acute stress, anxiety, rainstorms, snowstorms, depression, PTSD</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Environmental Change,</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Climatic Change, Disaster</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Medicine and Public Health</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Preparedness, and</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Environmental Health</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 2 .</head><label>2</label><figDesc>Cont.</figDesc><table><row><cell>Authors</cell><cell>Dates</cell><cell>Source/Database Searched</cell><cell>Research Question/Review Aim</cell><cell>Population Characteristics in Included Studies</cell><cell>Types of Climate Events</cell><cell>Mental Health Outcome Addressed</cell><cell>Number of Records</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Rural residents,</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>people of low</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>socioeconomic</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>status/unemployed,</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Varshney et al., 2023 [10]</cell><cell>2006 to 2022</cell><cell>MEDLINE, Embase, CINAHL, and PsycInfo</cell><cell>What are the effects of drought and fires on the mental health of populations at disproportionate risk?</cell><cell>sexual/gender minorities, ethnic minorities, people attainment, people with low educational</cell><cell>Drought, fires</cell><cell>Anxiety, depression, suicidal behavior psychosis, PTSD, substance misuse,</cell><cell>18</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>with pre-existing</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>health conditions,</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>indigenous</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>populations</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>What are the effects of</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Woodland et al., 2023 [25]</cell><cell>2000 to 2023</cell><cell>PsycInfo, Embase, and MEDLINE</cell><cell>climate events on the mental health of people with pre-existing mental</cell><cell>People with pre-existing mental health conditions</cell><cell>Cyclones/hurricanes, drought, extreme heat floods, wildfires</cell><cell>Anxiety depression, PTSD, substance misuse</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>health conditions?</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 3 .</head><label>3</label><figDesc>Categories and types of climate events.</figDesc><table><row><cell>Category</cell><cell>Type of Climate Event</cell><cell>Authors</cell></row><row><cell></cell><cell>Access to green space</cell><cell>[28]</cell></row><row><cell>Environmental impacts</cell><cell>Access to land (including changes in ice)/land degradation Changes in wildlife</cell><cell>[24,28,29] [29]</cell></row><row><cell></cell><cell>Rising sea levels</cell><cell>[31]</cell></row><row><cell></cell><cell>Unpredictable weather</cell><cell>[24,29]</cell></row><row><cell></cell><cell>Cyclones/hurricanes/typhoons/tropical storms</cell><cell>[20-22,25,26,31,32]</cell></row><row><cell></cell><cell>Drought</cell><cell>[10,20,22,23,25,28,30]</cell></row><row><cell>Extreme weather events and phenomena</cell><cell>Dust storms Extreme cold (including snowstorms) Extreme heat Fires (brushfires and wildfires)</cell><cell>[22] [20-22,26,32] [20,22,23,25,28,30,32] [10,22,23,25]</cell></row><row><cell></cell><cell>Floods</cell><cell>[20-23,25,26,28,32]</cell></row><row><cell></cell><cell>Rainstorms</cell><cell>[21]</cell></row><row><cell></cell><cell>Tornados</cell><cell>[21,26]</cell></row><row><cell>General</cell><cell>Climate change</cell><cell>[27,30]</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 4 .</head><label>4</label><figDesc>Mental health outcomes.</figDesc><table><row><cell>Category</cell><cell>Mental Health Outcome</cell><cell>Authors</cell></row><row><cell>Anxiety disorders</cell><cell>Anxiety</cell><cell>[10,20,21,23-30,32]</cell></row><row><cell>Mental health and well-being</cell><cell>Mental health and well-being in general</cell><cell>[22,24,27-29,31,32]</cell></row><row><cell>Mood disorders</cell><cell>Depression Mood disorders general</cell><cell>[10,20-23,25-28,30-32] [30]</cell></row><row><cell>Schizophrenia spectrum and other psychotic disorders</cell><cell>Psychosis</cell><cell>[10]</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>Funding: This work was funded by the <rs type="funder">UCL Cities Partnership Programme</rs> in the <rs type="affiliation">UCL Global Engagement Office (LF-TC</rs>), <rs type="funder">Wellcome</rs> (<rs type="grantNumber">212264/Z/18/Z</rs>; TK), the <rs type="funder">Royal Society (TK)</rs>, the <rs type="funder">Centre for Research into Energy Demand Solutions</rs> (<rs type="grantNumber">EP/R035288/1</rs>; GH and <rs type="funder">GA-AG)</rs> and the <rs type="funder">Energy Demand Research Centre</rs> (<rs type="grantNumber">EP/Y010078/1</rs>, GH). This work is independent research supported by the <rs type="funder">National Institute for Health and Care Research Applied Research Collaboration</rs> North Thames (FZ and SJ). The views expressed in this publication are those of the author(s) and not necessarily those of the <rs type="funder">National Institute for Health and Care Research</rs> or the <rs type="institution">Department of Health and Social Care</rs>. Institutional Review Board Statement: Not applicable.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_NMpDgaT">
+					<idno type="grant-number">212264/Z/18/Z</idno>
+				</org>
+				<org type="funding" xml:id="_nG2BgYj">
+					<idno type="grant-number">EP/R035288/1</idno>
+				</org>
+				<org type="funding" xml:id="_SBDbcp3">
+					<idno type="grant-number">EP/Y010078/1</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Data Availability Statement: Data are available upon reasonable request from the corresponding author.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of Interest:</head><p>The authors declare no conflicts of interest.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Author Contributions: G.A.A.G. and L.F.T.C. made substantial contributions to the conception and design of the work. G.A.A.G. and L.F.T.C. analyzed and interpreted the data. G.A.A.G., L.F.T.C., S.J., F.Z., I.M., M.B., G.H. and T.K. drafted the work and substantively revised it. G.A.A.G., G.H. and T.K. were responsible for supervision and funding acquisition. All authors have read and agreed to the published version of the manuscript. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix A. Search Strategy</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Themes</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Health effects of climate change: An overview of systematic reviews</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Rocque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Beaudoin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ndjaboue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Poirier-Bergeron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R.-A</forename><surname>Poulin-Rheault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fallon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Tricco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">O</forename><surname>Witteman</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmjopen-2020-046333</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Open</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>e046333. [CrossRef</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Eco-psychiatry and Environmental Conservation: Study from Sundarban Delta</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Chowdhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mondal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brahma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Biswas</surname></persName>
+		</author>
+		<idno type="DOI">10.4137/EHI.S935</idno>
+	</analytic>
+	<monogr>
+		<title level="j">India. Environ. Health Insights</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="61" to="76" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The (in)visible health risks of climate change</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Parry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Radel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Adamo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Counterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Flores-Yeffal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Romero-Lankao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vargo</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.socscimed.2019.112448</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Sci. Med</title>
+		<imprint>
+			<date type="published" when="2019">2019, 241, 112448</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The Implications of Climate Change on Health among Vulnerable Populations in South Africa: A Systematic Review</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Khine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Langkulsen</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph20043425</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Environ. Res. Public Health</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Climate change and mental health: Risks, impacts and priority actions</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Blashki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wiseman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Reifels</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s13033-018-0210-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Ment. Health Syst</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Climate change and mental health: A causal pathways framework</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Berry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bowen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kjellstrom</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00038-009-0112-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Public Health</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="123" to="132" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Climate change affects multiple dimensions of well-being through impacts, information and policy responses</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Adger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barnett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Heath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jarillo</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41562-022-01467-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1465" to="1473" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Understanding Wellbeing: An Introduction for Students and Practitioners of Health and Social Care; Lantern: Banbury, UK</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mcnaught</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The Psychological Effects of Climate Change on Children</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E L</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Sanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Hoorn</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11920-018-0896-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Psychiatry Rep</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Mental health of vulnerable groups experiencing a drought or bushfire: A systematic review</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Varshney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Makleff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Krishna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Romero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Willems</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wickes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fisher</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/gmh.2023.13</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Camb. Prism. Glob. Ment. Health</title>
+		<imprint>
+			<date type="published" when="2023">2023, 10, e24</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Methodology in conducting a systematic review of systematic reviews of healthcare interventions</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Devane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Begley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clarke</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2288-11-15</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Med. Res. Methodol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">PRISMA 2020 explanation and elaboration: Updated guidance and exemplars for reporting systematic reviews</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Page</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Moher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Bossuyt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Boutron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Mulrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Shamseer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Tetzlaff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Akl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Brennan</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.n160</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">2021</biblScope>
+			<biblScope unit="page">372</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Climate Change, Obesity, and COVID-19-Global Crises with Catastrophic Consequences. Is This the Future? Atmosphere 2021</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cuschieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Grech</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cuschieri</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/atmos12101292</idno>
+		<imprint>
+			<date type="published" when="1292">1292</date>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Countdown Global Mental Health 2030: Data to drive action and accountability</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Saxena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kline</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S2215-0366(21)00391-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="941" to="942" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">World Health Organization. Mental Health and Climate Change: Policy Brief</title>
+		<ptr target="https://www.who.int/publications/i/item/9789240045125" />
+		<imprint>
+			<date type="published" when="2022-09-08">2022. 8 September 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Rayyan-A web and mobile app for systematic reviews</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ouzzani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hammady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Fedorowicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Elmagarmid</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s13643-016-0384-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Syst. Rev</title>
+		<imprint>
+			<date type="published" when="2016-05">2016, 5, 210</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Vulnerable populations in healthcare</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Waisel</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/ACO.0b013e32835e8c17</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Opin. Anaesthesiol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="186" to="192" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Using the framework method for the analysis of qualitative data in multi-disciplinary health research</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Gale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Heath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rashid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Redwood</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2288-13-117</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Med. Res. Methodol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Summarizing systematic reviews: Methodological development, conduct and reporting of an umbrella review approach</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Aromataris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Godfrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Holly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Khalil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tungpunkom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Evid. Based Healthc</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="132" to="140" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Climate change, climate-related disasters and mental disorder in low-and middle-income countries: A scoping review</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sharpe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Davison</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmjopen-2021-051908</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Open</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<date type="published" when="2021">2021. 051908</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A Scoping Review of Climate Change, Climate-Related Disasters, and Mental Disorders among Children in Low-and Middle-Income Countries</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sharpe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Davison</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph19052896</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Environ. Res. Public Health</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<date type="published" when="2022">2022. 2896</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The impact of climate change related extreme weather events on people with pre-existing disabilities and chronic conditions: A scoping review</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lindsay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ragunathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindsay</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/09638288.2022.2150328</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Disabil. Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="4338" to="4358" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The impact of extreme weather events on mental health in Africa: A scoping review of the evidence</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Deglon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Dalvie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abrams</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.scitotenv.2023.163420</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sci. Total Environ</title>
+		<imprint>
+			<biblScope unit="volume">881</biblScope>
+			<date type="published" when="2023">2023. 163420</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Measuring Impact of Climate Change on Indigenous Health in the Background of Multiple Disadvantages: A Scoping Review for Equitable Public Health Policy Formulation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sahu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Chattopadhyay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chaturvedi</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10935-022-00718-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Prev</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="421" to="456" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Investigating the Health Impacts of Climate Change among People with Pre-Existing Mental Health Problems: A Scoping Review</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Woodland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ratwatte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Phalkey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Gillingham</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph20085563</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Environ. Res. Public Health</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Extreme weather events in developing countries and related injuries and mental health disorders-A systematic review</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rataj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kunzweiler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Garthus-Niegel</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12889-016-3692-7</idno>
+		<imprint>
+			<date type="published" when="1020">2016. 1020</date>
+			<publisher>BMC Public Health</publisher>
+			<biblScope unit="volume">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The Holistic Effects of Climate Change on the Culture, Well-Being, and Health of the Saami, the Only Indigenous People in the European Union</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J K</forename><surname>Jaakkola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Juntunen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Näkkäläjärvi</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40572-018-0211-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Environ. Health Rep</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="401" to="417" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Systematic review of quantitative studies assessing the relationship between environment and mental health in rural areas</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Batterham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Trias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Poyser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kazan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Calear</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/ajr.12851</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Aust. J. Rural Health</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="306" to="320" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Climate change and Indigenous mental health in the Circumpolar North: A systematic review to inform clinical practice</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lebel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Paquin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T.-A</forename><surname>Kenny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fletcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nadeau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Chachamovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lemire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transcult. Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="312" to="336" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Analysis of Environmental Migrants and Their Mental Health in Strengthening Health Systems. F1000Research</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Herrán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Biehler</surname></persName>
+		</author>
+		<ptr target="https://f1000research.com/articles/9-1367" />
+		<imprint>
+			<date type="published" when="1367-09-08">2020. 1367. 8 September 2024</date>
+			<biblScope unit="volume">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">A review of mental health and wellbeing under climate change in small island developing states (SIDS)</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ayeb-Karlsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rose-Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Prost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ronneberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wheeler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Watts</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1748-9326/abe57d</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Res. Lett</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">33007</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Racial Disparities in Climate Change-Related Health Effects in the United States</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Berberian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J X</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Cushing</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40572-022-00360-w</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Environ. Health Rep</title>
+		<imprint>
+			<biblScope unit="volume">2022</biblScope>
+			<biblScope unit="page" from="451" to="464" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The Lancet Countdown on health and climate change: From 25 years of inaction to a global transformation for public health</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Watts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Amann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ayeb-Karlsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Belesova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bouley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Boykoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Byass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Campbell-Lendrum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chambers</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0140-6736(17)32464-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">391</biblScope>
+			<biblScope unit="page" from="581" to="630" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Mental Health and Our Changing Climate: Impacts, Inequities, Responses</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Clayton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Manning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Speiser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Hill</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>American Psychological Association</publisher>
+			<pubPlace>Washington, DC, USA; Washington, DC, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Climate anxiety: Trigger or threat for mental disorders? Lancet Planet</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sampaio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sequeira</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S2542-5196(22)00008-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Health</title>
+		<imprint>
+			<biblScope unit="volume">2022</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Collective climate action: Determinants of participation intention in community-based pro-environmental initiatives</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bamberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rees</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Seebauer</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jenvp.2015.06.006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Environ. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="155" to="165" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Course of subthreshold depression into a depressive disorder and its risk factors</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tuithof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ten Have</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Van Dorsselaer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kleinjan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Beekman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>De Graaf</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jad.2018.08.010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Affect. Disord</title>
+		<imprint>
+			<biblScope unit="volume">241</biblScope>
+			<biblScope unit="page" from="206" to="215" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Taking Stock: Sexual and Reproductive Health and Rights in Climate Commitments: A Global Review; United Nations Population Fund</title>
+		<ptr target="https://www.unfpa.org/publications/taking-stock-sexual-and-reproductive-and-health-and-rights-climate-commitments-global" />
+		<imprint>
+			<date type="published" when="2023-09">2023. September 2024</date>
+			<pubPlace>New York, NY, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>United Nations Population Fund; Queen Mary University of London</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Connecting Climate Minds: A shared vision for the climate change and mental health field</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Lawrance</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Massazza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Pantelidou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Newberry Le Vay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>El Omrani</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s44220-023-00196-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Ment. Health</title>
+		<imprint>
+			<biblScope unit="volume">2024</biblScope>
+			<biblScope unit="page" from="121" to="125" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods</title>
+		<imprint>
+			<publisher>Disclaimer/Publisher&apos;s Note</publisher>
+		</imprint>
+	</monogr>
+	<note>instructions or products referred to in the content</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

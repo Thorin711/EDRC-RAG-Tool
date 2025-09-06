@@ -1,0 +1,1678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">“How could it be our responsibility?” The equity of Local Authority climate action in England</title>
+				<funder ref="#_Z9mqSk9">
+					<orgName type="full">EPSRC</orgName>
+				</funder>
+				<funder ref="#_cmBXCNp">
+					<orgName type="full">Centre for Research into Energy Demand Solutions</orgName>
+				</funder>
+				<funder ref="#_PQpNW2F">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-11-23">2024-11-23</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Alice</forename><surname>Garvey</surname></persName>
+							<email>.m.garvey@leeds.ac.uk</email>
+						</author>
+						<author>
+							<persName><forename type="first">Milena</forename><surname>Büchs</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jonathan</forename><forename type="middle">B</forename><surname>Norman</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><surname>Barrett</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">School of Earth and Environment</orgName>
+								<orgName type="institution" key="instit1">Sustainability Research Institute (SRI)</orgName>
+								<orgName type="institution" key="instit2">University of Leeds</orgName>
+								<address>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">School of Earth and Environment</orgName>
+								<orgName type="institution" key="instit1">Sustainability Research Institute (SRI)</orgName>
+								<orgName type="institution" key="instit2">University of Leeds</orgName>
+								<address>
+									<postCode>LS2 9JT</postCode>
+									<settlement>Leeds</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">“How could it be our responsibility?” The equity of Local Authority climate action in England</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Local Environment</title>
+						<title level="j" type="abbrev">Local Environment</title>
+						<idno type="ISSN">1354-9839</idno>
+						<idno type="eISSN">1469-6711</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">30</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="81" to="97"/>
+							<date type="published" when="2024-11-23" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">04D632415DC3342001CC9ED1339F71F4</idno>
+					<idno type="DOI">10.1080/13549839.2024.2428216</idno>
+					<note type="submission">Received 9 June 2023 Accepted 30 September 2024</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Local government</term>
+					<term>net zero</term>
+					<term>capability</term>
+					<term>responsibility</term>
+					<term>equity</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The majority of English Local Authorities (LAs) have set targets to achieve net zero greenhouse gas emissions by 2050 or sooner, despite having no formal responsibilities to do so. However, it is questionable whether LAs are able to deliver these plans and targets whilst they are subject to significant operational pressures. This analysis applies the international "equity" framework of Common But Differentiated Responsibility and Respective Capabilities to the case of English LAs. The research evaluates responses from 28 semi-structured interviews with stakeholders from across levels of government, different sectors, and regions of England. We evaluate the drivers of inequalities in capabilities to implement climate action between LAs, and how these inequalities could be reduced through a number of governance interventions. Though the introduction of a statutory responsibility is frequently discussed in the literature, its perceived viability and equity have not been empirically assessed by stakeholders. We therefore evaluate stakeholder perspectives on whether this would be a fair mechanism for allocating responsibility to the local scale. We find that economic, social and political aspects of capability are interdependent, and that current governance arrangements tend to reinforce patterns of inequality in capability. We offer a series of policy recommendations to improve equity in burden-sharing between LAs, finding that funding reform and a well-designed and well-resourced statutory responsibility could be both effective and fair.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Policy highlights:</head><p>. The governance of local climate action in England reinforces existing inequalities in economic, social and political capability between Local Authorities (LAs). . Though councils are currently taking action voluntarily, further support is required to ensure councils can equitably meet their net zero ambitions. . A statutory responsibility would improve equity in burden-sharing for mitigation between councils, provided it was well-designed and resourced. . A statutory responsibility could introduce a reporting component that would provide an evidence base to target greater support to councils that need it. . Equity-based funding systems are proposed as a means of respecting the variable capabilities of different LAs.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>There is a common focus on the value of local and subnational climate action in the literature, yet in practice climate governance in the UK is highly centralised <ref type="bibr" target="#b35">(Lockwood 2021)</ref>. The Climate Change Committee (CCC) provides guidance on the level of five yearly carbon budgets in line with the UK's long-term target of reaching net zero greenhouse gas (GHG) emissions by 2050 <ref type="bibr">(CCC 2020)</ref>. But beyond recommending comparable targets and budgets for the Devolved Administrations (DAs), the UK government does not cascade responsibility for delivering decarbonisation to the subnational scale <ref type="bibr" target="#b37">(Marsden et al. 2014;</ref><ref type="bibr" target="#b36">Marsden and Anable 2021)</ref>. There are tensions between the sense that all scales of government should be taking action, including subnationally <ref type="bibr" target="#b28">(Howarth, Lane, and Fankhauser 2021)</ref>, the lack of a clear framework for how local and regional actors will be resourced to do this, and central government's conceptualisation of this role <ref type="bibr" target="#b29">(Hsu et al. 2020)</ref>.</p><p>There is currently no statutory responsibility for Local Authorities (LAs) to deliver climate change mitigation 1 <ref type="bibr" target="#b7">(Bulkeley and Kern 2006)</ref>. However, since the establishment of the UK's net zero target, there has been significant growth in voluntary local target-setting. In England, 79% of LAs have set a target to reach net zero by 2050 or sooner for their operational and/or area-wide emissions <ref type="bibr" target="#b20">(Garvey et al. 2023</ref>), 2 and these targets are often more ambitious than their national equivalents. Yet it is questionable whether LAs are able to deliver these plans and targets, whilst subject to significant operational pressures <ref type="bibr" target="#b24">(Gray and Barford 2018)</ref>. The lack of a statutory responsibility also means there is considerable regional variability in the ambition of planned decarbonisation across different LA areas.</p><p>The UNFCCC principle of Common But Differentiated Responsibility and Respective Capabilities (CBDR-RC) is typically applied to the international scale. However, the concept has increasing relevance to the subnational scale. Just as <ref type="bibr" target="#b39">Mayne, Fawcett, and Hyams (2017)</ref> present the first application of the "international climate justice framework" of CBDR-RC to subnational energy policy in the UK, this analysis aims to apply these principles to the local delivery of net zero in England. The principles provide a useful conceptual framework by which to segment actors (in this case local institutions) based on their responsibility to act according to their differential capabilities, as a means to challenge currently inequitable local climate governance norms.</p><p>The lack of capacity or capability 3 for LAs to deliver climate action has been well established in existing research <ref type="bibr" target="#b25">(Gudde et al. 2021;</ref><ref type="bibr" target="#b33">Kuzemko and Britton 2020;</ref><ref type="bibr" target="#b60">Yuille, Tyfield, and Willis 2021)</ref>. However, few studies explicitly consider the drivers of variation in capability and the equity implications of this. A statutory responsibility is frequently discussed in the literature as a potential solution to uneven local climate action <ref type="bibr" target="#b7">(Bulkeley and Kern 2006;</ref><ref type="bibr" target="#b17">Evans 2020)</ref> but has not been empirically examined for its effectiveness or equity, to our knowledge. Depending on its design, a statutory responsibility could result in: (a) equitable climate action between councils, and/or (b) additional pressures for those councils with less capability to engage with the low carbon agenda. We therefore contribute particular novelty in our evaluation of the equity implications of such a mechanism.</p><p>In this analysis, we examine the drivers of the unequal distribution of capability in LAs, the equity of enforcing responsibility through a statutory duty, and governance mechanisms to build capabilities across LAs. We aim to address the following research questions:</p><p>(1) What are the drivers of unequal capabilities in Local Authorities across England? (2) To what extent would a statutory responsibility improve equity in Local Authority delivery of net zero in England? (3) What alternative governance mechanisms could build Local Authority capabilities to deliver net zero in England?</p><p>To do this, we draw insights from 28 semi-structured interviews with stakeholders involved in the delivery of net zero from across levels of government, sectors, and regions of England. England was chosen as it is the only country in the UK without any form of current or future statutory responsibility for climate action at the LA level. In Scotland and Wales, there is a statutory obligation for public sector bodies to contribute towards the achievement of national net zero and sustainable development respectively. 4 Meanwhile, Northern Ireland had a consultation on whether to establish statutory public sector climate reporting as part of the new Climate Change Act (Northern Ireland) 2022. This case study therefore explores the lack of a statutory responsibility in England as a unique case, given it has the largest number of LAs of all the devolved nations, as well as a larger geography and population. This makes the lack of any public sector climate duties all the more notable. Further research could valuably compare the influence of having these public sector duties in place in the DAs, and how variation in the nature of the statutory requirement influences local climate action.</p><p>The governance structure of England poses challenges even when compared to the devolved nations, such are the differences in local government structure and national policy powers between the DAs. Even greater are the challenges in drawing out the international transferability of insights from the research. England is highly centralised, and LAs have relatively few powers and resources by comparison to local governments in Europe <ref type="bibr" target="#b7">(Bulkeley and Kern 2006)</ref>. Nevertheless, the application of CBDR-RC to the subnational scale may be conceptually relevant to other country contexts (as we explore in section 5.4).</p><p>In the following, section 2 reviews the literature, and section 3 details the methodological approach. In section 4 we present the interview results, and in section 5 discuss their policy and governance implications, before presenting our conclusions in section 6.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Literature review</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Local climate action in England</head><p>There were a total of 333 LAs in England at the time of this analysis, providing over 800 services ranging from social care to waste collection <ref type="bibr" target="#b17">(Evans 2020)</ref>. Some areas have a two-tier system, whereby responsibility for service delivery is split between county councils and smaller district, borough or city councils <ref type="bibr" target="#b42">(Paun, Wilson, and Hall 2019)</ref>. Other areas are covered by one of ten Combined Authorities (CAs), legal partnerships of two or more LAs, which work together as a regional body. 5 Figure <ref type="figure" target="#fig_0">1</ref> provides an overview of the structure of local government institutions in England. Though there are many voluntary net zero targets and commitments by English LAs, there is no national oversight of the target-setting. This governance gap has instead been filled by informal nonstate actors, such as Climate Emergency UK (CEUK 2023). CEUK has scored council climate action and plans, creating league tables based on multi-criteria analysis <ref type="bibr">(CEUK 2023)</ref>. This, and academic analyses, provide the main accountability mechanisms to date to monitor and report council climate action.</p><p>Perhaps the most-cited barrier to LAs, in any service area, is a lack of funding. LAs' main sources of revenue funding are from central government grants, council tax, and business rates <ref type="bibr" target="#b2">(Atkins and Hoddinott 2020)</ref>. After the 2008 recession, and the advent of the coalition government in 2010, LAs faced severe budget cuts. The amount of tax raised locally in the UK is limited compared to European states, meaning LAs are more reliant on central government funding; this has been the main area of funding cuts, with reductions of 37% between 2009 and 2019 <ref type="bibr" target="#b2">(Atkins and Hoddinott 2020)</ref>. The state of LA funding matters for delivering climate action -both mitigation and adaptationsince budgets for non-statutory areas are often the first to be relinquished to find funds for statutory commitments such as social care <ref type="bibr" target="#b4">(Borrowman, Singh, and Bulleid 2020)</ref>.</p><p>The idea of LA climate action being hampered by a lack of capability is not a new one, with <ref type="bibr" target="#b0">Allman, Fleming, and Wallace's (2004)</ref> study drawing attention to this issue. However, capability has several dimensions, which vary between studies. For instance, <ref type="bibr" target="#b33">Kuzemko and Britton (2020)</ref> identify political authority, finance, personnel, and knowledge as some of the most important factors in determining sustainable energy capacity. By contrast, <ref type="bibr">Tang et al.'s (2010)</ref> analysis of local climate plans in the US identifies state mandates as the most effective driver of betterquality plans. Though a concept typically assessed qualitatively, council capability has been quantified in the academic literature, often through the use of indicator frameworks <ref type="bibr" target="#b21">(Garvey et al. 2022)</ref>. <ref type="bibr" target="#b49">Salvador and Sancho (2021)</ref> use an indicator approach to quantify the organisational capacity of an LA. The plural nature of capability is also highlighted in <ref type="bibr" target="#b20">Garvey et al. (2023)</ref>, in which a composite indicator framework is used to integrate several different metrics of council capability including technical, socioeconomic, financial, and political, and applied to the case of English LAs. <ref type="bibr" target="#b33">Kuzemko and Britton (2020)</ref> provide a springboard for the current analysis in their consideration of the "sustainable energy capacity" of LAs and CAs in England. <ref type="bibr" target="#b33">Kuzemko and Britton's (2020)</ref> analysis focussed on LAs that are already "reasonably active" in this space, whilst our focus is on why some LAs are more active. We also consider capabilities to deliver broader climate change mitigation as opposed to sustainable energy, in light of the UK's net zero target-setting phenomenon. Castán <ref type="bibr" target="#b9">Broto and Westman's (2017)</ref> global analysis of local sustainability initiatives found that there is a gap in their consideration of "principles of justice and equity". Rather than the equity of the initiatives LAs undertake, our focus is on how equitably LAs are treated on the national scale in the configuration of UK climate governance. <ref type="bibr" target="#b20">Garvey et al. (2023)</ref> identify that there are disparities in burden-sharing for climate action between LAs in England, and suggest the need for greater empirical research with practitioners to better understand delivery challenges for local climate action. The current analysis therefore responds to previous quantitative research by presenting the perspectives (or ground truths) of local climate practitioners as a means of validating prior top-down analysis. Council officers frequently criticised exercises that rank councils on their climate performance as reductive, and not reflecting underlying differences in capabilities. The following analysis therefore aims to do justice to real accounts of differential capabilities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">CBDR-RC at the subnational scale</head><p>The principle of CBDR-RC was first outlined in the 1992 Rio Declaration at the UN Earth Summit <ref type="bibr" target="#b43">(Pauw, Mbeva, and van Asselt 2019)</ref>, and presented as a framework to recognise "different national circumstances" in the capability to mitigate GHG emissions <ref type="bibr" target="#b57">(Voigt and Ferreira 2016)</ref>. As noted, though typically an international concept, there is increasing interest in how this principle can be applied at the subnational scale. For instance, <ref type="bibr" target="#b39">Mayne, Fawcett, and Hyams's (2017)</ref> application of CBDR-RC principles to the case of UK energy policy explores how roles, responsibilities and capabilities are distributed between different energy actors and whether this is fair, as preconditions for effective climate mitigation.</p><p>This draws attention to the so-called "equity principles" of responsibility and capability which are commonly used to operationalise justice concepts <ref type="bibr" target="#b26">(Höhne, den Elzen, and Escalante 2014;</ref><ref type="bibr" target="#b50">Sasse and Trutnevyte 2019)</ref>. The addendum "Respective Capabilities" to the CBDR-RC framework suggests that responsibility should be allocated with recognition of how able a given actor is to decarbonise. The subnational application of CBDR-RC presents several challenges. Firstly, given the centralised nature of the UK government, powers at the subnational scale are limited. This means there is little ability to devolve responsibility to subnational bodies, without accompanying devolution of powers and resources <ref type="bibr" target="#b45">(Perry et al. 2021)</ref>. Similarly, any process to allocate responsibility will be influenced by assumptions around the appropriate scale at which to act, or where ethical duties lie <ref type="bibr" target="#b18">(Frumhoff, Heede, and Oreskes 2015;</ref><ref type="bibr" target="#b39">Mayne, Fawcett, and Hyams 2017)</ref>. Arguably, the UK government is legally responsible for meeting the GHG targets as set out in the Climate Change Act 2008 <ref type="bibr" target="#b41">(Muinzer and Ellis 2017)</ref>. There is, therefore, a tension between legal and ethical conceptualisations of "responsibility". However, this does not remove the need to allocate responsibility, as without it national decarbonisation risks being "incoherent" <ref type="bibr" target="#b36">(Marsden and Anable 2021)</ref>.</p><p>Though discussions of responsibility typically take place at the level of the nation-state, the placebased agenda points to potential responsibilities for the local level. Others critique this decentralised approach to delivering net zero as problematic, relying as it does on the variable capabilities of local areas and institutions. This is mirrored in concern that increasing non-state and civil society action is ultimately a reflection of a governance gap. That is, informal actors are taking responsibility for the governance of public goods given the perceived inaction by the national government <ref type="bibr" target="#b22">(Gillard et al. 2017;</ref><ref type="bibr" target="#b29">Hsu et al. 2020;</ref><ref type="bibr" target="#b31">Jordan et al. 2015;</ref><ref type="bibr" target="#b34">Kythreotis et al. 2023)</ref>. <ref type="bibr" target="#b10">Catney et al. (2014)</ref> term this trend towards greater public participation, non-state action and decentralisation "Big Society Localism" 6 whereby more voluntary informal action means a smaller role for the state. This idea is seen as the corollary of austerity and of the "retreating welfare state" <ref type="bibr" target="#b59">(Wittmayer et al. 2016)</ref>, or otherwise termed "austerity localism" <ref type="bibr" target="#b56">(Tingey and Webb 2020)</ref>. Though the increasing involvement of nonstate actors in the delivery of net zero is an important and notable phenomenon (Smith and Christie 2021), in this analysis we focus on the role of public actors (LAs) as entities to which formal responsibilities and powers could be devolved 7 by national government.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Research design and methods</head><p>We conducted 28 semi-structured interviews with stakeholders with expertise in UK climate policy and governance during August-November 2022. We used a purposive sampling approach, coupled with a referral sampling approach. We aimed to recruit a vertical (across levels of governance) and horizontal (across regions) distribution of participants (Figure <ref type="figure" target="#fig_1">2</ref>).</p><p>We also aimed to interview participants from a variety of sectors (e.g. public -councils and government departments; third -NGOs and non-profits; and academics; Table <ref type="table">1</ref>). This "cross-sectional" approach <ref type="bibr" target="#b34">(Kythreotis et al. 2023</ref>) provided both internal and external perspectives on the role of local government.</p><p>The sample includes representatives of ten district councils (including borough and city councils), as well as one county council and four Combined Authorities. According to the characterisation of councils used by CEUK ( <ref type="formula">2023</ref>), the majority of the district councils 8 interviewed were largely urban (n = 5), with three district councils being urban with some rural areas. Only two district councils were rural in nature. The majority of district councils in the sample ranked as one (n = 4) or two (n = 3) on the Indices of Multiple Deprivation (IMD), representing more deprived areas. Three district councils had a higher score of five on the IMD. See section 3.1 for a discussion of the limitations of the sample.</p><p>We developed an interview guide based on the research questions (see Supplementary Material), and adapted it according to the background of the interviewee <ref type="bibr" target="#b5">(Bryman 2012;</ref><ref type="bibr" target="#b46">Rapley 2004</ref>). All interviews were conducted remotely using MS Teams, including a pilot interview to test the interview guide. The final sample was determined when a range of stakeholder views had been represented. Table <ref type="table">1</ref>. Summary of interviewees by sector and role (n = 28). "Regional council officer" refers to representatives of Combined Authorities, as well as higher tier councils (e.g. county councils).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Public</head><p>Third sector</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Academic Total</head><p>Local council officer Interview data was transcribed manually and thematically analysed using NVivo Plus (v.12.6; Computer Aided Qualitative Data Analysis Software). Coding was repeated until theoretical saturation was reached <ref type="bibr" target="#b11">(Clarke and Braun 2017)</ref>. Interviewees were assigned pseudonymous identifiers, which are used throughout the discussion of the results (according to the categories outlined in Table <ref type="table">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Methodological limitations</head><p>A purposive sampling approach was first employed to attempt to contact a cross-section of LAs, including those with more or less developed climate strategies, and from across each region of the UK. However, the limited response rate precluded interviewing representatives of LAs in the East of England and West Midlands (see Figure <ref type="figure" target="#fig_1">2</ref>). The sample may be biased in including participants from LAs with more capability and time to respond. As is later noted (see Section 4.1), the sample did not include any representatives of Conservative-led councils (though many were in a situation of No Overall Control, where there is either a minority administration or a coalition). This is indicative of the lower levels of engagement with local climate action on the part of Conservative-led councils, as observed in the literature <ref type="bibr">(Howarth et al. 2021a</ref>). There are therefore several limitations in how well the sample represents the experience of all LAs.</p><p>Given the large number of LAs in England, the current sample size is necessarily a limitation. A rural council in the North East will not necessarily face the same challenges or have the same capabilities as one in the South East. The characteristics of the sample can therefore only be considered indicative.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">What are the drivers of unequal capabilities in Local Authorities across England?</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.1.">"Like Glastonbury tickets": Economic capabilities</head><p>Funding was the key reason cited by interviewees for differences in local government capabilities, and, vice versa, differences in capability critically affected councils' access to funding. Stakeholders critiqued the central government bidding process, with two interviewees drawing the same analogy, comparing access to such funding to buying Glastonbury tickets (local council officer [F, G]; i.e. another highly competitive process). A criticism included the short notice, competitive bidding process, which reinforced inequalities in council capabilities: A council successful in attaining public funding saw less of a problem with the current system, attributing their success to their experience working in different sectors: "I know how to play the game" (local council officer <ref type="bibr">[E]</ref>). This highlights the importance of prior capabilities in the form of staff resources and experienced officers, in securing funding and thus creating greater capability in the future.</p><p>Five interviewees commented on current political instability at the national level, and a perceived lack of clarity in government guidance, which shaped a culture of risk-aversity in many councils. A third sector interviewee described councils as being "more cautious than ever" (civil society professional [C]). A significant component of this risk-aversity was financial; three respondents (local council officers [F, B], civil society professional [F]) cited the risk of litigation, for instance, the legal costs of implementing a low-carbon initiative that may contravene national guidance. This limited experimentation to councils with existing capability ("30k losing a court battle, you'd rather spend that 30k putting it into your public services", civil society professional [F]). Therefore, greater funding not only allows councils to implement projects but fundamentally reshapes the culture of council working so that they can "afford" to be more innovative. In this way, economic capability has a more powerful role than simply funding a given project.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.2.">"It's not just about money, it's about people as well": 9 Social capabilities</head><p>Variable social capabilities were closely intertwined with variable amounts of funding. Interviews suggested that greater council funding for staffing facilitates: (a) larger and more specialised climate teams; and (b) comparative advantages in recruitment and retention. More staff resources enabled more proactive than operational, "reactive" working (regional council officer [A]). However, three interviewees argued the case for streamlined teams (local council officers [A, E, G]), with climate action integrated throughout the council's departments to prevent any artificial "siloes" of action (local council officer [D], regional council officer [E], civil society professionals [E, F]).</p><p>As well as the quantitative number of staff, and the resources behind it, interviewees identified qualitative differences in successful councils. For instance, five respondents noted the importance of longstanding work on council climate action as a factor in success and ambition (local council officer [D], local councillor [A], regional council officer [E], civil society professionals [C, F]). Many interviewees linked the 2008 recession and loss of the National Indicators (NI) framework 10 to having reduced staff resources around climate action in most councils ("10 years ago was the last time that local authorities were really engaging with the sustainability agenda because of policy change", local council officer [E]). LA interviewees considered that those councils that have been able to consistently resource and gain stable political support for their climate operations are now better placed to act on net zero, reinforced by another LA interviewee's comment that: "[i]t's not you know, a new agenda for us" (local council officer <ref type="bibr">[D]</ref>). This "institutional memory" allowed councils to be "hitting the ground running" (local councillor <ref type="bibr">[A]</ref>). Four interviewees commented on the loss of in-house capability (academic [A]. regional council officer [B], civil society professionals [B, C]), which means many councils turn to consultancies to produce climate strategies, reinforcing a lack of capability given limited future ownership over the data or tools used in the research (academic [A], local council officers [A, E], regional council officer [D], civil society professional [A], civil society volunteer [A]). Respondents questioned whether LAs make use of their existing powers and whether this was reliant on staff expertise. For instance, Nottingham's Parking Levy was cited in three instances (civil society professional [B, C, E]) as a successful example of using powers. 11 But as a third sector interviewee commented, "the government makes it difficult to sometimes use those powers" (civil society professional <ref type="bibr">[A]</ref>). Therefore, it is not necessarily the case that some powers are insufficient, but that staff experience, funding and political support are required to enable the use of these powers. This highlights the co-dependence of many aspects of council capability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.3.">"Not in their interest to be that helpful": Political capabilities</head><p>Interviewees identified that important political factors in ensuring a council's capability were "stable leadership" (local council officer [D]) and supportive councillors ("[y]ou can push so much up-water, but there has to be a level that goes downstream", civil society professional [F]). However, four respondents voiced suspicion that political affiliations aligned with national politics smooth the way for greater funding and insight, both at the LA and CA levels (local council officers [B, F, H], civil society professionals [F]). For instance, commenting on "rumours" (local council officer <ref type="bibr">[B]</ref>) that funding allocations were more favourable to Conservative LAs. But three interviewees indicated that Conservative LAs were less likely to be ambitious (local councillor <ref type="bibr">[A]</ref>, civil society professionals [B, C]); for instance in only setting net zero targets for 2050, ensuring their policy messaging is consistent with that of the national government: "they think, okay, if that's what the government is saying, that's what we're sticking to" (civil society professional [C]). At a smaller scale, six interviewees noted that differing political affiliations constrained cooperation between LAs and their higher tier authorities (e.g. county councils; local council officers [B, F, H], local councillor [A], civil society professional [F], civil society volunteer [A]). One interviewee suggested that "[i]t's kind of politically not in their interest to be that helpful to us" (local councillor <ref type="bibr">[A]</ref>). This apparent protectionism around action on net zero risks further inequalities between LAs due to their politics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">To what extent would a statutory responsibility improve equity in Local Authority delivery of net zero in England?</head><p>The most common reason interviewees cited for introducing a statutory responsibility was that it ensured climate action was a priority within councils (local council officers [D, F, G, H, I], regional council officer [A], civil society professional [E]), giving officers a "strong mandate" (local council officer [B]), protecting climate roles, teams and institutional memory against future budget cuts. As one officer commented, "it's easy for the non-statutory duties to be potentially sidelined" (local council officer [D]). It was also seen to confer "legitimacy and credibility" (civil society professional [E]) on LAs in their implementation of net zero projects. This would prevent climate teams being seen as "nice to have" rather than "essential" (local council officer [I]), meaning more than only large, affluent councils have the capability to retain climate teams. Two interviewees suggested that a statutory responsibility could level the playing field of council climate action, with one respondent noting that "there's barriers to ambitious councils and then there's you know no accountability for unambitious councils" (civil society professional [A]). Depending on the requirements and design of the statutory responsibility, it was seen by interviewees as being able to establish a mitigation "floor" or "level of service" (civil society professional [A]), whilst ambitious councils could go further.</p><p>Other interviewees voiced critiques of a statutory responsibility, with one officer seeing enforced commitments as redundant given the existing willingness of LAs to act: "it doesn't need a mandate from national government which implies that they [LAs] don't know what to do" (regional council officer [A]). Others suggested administrative burden and "red tape" (regional council officer [B]) could be a sticking point. One council climate officer questioned the ethical implications of a statutory responsibility, suggesting that it would implicitly devolve responsibility purely to LAs. This could shape a politics of blame that does not recognise the limited capabilities of councils to act on areawide emissions in particular:</p><p>[w]hy should it be and how could it be our [LAs'] responsibility? It's a responsibility of the private sector and of the people pumping out carbon left, right and centre (local council officer [F]).</p><p>The perspective of 11 interviewees on whether a statutory responsibility would be appropriate or equitable hinged on its definition, intent, and resourcing (academic [A], local council officers [A, B, E, G], regional council officer [D], civil society professionals [A, B, C, E, F]). As one central government interviewee queried, "is it everything, at the same time, and therefore nothing in material terms?" (civil servant <ref type="bibr">[A]</ref>). The statutory responsibility could be a loosely defined legal duty, a formal emissions target, a reporting requirement, a mandate for the publication of a strategy document, or some combination of the above. The most common condition of a statutory responsibility was for accompanying funding to cover staffing costs for additional reporting for instance, with an academic interviewee noting that "responsibility is only useful with power […] and funding more to the point, and capacity" (academic [A]). The ability of a statutory responsibility to improve equity in LAs' delivery of net zero would therefore be highly contingent on policy design and sequencing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">What alternative governance mechanisms could build Local Authority capabilities to deliver net zero in England?</head><p>Seven interviewees critiqued the current public funding system for reinforcing existing patterns of capability (local council officers [A, B, C], civil servant [A], civil society professionals [B, E, F]); that is, it is highly dependent on having the staff resources to produce an evidence base and put together bids in a short window of time. Applying for funding requires funding, creating a catch-22 or "treadmill" (civil servant [A]) situation, with some councils pre-emptively deciding not to apply for advertised funds ("we don't even have the capacity to manage a consultant to apply for it on our behalf", local council officer <ref type="bibr">[B]</ref>).</p><p>Interviewees expressed a desire for both equitable allocation systems and greater local control over the distribution of funding. One proposal to improve equity in funding was to change the short-notice, competitive allocation system for one-off projects, to one of continuous equal distribution (local council officer <ref type="bibr">[D]</ref>). Two interviewees proposed a means-tested system (civil society professionals [A, F]), with one former local council officer suggesting "[h]ow about just equally share it? But maybe I get a bit more because it's harder in my area" (civil society professional [F]). In essence, this proposes a funding scheme following a principle of CBDR-RC. Other suggestions involved population-linked funding, or regional funding distributed down through CAs or county councils, giving a greater degree of local control over how the funds were spent rather than "trying to shoehorn our need into nationally set funding restrictions" (regional council officer [B]).</p><p>By contrast, a bottom-up led reform proposed by an interviewee was a collaborative bid process (local council officer [I]), where LAs could be paired with others successful in accessing funding, in order to overcome differences in capability whilst also addressing cross-boundary emissions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.1.">Respecting capabilities at the local scale</head><p>Perspectives from interviewees generally highlighted that the current landscape of subnational climate governance in England does not address differences in local capability.</p><p>Though economic drivers were often viewed as the most important factor driving variable capabilities, political factors were presented as the overall "determinant" of capability. Political affiliation can play an important role in influencing funding levels, how it is spent, and the strategic direction of the council around climate. Political support from officials was an enabler of more ambitious action; several studies predating the net zero target-setting phenomenon draw attention to the importance of supportive individuals such as senior officials <ref type="bibr" target="#b0">(Allman, Fleming, and Wallace 2004)</ref>, "policy entrepreneurs" <ref type="bibr" target="#b7">(Bulkeley and Kern 2006)</ref>, and climate "champions" <ref type="bibr" target="#b44">(Pearce and Cooper 2013)</ref>.</p><p>As well as the political support within a council, the political interactions between councils, higher tier authorities and national government were critical in determining overall ambition. Where the political affiliation of a council "matched" that of the higher tier authority (e.g. a county council) or national government (i.e. Conservative), this was seen as facilitating greater support and therefore capability for climate action. This supports <ref type="bibr" target="#b30">Hsu, Weinfurter, and Xu's (2017)</ref> notion of the important role of vertical alignment between subnational actors. Recent evidence has suggested that the government allocation of Levelling Up funds 12 has disproportionately benefitted Conservative LAs <ref type="bibr" target="#b40">(McCann et al. 2023)</ref>. There is therefore a risk that politics could be a driver of further unequal capabilities between LAs, though further empirical evidence is needed to determine whether this is also true of net zero funding.</p><p>Political affiliation was seen as a potential constraint on ambition where Conservative councils were not expected to set targets more ambitious than the national government. This has the potential to create a situation in which Conservative LAs are more able to meet less ambitious targets, whilst LAs run by other political parties set more ambitious targets with less chance of being funded, thus risking damage to the credibility of their net zero commitments. As Ruiz-Campillo, Castán Broto, and Westman (2021) note, for "government institutions, credibility depends on achieving consistency between words and deeds". This reinforces the need for a standardised, transparent target-setting and monitoring mechanism, based on science not politics, and which recognises preexisting capabilities.</p><p>National political factors were also a key factor in determining overall economic capabilities, with particular criticism around central government's preference for a competitive bidding system. Competition funding aligns with a neoliberal, market-led philosophy that may serve interests of economic efficiency, but underserves the needs of local government. It perpetuates councils with less capability being less able to successfully bid, deepening inequalities in capability. <ref type="bibr" target="#b35">Lockwood (2021)</ref> has observed this approach to energy and climate policy since the 1980s, and <ref type="bibr" target="#b22">Gillard et al. (2017)</ref> suggest it can be a response to "constrained public finances". This is a critical ongoing consideration given the current pressures on public spending in the UK. The competitive approach also risks "projectivisation" of local climate action, rendering any action a one-off and short-term rather than long-term, continuous programme of work with ring-fenced staff and budgets.</p><p>The competitive funding system also embeds reliance on consultancies. For instance, an interviewee stated that their council lacked even the capacity to manage a consultant to apply on their behalf for a national funding competition (local council officer [B]), which indicates that the use of consultancies is commonplace within council climate teams. This privatisation of local climate knowledge risks further eroding the future capabilities of councils, with expertise, data, models and intellectual property being held at arms' length from the public sector. The privatisation of local climate action therefore risks turning the public good of climate mitigation and adaptation into a club good for those council areas that can afford it. The analysis highlighted the importance of differences in institutional memory, which is a product of different economic, social and political capabilities over time. A key driver of inequalities in progress was policy churn such as the removal of the NI framework <ref type="bibr" target="#b16">(Dixon and Wilson 2013)</ref>. More capable councils were able to sustain activities around climate mitigation by retaining climate staff, meaning they were better placed to perform well within the current resurgence of the low-carbon agenda. As <ref type="bibr" target="#b47">Roppongi et al. (2017)</ref> note in Tokyo, "historic accumulation" of capacity has enabled innovative action around emissions reductions. This serves to show how inequalities in capability are reinforced over time. This finding accords with that of <ref type="bibr" target="#b33">Kuzemko and Britton (2020)</ref>, who suggest the importance of "knowledge capacity" as a driver of "policy capacity" and how "embedding staff and knowledge" can grow other forms of capacity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.2.">Differentiating responsibility at the local scale</head><p>Interviewees criticised the way in which "piecemeal" national guidance <ref type="bibr" target="#b17">(Evans 2020</ref>) is a barrier to local climate action, feeding into a culture of risk-aversity. The literature describes a trend towards the "polycentric" and therefore experimental nature of local action <ref type="bibr" target="#b6">(Bulkeley and Castán Broto 2013;</ref><ref type="bibr" target="#b8">Castán Broto et al. 2019;</ref><ref type="bibr" target="#b15">Creasy et al. 2021;</ref><ref type="bibr" target="#b22">Gillard et al. 2017</ref>). However, a lack of policy certainty is ultimately constraining this innovation. It reinforces an uneven environment in which only the more capable LAs can "afford" to experiment and test the boundaries of national policy. A wellresourced statutory responsibility was seen as having the potential to improve equity by levelling the playing field of local climate action, and guaranteeing a minimal level of mitigation ambition from councils whilst leaving more ambitious LAs with the scope to go further. This principle is highlighted in the arguments put forward for an "interactive federalist" model of environmental governance <ref type="bibr" target="#b53">(Sovacool 2008)</ref>, the benefits of which are flexibility in how local objectives are met whilst guaranteeing a baseline of action to ensure national targets are comfortably reached. A statutory responsibility would therefore establish accountability and oversight for the targets set and commitments made by councils. The Climate Change Act 2008, as a national statutory responsibility, has rendered debate around climate policy "more structured and evidence-based" (Averchenkova, Fankhauser, and Finnegan 2021); a local statutory responsibility could similarly introduce new norms of reporting and the standardisation of commitments.</p><p>A key part of any proposed statutory responsibility would be its establishment of a reporting convention similar to the NI framework. This could allow the construction of an evidence base for the equity-based funding system (as proposed by interviewees), for instance, means-tested funding systems according to population, levels of deprivation or other criteria for need. Transparency and reporting on the current state of LA resourcing could also embed principles of CBDR-RC into the statutory responsibility, by reflecting how underlying capabilities have shaped greater action in some areas. The CCC also recommend a "fully funded" duty "to act in accordance with Net Zero by delivering climate action plans within a common reporting system" <ref type="bibr" target="#b17">(Evans 2020)</ref>. This draws attention to the most commonly cited caveat for any local statutory responsibility -that of increased and differentiated resourcing, as a prerequisite and precursor to any statutory responsibility. This highlights that with downscaled responsibility there needs to be downscaled resources <ref type="bibr" target="#b10">(Catney et al. 2014)</ref>, and that capability and responsibility are to some degree interdependent. The current research highlights the primary need for an evidence base as a precursor to an equity-based funding system and in turn to the implementation of a statutory responsibility.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3.">Avoiding the "local trap"</head><p>The broader question raised by the discussion of limited and variable local capabilities and a statutory responsibility is whether it is right to assume a central role in local climate action, and if not, what kind of local roles, responsibilities and funding there should be. The literature and many interviewees commented on the so-called "local trap", which challenges the assumption that the local scale is necessarily best for carrying out climate action <ref type="bibr" target="#b10">(Catney et al. 2014)</ref>. <ref type="bibr" target="#b52">Shaw and Greenhalgh (2010)</ref> critique the "excessive localism" of a council-based approach, whilst <ref type="bibr" target="#b41">Muinzer and Ellis (2017)</ref> also question the idea of the "right scale" for climate action. This responds to a mainstream narrative in place-based research, which often fails to consider the variation in local capabilities. For instance, industrial decarbonisation was broadly viewed as within the remit of national government, and as highly dependent on national decisions around infrastructure, with limited scope for LA engagement in this process. There is therefore a potential sectoral separation between the policy areas that local or national government could or should cover.</p><p>Many of the proposed reforms to local climate action rely on top-down interventions, but bottom-up "workarounds" for LAs include partnership working to overcome resource constraints, and internal standardisation of the role of council climate officer. However, much of the academic literature considers there is a ceiling to local action without additional support from the national government. As Borrowman, Singh, and Bulleid (2020) note, "[c]ouncils cannot hope to decarbonise their local areas without the backing of ambitious national policy frameworks". LAs cannot always reform their ways of working on climate from within, since many of the powers LAs hold are determined by central government. There are inherent national barriers to local action. <ref type="bibr" target="#b1">Armstrong (2019)</ref> note that LA action is largely "low-impact", and <ref type="bibr" target="#b37">Marsden et al. (2014)</ref> note the "pragmatic incrementalism" of local actors. The achievement of the national net zero target demands action at pace and scale from actors across scales. Therefore whilst laudable, the current commitments and actions of LAs face a saturation point without more proactive, clear support from central government.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.4.">International implications of English local government dynamics</head><p>The application of CBDR-RC to subnational climate governance offers a framework for thinking about spatial equity <ref type="bibr" target="#b21">(Garvey et al. 2022)</ref>. It considers that local governments have varying capabilities based on a dynamic combination of their geographical location and geophysical resources, their industrial and socioeconomic heritage, their institutional histories and political affiliations. It argues that this then dictates their present-day capabilities to respond to the challenge of climate change mitigation, and suggests that there are different responsibilities to respond according to these differential capabilities. It underscores that equity is a result of matching responsibility with capabilities.</p><p>As noted previously, the current study of equity in English LA climate action seemingly precludes international transferability due to the singular nature of English local government structures. However, we argue that the subnational application of CBDR-RC bears conceptual relevance to other country contexts, namely by providing perspectives on the value of statutory mechanisms as a tool to improve the equity of local climate governance.</p><p>As noted, statutory mechanisms exist (or are being developed) in the devolved nations in the UK, offering the most direct analogies. However, such mechanisms are also present internationally, differing in shape and form, for instance in the case of Ireland. The Irish government issues statutory guidelines with which local government must align the development of their climate plans, including the development of a baseline emissions inventory (Department of the Environment, Climate and Communications [DECC] 2023). This mandatory, standardised approach, also coordinated at a regional level, ensures "coherence" and "consistency" (DECC 2023). Further research could identify where such mechanisms have been applied in these different contexts, their design and effectiveness. In turn, this international evidence on statutory mechanisms, and funding allocation systems could inform best practices in the design of local policy in England.</p><p>The current analysis aims to explore how equity can be realised in local government climate practice. Although UK governance is highly centralised, the current research has particular relevance to states with more federal or strong regional governance structures -for instance, in Germany, the United States, or Japan, where there are regional governments, which could facilitate differentiated and coordinated policy design at the regional level to improve equity outcomes. Though many of the issues identified above are out of the scope of the current research, it is perhaps interesting in and of itself that it is so hard to compare local government in the UK to anywhere else. This singular governance structure is perhaps a causal factor in why it often does not function effectively when it comes to climate governance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.5.">Directions for further research</head><p>The current research prioritised mitigation as this is the focus of the UK's national climate policy framework and is of more relevance to the targets most LAs have set, namely around "net zero". Climate adaptation is typically underexplored in local climate action plans <ref type="bibr" target="#b23">(Grafakos et al. 2020)</ref>, and therefore further research could explore stakeholder perspectives on the role of LAs in delivering adaptation.</p><p>As identified in section 5.4, the international transferability of this subnational case study could be valuably explored through comparative analysis. As noted in the introduction, comparative analysis with the devolved nations of Scotland, Wales and Northern Ireland would be particularly revealing, given the varied designs and formality of statutory mechanisms in these territories. This could contrast the approaches taken in the three devolved nations and their effectiveness relative to the more laissez-faire approach in England. This could offer a test case for what might be effective statutory responsibility design in England.</p><p>Truly international comparative analysis would be valuable (in addition to exploring the intranational dynamics within the UK) particularly exploring: (a) how different local governance structures (for instance levels of funding) affect the capability to undertake climate action at the local scale; and (b) where statutory tools have been effective and how.</p><p>A statutory mechanism to ensure local climate action was seen as protecting the budgets and the importance of a non-statutory service area in councils. Though the present analysis primarily considers climate action within councils, it could also be of interest to explore whether similar issues persist for other non-statutory service areas, and whether the issues encountered are simply a function of a non-statutory service status.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Conclusion</head><p>The analysis considered how the current paradigm of Local Authority (LA) climate action aligns with the principles of Common But Differentiated Responsibility and Respective Capabilities (CBDR-RC). The analysis identified that economic, social and political factors were critical determinants of overall capability, and that the current governance arrangements for local climate action tended to reinforce patterns of unequal capability. Though economic factors are typically cited as the most important dimension of overall capabilities, it was shown that political factors act as an overall "determinant" of capability, and that economic, social and political capabilities are to a large degree interdependent. It was found that a statutory responsibility could have the potential to improve equity in local action, provided the mechanism recognised variable council capabilities through careful design and appropriate resourcing. Though a statutory responsibility could level the playing field of local climate action and ensure more equitable burden-sharing, others questioned whether it would lead to a culture of blame and undue assignment of responsibility to one scale. This points to an ongoing debate around the "correct scale" for climate mitigation <ref type="bibr" target="#b51">(Schafran, Smith, and Hall 2020)</ref> and to what extent the assignment of responsibility depends on political, legal, and ethical ideologies of allocation.</p><p>Proposed funding reforms included equity-based distributions endorsing the principles of CBDR-RC in the allocation system. The findings have relevance to current UK policymaking in this area, particularly given the newly created Office for Local Government, which could offer greater oversight of LA performance on climate change <ref type="bibr" target="#b32">(Kenyon 2022)</ref>.</p><p>Many interviewees drew attention to the ongoing action of LAs in the absence of substantive government guidance, support or formal responsibilities. It is therefore critical to recognise the value of the incremental action that councils are taking, though noting that without further, active central government support it will remain incremental, and perhaps, inequitable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1. There is no statutory climate mitigation duty or reporting requirement but councils do have to consider climate impacts under statutory planning policy rules <ref type="bibr">(Howarth et al. 2021a</ref>). 2. Operational emissions refer to GHG emissions produced within council-owned estates, whilst area-wide emissions occur within the LA's administrative boundaries. 3. Whilst often used interchangeably, "capacity" can be considered the more passive sense of a given actor's ability to "cope and adapt" <ref type="bibr" target="#b19">(Füssel 2010)</ref>, whilst "capability" is an actor's more active "ability to take effective action to reduce carbon emissions" <ref type="bibr" target="#b39">(Mayne, Fawcett, and Hyams 2017)</ref>. We use the term capability throughout given our discussion of the agency of LA actors, and aligned with the terminology of CBDR-RC. 4. Scottish public sector bodies have a statutory responsibility to contribute to the national net zero target and to report annually against this, whilst in Wales public bodies must contribute towards the Sustainable Development Goals and undertake annual reporting (Welsh Local Government Association 2023). 5. Though CAs are notable new forms of subnational governance, in this analysis we focus on the role of LAs, given their greater number and their more comparable powers and structures. We do however represent the views of CA stakeholders on the role and function of LAs. 6. The term "Big Society" references the Conservative Party General Election manifesto of 2010, which marked a renewed interest in the ideology and idea of "active citizenship" (Maschette and Garnett 2024). 7. By devolved we imply partially devolved, since it is unlikely and unfeasible that climate mitigation powers could (or should) be entirely devolved. 8. Analysis of the types of council interviewed is illustrative at the district level, not the county or CA level given these institutions represent a collective of LAs. 9. Local council officer <ref type="bibr">[A]</ref>. 10. The NI Framework previously required LAs to report climate action against a number of metrics <ref type="bibr" target="#b16">(Dixon and Wilson 2013)</ref>; this was abolished after 2011, leading to a loss of climate teams within councils <ref type="bibr" target="#b14">(Cooper and Pearce 2011;</ref><ref type="bibr">Howarth et al. 2021a</ref>). 11. Nottingham was raised by six different interviewees as an example of an LA successful in attracting funding and pushing through net zero projects (local council officer [B], local councillor [A], civil society professionals [A, B, C, F]). 12. Competitive government funding aiming to reduce inequalities between regions of the UK.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Indicative structure of English local government institutions (numbers indicate how many of each type of institution or area classification exist), based on Studdert (2021).</figDesc><graphic coords="4,48.02,424.80,396.00,208.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Regional distribution of interviewees in the sample who worked in a place-based institution (n = 19; i.e. excluding respondents who offered a national perspective or worked for a national organisation).</figDesc><graphic coords="7,65.03,53.29,360.00,370.83" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc>To what extent do you think local climate action is dependent on national action or policy? (b) What are the main barriers to local climate action? (c) How well do you think local, regional and national action on net zero is coordinated? (d) Do you think that climate action should be a statutory responsibility at the subnational scale?</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc>if […] you've got shed loads of staff that's quite easy. But it's just me […] and I will end up writing a bid on a Sunday (local councillor [A]).</figDesc></figure>
+		</body>
+		<back>
+
+			
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The authors would like to thank all participants in the research for giving their valuable time and insights.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the authors.</p></div>
+			</div>
+
+
+			<div type="funding">
+<div><p>Funding AG was supported by an <rs type="funder">EPSRC</rs> <rs type="grantName">Doctoral Training Programme Scholarship</rs>. MB, JN and JB were supported by the <rs type="funder">Centre for Research into Energy Demand Solutions</rs>, award <rs type="grantNumber">EP/R035288/1</rs>. This study was approved by the <rs type="institution">University of Leeds Business, Environment and Social Sciences Faculties Research Ethics Committee (AREA FREC</rs>) on 14th December 2021 (reference number <rs type="grantNumber">LTSEE-126</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_Z9mqSk9">
+					<orgName type="grant-name">Doctoral Training Programme Scholarship</orgName>
+				</org>
+				<org type="funding" xml:id="_cmBXCNp">
+					<idno type="grant-number">EP/R035288/1</idno>
+				</org>
+				<org type="funding" xml:id="_PQpNW2F">
+					<idno type="grant-number">LTSEE-126</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The Progress of English and Welsh Local Authorities in Addressing Climate Change</title>
+		<author>
+			<persName><forename type="first">Lee</forename><surname>Allman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Fleming</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Wallace</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1354983042000219379</idno>
+		<ptr target="https://doi.org/10.1080/1354983042000219379" />
+	</analytic>
+	<monogr>
+		<title level="j">Local Environment</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="271" to="283" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Modeling Effective Local Government Climate Policies that Exceed State Targets</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">H</forename><surname>Armstrong</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enpol.2019.05.018</idno>
+		<ptr target="https://doi.org/10.1016/j.enpol.2019.05.018" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="15" to="26" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Local Government Funding in England</title>
+		<author>
+			<persName><forename type="first">Graham</forename><surname>Atkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stuart</forename><surname>Hoddinott</surname></persName>
+		</author>
+		<ptr target="https://www.instituteforgovernment.org.uk/explainer/local-government-funding-england" />
+		<imprint>
+			<date type="published" when="2020-03-10">2020. March 10. May 2, 2023</date>
+		</imprint>
+	</monogr>
+	<note>Institute for Government</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The Impact of Strategic Climate Legislation: Evidence from Expert Interviews on the UK Climate Change Act</title>
+		<author>
+			<persName><forename type="first">Alina</forename><surname>Averchenkova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sam</forename><surname>Fankhauser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jared</forename><forename type="middle">J</forename><surname>Finnegan</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14693062.2020.1819190</idno>
+		<ptr target="https://doi.org/10.1080/14693062.2020.1819190" />
+	</analytic>
+	<monogr>
+		<title level="j">Climate Policy</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="251" to="263" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">The Local Climate Challenge: A New Partnership Approach</title>
+		<author>
+			<persName><forename type="first">Philippa</forename><surname>Borrowman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ravina</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roz</forename><surname>Bulleid</surname></persName>
+		</author>
+		<ptr target="https://green-alliance.org.uk/publication/the-local-climate-challenge-a-new-partnership-approach/" />
+		<imprint>
+			<date type="published" when="2020-12-04">2020. December 4. May 2, 2023</date>
+		</imprint>
+	</monogr>
+	<note>Green Alliance</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Alan</forename><surname>Bryman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note>th ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Government by Experiment? Global Cities and the Governing of Climate Change</title>
+		<author>
+			<persName><forename type="first">Harriet</forename><surname>Bulkeley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vanesa</forename><forename type="middle">Castán</forename><surname>Broto</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1475-5661.2012.00535.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1475-5661.2012.00535.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the Institute of British Geographers</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="361" to="375" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Local Government and the Governing of Climate Change in Germany and the UK</title>
+		<author>
+			<persName><forename type="first">Harriet</forename><surname>Bulkeley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kristine</forename><surname>Kern</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00420980600936491</idno>
+		<ptr target="https://doi.org/10.1080/00420980600936491" />
+	</analytic>
+	<monogr>
+		<title level="j">Urban Studies</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2237" to="2259" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Transformative Capacity and Local Action for Urban Sustainability</title>
+		<author>
+			<persName><forename type="first">Castán</forename><surname>Broto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gregory</forename><surname>Vanesa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ewa</forename><surname>Trencher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Linda</forename><surname>Iwaszuk</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Westman</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13280-018-1086-z</idno>
+		<ptr target="https://doi.org/10.1007/s13280-018-1086-z" />
+	</analytic>
+	<monogr>
+		<title level="j">Ambio</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="449" to="462" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Just Sustainabilities and Local Action: Evidence from 400 Flagship Initiatives</title>
+		<author>
+			<persName><forename type="first">Castán</forename><surname>Broto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Linda</forename><surname>Vanesa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Westman</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13549839.2016.1248379</idno>
+		<ptr target="https://doi.org/10.1080/13549839.2016.1248379" />
+	</analytic>
+	<monogr>
+		<title level="j">Local Environment</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="635" to="650" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName><forename type="first">Philip</forename><surname>Catney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sherilyn</forename><surname>Macgregor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Dobson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><forename type="middle">Marie</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarah</forename><surname>Royston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Zoe</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Ormerod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Simon</forename><surname>Ross</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13549839.2013.792044</idno>
+		<ptr target="https://doi.org/10.1080/13549839.2013.792044" />
+	</analytic>
+	<monogr>
+		<title level="m">Little Justice? Community Renewable Energy and the Politics of Localism</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="715" to="730" />
+		</imprint>
+	</monogr>
+	<note>Big Society</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Thematic Analysis</title>
+		<author>
+			<persName><forename type="first">Victoria</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Virginia</forename><surname>Braun</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/17439760.2016.1262613</idno>
+		<ptr target="https://doi.org/10.1080/17439760.2016.1262613" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Positive Psychology</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="297" to="298" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">CCC Insights Briefing 1 -The UK Climate Change Act</title>
+		<ptr target="https://www.theccc.org.uk/publication/insights-briefings-sharing-the-uk-approach-to-addressing-climate-change/" />
+		<imprint>
+			<date type="published" when="2020-10-29">2020. October 29. May 2, 2023</date>
+		</imprint>
+	</monogr>
+	<note>Climate Change Committee Climate Change Committee</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Council Climate Action Scorecards</title>
+		<ptr target="https://councilclimatescorecards.uk/" />
+	</analytic>
+	<monogr>
+		<title level="j">Climate Emergency UK. Accessed</title>
+		<imprint>
+			<date type="published" when="2024-02-26">February 26, 2024</date>
+		</imprint>
+	</monogr>
+	<note>Climate Emergency UK. 2023</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Climate Change Performance Measurement, Control and Accountability in English Local Authority Areas</title>
+		<author>
+			<persName><forename type="first">Stuart</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Graham</forename><surname>Pearce</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/09513571111184779</idno>
+		<ptr target="https://doi.org/10.1108/09513571111184779" />
+	</analytic>
+	<monogr>
+		<title level="j">Accounting, Auditing &amp; Accountability Journal</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1097" to="1118" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Representing &apos;Place&apos;: City Climate Commissions and the Institutionalisation of Experimental Governance in Edinburgh</title>
+		<author>
+			<persName><forename type="first">Alice</forename><surname>Creasy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Lane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alice</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Candice</forename><surname>Howarth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dan</forename><surname>Van Der Horst</surname></persName>
+		</author>
+		<idno type="DOI">10.17645/pag.v9i2.3794</idno>
+		<ptr target="https://www.gov.ie/en/press-release/364a4-minister-ryan-launches-guidelines-for-local-authority-climate-action-plans/" />
+	</analytic>
+	<monogr>
+		<title level="m">Department of the Environment, Climate and Communications</title>
+		<imprint>
+			<date type="published" when="2021">2021. 2023. February 26, 2024</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="64" to="75" />
+		</imprint>
+	</monogr>
+	<note>Minister Ryan Launches Guidelines for Local Authority Climate Action Plans</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Cities&apos; Low-Carbon Plans in an &apos;Age of Austerity&apos;: An Analysis of UK Local Authority Actions, Attitudes and Responses</title>
+		<author>
+			<persName><forename type="first">Tim</forename><surname>Dixon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elizabeth</forename><surname>Wilson</surname></persName>
+		</author>
+		<idno type="DOI">10.4155/cmt.13.58</idno>
+		<ptr target="https://doi.org/10.4155/cmt.13.58" />
+	</analytic>
+	<monogr>
+		<title level="j">Carbon Management</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="663" to="680" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Local Authorities and the Sixth Carbon Budget</title>
+		<author>
+			<persName><forename type="first">Louise</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Marix</surname></persName>
+		</author>
+		<ptr target="https://www.theccc.org.uk/publication/local-authorities-and-the-sixth-carbon-budget/" />
+		<imprint>
+			<date type="published" when="2020-12-09">2020. December 9. May 2, 2023</date>
+		</imprint>
+	</monogr>
+	<note>Climate Change Committee</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The Climate Responsibilities of Industrial Carbon Producers</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Frumhoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">Richard</forename><surname>Heede</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Naomi</forename><surname>Oreskes</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10584-015-1472-5</idno>
+		<ptr target="https://doi.org/10.1007/s10584-015-1472-5" />
+	</analytic>
+	<monogr>
+		<title level="j">Climatic Change</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="157" to="171" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">How Inequitable is the Global Distribution of Responsibility, Capability, and Vulnerability to Climate Change: A Comprehensive Indicator-Based Assessment</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Füssel</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2010.07.009</idno>
+		<ptr target="https://doi.org/10.1016/j.gloenvcha.2010.07.009" />
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="597" to="611" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Climate Ambition and Respective Capabilities: Are England&apos;s Local Emissions Targets Spatially Just?</title>
+		<author>
+			<persName><forename type="first">Alice</forename><surname>Garvey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Milena</forename><surname>Büchs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><forename type="middle">B</forename><surname>Norman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Barrett</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<publisher>Climate Policy</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A &apos;Spatially Just&apos; Transition? A Critical Review of Regional Equity in Decarbonisation Pathways</title>
+		<author>
+			<persName><forename type="first">Alice</forename><surname>Garvey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonathan</forename><forename type="middle">B</forename><surname>Norman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Milena</forename><surname>Büchs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Barrett</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2022.102630</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2022.102630" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page">102630</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Can National Policy Blockages Accelerate the Development of Polycentric Governance? Evidence from Climate Change Policy in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">Ross</forename><surname>Gillard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Gouldson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jouni</forename><surname>Paavola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Van Alstine</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2017.06.003</idno>
+		<ptr target="https://doi.org/10.1016/j.gloenvcha.2017.06.003" />
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="174" to="182" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Integration of Mitigation and Adaptation in Urban Climate Change Action Plans in Europe: A Systematic Assessment</title>
+		<author>
+			<persName><forename type="first">Stelios</forename><surname>Grafakos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Viero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Diana</forename><surname>Reckien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Trigg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Viguie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Sudmant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Catherine</forename><surname>Graves</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.rser.2019.109623</idno>
+		<ptr target="https://doi.org/10.1016/j.rser.2019.109623" />
+	</analytic>
+	<monogr>
+		<title level="j">Renewable and Sustainable Energy Reviews</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page">109623</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The Depths of the Cuts: The Uneven Geography of Local Government Austerity</title>
+		<author>
+			<persName><forename type="first">Mia</forename><surname>Gray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anna</forename><surname>Barford</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/cjres/rsy019</idno>
+		<ptr target="https://doi.org/10.1093/cjres/rsy019" />
+	</analytic>
+	<monogr>
+		<title level="j">Cambridge Journal of Regions, Economy and Society</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="541" to="563" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The Role of UK Local Government in Delivering on Net Zero Carbon Commitments: You&apos;ve Declared a Climate Emergency, so What&apos;s the Plan?</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Gudde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Justine</forename><surname>Oakes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Cochrane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicholas</forename><surname>Caldwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nic</forename><surname>Bury</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enpol.2021.112245</idno>
+		<ptr target="https://doi.org/10.1016/j.enpol.2021.112245" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">154</biblScope>
+			<biblScope unit="page">112245</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Regional GHG Reduction Targets Based on Effort Sharing: A Comparison of Studies</title>
+		<author>
+			<persName><forename type="first">Niklas</forename><surname>Höhne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Den Elzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Donovan</forename><surname>Escalante</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14693062.2014.849452</idno>
+		<ptr target="https://doi.org/10.1080/14693062.2014.849452" />
+	</analytic>
+	<monogr>
+		<title level="j">Climate Policy</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="122" to="147" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Alice Owen, and Nick Robins. 2021a</title>
+		<author>
+			<persName><forename type="first">Candice</forename><surname>Howarth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Barry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Dyson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sam</forename><surname>Fankhauser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andy</forename><surname>Gouldson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kate</forename><surname>Lock</surname></persName>
+		</author>
+		<ptr target="https://pcancities.org.uk/trends-local-climate-action-uk" />
+		<imprint>
+			<date type="published" when="2023-05-02">March 18. May 2, 2023</date>
+		</imprint>
+	</monogr>
+	<note>Trends in Local Climate Action Place-Based Climate Action Network</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">What Next for Local Government Climate Emergency Declarations? The Gap Between Rhetoric and Action</title>
+		<author>
+			<persName><forename type="first">Candice</forename><surname>Howarth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Lane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sam</forename><surname>Fankhauser</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10584-021-03147-4</idno>
+		<ptr target="https://doi.org/10.1007/s10584-021-03147-4" />
+	</analytic>
+	<monogr>
+		<title level="j">Climatic Change</title>
+		<imprint>
+			<biblScope unit="volume">167</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="1" to="22" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Exploring Links between National Climate Strategies and Non-State and Subnational Climate Action in Nationally Determined Contributions (NDCs)</title>
+		<author>
+			<persName><forename type="first">Angel</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Brandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oscar</forename><surname>Widerberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Shander</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amy</forename><surname>Weinfurter</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14693062.2019.1624252</idno>
+		<ptr target="https://doi.org/10.1080/14693062.2019.1624252" />
+	</analytic>
+	<monogr>
+		<title level="j">Climate Policy</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="443" to="457" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Aligning Subnational Climate Actions for the New Post-Paris Climate Regime</title>
+		<author>
+			<persName><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amy</forename><forename type="middle">J</forename><surname>Angel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kaiyang</forename><surname>Weinfurter</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Xu</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10584-017-1957-5</idno>
+		<ptr target="https://doi.org/10.1007/s10584-017-1957-5" />
+	</analytic>
+	<monogr>
+		<title level="j">Climatic Change</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="419" to="432" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Emergence of Polycentric Climate Governance and its Future Prospects</title>
+		<author>
+			<persName><forename type="first">Anew</forename><forename type="middle">J</forename><surname>Jordan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dave</forename><surname>Huitema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mikael</forename><surname>Hildén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tim</forename><forename type="middle">J</forename><surname>Harro Van Asselt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jonas</forename><forename type="middle">J</forename><surname>Rayner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jale</forename><surname>Schoenefeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Johanna</forename><surname>Tosun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Elin</forename><forename type="middle">L</forename><surname>Forster</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Boasson</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nclimate2725</idno>
+		<ptr target="https://doi.org/10.1038/nclimate2725" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Climate Change</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="977" to="982" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">Gove Announces Multi-Year Funding and New Office for Local Government. Local Government Chronicle</title>
+		<author>
+			<persName><forename type="first">Megan</forename><surname>Kenyon</surname></persName>
+		</author>
+		<ptr target="https://www.lgcplus.com/finance/gove-announces-multi-year-funding-and-new-office-for-local-government-28-06-2022/" />
+		<imprint>
+			<date type="published" when="2022-06-28">2022. June 28. May 2, 2023</date>
+		</imprint>
+	</monogr>
+	<note>Local Government Chronicle</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Policy, Politics and Materiality Across Scales: A Framework for Understanding Local Government Sustainable Energy Capacity Applied in England</title>
+		<author>
+			<persName><forename type="first">Caroline</forename><surname>Kuzemko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jess</forename><surname>Britton</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2019.101367</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2019.101367" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page">101367</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<author>
+			<persName><forename type="first">Andrew</forename><forename type="middle">P</forename><surname>Kythreotis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Andrew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Theresa</forename><forename type="middle">G</forename><surname>Jonas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Terry</forename><forename type="middle">K</forename><surname>Mercer</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Marsden</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/21622671.2020.1837220</idno>
+		<ptr target="https://doi.org/10.1080/21622671.2020.1837220" />
+	</analytic>
+	<monogr>
+		<title level="m">Rethinking Urban Adaptation as a Scalar Geopolitics of Climate Governance: Climate Policy in the Devolved Territories of the UK</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="39" to="59" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">A Hard Act to Follow? The Evolution and Performance of UK Climate Governance</title>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Lockwood</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/09644016.2021.1910434</idno>
+		<ptr target="https://doi.org/10.1080/09644016.2021.1910434" />
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Politics</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="26" to="48" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Behind the Targets? The Case for Coherence in a Multi-Scalar Approach to Carbon Action Plans in the Transport Sector</title>
+		<author>
+			<persName><forename type="first">Greg</forename><surname>Marsden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jillian</forename><surname>Anable</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su13137122</idno>
+		<ptr target="https://doi.org/10.3390/su13137122" />
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">7122</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Muddling Through with Climate Change Targets: A Multi-Level Governance Perspective on the Transport Sector</title>
+		<author>
+			<persName><forename type="first">Greg</forename><surname>Marsden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Antonio</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Bache</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Flinders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Bartle</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14693062.2014.905823</idno>
+		<ptr target="https://doi.org/10.1080/14693062.2014.905823" />
+	</analytic>
+	<monogr>
+		<title level="j">Climate Policy</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="617" to="636" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Citizenship and Ideology in David Cameron&apos;s &apos;Big Society&apos;</title>
+		<author>
+			<persName><forename type="first">Lenon</forename><surname>Maschette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mark</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Garnett</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/s41293-023-00225-2</idno>
+		<ptr target="https://doi.org/10.1057/s41293-023-00225-2" />
+	</analytic>
+	<monogr>
+		<title level="j">British Politics</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="175" to="193" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Climate Justice and Energy: Applying International Principles to UK Residential Energy Policy</title>
+		<author>
+			<persName><forename type="first">Ruth</forename><surname>Mayne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tina</forename><surname>Fawcett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Keith</forename><surname>Hyams</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13549839.2016.1206515</idno>
+		<ptr target="https://doi.org/10.1080/13549839.2016.1206515" />
+	</analytic>
+	<monogr>
+		<title level="j">Local Environment</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="393" to="409" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Rebalancing UK Regional and Industrial Policy Post-Brexit and Post-COVID-19: Lessons Learned and Priorities for the Future</title>
+		<author>
+			<persName><forename type="first">Philip</forename><surname>Mccann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Raquel</forename><surname>Ortega-Argilés</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Deniz</forename><surname>Sevinc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Magda</forename><surname>Cepeda-Zorrilla</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00343404.2021.1922663</idno>
+		<ptr target="https://doi.org/10.1080/00343404.2021.1922663" />
+	</analytic>
+	<monogr>
+		<title level="j">Regional Studies</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1113" to="1125" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Subnational Governance for the Low Carbon Energy Transition: Mapping the UK&apos;s &apos;Energy Constitution&apos;</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">L</forename><surname>Muinzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Geraint</forename><surname>Ellis</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2399654416687999</idno>
+		<ptr target="https://doi.org/10.1177/2399654416687999" />
+	</analytic>
+	<monogr>
+		<title level="j">Environment and Planning C: Politics and Space</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1176" to="1197" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Institute for Government, May 30</title>
+		<author>
+			<persName><forename type="first">Akash</forename><surname>Paun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dan</forename><surname>Hall</surname></persName>
+		</author>
+		<ptr target="https://www.instituteforgovernment.org.uk/explainer/local-government" />
+		<imprint>
+			<date type="published" when="2019-05-02">2019. May 2, 2023</date>
+		</imprint>
+	</monogr>
+	<note>Local Government</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Subtle Differentiation of Countries&apos; Responsibilities Under the Paris Agreement</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Pauw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Harro</forename><surname>Kennedy Mbeva</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Van Asselt</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/s41599-019-0298-6</idno>
+		<ptr target="https://doi.org/10.1057/s41599-019-0298-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Palgrave Communications</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">The Challenges of Delivering Climate Change Policy at the sub-National Level</title>
+		<author>
+			<persName><forename type="first">Graham</forename><surname>Pearce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stuart</forename><surname>Cooper</surname></persName>
+		</author>
+		<idno type="DOI">10.3828/tpr.2013.23</idno>
+		<ptr target="https://doi.org/10.3828/tpr.2013.23" />
+	</analytic>
+	<monogr>
+		<title level="j">Town Planning Review</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="441" to="465" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Localizing the SDGs in England: Challenges and Value Propositions for Local Government</title>
+		<author>
+			<persName><forename type="first">Beth</forename><surname>Perry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kristina</forename><surname>Diprose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nick</forename><forename type="middle">Taylor</forename><surname>Buck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Simon</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/frsc.2021.746337</idno>
+		<ptr target="https://doi.org/10.3389/frsc.2021.746337" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Sustainable Cities</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">746337</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Chapter 1. Interviews</title>
+		<author>
+			<persName><forename type="first">Tim</forename><surname>Rapley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Qualitative Research Practice</title>
+		<editor>
+			<persName><forename type="first">Clive</forename><surname>Seale</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAGE</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="16" to="34" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Innovating in Sub-National Climate Policy: The Mandatory Emissions Reduction Scheme in Tokyo</title>
+		<author>
+			<persName><forename type="first">Hitomi</forename><surname>Roppongi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aki</forename><surname>Suwa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jose</forename><forename type="middle">A</forename><surname>Puppim De</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Oliveira</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14693062.2015.1124749</idno>
+		<ptr target="https://doi.org/10.1080/14693062.2015.1124749" />
+	</analytic>
+	<monogr>
+		<title level="j">Climate Policy</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="516" to="532" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Motivations and Intended Outcomes in Local Governments&apos; Declarations of Climate Emergency</title>
+		<author>
+			<persName><surname>Ruiz-Campillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vanesa</forename><forename type="middle">Castán</forename><surname>Xira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Linda</forename><surname>Broto</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Westman</surname></persName>
+		</author>
+		<idno type="DOI">10.17645/pag.v9i2.3755</idno>
+		<ptr target="https://doi.org/10.17645/pag" />
+	</analytic>
+	<monogr>
+		<title level="j">Politics and Governance</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">3755</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">The Role of Local Government in the Drive for Sustainable Development Public Policies. An Analytical Framework Based on Institutional Capacities</title>
+		<author>
+			<persName><forename type="first">Miquel</forename><surname>Salvador</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Sancho</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su13115978</idno>
+		<ptr target="https://doi.org/10.3390/su13115978" />
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page">5978</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Distributional Trade-Offs between Regionally Equitable and Cost-Efficient Allocation of Renewable Electricity Generation</title>
+		<author>
+			<persName><forename type="first">Jan</forename><forename type="middle">-</forename><surname>Sasse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Evelina</forename><surname>Philipp</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Trutnevyte</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apenergy.2019.113724</idno>
+		<ptr target="https://doi.org/10.1016/j.apenergy" />
+	</analytic>
+	<monogr>
+		<title level="j">Applied Energy</title>
+		<imprint>
+			<biblScope unit="volume">254</biblScope>
+			<biblScope unit="page">113724</biblScope>
+			<date type="published" when="2019">2019. 2019.113724</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<author>
+			<persName><forename type="first">Alex</forename><surname>Schafran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><forename type="middle">Noah</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">G</forename><surname>Hall</surname></persName>
+		</author>
+		<title level="m">The Spatial Contract: A New Politics of Provision for an Urbanized Planet</title>
+		<meeting><address><addrLine>Manchester</addrLine></address></meeting>
+		<imprint>
+			<publisher>Manchester University Press</publisher>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Knowledge Integration in the Politics and Policy of Rapid Transitions to Net Zero Carbon: A Typology and Mapping Method for Climate Actors in the UK</title>
+		<author>
+			<persName><forename type="first">Keith</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Greenhalgh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Steven</forename><forename type="middle">R</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ian</forename><surname>Christie</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su13020662</idno>
+		<ptr target="https://doi.org/10.3390/su13020662" />
+	</analytic>
+	<monogr>
+		<title level="j">Local Economy: The Journal of the Local Economy Policy Unit</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">5-6</biblScope>
+			<biblScope unit="page">662</biblScope>
+			<date type="published" when="2010">2010. 2021</date>
+		</imprint>
+	</monogr>
+	<note>Revisiting the &apos;Missing Middle&apos; in English sub-National Governance Sustainability</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<author>
+			<persName><forename type="first">Benjamin</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Best of Both Worlds: Environmental Federalism and the Need for Federal Action on Renewable Energy and Climate Change</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="397" to="471" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Local Government Explained Part 1: Types of councils. New Local</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Studdert</surname></persName>
+		</author>
+		<ptr target="https://www.newlocal.org.uk/articles/local-government-explained-types/" />
+		<imprint>
+			<date type="published" when="2021-11-13">2021. November 13, 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Moving from Agenda to Action: Evaluating Local Climate Change Action Plans</title>
+		<author>
+			<persName><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Samuel</forename><forename type="middle">D</forename><surname>Zhenghong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Courtney</forename><surname>Brody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Liang</forename><surname>Quinn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ting</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wei</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/09640560903399772</idno>
+		<ptr target="https://doi.org/10.1080/09640560903399772" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Environmental Planning and Management</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="41" to="62" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Governance Institutions and Prospects for Local Energy Innovation: Laggards and Leaders among UK Local Authorities</title>
+		<author>
+			<persName><forename type="first">Margaret</forename><surname>Tingey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Janette</forename><surname>Webb</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enpol.2019.111211</idno>
+		<ptr target="https://doi.org/10.1016/j.enpol" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page">111211</biblScope>
+			<date type="published" when="2019">2020. 2019.111211</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Dynamic Differentiation&apos;: The Principles of CBDR-RC, Progression and Highest Possible Ambition in the Paris Agreement</title>
+		<author>
+			<persName><forename type="first">Christina</forename><surname>Voigt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Felipe</forename><surname>Ferreira</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S2047102516000212</idno>
+		<ptr target="https://doi.org/10.1017/S2047102516000212" />
+	</analytic>
+	<monogr>
+		<title level="j">Transnational Environmental Law</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="285" to="303" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Local Authorities and the Future Generations Act</title>
+		<ptr target="https://www.wlga.wales/local-authorities-and-the-future-generations-act" />
+		<imprint>
+			<date type="published" when="2023-05-02">2023. May 2, 2023</date>
+			<publisher>Welsh Local Government Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Governing Sustainability: A Dialogue between Local Agenda 21 and Transition Management</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Wittmayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Van Steenbergen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Roorda</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13549839.2015.1050658</idno>
+		<ptr target="https://doi.org/10.1080/13549839.2015.1050658" />
+	</analytic>
+	<monogr>
+		<title level="j">Local Environment</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="939" to="955" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Implementing Rapid Climate Action: Learning from the &apos;Practical Wisdom&apos; of Local Decision-Makers</title>
+		<author>
+			<persName><forename type="first">Andy</forename><surname>Yuille</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Tyfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rebecca</forename><surname>Willis</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su13105687</idno>
+		<ptr target="https://doi.org/10.3390/su13105687" />
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">5687</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

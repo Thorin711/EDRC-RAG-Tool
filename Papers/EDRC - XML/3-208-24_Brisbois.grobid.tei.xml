@@ -1,0 +1,1771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Theorising and developing political feasibility for energy demand reduction</title>
+				<funder>
+					<orgName type="full">Energy Demand Research Centre</orgName>
+				</funder>
+				<funder ref="#_9wHyxaw">
+					<orgName type="full">UK Research and Innovation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Marie</forename><forename type="middle">Claire</forename><surname>Brisbois</surname></persName>
+							<email>m.c.brisbois@sussex.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Science Policy Research Unit</orgName>
+								<orgName type="institution">University of Sussex Jubilee Building Brighton</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Janine</forename><surname>Morley</surname></persName>
+							<email>j.morley@lancaster.ac.uk</email>
+							<affiliation key="aff1">
+								<orgName type="institution">Lancaster Environment Centre Lancaster University Lancaster</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Theorising and developing political feasibility for energy demand reduction</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">70C09186C7813CC0D08E488FBEDD8189</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>political feasibility</term>
+					<term>energy efficiency policy</term>
+					<term>incentives</term>
+					<term>public policy</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Policy pathways that prioritise absolute energy demand reductions are the only pathways currently available that meet 1.5 °C targets without relying on negative emissions technologies. In the energy sector, readily available technologies and programs consistent with demand reduction pathways (e.g. retrofits, public and active transportation, consumer goods standards and repair) are proven, readily available, and often have high levels of social support because they produce significant social and environmental co-benefits. Yet these solutions often seem politically infeasible at scale in many countries, or they remain a much lower priority than supply-side policies. The political (in)feasibility of systematic energy demand reduction remains one of the main impediments for progress toward 1.5 °C targets.</p><p>Despite its key role, political feasibility remains poorly theorised, especially for energy demand reduction. This paper unpacks the question of the political feasibility of energy demand reduction by reviewing existing perspectives on political feasibility and highlighting strengths and gaps. We develop an understanding of political feasibility specifically for energy demand reduction, develop an approach of analysing the concept, and then unpack three interacting drivers that we feel offer strong explanatory value for understanding the political feasibility of demand reduction: economic incentive structures and temporal and material infrastructures.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Policy pathways that prioritise absolute energy demand reductions are the only pathways currently available that meet 1.5 °C targets without relying on underdeveloped negative emissions technologies <ref type="bibr" target="#b13">(Grubler et al., 2018;</ref><ref type="bibr" target="#b28">Creutzig et al., 2022a;</ref><ref type="bibr" target="#b1">Barrett et al., 2022)</ref>. These pathways rely upon existing, technologically ready solutions <ref type="bibr" target="#b15">(Hickel et al., 2021;</ref><ref type="bibr">Keyßer &amp; Lenzen, 2021;</ref><ref type="bibr" target="#b42">van Vuuren et al., 2018)</ref>. In the energy sector, many technologies and programs consistent with demand reduction pathways (e.g. retrofits, public and active transportation, consumer goods standards and repair) are proven, readily available, and often -although not always -have high levels of social support because they produce significant social and environmental co-benefits <ref type="bibr" target="#b48">(Lage et al., 2023)</ref>. Yet these solutions often seem politically infeasible at scale in many countries, or they remain a much lower priority than supply-side policies. The political (in)feasibility of systematic energy demand reduction is thus one of the main impediments for progress toward 1.5 °C targets <ref type="bibr" target="#b20">(Jewell &amp; Cherp, 2020)</ref>.</p><p>Despite its key role, political feasibility remains poorly theorised, and there is limited consensus regarding what it entails <ref type="bibr" target="#b12">(Gilabert &amp; Lawford-Smith, 2012)</ref>. This is especially true when examining political feasibility specifically for energy demand reduction. Foundational work from political science in the 1970 and 1980s elaborates the basic concept as "satisfying all relevant constraints" <ref type="bibr">(Majone, 1975, p. 810;</ref><ref type="bibr" target="#b45">Webber, 1986)</ref>. More recent work examines political feasibility as an amalgam of economic, social, technical and other kinds of feasibility and focuses on the capacity to realise policy outcomes <ref type="bibr" target="#b3">(Bolwig et al., 2020;</ref><ref type="bibr" target="#b26">Cherp et al., 2018;</ref><ref type="bibr" target="#b20">Jewell &amp; Cherp, 2020)</ref>. However, these general categories provide unsatisfactory guidance for 3. POLICY, FINANCE AND GOVERNANCE resolving the lack of political uptake of demand reduction solutions.</p><p>This paper unpacks the question of the political feasibility of energy demand reduction by drawing on conceptual arguments. We review existing perspectives on political feasibility, and highlight strengths and gaps. Using this grounding, we develop an approach to political feasibility specifically for energy demand reduction. We then provide a framework for analysis of feasibility, and unpack constituent interacting drivers, with a specific focus on economic incentive structures and temporal and material infrastructures (i.e. time availability and material constraints) -identified as key areas of study from our ongoing work. We close with initial policy recommendations, and recommendations for further opening up this crucial area of academic inquiry.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mapping the conceptual space: perspectives on political feasibility</head><p>Feasibility is the 'capability of being done, accomplished or carried out' , in other words, of being 'possible or practicable' (Oxford English Dictionary). It is inherently complex, not least because it pertains to a state of affairs which, by definition, does not currently exist. Placed in conjunction with the term 'political' , which is itself contentious and marked by multiple meanings, including that associated with the administration of a state, the interests of particular parties, and the conduct of authority, governance and power in general, it is little wonder that the concept of political feasibility is used in a variety of ways, in a variety of contexts.</p><p>This ambiguity is one reason that scholars in the political sciences have attempted to better define and elaborate the term. For example, <ref type="bibr" target="#b12">Gilabert and Lawford-Smith (2012)</ref> recognise that disagreements between scholars about what is feasible and what is not can be traced to this ambiguity, and this in turn stands in the way of more coherent theorisation. Earlier scholars were also motivated by the practical role that systematic political feasibility analysis could potentially play in the policy making process alongside more routine technical and economic analysis of policy proposals <ref type="bibr" target="#b52">(Majone, 1975;</ref><ref type="bibr" target="#b45">Webber, 1986)</ref>. More recently, the term has also featured in discussion of the real-world feasibility of climate change mitigation pathways which integrated assessment models determine to be technically and economically feasible <ref type="bibr" target="#b20">(Jewell &amp; Cherp, 2020</ref>).</p><p>Yet as <ref type="bibr" target="#b52">Majone (1975)</ref> notes, the imprecision surrounding the term matters beyond questions of theorisation and scholarly analysis: it has direct policy implications insofar as it is used without careful definition and reasoning to inform decisionmaking. Political feasibility is in this sense a performative concept, prone to 'misuse' for ideological and instrumental reasons, either to defend the status quo or a particular course of action, or otherwise simplify policy problems by reading political constraints into a situation that may be much more flexible and fluid <ref type="bibr" target="#b52">(Majone, 1975)</ref>. This is apparent in literature examining climate solutions where technical solutions are presented, but adoption and implementation are hindered by "political feasibility" <ref type="bibr">(Creutzig et al., 2022)</ref>. As <ref type="bibr">Gilabert and Lawson-Smith (2012)</ref> observe, there is a balance to be struck between understanding the impact of constraints and reifying, or capitulating, to them. After all, they argue, "a central role of political deliberation is to imagine ways in which current economic, institutional and cultural configurations can be changed so that allegedly infeasible but highly desirable improvements are introduced" <ref type="bibr">(Gilabert &amp; Lawford-Smith, 2012, p. 814)</ref>.</p><p>It is in this spirit that we proceed in this paper: our aim is to better understand how meaningful energy demand reduction can be realised (as a desirable improvement). In this, political feasibility emerges as a concept of pivotal interest and importance, not only for the prospect of an improved analysis of the political space and constraints, but also out of an awareness of the significant role that the concept plays in practice. For the most part, however, we focus on the former, analytical objective. In the following sections we outline prominent definitions of political feasibility from the political science literature, and identify important differences.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FEASIBILITY OF WHAT? POLICY ADOPTION, POLICY GOALS AND STATES OF</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AFFAIRS</head><p>In earlier contributions, political feasibility is seen as a property of a policy proposal <ref type="bibr" target="#b52">(Majone, 1975)</ref>, and the analysis of political feasibility is positioned in analogy to the technical and economic analysis that is routinely undertaken by policymakers. Whereas this focuses on the practicality of a policy in terms of costs, economic impacts, and the likelihood of successfully achieving the policy goal in technical terms, both <ref type="bibr" target="#b52">Majone (1975)</ref> and <ref type="bibr" target="#b45">Webber (1986)</ref> identify the additional need for systemic analysis of the contextual political constraints relevant to the policy in question. <ref type="bibr" target="#b45">Webber (1986)</ref> argues that such evaluations are usually left to the subjective judgement of politicians themselves, which might lead to a rejection of a proposal, even after considerable work has gone into designing it and evaluating other aspects of its feasibility. The value of doing this earlier in the process, and following a more systematic and objective method, <ref type="bibr" target="#b45">Webber (1986)</ref> suggests, is that it allows for alternative policy formulations to be explored and evaluated against political constraints, improving their design and likelihood of successful implementation.</p><p>According to <ref type="bibr">Majone (1975, p. 261</ref>) "a policy is said to be feasible insofar as it satisfies all the constraints of the problem which it tries to solve". Politically feasibility therefore refers to the "political obstacles that have to be taken into consideration in the making and implementation of any policy" <ref type="bibr">(1975, p. 265, emphasis added)</ref>. To say a policy is "politically infeasible means that lack of political resources, the "intractability of institutions" …, distributional considerations, procedural obstacles, or other limiting factors of similar character, prevent the realization of the proposed course of action" <ref type="bibr">(Majone, 1975, p. 261)</ref>. Whilst there is inevitably debate about what constitutes a political constraint, and whilst it may not be possible to specify them with as much precision as technical or economic constraints, <ref type="bibr" target="#b52">Majone (1975)</ref> argues that this makes it all the more important to recognise such uncertainties and look for evidence so that such factors might be more clearly and explicitly examined. He identifies political constraints in three broad categories: political resources, such as the level of support across the policymaking process; distributional constraints, relating to the permissible distribution of benefits and costs of a policy, and organisational and administrative constraints associated with institutional frameworks. <ref type="bibr" target="#b45">Webber (1986)</ref> similarly identifies the need for systematic analysis of political feasibility in real-world policy making, but his discussion of the concept places more emphasis on the policy making process itself. To Webber, political feasibility concerns the "likely resolution of a policy as it works its way through the policy process" <ref type="bibr">(1986, p. 545)</ref>. This much more clearly brings into the remit of analysis not only the political obstacles affecting the implementation and realisation of a policy proposal, but also the making of the policy. Thus, to Webber political feasibility involves actors and events at each stage of the policy cycle, ranging from agenda-setting (where problems are defined), formulation (where goals and policy tools are identified), legitimation (where support is mobilised) and implementation, right the way through to evaluation and revision or termination (where likelihood of 'success' depends on the definition and adoption of evaluative criteria, so affecting initial policy adoption and similar future policies). He identifies feasibility factors at each stage, including "ripeness, timing, a policy window, staff support, incremental nature of the proposal, bureaucratic support, policy failure or dissatisfaction, decision-maker oversight, and policy consensus" <ref type="bibr">(1986, p. 550)</ref>. This framing recognises that an analysis of political feasibility will vary depending on the stage of the proposal: policy participants primarily interested in "an adoption victory" might be less interested in implementation or evaluation feasibility factors, though these still play a role a comprehensive political (in)feasibility analysis.</p><p>So, it is possible to distinguish different forms and definitions of political feasibility that vary depending on the state of the problem or proposal and the positionality of the policy participant(s). One broadly concerns policy decisions and the other the realisation of those policy outcomes. Framed as two questions: 1) what is the feasibility of policy adoption given political constraints? 2) what is the feasibility of that policy in realising its objectives in the face of political constraints and conditions? This distinction is important firstly, because policy making is not a linear process <ref type="bibr" target="#b16">(Howlett et al., 2009)</ref> and so there is likely to be interaction between these forms of feasibility, and secondly, because some definitions of political feasibility are aligned more with one of these definitions than the other. For our interests in analysing political feasibility of and for energy demand reduction, both questions are relevant. We will return to these distinctions.</p><p>In another major contribution, Gilabert and Lawford-Smith (2012) take up the debate on political feasibility, not so much to develop a framework for practical application, although they note the practical significance, but rather to improve its theorisation within political theory. They propose a formulation of the concept rooted in specified relations between actors, actions and outcomes in a particular context. A political state of affairs can be considered as feasible if there is a reasonable likelihood that a specified actor(s) can bring about an outcome in a given circumstance by undertaking a specified course of action. This formulation decentres feasibility of the policy proposal itself; instead, the referent of feasibility becomes a state of affairs. This provides opportunities to reframe questions about political feasibility. We can add to the above a third feasibility question: 3) what is the feasibility (or likelihood) that political actors can bring about a particular situation through (or for) a specified policy, given their scope for action and the context in which they are working? Along these lines, <ref type="bibr" target="#b20">Jewell and Cherp (2020)</ref> draw on <ref type="bibr" target="#b12">Gilabert and Lawford-Smith (2012)</ref> to analyse the feasibility that political action will achieve the aim of limiting global warming to 1.5 °C. Their working of political feasibility therefore is not about the prospects for realising a particular policy, nor its adoption, but rather about the political capacities to undertake (whole sets) of actions that will bring about (global) desired outcomes. <ref type="bibr" target="#b20">Jewell and Cherp (2020)</ref> analyse this in terms of the interactions between economic and political costs and the capacities of actors to bear them. There is a wider literature on similar questions of state capacity and climate policy; though not articulated in terms of political feasibility <ref type="bibr">(Meckling et al., 2022;</ref><ref type="bibr" target="#b55">Meckling &amp; Nahm, 2022)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MULTIPLE STREAMS AND POLITICAL FEASIBILITY</head><p>Recognising the interrelated nature of the conditions shaping the policy process and those shaping the realisation of policy outcomes, we propose an analytical frame that incorporates the interplay of these dynamics but retains a focus on decisions within the policy cycle. <ref type="bibr" target="#b23">Kingdon's (1984)</ref> multiple streams framework interprets policy making as a result of the interactions between three "streams": the problem stream, where issues are interpreted as problems requiring attention by policy actors; the policy stream, where possible solutions are developed to address problems, and; the political stream, where politicians manifest the political will to apply solutions to problems. When the three streams align, Kingdon defines a "window of opportunity" for realising political decisions. This framework has been used to understand political decision making relevant to energy and climate policy in, for example, the German Energiewende <ref type="bibr" target="#b30">(Derwort et al., 2022)</ref>, and carbon pricing <ref type="bibr" target="#b6">(Brunner, 2008)</ref>.</p><p>The problem stream highlights that policy actor attention is finite, and that there are many potential problems to which governments can attend. Simply advancing an issue to the point where it is considered a "problem" can be a significant accomplishment for issue advocates. Problems also may drop off the agenda, as urgency fades (e.g. as time passes following a major climate disaster event), or government attention shifts elsewhere.</p><p>In the policy stream, there is often intense contestation over the technical feasibility, normative suitability, and financial implications of different policy solutions <ref type="bibr" target="#b25">(Cairney &amp; Zahariadis, 2016)</ref>. There are also often latent interest groups with 'solutions awaiting a problem' who propose specific ideological approaches to problems (e.g. the questionably practical use of hydrogen for home heating). <ref type="bibr" target="#b23">Kingdon (1984)</ref> refers to a "policy primordial soup" where different options are considered, modified, combined, and shaped into coherent solution sets. However, this terminology masks a complex set of contested politics that is shaped by elite power structures, advocacy coalitions, lobbying, and values debates.</p><p>The political stream represents shifting and often idiosyncratic political decision-making processes. Decisions in the political stream very much depend on relational factors, influence networks, and ideological positioning. <ref type="bibr" target="#b23">Kingdon (1984)</ref> highlights the importance of the "national mood" in shaping political decisions but this mood -itself loosely conceptualised -is not deterministic as policy makers, for either entrepreneurial or other reasons, often make decisions that are not necessar-</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">POLICY, FINANCE AND GOVERNANCE</head><p>ily supported by public opinion. Much of the additional utility of the political stream is to provide an analytical focus on politicians as independent actors, and to help understand the shifting set of factors shaping decisions for a specific individual, department, or government. This helps highlight the distinct roles played by politicians, civil servants within government institutions, and other actors.</p><p>Researchers are clear that the main barriers to the political feasibility of climate action in general (e.g. <ref type="bibr" target="#b20">Jewell &amp; Cherp, 2020)</ref>, and demand reduction in particular (e.g. <ref type="bibr" target="#b29">Creutzig et al., 2022b)</ref>, are grounded in the political, here conceptualised as the political stream, citing evidence of both the formulation of high energy demand as a problem, and of the existence of a variety of policy options to address this problem. This is consistent with our argument that the concept of political feasibility is often used as a black box or catch all for the complex dynamics that -we argue -play out across the multiple streams. In other words, political feasibility is not only a characteristic of the political stream, or of proposed policy solutions, but also about how problems are defined, understood and modified. These dynamics across the streams are interrelated. Equally they are as relevant at the implementation stage as they are for understanding windows of opportunity for policy adoption.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ANALYSING FEASIBILITY: STRUCTURES AND DYNAMICS</head><p>While the multiple streams framework provides a useful analytical structure for breaking down analysis, as is evident from above, it requires additional theoretical concepts to help understand the complex dynamics that constitute each stream. To better understand feasibility dynamics within the multiple streams approach, perspectives such as advocacy coalitions <ref type="bibr" target="#b36">(Sabatier &amp; Weible, 2016)</ref>, bureaucratic structures <ref type="bibr" target="#b58">(Oliver et al., 2014)</ref>, policy transfer, and relational dynamics <ref type="bibr">(Middlemiss et al 2004)</ref>, can help provide insights into what is happening in and between streams. Indeed, the literature on political feasibility, and beyond, presents a wide range of concepts for analysing feasibility, the relevance of which depends to some extent upon the kind of feasibility question being considered. For that reason, particular frameworks and additional concepts are not introduced in depth here. Instead, we draw out a general principle that is a useful addition to our broad analytical framework: that of the relationship between structures that constrain action, and the dynamics through which these long-term, enduring 'constraints' potentially evolve and change.</p><p>Much of the discussion of political feasibility is rooted in the language of constraints: that is, limitations on the scope and freedoms of following a particular course of action through anticipating difficulties presented by the status quo. That could include party politics, lobby groups, media, public opinion, pressure and elections, economic trends, global crises and the way that current policies and institutions, markets, business models, labour relations, legal frameworks and so on are structured. As Gilabert and Lawford-Smith (2012) note, the momentum of certain trends and the inevitability of some events cannot be ignored when it comes to the feasibility of policy making. At the same time, they draw a distinction between hard constraints, such as biology, which rule out a potential course of action, and soft constraints, such as economic, institutional and cultural features which makes outcomes comparatively more or less feasible. Such constraints are "soft" in the sense that they are potentially malleable and changeable over time. However, other bodies of research highlight the "longue durée" (or longterm persistence) of many cultural and institutional factors (e.g. <ref type="bibr" target="#b11">Geels, 2002;</ref><ref type="bibr" target="#b37">Schot &amp; Kanger, 2018)</ref> making the label of a "soft" constraint relative, rather than indicating that these can easily be changed.</p><p>Since assessments of political feasibility largely, if not entirely, relate to "soft" though potentially enduring constraints that do not rule out a course of action as permanently impossible, but rather render it unlikely to be successful under contemporary conditions, it is important to stress the temporal shades and dynamic nature of feasibility. <ref type="bibr" target="#b12">Gilabert and Lawford-Smith (2012)</ref> draw on <ref type="bibr" target="#b27">Cohen's (2001)</ref> notion of accessibility, as in what can be done from here, and the stability of the resulting outcome, as two important dimensions of feasibility. On the former, they also draw on <ref type="bibr" target="#b19">Jensen (2009)</ref> to highlight that the ability to act is not limited to what can be done now (what is accessible now) but, rather, an actor is said to have an indirect diachronic ability if they can get themselves into a position to act later, by doing something else first. This might be included within what <ref type="bibr" target="#b12">Gilabert and Lawford-Smith (2012)</ref> refer to as dynamic duties, focused not only on what can be done in a given context, but also on changing that context so that new things can be done in future. Amongst other things, this implies a need for greater attention within current policy making cycles to what is being made more and less possible in the future, particularly with respect to enduring structures that constrain, and at the same time, enable or drive particular forms of policy making.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysing political feasibility for energy demand reduction</head><p>In this section, we turn our attention to the structures that affect policy making for energy demand reduction, drawing on the conceptual mapping of political feasibility set out above. First, we consider the challenges and nuances specific to energy demand reduction, and the existing debate on its political feasibility.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>EFFICIENCY, SUFFICIENCY AND RESEARCH GAPS</head><p>How political feasibility for energy demand reduction is conceptualised depends on how demand reduction itself is conceptualised as an object of feasibility. In much current political discourse, the focus is on demand reduction through energy efficiency. Policy tools for improving energy efficiency, namely standards, fiscal and financial incentives and disincentives, and information instruments, are well developed and have been successfully implemented <ref type="bibr" target="#b32">(Economidou et al., 2020)</ref>. Notwithstanding debate about the offshoring of manufacturing, energy efficiency policies have had an impact: overall energy consumption in the EU has declined since 2006, despite economic and population growth <ref type="bibr" target="#b2">(Bertoldi &amp; Mosconi, 2020</ref>). Yet researchers continue to identify a remaining "energy efficiency gap" between potential and actual efficiency and have identified economic and behavioural barriers.</p><p>For instance, <ref type="bibr" target="#b34">Fawcett and Killip (2019)</ref> examine the efforts of NGOs and trade associations to advocate for energy efficiency in terms of its "multiple benefits". They found limited support, since policymakers do not start from the presumption that efficiency itself is a benefit; instead, it appears as a policy op-tion only in so far as its financial cost-benefit analysis defines it as attractive. In another study, <ref type="bibr" target="#b60">Rosenow and Eyre (2016)</ref> ask why a flagship UK policy, the Green Deal, which was meant to transform the efficiency of the domestic housing stock failed. They highlight the role of political ideology, failure to engage with experts, and a massive simplification of the problem it set out to solve, neglecting decades of research into the barriers faced by efficiency policies. In other words, failings across the political, policy and problem streams combined to undermine the design and implementation of the policy.</p><p>Such research engages with questions of governance. As Marsden and Reardon (2017) have argued for transport research, which is likely to apply across energy research more widely, the majority of policy research focuses on tools for policy makers and the provision of quantitative evidence as a basis for policy design, with relatively little engagement with either policymakers themselves or real-world policy examples. They argue that greater attention to the governance context and to questions of power, resources and legitimacy are important if research is to actually connect to these realities, and also if it is to understand the potential for future policy pathways. Whilst much work within energy policy research may address some political constraints, especially institutional barriers in the adoption of energy efficiency measures, and failures of policies to achieve anticipated outcomes, a broader engagement with other aspects of political feasibility is missing.</p><p>There is therefore a need for insights to continue to improve the design of efficiency policies. However, another step is also needed, which is taken by a notably smaller, yet growing, corpus of research: to engage with the policymaking process in order to better understand how demand reduction policies that move beyond efficiency and target deeper systemic and behavioural changes might be adopted and designed in practice. An efficiency framing tends to view the problem as technical and leaves aside wider structural questions that relate to the way patterns of production and consumption are socially and culturally constructed and organised <ref type="bibr" target="#b39">(Shove, 2018)</ref>. Moreover, there is increasing recognition that while efficiency solutions are important, they do not reduce demand sufficiently to meet levels of carbon reduction consistent with a 1.5 °C climate target <ref type="bibr">(Keyßer &amp; Lenzen, 2021</ref><ref type="bibr">, Barrett et al, 2022</ref><ref type="bibr" target="#b29">, Creutzig et al, 2022b)</ref>. For instance, <ref type="bibr" target="#b1">Barrett et al (2022)</ref> analyse scenarios for UK energy demand reduction up to 2050 and suggest that current policies would deliver only 5 % reduction in energy use, which makes net zero targets unattainable. They show that more significant reductions in energy demand are possible, but require improvements in efficiency and through social changes that affect the demand for energy services, making it much more likely that demand reduction targets would be met. Yet, there is a literature gap on the range of policy interventions required to deliver significantly lower energy futures <ref type="bibr" target="#b33">(Eyre et al., 2022)</ref>.</p><p>Changes in the demand for energy services beyond efficiency can be broadly categorised as sufficiency. Such solutions are more likely to require deeper behavioural, social and political change, which has, to date, made them unpopular with politicians and civil servants. Interestingly, sufficiency policies are more accepted within deliberative public forums <ref type="bibr" target="#b48">(Lage et al., 2023)</ref>. They are also subject to increasing academic debate and, following the 2022 energy crisis, their political acceptability ap-pears to be changing in some countries (e.g. France's adoption of an 'energy sobriety' strategy).</p><p>Nevertheless, sufficiency represents a substantial change from the enduring socioeconomic and political status quo. A useful perspective on political feasibility for energy demand reduction, including sufficiency, thus requires attention to enduring structures that affect the policy cycle stages focused on problem framing and solution development in addition to policy adoption and implementation. That is, sufficiency solutions need to be framed effectively in order to secure enough political support to make it to the implementation stage. They thus require more policy 'work' than efficiency solutions, which fit better within existing policy patterns and mainstream objectives of policy makers. This analytical requirement lends itself more to <ref type="bibr" target="#b45">Webber's (1986)</ref> perspective that feasibility is a product of the entire policy cycle, but also integrates advances in understanding from later conceptualisations of political feasibility for climate action <ref type="bibr" target="#b20">(Jewell and Cherp, 2020;</ref><ref type="bibr" target="#b9">Freeman 2021</ref>) that direct attention to the specific dynamics that affect whether political outcomes are realised.</p><p>Consistent with this, our approach to political feasibility for the remainder of this paper shifts analysis away from assessments of whether specific demand reduction approaches are feasible or not, and onto the ways that deeper demand reduction solutions can be made more politically feasible by engaging with a set of structural considerations that shape political feasibility across policy streams. This has the effect of broadening out the analytical focus from constraints on the political feasibility of demand reduction solutions to encompass the enduring and engrained structures that define how problems and solutions are identified, framed and discussed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>POLITICAL FEASIBILITY FOR ENERGY DEMAND REDUCTION: STRUCTURAL</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONSIDERATIONS</head><p>There are a number of broad structures that affect the feasibility of policy options leading to significantly lower energy demand futures, and particularly those that integrate sufficiency approaches. We focus on economic incentive structures, and temporal and material infrastructures. This selection is informed by initial discussions with stakeholders as part of our ongoing and upcoming research projects. Due to space constraints, we leave aside for the moment cultural and normative structures that may support political feasibility for energy sufficiency approaches with significant co-benefits (e.g. support for retrofits for the energy poor), and crisis-related drivers (e.g. conflict related gas shortages, climate-augmented disasters). Our focus is also motivated by the desire, following the conceptual mapping above, to begin to explore some of the most enduring conditions within which policy making takes place, thus presenting particularly challenging foci for political feasibility pathways. Our selection encompasses structures that are more and less obvious in their effects on policymaking and reflect both constraints, as the most common way that limitations of the political feasibility of energy demand reduction policy are discussed, as well as factors that can productively motivate action and inform how problems are identified and framed. We examine the impact of these factors on Kingdon's three streams to more clearly map where efforts need to be made, and in what form, in order to increase the feasibility of realising energy demand reductions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">POLICY, FINANCE AND GOVERNANCE</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Economic incentive structures</head><p>The economic potential of particular energy efficiency solutions to return strong social outcomes while keeping economies stable drives decision-making across all three streams. Whether existing political and economic institutions can accommodate a deeper focus on sufficiency solutions which might impair economic growth potential is itself a matter of increasing academic and societal debate <ref type="bibr" target="#b15">(Hickel et al., 2021)</ref>. Many sufficiency approaches appear, by definition, to involve a net reduction in the consumption of energy services, ostensibly contradicting the growth-based targets facing many government departments, and also, importantly, the profitfocused lobbying of many powerful corporate interests. As a result, policy solutions that permanently decrease consumption of energy (and other resources) without also making a case for supporting or enabling economic growth elsewhere in the market, are unlikely to meet internal feasibility assessments, even before they are offered up to the political stream <ref type="bibr" target="#b34">(Fawcett and Killip, 2019)</ref>. Even in the case of energy efficiency, where successful policy interventions have helped to maintain growth in energy consumption across Europe over the last two decades, singular policy framings in terms of economic incentives also fall short: analysts have long recognised that the costs and benefits of efficiency investments do not always align, and even where they do, there are so-called market failures where anticipated changes do not always materialise <ref type="bibr" target="#b32">(Economidou et al, 2020)</ref>.</p><p>Beyond the policy stream, an economic growth-focused orientation is also embedded in the political values and ideology of many political parties across the economically developed world, shaping decisions in the political stream. As a result, energy policy is often framed to incentivise economic activity, and this can manifest a bias toward supply, rather than demand-side solutions, and toward necessary, but insufficient energy efficiency solutions. For example, reducing the energy demand of transportation is critical for meeting climate targets. This will require a net decrease in private car ownership, and in distances travelled, and a shift to other transportation modes (e.g. <ref type="bibr" target="#b13">Grubler et al 2018)</ref>. However, many programs targeting climate action in transportation frame the problem as supply side and focus on supporting EV diffusion, with less focus on modal or structural shifts that would permanently reduce energy demand.</p><p>Modern economies, to greater or lesser extents depending on the context and "variety of capitalism" pursue economic growth through fiscal, and other policies and regulations, and work to enable an environment that supports profit maximisation for businesses. As a result, the policy ecosystem has institutionalised practices, networks and relationships that enable economic growth <ref type="bibr" target="#b10">(Fuchs, 2007)</ref>. This is apparent in the advocacy coalitions that inform all three streams, the regulatory systems that structure how firms operate, and the logics and discourses used to rationalise and justify policy positions and decisions <ref type="bibr" target="#b51">(Lukes, 2005)</ref>. Examples supporting these points are not hard to find and include, for example, the fossil fuel coalitions that strategically lobby the EU to limit climate action <ref type="bibr" target="#b43">(Vormedal et al., 2020)</ref>, the regulatory language used to maintain closed elite policy networks that prioritise corporate supply-side interests <ref type="bibr" target="#b50">(Lockwood et al., 2017)</ref>, and the economic growth-focused ideology that has been problematised by literature highlight-ing degrowth and post-growth perspectives <ref type="bibr" target="#b15">(Hickel et al., 2021;</ref><ref type="bibr">Keyßer &amp; Lenzen, 2021)</ref>.</p><p>Interestingly, examining the political stream through a "national mood" lens is revealing as studies reveal high levels of support for many sustainability solutions <ref type="bibr" target="#b4">(Bouman et al., 2021)</ref>. While there are many solutions that have been politicised and are highly contested by the public (e.g. low traffic neighbourhoods, reduced meat diets), economic drivers frequently prevail in the political stream even when the "public mood" appears to support solutions that prioritise other values. This inconsistency indicates the potential value of shifting the focus from how prevailing economic ideology constrains the adoption of demand reduction solutions, and toward perspectives that presents demand reduction as a solution to a wide range of potential policy problems. Research on the co-benefits of demand reduction that highlight the potential of these solutions to address problems across health, social welfare, housing, food and other policy spheres is useful in this regard (e.g. <ref type="bibr" target="#b8">Finn &amp; Brockway, 2023)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Temporal infrastructures</head><p>Our focus on time as a structural condition reflects our emerging insight that many sufficiency solutions for energy services are a) relatively time intensive compared to higher energy approaches, and b) require time and cognitive space to support the formation of new behaviours, routines and new kinds of policy. This short section introduces this structural condition as it is largely unexplored in the energy demand policy literature.</p><p>The way that time is perceived and structured is important for defining options across all three problem streams. In general, "time poorness" is a feature of life in modern economies. This leads to an effect where time saving activities and technologies have the net impact of increasing energy consumption <ref type="bibr" target="#b18">(Jalas &amp; Juntunen, 2015)</ref>. For example, flying consumes more energy than travelling more slowly by train. Likewise, tumble dryers are much more energy intensive than line drying clothing. Leisure time has decreased across the economically developed world to support economic productivity, and in turn has supported uptake of highly energy intensive activities that have become embedded in habits, practices, and material infrastructures (discussed below), to the extent that they are now naturalised in our everyday lives <ref type="bibr" target="#b5">(Brenčič &amp; Young, 2009)</ref>. This shapes problem framing, solution development, and political support for different approaches.</p><p>Limited time, and the practices and materialities that it creates, can increase the likelihood that issues related to carbon intensity are viewed through an efficiency, rather than a sufficiency, lens. This reinforces drivers associated with economic incentives that seek to shift to less carbon intensive consumption, but without altering structures of consumption. Using such a lens, the carbon emissions associated with flying can be framed as a problem of fuel source, and not as one of travel mode. Likewise, the high energy consumption of tumble dryers can be framed as an issue of appliance energy efficiency or time of use pricing, rather than one of behaviour change to line drying. These types of framings support energy demand reduction strategies that minimise required behaviour changes, but also limit the potential magnitude of savings of energy demand reduction strategies. This in turn shapes the development of policy solutions.</p><p>Research and discourse on work time reduction and fourday work weeks addresses some aspects of time as a driver of the political feasibility of energy demand reduction. There is a strong association between increases in working time and increases in energy consumption. <ref type="bibr" target="#b5">(Brenčič &amp; Young, 2009)</ref>. While much of this research emphasises the impact of working time reductions on travel and workplace emissions, increased leisure time has secondary effects with implications for energy demand reduction. Research on those who reduce their work hours indicate that people use their additional discretionary time in a variety of ways including sleep, personal care, domestic work, socialising, hobbies, and entertainment <ref type="bibr" target="#b57">(Nässén &amp; Larsson, 2015)</ref>. There are also quality of life and general wellbeing benefits which are likely to mean that individuals have more time for making slower decisions and undertaking behavioural change, although this relationship is hypothetical and requires empirical testing.</p><p>Whilst the fact that the temporality of everyday life can be said to sustain high-energy consumption 'norms' has been noted (e.g. <ref type="bibr" target="#b38">Shove, 2003;</ref><ref type="bibr">Jalas and Juntenen, 2015)</ref>, our argument here is that the durability of such taken-for-granted patterns is an oft-overlooked aspect of the political (in)feasibility of policies predicated upon and working towards alternative forms of organisation. However, in another sphere of demandside policy temporality receives much more attention: demand response. Here, the objective is to smooth peaks and troughs in the supply of increasingly renewable energy through adapting the timing of demand. This has brought greater awareness of the temporal patterning of household consumption as related to time-constrained societal rhythms <ref type="bibr" target="#b44">(Walker, 2014;</ref><ref type="bibr" target="#b40">Torriti et al., 2015)</ref> and the likely distributional impacts of dynamic energy pricing <ref type="bibr" target="#b24">(Calver and Simcock, 2021)</ref>. However, a similar propensity to frame problems in technological ways, as noted above, for instance through load automation, is increasingly driving policies and commercial innovation in the domestic sector <ref type="bibr" target="#b0">(Adams et al., 2021)</ref>. This conceals and sustains prevailing temporal infrastructures rather than engaging in forms of social re-organisation (for instance, school and workplace schedules) that might help unlock more sustainable demand smoothing as well as reductions in overall demand.</p><p>Limitations on time availability, called time poverty in the economic literature, also impacts solution development in more fundamental ways. Civil servants play a significant, and usually determining, role in developing solutions in the policy stream. However, high demands on civil servants mean they often don't have time to thoroughly research and embrace ways of thinking and doing that diverge from existing practice. Research examining civil servant responses to evidence indicates that part of the reason these recommendations are not implemented more extensively is because civil servants don't have the time to process, understand, and develop effective implementation mechanisms <ref type="bibr" target="#b58">(Oliver et al., 2014)</ref>. This makes clear that the 'primordial soup' in the policy stream often reflects familiar recipes that can be quickly produced, rather than preparations that may better suit specific contexts but that take time and learning to prepare.</p><p>Issues of time poverty are also relevant in the political stream where the role of time constraints on political decision making is well recognised and leads to a reliance on known networks and information sources <ref type="bibr">(Zahariadis 2003)</ref>. Across both the policy and political stream, the concept of "transaction costs" encompasses the idea that diverging from familiar procedures, networks and structures requires time and effort <ref type="bibr" target="#b47">(Wood and Bohte 2004)</ref>. This can lead to a dependence on elite networks who, as outlined above, are structurally elite because of their position in supporting growth-focused economies. This can lead to a bias in solutions towards those that maintain support for high consumption patterns. There is strong evidence that higher levels of public participation are important for both the quality and legitimacy of decision making <ref type="bibr">(Fazey et al., 2018)</ref>. However, time pressures at the political level often act to limit opportunities for meaningful participation, or even for relatively superficial levels of consultation. Given increasing indications that there is widespread loss of faith in democracy underway, the issue of time availability in the political stream also has implications that transcend energy demand reduction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material infrastructures</head><p>Overlapping with the above economic and temporal issues are the material realities that shape the feasibility of adopting certain policy solutions. As recognised in the literature on stranded assets and climate policy (e.g. <ref type="bibr" target="#b31">Dulong et al., 2023)</ref> there are large amounts of capital currently sunk into physical infrastructures that either need to be modified for a lower energy demand world or will inevitably be stranded. However, this is often neglected in studies on energy transitions, including in studies seeking to understand the political processes that are shaping shifts in energy systems <ref type="bibr" target="#b41">(Van Assche et al., 2022)</ref>. There are clear links to economic drivers as material transitions are expensive, and the political feasibility of some demand reduction solutions can be directly linked to the economic feasibility of replacing material infrastructures.</p><p>Our material realities are physical, locked in, and often slow to change. They are also spatial and define our day-to-day interactions with energy infrastructures on both the supply and demand sides. Examples include commercial infrastructure associated with consumer cultures, value chains associated with single use plastics, support infrastructure for private mobility as well as household appliances. Research on place-based approaches to energy system change are one way of integrating consideration of materiality <ref type="bibr" target="#b14">(Hansen &amp; Coenen, 2015)</ref>, but wider consideration of the role of the physical world in determining political feasibility are needed. There is a significant challenge, particularly for the political and problem streams in ensuring that sufficient emphasis is placed on demand-side investment, given the prevailing bias toward supply-side policies and investment.</p><p>Research on sustainability transitions makes clear that the depth of the material transition required to shift to a new system has strong implications for the speed and nature of the transition process <ref type="bibr" target="#b21">(Kern &amp; Rogge, 2016;</ref><ref type="bibr" target="#b37">Schot &amp; Kanger, 2018)</ref>. In the policy stream, solutions that require big shifts in the built environment can be challenging because they carry high economic costs, and usually require significant behavioural adaptation. As discussed above, behavioural adaptation, while essential for energy demand reduction, is challenging because, at least in part, people are too time poor to undertake the work required to change habits and acquire new practices.</p><p>Beyond behaviour, materiality is also closely tied to subjective feelings of place attachment that have implications for the 3. POLICY, FINANCE AND GOVERNANCE political stream, and particularly for the 'public mood' . 'Sense of place' refers to the ways that people construct their identities and relationships around the physical places that they inhabit in a way that can offer a sense of stability and consistency <ref type="bibr" target="#b49">(Lewicka et al., 2019)</ref>. However, place attachment is not necessarily fixed, but is shaped by relationships and interactions, including the ways that different voices are integrated into the policy and political streams. What can be a constraint on political decision -making can thus also be viewed as a driver. That is, changes to material infrastructures need not necessarily be negative, but rather this depends on diverse social and relational factors <ref type="bibr" target="#b59">(Raymond et al., 2021)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>A clearer understanding of political feasibility is necessary to help support greater uptake of energy demand reduction solutions, which are needed to achieve the scale of emissions reductions consistent with the Paris Agreement within the time available. Political feasibility is often used as a catch-all concept to reduce the complex challenges of climate and energy policymaking to supposedly intractable constraints of 'politics' , acceptability, or questions of 'political will' . We instead argue that there is a pressing need to unpack the concept and to better understand the dynamics and enduring conditions that shape political feasibility. Our review of existing conceptualisations identified several ways of framing questions about political feasibility, all of which, we suggest, are valid, so long as one is cognisant of these differences. Indeed, we argue for an integrative approach that encompasses the entire policy cycle from issue identification, through problem framing, solution development, political decision-making, implementation, and evaluation. This approach helps to move the focus beyond how to remove constraints on political feasibility, and toward proactive strategies for using policy processes to create political feasibility. This is especially important for solutions like sufficiency that defy contemporary economic justification, but that are nevertheless increasingly recognised as being necessary to meet climate goals. Using Kingdon's multiple streams to structure analysis, we identify three drivers that are shaping the feasibility of energy demand reduction strategies, and, through deeper examination, have the potential to provide new framings and perspectives with the potential to increase political feasibility. Economic incentive structures are addressed in research on degrowth and post growth. These perspectives help make clear that solutions that do not contribute to, or limit, economic growth, face feasibility challenges. Work on co-benefits has the potential to provide new ways of discussing the impact of demand reduction solutions on societal outcomes. Understanding issues of time and time poverty makes clear that trying to shoehorn demand reduction into existing societal structures is unlikely to work. Instead, creating time for the public, civil servants, and politicians is necessary to provide the cognitive and productive space to develop policy options that move beyond business as usual. Finally, understanding the material dimensions of demand reduction provides insights into how quickly change can happen, and how our attachments to place can inhibit or facilitate these. Taken together, these drivers provide a set of novel perspectives with potential to advance the political fea-sibility of demand reduction. We acknowledge that there are additional drivers that support political feasibility related to cultural and normative approaches, and to external drivers and disasters. While these would benefit from investigation, we have focused our analysis on deep structural conditions that are likely to remain "sticky" and difficult to shift. They are therefore an important focus for the 'dynamic duties' of those within the policy ecosystem who may be working towards more effective climate policy.</p><p>Indeed, our analysis indicates a need to think creatively about forms of governance. The need for demand reduction through social change has motivated calls for greater involvement of citizens in policy decision-making, including through citizen assemblies <ref type="bibr" target="#b46">(Willis, 2020)</ref>. As <ref type="bibr">Gilabert and Lawford-Smith (2012, p. 821</ref>) emphasise, it is important not to take constraints as final, but rather suggest that policymakers "adopt a transitional standpoint from which they envisage trajectories of reform dissolving constraints in order to introduce progressively the institutions that would implement the principle". Thus, whilst we may recognise the importance of norms of policy making and that changes in approach may be necessarily incremental, this may be possible at greater pace if set within a transitional plan for energy demand reduction. Here, the emphasis is on how one policy might lead to another. That is, realising the conditions for further and deeper policies becomes an objective in and of itself as part of a feasibility pathway. In this light, there is great value for models like that of <ref type="bibr" target="#b9">Freeman (2021)</ref> to help explore iterative trajectories of feasibility.</p></div>		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This work was undertaken as part of the <rs type="funder">Energy Demand Research Centre</rs> (EDRC), supported by the <rs type="funder">UK Research and Innovation</rs> (grant number <rs type="grantNumber">EP/Y010078/1</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_9wHyxaw">
+					<idno type="grant-number">EP/Y010078/1</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Social license to automate: A critical review of emerging approaches to electricity demand management</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kuch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Diamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fröhlich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Henriksen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Katzeff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ryghaug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yilmaz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page">102210</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Energy demand reduction options for meeting national zero-emission targets in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Betts-Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Broad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Eyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Anable</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Carr-Whitworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Energy</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="726" to="735" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bertoldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mosconi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Do energy efficiency policies save energy? A new approach based on energy policy indicators (in the EU Member States)</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page">111320</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Climate-friendly but socially rejected energy-transition pathways: The integration of techno-economic and socio-technical approaches in the Nordic-Baltic region</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bolwig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Bolkesjø</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Klitkou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Lund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bergaentzlé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Borch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">J</forename><surname>Olsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Kirkerud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Gunkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Skytte</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2020.101559</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2020.101559" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page">101559</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">From values to climate action</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bouman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Steg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Perlaviciute</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Opinion in Psychology</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="102" to="107" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Time-saving innovations, time allocation, and energy use: Evidence from Canadian households</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Brenčič</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Economics</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2859" to="2867" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Understanding policy change: Multiple streams and emissions trading in Germany</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brunner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Change</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="501" to="507" />
+			<date type="published" when="2008">2008</date>
+			<pubPlace>BRISBOIS, MORLEY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Ten essentials for action-oriented and second order energy transitions, transformations and climate change research</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Al Waer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Battacharya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bradbury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Carmen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Colvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cvitanovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>D'souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gopel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wyborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="54" to="70" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Much broader than health: Surveying the diverse co-benefits of energy demand reduction in Europe</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Finn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Brockway</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page">102890</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Modelling the socio-political feasibility of energy transition with system dynamics</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Freeman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+			<publisher>Environmental Innovation and Societal Transitions</publisher>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="486" to="500" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Business Power in Global Governance</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Fuchs</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<pubPlace>Lynne Rienner Boulder, CO</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Technological transitions as evolutionary reconfiguration processes: a multi-level perspective and a case-study</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Geels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Policy</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">8-9</biblScope>
+			<biblScope unit="page" from="1257" to="1274" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Political feasibility: A conceptual exploration</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gilabert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lawford-Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Studies</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="809" to="825" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A low energy demand scenario for meeting the 1.5 °C target and sustainable development goals without negative emission technologies</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Grubler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bento</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Boza-Kiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Krey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Mc-Collum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Riahi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rogelj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>De Stercke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cullen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Fricko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gidden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Havlík</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Huppmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kiesewetter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rafaj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Valin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Energy</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="515" to="527" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The geography of sustainability transitions: Review, synthesis and reflections on an emergent research field</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Coenen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Environmental Innovation and Societal Transitions</publisher>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="92" to="109" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Urgent need for post-growth climate mitigation scenarios</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hickel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Brockway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kallis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Keyßer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lenzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Slameršak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Steinberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ürge-Vorsatz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Energy</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="766" to="768" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Howlett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ramesh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Perl</surname></persName>
+		</author>
+		<title level="m">Studying Public Policy: Policy Cycles and Policy Subsystems</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>rd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Societal transformations for a sustainable economy</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Jackson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Natural Resources Forum</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="155" to="164" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Energy intensive lifestyles: Time use, the activity patterns of consumers, and related energy demands in Finland</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jalas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Juntunen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Economics</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="51" to="59" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The limits of practical possibility</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Political Philosophy</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="168" to="184" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">On the political feasibility of climate change mitigation pathways: Is it too late to keep warming below 1.5 C?</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jewell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cherp</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Climate Change</publisher>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">621</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The pace of governed energy transitions: Agency, international dynamics and the global Paris agreement accelerating decarbonisation processes?</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Rogge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="13" to="17" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">1.5 °C degrowth scenarios suggest the need for new mitigation pathways</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Keyßer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lenzen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Communications</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">2676</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Agendas, Alternatives, and Public Policies</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Kingdon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Little, Brown and Company</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Demand response and energy justice: A critical overview of ethical risks and opportunities within digital, decentralised, and decarbonised futures</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Calver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="page">112198</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Multiple streams approach: a flexible metaphor presents an opportunity to operationalize agenda setting processes</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cairney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Zahariadis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Public Policy Agenda Setting</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="87" to="105" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Integrating techno-economic, socio-technical and political perspectives on national energy transitions: A meta-theoretical framework</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cherp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Vinichenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jewell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Brutschin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2017.09.015</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2017.09.015" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="175" to="190" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Democratic Equality: What Went Wrong?</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cohen</surname></persName>
+		</author>
+		<editor>E. Broadbent</editor>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>University of Toronto Press</publisher>
+			<biblScope unit="page" from="58" to="78" />
+		</imprint>
+	</monogr>
+	<note>Why not socialism?</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Demand-side solutions to climate change mitigation consistent with high levels of well-being</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Creutzig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Niamir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Bai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Callaghan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cullen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Díaz-José</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Figueroa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Grubler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Lamb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Masanet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">É</forename><surname>Mata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mattauch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Minx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mirasgedis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Mulugetta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Nugroho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pathak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Perkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>… Ürge-Vorsatz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Climate Change</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="36" to="46" />
+			<date type="published" when="2022">2022a</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">IPCC, 2022: Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Creutzig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Devine-Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Díaz-José</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Geels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Grubler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Maïzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Masanet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Mulugetta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Onyige</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Perkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanches-Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">U</forename><surname>Weber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Slade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Al Khourdajie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Van Diemen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mccollum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pathak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Some</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vyas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fradera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Belkacemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hasija</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lisboa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Luz</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/9781009157926.007</idno>
+		<ptr target="https://doi.org" />
+		<editor>&amp; J. Malley</editor>
+		<imprint>
+			<date type="published" when="2022">2022b</date>
+			<publisher>Cambrigde University Press</publisher>
+		</imprint>
+	</monogr>
+	<note>Demand, Services and Social Aspects of Mitigation III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">How to explain major policy change towards sustainability? Bringing together the multiple streams framework and the multilevel perspective on socio-technical transitions to explore the German &quot;Energiewende</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Derwort</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Jager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Newig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Policy Studies Journal</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="671" to="699" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Dulong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gard-Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hagen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Jaakkola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Stranded Assets: Research Gaps and Implications for Climate Policy</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="161" to="169" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Review of 50 years of EU energy efficiency policies for buildings</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Economidou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Todeschi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bertoldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>D' Agostino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zangheri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Castellazzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy and Buildings</title>
+		<imprint>
+			<biblScope unit="volume">225</biblScope>
+			<biblScope unit="page">110322</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">New times, new policies? Policies to change energy use in the context of zero carbon</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Eyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Bobrova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nolden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rosenow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the eceee 2022 Summer Study on Energy Efficiency</title>
+		<meeting>the eceee 2022 Summer Study on Energy Efficiency</meeting>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Re-thinking energy efficiency in European policy: Practitioners&apos; use of &apos;multiple benefits&apos; arguments</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fawcett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Killip</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Cleaner Production</title>
+		<imprint>
+			<biblScope unit="volume">210</biblScope>
+			<biblScope unit="page" from="1171" to="1179" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">I</forename><surname>Fazey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Schäpke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Caniglia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Patterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hultman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Van Mierlo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Säwe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wiek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wittmayer</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Aldunce</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FINANCE AND GOVERNANCE</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+		</imprint>
+	</monogr>
+	<note>POLICY</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The advocacy coalition framework: Innovations and clarifications</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Sabatier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Weible</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Theories of the Policy Process</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Sabatier</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="189" to="217" />
+		</imprint>
+	</monogr>
+	<note>Second Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Deep transitions: Emergence, acceleration, stabilization and directionality</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kanger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Policy</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1045" to="1059" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Comfort, cleanliness and convenience: the social organization of normality</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shove</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<pubPlace>Berg</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Shove</surname></persName>
+		</author>
+		<title level="m">What is wrong with energy efficiency? Building Research &amp; Information</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Peak residential electricity demand and social practices: Deriving flexibility and greenhouse gas intensities from time use and locational data</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Torriti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hanna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Yeboah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Druckman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indoor and Built Environment</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="891" to="912" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Material dependencies: hidden underpinnings of sustainability transitions</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Van Assche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Duineveld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Beunen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Valentinov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gruezmacher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Environmental Policy &amp; Planning</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="281" to="296" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Alternative pathways to the 1.5 °C target reduce the need for negative emission technologies</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Van Vuuren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stehfest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E H J</forename><surname>Gernaat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Den Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Bijl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>De Boer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Daioglou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Doelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">Y</forename><surname>Edelenbosch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Harmsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Hof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Van Sluisveld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Climate Change</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="391" to="397" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Big Oil and Climate Regulation: Business as Usual or a Changing Business?</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Vormedal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Gulbrandsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Skjaerseth</surname></persName>
+		</author>
+		<idno type="DOI">10.1162/glep_a_00565</idno>
+		<ptr target="https://doi.org/10.1162/glep_a_00565" />
+	</analytic>
+	<monogr>
+		<title level="j">Global Environmental Politics</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="143" to="166" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">The dynamics of energy demand: Change, rhythm and synchronicity</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Walker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="49" to="55" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Analyzing political feasibility: political scientists unique contribution to policy analysis</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Webber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Policy Studies Journal</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="545" to="553" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Too hot to handle?: The democratic challenge of climate change</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Willis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Policy Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Political transaction costs and the politics of administrative design</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bohte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Politics</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="176" to="202" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Citizens call for sufficiency and regulation -A comparison of European citizen assemblies and National Energy and Climate Plans</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Thema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zell-Ziegler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Best</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cordroch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wiese</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page">103254</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">On the essentialism of places: Between conservative and progressive meanings</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lewicka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rowiński</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Iwańczak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bałaj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kula</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Oleksy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Prusik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Toruńczyk-Ruiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wnuk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Environmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page">101318</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Governance of industry rules and energy system innovation: the case of codes in Great Britain</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lockwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoggett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Utilities Policy</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="41" to="49" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Power: A Radical View. Hampshire and New York</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lukes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Palgrave Macmillan</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">On the notion of political feasibility</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Majone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Political Research</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="259" to="274" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Questions of governance: Rethinking the study of transportation policy</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marsden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Reardon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transportation Research Part A: Policy and Practice</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="238" to="251" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Why nations lead or lag in energy transitions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Meckling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Y</forename><surname>Lipscy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Finnegan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Metz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">378</biblScope>
+			<biblScope unit="issue">6615</biblScope>
+			<biblScope unit="page" from="31" to="33" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Strategic state capacity: how states counter opposition to climate policy</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Meckling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nahm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comparative Political Studies</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="493" to="523" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Developing a relational approach to energy demand: A methodological and conceptual guide</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Middlemiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bookbinder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Cairns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Mininni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page">103441</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nässén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Larsson</surname></persName>
+		</author>
+		<title level="m">Would shorter working time reduce greenhouse gas emissions? An analysis of time use and consumption in Swedish households. Environment and Planning C: Government and Policy</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="726" to="745" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">A systematic review of barriers to and facilitators of the use of evidence by policymakers</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Oliver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Innvar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lorenc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Woodman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Thomas</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>BMC Health Services Research</publisher>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Introduction: Senses of place in the face of global challenges</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Raymond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Di Masso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Manzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Von Wirth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Changing senses of place: Navigating global challenges</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rosenow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Eyre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A post mortem of the Green Deal: Austerity, energy efficiency, and failure in British energy policy</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="141" to="144" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

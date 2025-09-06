@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Intersectionality in good faith: Beyond normative claims and towards practical integration in energy justice research</title>
+				<funder ref="#_gddArqa">
+					<orgName type="full">EPSRC UKRI</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-11-19">19 November 2024</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Mathilde</forename><surname>Rainard</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Leeds</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Milena</forename><surname>Büchs</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Leeds</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Kirsten</forename><surname>Jenkins</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Edinburgh</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lucie</forename><surname>Middlemiss</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Leeds</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Intersectionality in good faith: Beyond normative claims and towards practical integration in energy justice research</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Energy Research &amp; Social Science</title>
+						<title level="j" type="abbrev">Energy Research &amp; Social Science</title>
+						<idno type="ISSN">2214-6296</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">119</biblScope>
+							<biblScope unit="page">103823</biblScope>
+							<date type="published" when="2024-11-19">19 November 2024</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">17DEB72EA64BB47133DE7A7FE97FF8B8</idno>
+					<idno type="DOI">10.1016/j.erss.2024.103823</idno>
+					<note type="submission">Received 22 March 2024; Received in revised form 18 October 2024; Accepted 23 October 2024 Energy Research &amp; Social Science 119 (2025) 103823</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Energy justice Intersectionality theory Energy transition Methodology</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The concept of intersectionality is increasingly referenced in energy justice research, requiring critical reflection on the value of intersectionality theory for the energy justice framework and research agenda. Conceptually, its incorporation seems intuitiveintersectionality theory, it is argued, can better integrate, or even transcend, often westernised justice conceptualisations, including through attention to feminist, anti-racist, Indigenous, and postcolonial justice theories. Methodologically, however, integrating intersectionality into practice is less intuitive and the energy justice literature is currently lacking tangible recommendations. Indeed, the use of intersectionality is methodologically complex, requiring understanding of and attention to its core guiding principles, which must be applied appropriately in research from design to analysis and outputs in order to support its ambitious and politicised aims. This is especially true in the context of energy justice, where outputs are typically intended to inform future decision-making. In this perspective, we present the key literature to integrate intersectionality theory into energy justice research, then we highlight that there have been, so far, two different ways to integrate intersectionality: implicitly and explicitly. We then defend and support the explicit integration of intersectionality theory in energy justice work by providing recommendations to facilitate integration in research. Finally, we call for a politicised, radical research agenda informed by intersectionality theory in future academic work linked to the energy transition injustices.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Towards an integrated energy justice-intersectionality framework</head><p>Energy justice and intersectionality theory have been brought together in the recent energy justice literature <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>. However, we argue that energy justice scholars need to integrate intersectionality theory and methodological approaches into their research more thoroughly, pushing beyond normative claims to truly integrate and benefit from intersectionality's multiple and ambitious aims. In other words, energy justice research should not just make claims for a conceptual fit with intersectionality but explore and integrate the theory in practice.</p><p>Energy justice is a popular conceptual, analytical and decisionmaking framework and research agenda aimed at identifying and addressing the injustices arising from the energy systems transition, with the specific objective to inform decision-making in practice <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref>. Energy justice has been developed and popularised in academia over the past decade and relies on different conceptions of justice, <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b6">7]</ref> most often recognising two different approaches <ref type="bibr" target="#b6">[7]</ref>. First is the 'principled approach', relying on eight principles of justice or philosophical conceptsvirtue, utility, human rights, procedural justice, welfare and happiness, freedom, posterity, and fairnessbut later expanding in 2017 through Sovacool et al.'s work, <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b7">8]</ref> which added resistance and intersectionality. Second is the triumvirate approach <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b8">9]</ref> which adapts the three dimensions of social, climate justice and Schlosberg's environmental justice <ref type="bibr" target="#b9">[10]</ref> to the energy transition landscapei.e., procedural, recognition-based and distributional justice. Both approaches have evolved throughout the past decade in response to critics, including responses to the apparent lack of system thinking and to call for a better integration of non-western conceptualisations of justice <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b10">11]</ref>. Recently, intersectionality has been highlighted by energy justice scholars as a pluralising <ref type="bibr" target="#b0">[1]</ref> theory of justice which, amongst other claims for its contribution, has the potential to sit between western and non-western theorists to deepen the energy justice framework.</p><p>Intersectionality is broadly understood as "the critical insight that race, class, gender, sexuality, ethnicity, nation, ability, and age operate not as unitary, mutually exclusive entities, but as reciprocally constructing phenomena that in turn shape complex social inequalities" <ref type="bibr">( [12]</ref>p.2). It is highlighted by Sovacool et al. <ref type="bibr" target="#b0">[1]</ref> as the theory that can enrich energy justice approaches with post-colonial, feminist, anti-racist and Indigenous perspectives and thus address recent critiques regarding the western-centric approach of the energy justice frameworks. If the reconciling potential of intersectionality theory is an easy concept to grasp, its practical integration, however, is not as intuitive and has yet to be clarified in a dedicated publication. There is not one intersectional method but rather a multitude of different applications <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref>. Using intersectionality in academic research necessitates going beyond normative claims to produce intersectional research in "good faith" -i.e., engaging with the origins of the theory, its multiple objectives and conceptual pillars, and meaningful practice.</p><p>In this perspective we support the integration of intersectionality theory within energy justice by reviewing key intersectionality literature fundamental to its operationalisation in research and summarizing the gaps in energy justice research that the integration of the theory could overcome. First, we present the intersectionality literature, focussing on its historical and political origins and the key guiding objectives every intersectional scholar should consider. We then investigate the existing links between energy justice and intersectionality in the energy transition literature, arguing that there have been two different ways to integrate intersectionality so farimplicitly, and explicitly. Finally, we summarise our perspective by proposing recommendations to develop explicit intersectionality-energy justice research. We conclude by calling for the politicization of the energy justice research agenda through acknowledgment of intersectionality's historical political roots to ensure the use of the theory in good faith. Energy justice and intersectionality research have both been depoliticized to the detriment of their outputs in research, especially when it comes to the energyclimate nexus <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16]</ref>. We finally argue that an explicit political approach to intersectionality in energy justice (and perhaps even broader transitions) research would support transformative decisionmaking.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Integrating intersectionality in "good faith"</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Understanding the origins of intersectionality to optimise research design</head><p>Intersectionality is situated in the knowledge landscape of the late 1960s, influenced by the emergence of poststructuralism and postmodernism in literature, modern art, and academic movements. This specific landscape in academia enabled the introduction of feminisms, including Black Feminism, as movements with academic, sociological, and transformative ramifications.</p><p>Intersectionality was born from the overlapping claims of Black and Indigenous Women against the essentialisation of the feminist movements in the 1970s and 1980s. Essentialisation is defined as the claims about what constitutes one's 'essence' (if there is even such a thing) and/ or the intellectual association between one's 'essence' and one's condition or struggle, for example assuming that all women share the same ambitions and struggles in life, across nations, simply because of their condition as women. Early implicit mentions of intersectionality theory, before the term was coined by Kimberlé Williams Crenshaw in 1989, date back to the 1880s with authors and feminist activists like Sojourner Truth, Anna Julia Cooper or sociologists like Williams Edward Burghardt Du Bois <ref type="bibr" target="#b16">[17]</ref>. Notably, in a 1977 pamphlet, the Combahee River Collective explicitly coins the expression of "interlocking systems of oppression" <ref type="bibr" target="#b17">[18]</ref> later used to describe what intersectionality theory is interested in studying and addressing. The simultaneous emergence of pre-intersectional thinking in social movements, like the Chicana movement <ref type="bibr" target="#b17">[18]</ref>, set apart from mainstream feminism and the strengthening of feminism as an academic perspective laid the ground for intersectionality to emerge <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref>. There are two reasons for this. First, feminist academic theories gained traction. Second, feminist methodologies started questioning processes of categorical conceptions and knowledge production <ref type="bibr" target="#b20">[21]</ref>.</p><p>More specifically, the concept of situated knowledge from a feminist perspective was proposed by Donna Haraway in her 1988 article, Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective <ref type="bibr" target="#b21">[22]</ref>. The idea of situated knowledge emphasises that research outcomes are not neutral but contextually and ideologically situated by the social position of the researcher, the topic studied, and the methods used, which are themselves situated within complex social power dynamics. For example, in the context of the energy transition, research might be constrained by the identities of the researcherspredominantly male, white and educatedwho are trying to address injustices predominantly faced by marginalised groups composed of racialised and less privileged, if not oppressed, individuals <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b22">23]</ref>. The idea of situated knowledges combined with the questioning of categorical analyses to produce sociological knowledge resonated with intellectual activists like Angela Davis or bell hooks <ref type="foot" target="#foot_0">1</ref> and political academics like Kimberlé Williams Crenshaw or Patricia Hill Collins <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b18">19]</ref>.</p><p>Intersectionality theory emerges in this activist and academic landscape to structure thinking around the heterogenization of social movements and subsequent justice concerns, with a particular focus on dynamics of domination, privilege and oppression. Within this context of interacting social movements and multiple post-modern theories, early definitions of intersectionality are already encompassing the triad of ambitions that intersectionality thinkers later highlightthe theoretical, analytical and practical dimensions <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b23">24]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Overcoming the definitional dilemma within intersectionality</head><p>Intersectionality can seem both intuitively easy to define and, once needed to be defined for research purposes, difficult to grasp <ref type="bibr" target="#b11">[12]</ref>. Intersectionality theory is often defined in research as either the study of interlocking systems of oppression or matrix of dominations, the theory is interested in overlapping and mutually constitutive power dynamics and systems. It is hard to apply intersectionality not as an additive model, but as a multifactorial framework of interpretation and to design research accordingly. A prime example is the work of Bowleg on Black Lesbian Women and her recommendations <ref type="bibr" target="#b24">[25]</ref>. Bowleg's work focusses on understanding how to apply intersectionality in research practice without falling into the additive trap of wanting to analyse data by layers. For example, first looking into race, then gender, then sexuality, then age and so on and so forth. To avoid doing so, below we dive into the most recognized definitions of intersectionality before we review the practical recommendations to ensure good intersectional research practice. Intersectionality was first defined as what it was notit was not just a gender studies theory or just a racial theory <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b19">20]</ref>. Despite immediate theoretical, analytical and praxis ambitions upon creation, intersectionality remained a purposefully vague term to cater for a multitude of applications <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b25">26]</ref>.</p><p>Crenshaw <ref type="bibr" target="#b26">[27]</ref> originally defined it through three domains of application. First, structural intersectionality, which highlights contextual factors preventing access to legal rights due to lack of equal rights application by the judiciary system of the United States. Second, political intersectionality, which addresses the power dynamics between groups of individuals with different identities and their representation in policy making. Third, representational intersectionality, which addresses individuals' cultural construction at the intersection of multiple identities and cultural representations that can imprison individuals within structural power dynamics <ref type="bibr" target="#b19">[20,</ref><ref type="bibr" target="#b26">27]</ref>. Later, intersectionality is also applied as a paradigm where it can be defined as "a justice-oriented analytical framework for examining persistent socio-political problems that emerge from race, gender, class, sexual orientation and other socio-political fissures as interlocking, process-driven categories of difference" <ref type="bibr">(Hancock,</ref><ref type="bibr" target="#b27">[28]</ref> p.282). To complement these definitions, Leslie McCall identifies three approaches to intersectionality in academic practice, inter-, intraand anti-categorical intersectionality, respectively focussing on relationships within, between and beyond social categories <ref type="bibr" target="#b18">[19]</ref>.</p><p>In practice, defining intersectionality is a challenging task, but what Patricia Hill Collins and Kimberlé Crenshaw agree on in their later publications on the topic, <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref> is that intersectionality is threefold. First, it is a theoretical framework that centres upon individual and collective non-disagreeable identities, relationships and lived experiences to systematically question knowledge production, power dynamics and mechanisms of oppression. Second, intersectionality is an analytical framework to understand how applying intersectionality theory can reduce inequalities, answering the question "how can we…?" (Hancock, <ref type="bibr" target="#b27">[28]</ref>, p. 283). Finally, intersectionality is defined as a political praxisthe use of intersectionality as a theoretical and analytical framework for activists to understand, define and make recommendations to policy and decision makers <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b28">29,</ref><ref type="bibr" target="#b29">30]</ref>.</p><p>The threefold understanding of intersectionality theory can be practically transposed into methods by acknowledging the importance of core themeswhich we refer to as pillars hereafterin research. These pillars can help to avoid methodological complexities highlighted by intersectionality theorists and practitioners like Hancock <ref type="bibr" target="#b19">[20,</ref><ref type="bibr" target="#b23">24]</ref> and McCall <ref type="bibr" target="#b18">[19]</ref> or Bowleg <ref type="bibr" target="#b24">[25]</ref>, but also the depoliticization of intersectionality theory as regretted by Crenshaw and highlighted by Carastathis <ref type="bibr" target="#b20">[21]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">The core of the theory to consider in practice: Eight pillars</head><p>The broad range of possible empirical applications based on the threefold understanding of intersectionality justify the variety of applications that can be found in the intersectional academic literature in practice. To support newly interested researchers, intersectionality scholars have put forward several recommendations for ways in which intersectionality theory can be applied in academic practice. The first recommendation is to use intersectionality in "good faith" as Collins puts it ( <ref type="bibr" target="#b11">[12]</ref>, p. 13). This means to engage with intersectionality theory and notably the objectives of intersectionality, its conceptual pillars, and its political ambitions. The second recommendation lies around the understanding that intersectionality is not an additive framework but rather a multiplying one that considers human identities as a whole and relies on the necessary interpretation of data by the researcher <ref type="bibr" target="#b24">[25]</ref>. This is clearly emphasised in the work of Bowleg and subsequent analytical recommendations when applying intersectionality theory in practice <ref type="bibr" target="#b24">[25]</ref>. Here, to support practical integration we give a brief overview of eight pillars which underpin the application of intersectionality theory in practice.</p><p>The eight intersectionality pillars can be described according to Fig. <ref type="figure" target="#fig_0">1</ref> below, as inspired by Hankivsky <ref type="bibr" target="#b28">[29]</ref>. Intersectional research should aim to study intersecting characteristics and identitiesindividual and between groups, hold power as a central notion, take into account subsequent political struggles, consider issues of social justice and equity, take into account multiscale interactions, engage in continuous (self)-reflexivity while doing research, and consider the production of diverse knowledge across time and space. Research can be intersectional if only some of these pillars are present, but most research explicitly qualified as intersectional engages with all of them <ref type="bibr" target="#b29">[30]</ref>. Furthermore, if Hankivsky explains that not all themes need to be present for research to qualify as intersectional, Cho et al., <ref type="bibr" target="#b12">[13]</ref>, Collins <ref type="bibr" target="#b11">[12]</ref>, McCall <ref type="bibr" target="#b18">[19]</ref> and Hancock <ref type="bibr" target="#b27">[28]</ref> hold reflexivity as a separate research process that is necessary in intersectional research. When Bowleg <ref type="bibr" target="#b24">[25]</ref> explores how to effectively transcribe research on Black Lesbian Women, reflexivity and interpretation are used to reflect on an intersectional research process relying on intersectional-thinking every step of the way. Notably, reflexivity around the positionality of the researcher(s), the methods used, and their bias, is considered essential as it engages with one of the core aspirations of intersectional theory, the production of diverse knowledges <ref type="bibr" target="#b20">[21]</ref>, and can help overcome the additive trap.</p><p>The historical and empirical background of intersectionality theory presented above needs to be considered when one wishes to apply intersectionality in academic practice to avoid depoliticizing the theory. Acknowledging the origins of the theory and its core pillars, coupled with good practice in their application, enables its transformative impact, fully questioning the systemic causes of the problems addressed. We support the explicit use of intersectionality theory within energy justice further by providing practical recommendations in section 4 of this article. Before this, we dive into the current energy justice and intersectionality literature, how it has been integrated so far and the benefit of integrating intersectionality in good faith to overcome key criticisms of the energy justice approach.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Energy justice and intersectionality: Critics and complementarity in the literature</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Transcending the divide between western and non-western conceptions of justice</head><p>The energy justice literature applies approaches used in broader climate, environmental and social justice scholarship to energy issues and systems <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b5">6]</ref>. It has progressively been encompassing deeper intersectional thinking in theory <ref type="bibr" target="#b0">[1]</ref>, <ref type="bibr">[8,]</ref> but also in practice.</p><p>The concepts of justice used by the early energy justice literature mostly derive from western theories of justice, which has attracted criticism <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b15">16]</ref>. The reliance on western philosophies of justice in energy justice foundational publications <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b8">9]</ref> has been pointed out as skewing energy justice conceptual and empirical research <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b15">16]</ref>. However, some of the earlier energy justice literature also acknowledges aspirations to "tap into the rich insights offered by non-western justice theorists", as explained by Sovacool et al. <ref type="bibr">([8]</ref> p.678) who integrate the concepts of resistance and intersectionality within the principled approach. Those aspirations were developed by Sovacool et al. <ref type="bibr" target="#b0">[1]</ref> to enhance the energy justice framework and to conclude that intersectionality theory integration would address previous criticisms. In this view, non-western conceptions of justice, like Confucianism, Ubuntu, or Indigenous as well as non-or more-than-human value systems, can help to conceptualise well-being and injustices and in doing so, support a fairer energy transition. To integrate these conceptions of justice into the energy justice framework, Sovacool et al. <ref type="bibr" target="#b0">[1]</ref> review feminist, antiracist, Indigenous, and anti-colonialist theories of justice. These theories are united by the fact that they seek to address causes of injustices rooted in power dynamics inherited from systems of social domination, patriarchy, racism, and colonialism to capitalism and imperialism. Subsequently, non-western theories put inter-and intra-relationships between individuals and groups of individuals, as well as relationships with non-humans, at the heart of the origins of injustices. In this context, and by Sovacool et al.'s <ref type="bibr" target="#b0">[1]</ref> own admission, intersectionality, used as a conceptual and analytical framework, is a way to integrate clashing and overlapping western and non-western conceptions of justice within existing energy justice frameworks.</p><p>Intersectionality theory reunites these multiple conceptions by seeking to systematically integrate often silenced voices into justice debates and by considering multilevel power dynamics that create privilege and oppressionor misrecognition, misalignment or disempowerment <ref type="bibr" target="#b11">[12]</ref>. Intersectionality also supports energy justice by addressing critiques, for example, the lack of bottom-up approaches as we discuss below.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Promoting bottom-up approaches and collaborations across scales</head><p>Integrating intersectionality theory, we argue, can mitigate some of the more practical (as well as conceptual criticisms, as addressed above) of the energy justice framework by reintegrating bottom-up approaches in research and enhancing collaboration between different actors across scales <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b6">7]</ref>. Intersectionality theory is not a panacea to energy justice criticisms but supports key areas.</p><p>The energy justice literature has been criticised for focussing on topdown dynamics and recommendations to alleviate energy injustices observed in the field <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b15">16]</ref>. That is, for focussing predominantly on energy policymaking as a solution to injustice, rather than more actively considering, for instance, the role of grassroots activism and collective action. Intersectionality theory provides analytical frameworks that inherently integrate methods, notably feminist methods, that focus on amplifying the voices of marginalised groups who are often excluded from decision-making processes <ref type="bibr" target="#b18">[19]</ref>. By integrating intersectionality theory into research design, users can promote bottom-up approaches, listening to the plurality of voices of both marginalised and overrepresented individuals, while encouraging collaborations between multiple actors. Intersectionality theory also encourages complex reasoning to analyse interactions of multiple power dynamics, addressing, or at least unpacking, the root causes of issues at play. Intersectionality can therefore practically support the alleviation of injustices by offering different narratives for policymaking based on often ignored or overlooked perspectives and knowledges in decision-making <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b30">31]</ref>. The integration of marginalised voices in research coupled with more typical top-down approaches also supports the heterogenization of policymaking. Here, combining top-down approaches supported by energy justice frameworks and bottom-up approaches through the integration of intersectionality in energy transition research reinforces, in theory, the development of practical solutions to complex problems thanks to a diversified knowledge pool. All this contributes to a better integration of various social actors in the energy transition policy planning which promotes a holistic conceptualisation of our energy futures.</p><p>We acknowledge that bottom-up approaches and intersectionalityadjacent reasoning in the energy transition academic literature are not new and have been part of the socio-technical conversation in the energy transition literature for several years, allowing us to further our reasoning today.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">The implicit and explicit use of intersectionality in the energy justice literature</head><p>In the context of applied energy justice, intersectionality is used either explicitly <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref> or implicitly <ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref><ref type="bibr" target="#b36">[37]</ref>. We strategically highlight some key energy justice publications to illustrate this implicit/ explicit distinction.</p><p>Here, we consider that research is using intersectionality implicitly if authors use intersectional language and related methods without directly referring to intersectionality theorythis does not mean the word "intersectionality" is excluded from their research but rather that it is not used to refer to intersectionality theory. This category also includes research that refers to intersectionality theory only through future research recommendations. For example, a study might be interested in the gender, age or disability aspect of a certain type of energy transition injustice <ref type="bibr" target="#b37">[38]</ref><ref type="bibr" target="#b38">[39]</ref><ref type="bibr" target="#b39">[40]</ref> amongst other factorsbut does not explicitly consider intersecting social factors in its analysis, rather it only acknowledges the existence of intersecting systems of privilege and oppression using intersectionality related language <ref type="bibr" target="#b40">[41,</ref><ref type="bibr" target="#b41">42]</ref>. This is the case for most of the literature interested in exploring the gender-energy (-poverty) nexus <ref type="bibr" target="#b37">[38,</ref><ref type="bibr" target="#b42">[43]</ref><ref type="bibr" target="#b43">[44]</ref><ref type="bibr" target="#b44">[45]</ref> without denying the existence of intersecting systems of discrimination. By this we mean that studies acknowledge the intersection of social factors as influencing their results, but chose to isolate one specific factor <ref type="bibr" target="#b45">[46]</ref>. Furthermore, these studies primarily rely on the use of feminist methods in their analyses, which are a cornerstone of intersectionality in practice, as we see below <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b44">45]</ref>. This implicit and methodological use of intersectionality allows the development of results and recommendations that can better acknowledge intersecting injustices <ref type="bibr" target="#b22">[23]</ref>. The empirical study of one group, at one scale, allows for actionable recommendations that would be missed by wider studies <ref type="bibr" target="#b35">[36,</ref><ref type="bibr" target="#b46">47]</ref>.</p><p>There is an increasing number of publications that explicitly use intersectionality theory in the energy justice and energy transition literature <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b32">33]</ref>. In these publications, intersectionality is applied, for example, as an analytical tool to understand individuals' vulnerability to energy poverty <ref type="bibr" target="#b32">[33]</ref>, differences in people's perceptions of energy technology installation <ref type="bibr" target="#b31">[32]</ref>, or as an analytical framework to highlight injustices in energy transition policies and practice across scales <ref type="bibr" target="#b13">[14]</ref>. The explicit use of intersectionality is intertwined with the political background on which the theory reliesi.e., Black feminist and Indigenous feminist claims amongst other. Here, explicit intersectionality can foster radical recommendations to alleviate energy transition injustices, addressing, or at least highlighting, their root causes <ref type="bibr" target="#b13">[14]</ref>. Further publications and examples are presented in Table <ref type="table">1</ref> to illustrate the difference between the implicit and explicit use of intersectionality in the literature.</p><p>A first, limited application of intersectionality can highlight unanticipated mechanisms of privilege, domination and oppression that explicit intersectionality can help to address. In order to explicitly use intersectionality, one needs to go beyond normative claims to operationalise it in practice, which requires engagement with the intersectionality theory origins and methodological literatures. We now summarise practical avenues towards explicit intersectionality-energy justice research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Towards explicit intersectionality-energy justice research</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Recommendations for adapting intersectionality core pillars within energy justice research</head><p>In order to support the development of explicit intersectionalityenergy justice research there are concrete recommendations covering the lifespan of a research project from conceptualisation to execution that can be drawn from the intersectionality literature to translate the eight pillars presented above into practice.</p><p>These recommendations can be organised around four research aspectsresearch processes, conceptualisation, design, and methods, as seen in Fig. <ref type="figure">2</ref>. They integrate the core pillars of intersectionality and practical recommendations drawn from both the intersectionality and the energy justice methodological literature <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b42">[43]</ref><ref type="bibr" target="#b43">[44]</ref><ref type="bibr" target="#b44">[45]</ref>. The recommendations can inform the entirety of the research process by offering researchers key insights to operationalise intersectionality theory in 'good faith'. Note that the research processes (shown in Fig. <ref type="figure">2</ref>) will span over the entire lifespan of the project and therefore, should be considered as cornerstones of practical intersectionality in research.</p><p>First, the research processes should consciously seek to diversify the knowledge pool and acknowledge the context of knowledge production through active self-reflexivity and recognition of the researcher(s)' positionality. This can be illustrated in practice by considering one's own set of privileges and experiences of oppression when designing surveys and interviews by organising preliminary interviews and encouraging participative research design. Reflexivity should be a cornerstone of intersectionality-based research, questioning honestly how to analyse and render the multifaceted reality of experiences at the intersection of overlapping identities. This, again, is one of the keys to avoiding the additive trap throughout the research lifespan, according to Bowleg <ref type="bibr" target="#b24">[25]</ref>.</p><p>Second, the conceptualisation of the research should consider societal and structural interrogations surrounding power dynamics, social justice and equity in time and space. This means considering interacting systems of power and their evolution in time and across space when defining research questions, aims and objectives <ref type="bibr" target="#b50">[51]</ref>. For example, this could translate as interrogating from the beginning the relationships between corporations developing renewable energy infrastructures and the communities directly impacted by these infrastructures as well as the way the decisions were made to implement such infrastructures in this specific place <ref type="bibr" target="#b51">[52]</ref>. Power dynamics and inequalities of power can manifest in diverse and sometimes insidious ways, and questions regarding the multiple and overlapping identities spanning from race to geographies are then essential, whilst always remembering the definition of intersectionality theory: "the critical insight that race, class, gender, sexuality, ethnicity, nation, ability, and age operate not as unitary, mutually exclusive entities, but as reciprocally constructing phenomena that in turn shape complex social inequalities" <ref type="bibr">( [12]</ref>p.2).</p><p>Third, when designing the project, practical questions should focus on how intersecting identities play a role in participants'/citizens' experiences at different scalesmicro, meso or macrofocussing on practicing "place-based reflexivity" <ref type="bibr" target="#b52">[53]</ref>. This is translated in practice by relying on feminist approaches to researchconsidering practical issues like the time of day for interviews or the complexity of administrative overlap but also integrating tools like self-mapping devices for example <ref type="bibr" target="#b53">[54,</ref><ref type="bibr" target="#b54">55]</ref>. This is further reinforced by considering the research undertaken as explicitly intersectional, for example, thinking intersectionally throughout designing and conducting interviews <ref type="bibr" target="#b24">[25]</ref>.</p><p>Fourth, to operationalise intersectionality there are a few methodological avenues one might consider in the data analysis. Here, we present an indicative set of examples. For large sets of qualitative interviews, intersectionality scholars often recommend fuzzy-set qualitative comparative analysis <ref type="bibr" target="#b19">[20]</ref> or fs/QCA. Fs/QCA is a technique combining variable oriented and case-oriented analyses to allow for complex situations analysis. Developed by Ragin <ref type="bibr" target="#b55">[56]</ref>, fs/QCA combines quantitative and qualitative methods for medium sized sets of data and can provide detailed, rich results by mixing analyses of so-called "conditions" (i.e., male/female, Swedish, disabled etc.) with "variables" (i.e., gender, nationality, ability etc.). In the case of integrating intersectionality explicitly in energy justice research, Pappas and Woodside <ref type="bibr" target="#b56">[57]</ref> have summarised clear recommendations to apply fs/QCA in a variety of research settings. For smaller sets of interviews, a lived experience approach can support the integration of the eight pillars by focussing on listening to the voice of differently oppressed and privileged individuals to integrate different narratives in policymaking <ref type="bibr" target="#b57">[58]</ref>. The lived experience approach is, for example, already developed in energy justice Table <ref type="table">1</ref> A brief overview of intersectionality theory integration in the energy justice literature.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Implicitly Explicitly</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Integration of intersectionality theory</head><p>Exposing and presenting the benefits of feminist methodology and approaches to support a fairer transition, including intersectionality theory as a prescriptive tool <ref type="bibr" target="#b44">[45]</ref>.</p><p>Considering energy injustices from an ethnic minorities' prism to highlight marginalised communities' vulnerability <ref type="bibr" target="#b36">[37]</ref>.</p><p>Focussing on the genderenergy nexus, intersectional work is mentioned to highlight how gender is not a one size-fits-all category of analysis <ref type="bibr" target="#b37">[38]</ref>.</p><p>Empirical research in the Global South tests gender analysis tools that integrate other social factors to develop gender-energypoverty nexus analyses <ref type="bibr" target="#b42">[43]</ref>.</p><p>Mapping and addressing systemic inequalities in the context of energy poverty which leads to prescribing intersectionality as a theory for future research <ref type="bibr" target="#b45">[46]</ref>.</p><p>Analysing systemic causes of energy poverty, the systemic approach raises intersectionality linked themes and questions <ref type="bibr" target="#b34">[35]</ref>.</p><p>Studying the empirical links between energy poverty and health leads to prescribing intersectionality in future research <ref type="bibr" target="#b38">[39]</ref>.</p><p>Focussing on gender inequalities within homes to understand the differential impacts of energy poverty on different members of the household <ref type="bibr" target="#b39">[40]</ref>.</p><p>The JUST framework is compared to other potential frameworks including intersectionality theory, only mentioned as a potential alternative framework <ref type="bibr" target="#b15">[16]</ref>.</p><p>Explicitly using intersectionality language to refer to one research intersection, the genderenergy nexus, without explicit references to intersectionality theory <ref type="bibr" target="#b47">[48]</ref>.</p><p>Using intersectionality theory, the Intersectionality Based Policy Analysis framework precisely, to analyse the different perceptions to new energy installations <ref type="bibr" target="#b31">[32]</ref>.</p><p>Using intersectionality theory to better understand the drivers of energy poverty vulnerability <ref type="bibr" target="#b32">[33]</ref>.</p><p>Considering intersectionality theory to better understand the impacts of climate change on energy, poverty and health <ref type="bibr" target="#b33">[34]</ref>.</p><p>Using intersectionality theory to support the development of low-carbon energy systems that will also benefit social justice and equity <ref type="bibr" target="#b1">[2]</ref>.</p><p>Designing research guided by intersectionality theory to understand the interrelational dynamics at play in renewable energy projects <ref type="bibr" target="#b13">[14]</ref>.</p><p>Mapping the existing literature interested in gender and feminist critiques in energy research and highlighting the growing interest in intersectionality related methods <ref type="bibr" target="#b22">[23]</ref>.</p><p>How intersectionality theory and praxis can be mobilized to pluralize environmental and energy justice activism <ref type="bibr" target="#b48">[49]</ref>.</p><p>Using intersectionality theory to support the development of deliberative energy justice policy making <ref type="bibr" target="#b49">[50]</ref>.</p><p>work focussing on energy poverty <ref type="bibr" target="#b46">[47,</ref><ref type="bibr" target="#b58">59]</ref>. This narrative and deeply qualitative approach to lived experiences research emphasises echoing participants' unique but revealing life experiences to amplify their voices. It is well suited for intersectional work, in part, because it palliates the additive trap by approaching subjects holistically <ref type="bibr" target="#b24">[25]</ref>. More widely, intersectionality in practice often relies on critical discourse analysis, which can be adapted to policy analysis across sectors, for example thanks to frameworks like the Intersectionality-Based Policy Analysis Framework (IBPA) as used by Ryder <ref type="bibr">[14] [30]</ref>. The IBPA is a highly adaptable framework to different policy contexts and builds on the work of Hankivsky et al., <ref type="bibr" target="#b29">[30]</ref>, who focus on rendering intersectionality-based research more accessible. More generally critical discourse analysis, beyond the IBPA, presents avenues to unveil hidden power dynamics, mechanisms of privilege, exclusions or disempowerment with frameworks like the "What's the Problem Represented to Be" approach by Bacchi <ref type="bibr" target="#b59">[60]</ref>. Intersectionality theory can be operationalised through both quantitative and qualitative methods. The recommendations put together here streamline (but do not fully represent) the vast literature on intersectionality and outline the essential steps to consider in an integrated intersectionality-energy justice research project. It is important to note that integrating intersectionality theory explicitly and applying the recommendations is a continuous process. For reflexivity, as explained throughout this perspective, integrating intersectionality is a questioning process that renews itself throughout the research lifespan and translates into research outputs and outcomes. Explicit attention to reflexivity is sometimes presented as a research positionality statement that reinforces transparency, as we have done here. Intersectionality research also often has political, practical outcomes. In the spirit of intersectionality theory and to further our recommendations, we therefore continue by arguing that the good faith approach to intersectionality must involve politicization of the energy justice research agenda.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Call for a political research agenda in energy-justice</head><p>Integrating intersectionality theory within energy justice research requires practical recommendations to overcome normative claims but also radical political engagement.</p><p>Intersectionality is more than a pluralising theory of justice integrating feminist, anti-racist, anti-colonialist, and Indigenous conceptions of justice: it is a political standpoint that emerged through social movements <ref type="bibr" target="#b20">[21]</ref>. It is a structuralising praxis that relies on politically charged values. Using intersectionality theory cannot be dissociated from a political agenda. However, often in the academic literature, within and beyond the energy transition literature, intersectionality is depoliticised, used implicitly <ref type="bibr" target="#b20">[21]</ref>. The definitional dilemmas surrounding the theory, its intuitiveness, and its triplicate ambitionstheoretical, analytical, and practical, as presented abovecan result in the depoliticization of the concept in academic practice.</p><p>An explicit intersectionality-energy justice framework then requires putting political values at the forefront of the research, highlighting the radical fairness ambitions of the research agenda. If energy-justice scholars do not shy away from expressing political standpoints <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b10">11]</ref>, integrating intersectionality would inherently radicalise the research outputs and policy recommendations. Energy justice literature often loses some of its radical potential by using frameworks or approaches that rely on procedural outcomes rather than more political ones, and despite research explicitly exposing those shortfalls <ref type="bibr" target="#b14">[15,</ref><ref type="bibr" target="#b15">16]</ref>, the recommendations to practically overcome this radical potential paradox are limited. Here the word radical is understood through its Latin epistemology, meaning roots. Therefore, we are calling for the integration of questions in energy justice research oriented towards historical conditions that have created the current justice dilemmas faced by many. In other words, to unveil, highlight and start addressing the root causes of the issues at play. We also support the call from Dunlap and Tornel to address statism in energy justice research and subsequent policy recommendations <ref type="bibr" target="#b10">[11]</ref>. Practically, this means consciously directing the research towards systemic interrogations by design, focussing on the causes and effects of neoliberal, patriarchal, neocolonial political structures influencing energy systems to highlight transformative and disruptive policy recommendations. We believe explicit and practical integration of intersectionality theory can support such outcomes.</p><p>The radical political standpoint that intersectionality represents can help interrogate systemic mechanisms of oppression while keeping people at the heart of the research and policy recommendations. In that Fig. <ref type="figure">2</ref>. Tangible recommendations to enable the "good faith" approach to intersectionality. sense explicit intersectionality-energy justice research can help build a fairer energy future thanks to transformative policy recommendations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Conclusive remarks: Towards transformative policy research in the energy sector</head><p>In the context of energy justice research, intersectionality is a pluralizing theory of justice, but its integration resides in a deeper engagement with the intersectionality literature in practice to support its integration and avoid depoliticization. Explicit intersectionalityenergy justice research relies on the understanding of the origins of intersectionality, its multiple and political aims, and the practical integration of its eight pillars as presented here. Without guidance, integrating intersectionality while staying true to the theoryin good faithis a complex task that necessitates hours of engagement with the philosophical and political literature of the 1970s, 80s and 90s. Streamlining this literature to extract tangible recommendations as we have done here helps to ease the practical aspect of explicit intersectionality-energy justice research. This perspective also offers readers the opportunity to dive deeper into the literature we have presented in developing an intersectional approach for specific projects. Our contribution here lies in the articulation of an explicit integration of intersectionality within energy justice research, through practical recommendations, as well as the call for a political research agenda in the energy justice literature.</p><p>Highlighting the political essence of intersectionality theory and calling for its continuation when adapted to energy justice based research is supporting the elaboration of transformative policy recommendations in the energy transition literature. The central focus on interlocking systems of inequalities in intersectionality theory supports the identification of complex power dynamics at play and potential solutions relying on individual experiences and alternative narratives. Acknowledging intersectionality theory's radical political roots allows for questioning of historical systems of domination responsible for climate change. In the energy transition sector where fairness issues can seem deadlocked from a top-down perspective, intersectionality theory provides the ground for deeper integration of bottom-up approaches from a more diverse knowledge pool. In a world where academic research and policy making are increasingly colliding, intersectionality theory is a political standpoint that can be integrated to build fairer energy futures. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CRediT authorship contribution statement</head><note type="other">Mathilde</note></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Positionality statement</head><p>Intersectionality in good faith: Beyond normative claims and towards practical integration in energy justice research.</p><p>MR (she/her/they) is a PhD candidate at the University of Leeds. She works on operationalising intersectionality in energy transition and energy demand reduction research. Her background is in economics, climate change and environmental policy studies, and eco-feminist research. She is of white, middle-upper class background but grew up in a multi-cultural and multi-racial family. Her original focus in research on eco-social policies brought her to exploring the interconnected systems of oppression undermining radical political changes needed to mitigate climate change. She is curious to expand her research beyond the energy sector.</p><p>MB (she/her/they) is professor of sustainable welfare at the University of Leeds. Their research focuses on social ecological policy in a postgrowth context, just transitions, and climate and energy justice. Milena is one of MR's PhD supervisors. They are white, grew up and studied in Germany, and gained British citizenship in 2016. Neither of Milena's parents went to university and she grew up in poverty, which is why she developed a strong interest in social inequalities and social change.</p><p>KJ (she/her) is a senior lecturer in energy, environment and society and the University of Edinburgh. She has with specialisms in the Just Transition, energy justice, fuel and transport poverty, and the transformations of rural environments. She is MR's external PhD supervisor. KJ is white, non-disabled, from a middle class background and was raised in Scotland by two formerly senior military parents. Her upbringing in a "big, old and cold" rural home inspired a passion for energy issues in rural communities, and the protection of marginalised and vulnerable groups.</p><p>LM (she/her) is professor of environment and society at the University of Leeds. Her research addresses vulnerability in the context of environmental policy and energy poverty, and she has been part of a team that developed a relational approach to energy research. She also has an ongoing interest in disability politics and environment. She is one of MR's PhD supervisors. LM is white, non-disabled, from a middle-class background and was brought up a feminist and advocate for social justice by her political parents. Recent experiences in bringing up her disabled sons have been instrumental in further developing her interests in disability and environment.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. The eight themes of intersectionality inspired by Hankivsky et al., 2012.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>Rainard: Writingreview &amp; editing, Writingoriginal draft, Investigation, Conceptualization. Milena Büchs: Writingreview &amp; editing, Supervision. Kirsten Jenkins: Writingreview &amp; editing, Supervision. Lucie Middlemiss: Writingreview &amp; editing, Supervision.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="6,79.17,55.70,436.44,252.71" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>bell hooks are never capitalised as the author wishes to remain known for her ideas rather than her name.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgment</head><p><rs type="person">Mathilde Rainard</rs> was funded under the <rs type="funder">EPSRC UKRI</rs> grant <rs type="grantNumber">EP/ T517811/1 &amp; EP/W524311/1</rs> as part of the CREDS 2022 awarded doctoral training studentships.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_gddArqa">
+					<idno type="grant-number">EP/ T517811/1 &amp; EP/W524311/1</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>No data was used for the research described in the article.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Pluralizing energy justice: incorporating feminist, anti-racist, indigenous, and postcolonial perspectives</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2023.102996</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2023.102996" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page">102996</biblScope>
+			<date type="published" when="2023-03">Mar. 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Intersectionality and energy transitions: a review of gender, social equity and low-carbon energy</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">W</forename><surname>Johnson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2020.101774</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2020.101774" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page">101774</biblScope>
+			<date type="published" when="2020-12">Dec. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Fuel poverty, affordability, and energy justice in England: policy insights from the warm front program</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.energy.2015.09.016</idno>
+		<ptr target="https://doi.org/10.1016/j.energy.2015.09.016" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="361" to="371" />
+			<date type="published" when="2015-12">Dec. 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">What are we doing here? Analyzing fifteen years of energy scholarship and proposing a social science research agenda</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2014.02.003</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2014.02.003" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1" to="29" />
+			<date type="published" when="2014-03">Mar. 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Energy justice: conceptual insights and practical applications</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Dworkin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.apenergy.2015.01.002</idno>
+		<ptr target="https://doi.org/10.1016/j.apenergy.2015.01.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Energy</title>
+		<imprint>
+			<biblScope unit="volume">142</biblScope>
+			<biblScope unit="page" from="435" to="444" />
+			<date type="published" when="2015-03">Mar. 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Energy justice: a conceptual review</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mccauley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Heffron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Stephan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rehner</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2015.10.004</idno>
+		<ptr target="org/10.1016/j.erss.2015.10.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="174" to="182" />
+			<date type="published" when="2016-01">Jan. 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Substantiating energy justice: creating a space to understand energy dilemmas</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Roelich</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su12051917</idno>
+		<ptr target="https://doi.org/10.3390/su12051917" />
+	</analytic>
+	<monogr>
+		<title level="j">Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">1917</biblScope>
+			<date type="published" when="2020-03">Mar. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">New frontiers and conceptual frameworks for energy justice</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Kotikalapudi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wlokas</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enpol.2017.03.005</idno>
+		<ptr target="https://doi.org/10.1016/j.enpol.2017.03.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="677" to="691" />
+			<date type="published" when="2017-06">Jun. 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Advancing energy justice: the triumvirate of tenets</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mccauley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Heffron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Stephan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jenkins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Energy Law Review</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">3</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Defining Environmental Justice: Theories, Movements, and Nature, 1st ed</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schlosberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/acprof:oso/9780199286294.001.0001</idno>
+		<ptr target="https://doi.org/10.1093/acprof:oso/9780199286294.001.0001" />
+	</analytic>
+	<monogr>
+		<title level="m">Oxford University PressOxford</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Pluralizing energy justice? Towards cultivating an unruly, autonomous and insurrectionary research agenda</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dunlap</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tornel</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2023.103217</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2023.103217" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page">103217</biblScope>
+			<date type="published" when="2023-09">Sep. 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Intersectionality&apos;s definitional dilemmas</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Collins</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev-soc-073014-112142</idno>
+		<ptr target="https://doi.org/10.1146/annurev-soc-073014-112142" />
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rev. Sociol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2015-08">Aug. 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Toward a field of intersectionality studies: theory, applications, and praxis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Crenshaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mccall</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/669608</idno>
+		<ptr target="https://doi.org/10.1086/669608" />
+	</analytic>
+	<monogr>
+		<title level="j">Signs J. Women Cult. Soc</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="785" to="810" />
+			<date type="published" when="2013-06">Jun. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Developing an intersectionally-informed, multi-sited, critical policy ethnography to examine power and procedural justice in multiscalar energy and climate change decisionmaking processes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Ryder</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2018.08.005</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2018.08.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="266" to="275" />
+			<date type="published" when="2018-11">Nov. 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Decolonizing energy justice from the ground up: political ecology, ontology, and energy landscapes</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tornel</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/03091325221132561</idno>
+		<ptr target="https://doi.org/10.1177/03091325221132561" />
+	</analytic>
+	<monogr>
+		<title level="j">Prog. Hum. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="43" to="65" />
+			<date type="published" when="2023-02">Feb. 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Problematising energy justice: towards conceptual and normative alignment</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Wood</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2023.102993</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2023.102993" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page">102993</biblScope>
+			<date type="published" when="2023-03">Mar. 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Embryonic intersectionality: W.E.B. Du bois and the inauguration of intersectional sociology</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rabaka</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1468795X231160169</idno>
+		<ptr target="https://doi.org/10.1177/1468795X231160169" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Class. Sociol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="536" to="560" />
+			<date type="published" when="2023-11">Nov. 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Interlocking Systems of Oppression</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carastathis</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/978-1-137-55425-3_17</idno>
+		<ptr target="https://doi.org/10.1057/978-1-137-55425-3_17" />
+	</analytic>
+	<monogr>
+		<title level="m">Critical Concepts in Queer Studies and Education</title>
+		<editor>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Rodriguez</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Martino</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ingrey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Brockenbrough</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Palgrave Macmillan US</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="161" to="171" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The complexity of intersectionality</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mccall</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/426800</idno>
+		<ptr target="https://doi.org/10.1086/426800" />
+	</analytic>
+	<monogr>
+		<title level="j">Signs J. Women Cult. Soc</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1771" to="1800" />
+			<date type="published" when="2005-03">Mar. 2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Intersectionality as a normative and empirical paradigm</title>
+		<author>
+			<persName><forename type="first">A.-M</forename><surname>Hancock</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S1743923X07000062</idno>
+		<ptr target="https://doi.org/10.1017/S1743923X07000062" />
+	</analytic>
+	<monogr>
+		<title level="j">Pol Gender</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">02</biblScope>
+			<date type="published" when="2007-06">Jun. 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The concept of intersectionality in feminist theory</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carastathis</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/phc3.12129</idno>
+		<ptr target="https://doi.org/10.1111/phc3.12129" />
+	</analytic>
+	<monogr>
+		<title level="j">Philos Compass</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="304" to="314" />
+			<date type="published" when="2014-05">May 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Situated knowledges: the science question in feminism and the privilege of partial perspective</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Haraway</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/3178066</idno>
+		<ptr target="https://doi.org/10.2307/3178066" />
+	</analytic>
+	<monogr>
+		<title level="j">Fem. Stud</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">575</biblScope>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Gender, sexuality, and feminist critiques in energy research: a review and call for transversal thinking</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E B</forename><surname>Cannon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Chu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2021.102005</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2021.102005" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page">102005</biblScope>
+			<date type="published" when="2021-05">May 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">When multiplication Doesn&apos;t equal quick addition: examining intersectionality as a research paradigm</title>
+		<author>
+			<persName><forename type="first">A.-M</forename><surname>Hancock</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S1537592707070065</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PPS</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">01</biblScope>
+			<date type="published" when="2007-03">Mar. 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">When black + lesbian + woman ∕ = black lesbian woman: the methodological challenges of qualitative and quantitative intersectionality research</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bowleg</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11199-008-9400-z</idno>
+		<ptr target="https://doi.org/10.1007/s11199-008-9400-z" />
+	</analytic>
+	<monogr>
+		<title level="j">Sex Roles</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">5-6</biblScope>
+			<biblScope unit="page" from="312" to="325" />
+			<date type="published" when="2008-09">Sep. 2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Intersectionality: from theory to practice</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Al-Faham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ernst</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev-lawsocsci-101518-042942</idno>
+		<ptr target="https://doi.org/10.1146/annurev-lawsocsci-101518-042942" />
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rev. Law. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="247" to="265" />
+			<date type="published" when="2019-10">Oct. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Demarginalizing the intersection of race and sex: a black feminist critique of antidiscrimination doctrine, feminist theory and antiracist politics</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Crenshaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Univ. Chic. Leg. Forum</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<date type="published" when="1989">1989. 1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">A.-M</forename><surname>Hancock</surname></persName>
+		</author>
+		<ptr target="https://scholarship.law.uci.edu/ucilr/vol3/iss2/6" />
+		<title level="m">Empirical Intersectionality: A Tale of Two Approaches</title>
+		<editor>
+			<persName><forename type="first">U</forename><forename type="middle">C</forename><surname>Irvine</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="volume">259</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Intersectionality and public policy: some lessons from existing models</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Hankivsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cormier</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1065912910376385</idno>
+		<ptr target="https://doi.org/10.1177/1065912910376385" />
+	</analytic>
+	<monogr>
+		<title level="j">Polit. Res. Q</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="217" to="229" />
+			<date type="published" when="2011-03">Mar. 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">An intersectionality-based policy analysis framework: critical reflections on a methodology for advancing equity</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Hankivsky</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12939-014-0119-x</idno>
+		<ptr target="https://doi.org/10.1186/s12939-014-0119-x" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Equity Health</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">119</biblScope>
+			<date type="published" when="2014-12">Dec. 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Hill</forename><surname>Collins</surname></persName>
+		</author>
+		<title level="m">Black feminist thought: Knowledge, consciousness, and the politics of empowerment</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>Routledge Classics</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">An intersectional approach to energy justice: individual and collective concerns around wind power on Zapotec land</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mejía-Montero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E H</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Van Der Horst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lane</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2023.103015</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2023.103015" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page">103015</biblScope>
+			<date type="published" when="2023-04">Apr. 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<author>
+			<persName><forename type="first">K</forename><surname>Grossman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kahlheber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Energy poverty in an intersectional perspective</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="12" to="32" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Energy, poverty, and health in climate change: a comprehensive review of an emerging literature</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jessel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sawyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hernández</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpubh.2019.00357</idno>
+		<ptr target="https://doi.org/10.3389/fpubh.2019.00357" />
+	</analytic>
+	<monogr>
+		<title level="j">Front. Public Health</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">357</biblScope>
+			<date type="published" when="2019-12">Dec. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Middlemiss</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/B978-0-12-817674-0.00005-9</idno>
+		<idno>978-0-12-817674-0.00005-9</idno>
+		<ptr target="https://doi.org/10.1016/B" />
+		<title level="m">Energy poverty: understanding and addressing systemic inequalities, Inequality and Energy</title>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="99" to="114" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">The Cost-of-Living Crisis and Energy Poverty in the EU: Social Impact and Policy Responses : Background Paper</title>
+		<author>
+			<persName><surname>Eurofound</surname></persName>
+		</author>
+		<idno type="DOI">10.2806/260157</idno>
+		<ptr target="https://data.europa.eu/doi/https://doi.org/10.2806/260157" />
+		<imprint>
+			<date type="published" when="2022-03-22">2022. Mar. 22, 2023</date>
+			<publisher>LU: Publications Office</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The diversity penalty: domestic energy injustice and ethnic minorities in the United Kingdom</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Burbidge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sarpotdar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2022.102716</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2022.102716" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page">102716</biblScope>
+			<date type="published" when="2022-09">Sep. 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">A view from the north: Gender and energy poverty in the European Union</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Feenstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Clancy</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-43513-4_8</idno>
+		<ptr target="https://doi.org/10.1007/978-3-030-43513-4_8" />
+	</analytic>
+	<monogr>
+		<title level="m">Engendering the Energy Transition</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Clancy</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Özerol</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Mohlakoana</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Feenstra</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">Sol</forename><surname>Cueva</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer International Publishing</publisher>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page" from="163" to="187" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Energy poverty and health: trends in the European Union before and during the economic crisis</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Oliveras</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.healthplace.2020.102294</idno>
+		<ptr target="https://doi.org/10.1016/j.healthplace.2020.102294" />
+	</analytic>
+	<monogr>
+		<title level="j">Health Place</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page">102294</biblScope>
+			<date type="published" when="2007">2007-2016. Jan. 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Gender and energy: domestic inequities reconsidered</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petrova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14649365.2019.1645200</idno>
+		<ptr target="https://doi.org/10.1080/14649365" />
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Cult. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="849" to="867" />
+			<date type="published" when="2019">Jul. 2021. 2019.1645200</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Characterizing the energy use of disabled people in the European Union towards inclusion in the energy transition</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ivanova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Middlemiss</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41560-021-00932-4</idno>
+		<idno>41560-02 1-00932-4</idno>
+		<ptr target="https://doi.org/10.1038/s" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1188" to="1197" />
+			<date type="published" when="2021-12">Dec. 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Energy poverty and indoor cooling: an overlooked issue in Europe</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Thomson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petrova</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enbuild.2019.05.014</idno>
+		<ptr target="https://doi.org/10.1016/j.enbuild.2019.05.014" />
+	</analytic>
+	<monogr>
+		<title level="j">Energ. Buildings</title>
+		<imprint>
+			<biblScope unit="volume">196</biblScope>
+			<biblScope unit="page" from="21" to="29" />
+			<date type="published" when="2019-08">Aug. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Appropriate gender-analysis tools for unpacking the gender-energy-poverty nexus</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Clancy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ummar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Shakya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kelkar</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13552070701391102</idno>
+		<ptr target="https://doi.org/10.1080/13552070701391102" />
+	</analytic>
+	<monogr>
+		<title level="j">Gend. Dev</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="241" to="257" />
+			<date type="published" when="2007-07">Jul. 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Energy poverty and gender in England: a spatial perspective</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Robinson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geoforum.2019.05.001</idno>
+		<ptr target="https://doi.org/10.1016/j.geoforum.2019.05.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="222" to="233" />
+			<date type="published" when="2019-08">Aug. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Toward feminist energy systems: why adding women and solar panels is not enough✰</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Daggett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Labuski</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2020.101557</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2020.101557" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page">101557</biblScope>
+			<date type="published" when="2020-10">Oct. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Who is vulnerable to energy poverty in the Global North, and what is their experience?</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Middlemiss</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/wene.455</idno>
+		<ptr target="https://doi.org/10.1002/wene.455" />
+	</analytic>
+	<monogr>
+		<title level="j">WIREs Energy &amp; Environment</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<date type="published" when="2022-11">Nov. 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">It&apos;s normal to have damp&apos;: using a qualitative psychological approach to analyse the lived experience of energy vulnerability among young adult households</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sherriff</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1420326X17708018</idno>
+		<ptr target="https://doi.org/10.1177/1420326X17708018" />
+	</analytic>
+	<monogr>
+		<title level="j">Indoor and Built Environment</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="964" to="979" />
+			<date type="published" when="2017-08">Aug. 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Decoding intersectionality: A systematic review of gender and energy dynamics under the structural and situational effects of contexts</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Üstündaglı Erten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Güzeloglu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ifaei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Khalilpour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ifaei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yoo</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2024.103432</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2024.103432" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Research &amp; Social Science</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page">103432</biblScope>
+			<date type="published" when="2024-04">Apr. 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Environmental Justice: Key Issues</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Coolsaet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ed</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Key Issues in Environment and Sustainability</title>
+		<meeting><address><addrLine>London; New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Taylor &amp; Francis Group</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Language and environmental justice: articulating intersectionality within energy policy deliberations</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>George</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/23251042.2019.1605958</idno>
+		<ptr target="https://doi.org/10.1080/23251042.2019.1605958" />
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Sociology</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="149" to="163" />
+			<date type="published" when="2019-04">Apr. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">An argument for context-driven intersectionality</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Mckinzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Richards</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/soc4.12671</idno>
+		<ptr target="https://doi.org/10.1111/soc4.12671" />
+	</analytic>
+	<monogr>
+		<title level="j">Sociol. Compass</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2019">12671, Apr. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Environmental justice implications and conceptual advancements: community experiences of proposed shale gas exploration in the UK</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Ryder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Devine-Wright</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/09644016.2021.1996728</idno>
+		<ptr target="https://doi.org/10.1080/09644016.2021.1996728" />
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Politics</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1161" to="1181" />
+			<date type="published" when="2022-11">Nov. 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Place-based reflexivity for just energy social science</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Devine-Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ryder</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41560-023-01423-4</idno>
+		<ptr target="https://doi.org/10.1038/s41560-023-01423-4" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2024-01">Jan. 2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Interviewing women again: power, time and the gift</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Oakley</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0038038515580253</idno>
+		<ptr target="https://doi.org/10.1177/0038038515580253" />
+	</analytic>
+	<monogr>
+		<title level="j">Sociology</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="195" to="213" />
+			<date type="published" when="2016-02">Feb. 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Gender equality and climate change mitigation: are women a secret weapon?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rainard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pachauri</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fclim.2023.946712</idno>
+		<ptr target="https://doi.org/10.3389/fclim.2023.946712" />
+	</analytic>
+	<monogr>
+		<title level="j">Front. Clim</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">946712</biblScope>
+			<date type="published" when="2023-02">Feb. 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Ragin</surname></persName>
+		</author>
+		<title level="m">The comparative method: moving beyond qualitative and quantitative strategies</title>
+		<meeting><address><addrLine>Oakland</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of California press</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>nd ed.] with a new introduction</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Fuzzy-set qualitative comparative analysis (fsQCA): guidelines for research practice in information systems and marketing</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">O</forename><surname>Pappas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Woodside</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijinfomgt.2021.102310</idno>
+		<ptr target="https://doi.org/10.1016/j.ijinfomgt.2021.102310" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Inf. Manag</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page">102310</biblScope>
+			<date type="published" when="2021-06">Jun. 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Gender, narratives and intersectionality: can personal experience approaches to research contribute to &apos;undoing gender&apos;?</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Cole</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11159-009-9140-5</idno>
+		<ptr target="https://doi.org/10.1007/s11159-009-9140-5" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. Rev. Educ</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">5-6</biblScope>
+			<biblScope unit="page" from="561" to="578" />
+			<date type="published" when="2009-11">Nov. 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Dispossessed by decarbonisation: reducing vulnerability, injustice, and inequality in the lived experience of low-carbon pathways</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Turnheim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.worlddev.2020.105116</idno>
+		<ptr target="https://doi.org/10.1016/j.worlddev.2020.105116" />
+	</analytic>
+	<monogr>
+		<title level="j">World Dev</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page">105116</biblScope>
+			<date type="published" when="2021-01">Jan. 2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Introducing the &apos;What&apos;s the Problem Represented to be?&apos; approach</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bacchi</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/UPO9780987171856.003</idno>
+		<ptr target="https://doi.org/10.1017/UPO9780987171856.003" />
+	</analytic>
+	<monogr>
+		<title level="m">Engaging with Carol</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Bacchi</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Bletsas</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Beasley</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>University of Adelaide Press</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="21" to="24" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

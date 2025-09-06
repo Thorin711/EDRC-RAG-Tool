@@ -1,0 +1,1926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Using energy vulnerability framework to understand household agency in sustainability transitions: Experiences from Canada and Finland</title>
+				<funder ref="#_a4RMbDD">
+					<orgName type="full">Engineering and Physical Sciences Research Council</orgName>
+				</funder>
+				<funder ref="#_JTJwK8h">
+					<orgName type="full">Economic and Social Research Council</orgName>
+				</funder>
+				<funder ref="#_PzuMA8Y">
+					<orgName type="full">Jani Lukkarinen acknowledges the Research Council of Finland</orgName>
+				</funder>
+				<funder ref="#_2zFmQtq #_NV84an8">
+					<orgName type="full">Strategic Research Council</orgName>
+				</funder>
+				<funder ref="#_zMvKp3f">
+					<orgName type="full">Research Council of Finland</orgName>
+				</funder>
+				<funder ref="#_sMn8U7E">
+					<orgName type="full">Social Sciences and Humanities Research Council</orgName>
+					<orgName type="abbreviated">SSHRC</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024-08-10">10 August 2024</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jani</forename><forename type="middle">P</forename><surname>Lukkarinen</surname></persName>
+							<email>jani.lukkarinen@syke.fi</email>
+							<idno type="ORCID">0000-0001-6362-2470</idno>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Societal Change Unit</orgName>
+								<orgName type="institution">Finnish Environment Institute</orgName>
+								<address>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Faculty of Social Sciences</orgName>
+								<orgName type="institution">University of Helsinki</orgName>
+								<address>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Runa</forename><forename type="middle">R</forename><surname>Das</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Interdisciplinary Studies</orgName>
+								<orgName type="institution">Royal Roads University</orgName>
+								<address>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Senja</forename><surname>Laakso</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Faculty of Management and Business</orgName>
+								<orgName type="laboratory">Environmental Policy</orgName>
+								<orgName type="institution">Tampere University</orgName>
+								<address>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mari</forename><surname>Martiskainen</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Business School</orgName>
+								<orgName type="laboratory">Science Policy Research Unit</orgName>
+								<orgName type="institution" key="instit1">University of Sussex</orgName>
+								<orgName type="institution" key="instit2">University of Sussex</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Using energy vulnerability framework to understand household agency in sustainability transitions: Experiences from Canada and Finland</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Environmental Innovation and Societal Transitions</title>
+						<title level="j" type="abbrev">Environmental Innovation and Societal Transitions</title>
+						<idno type="ISSN">2210-4224</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">52</biblScope>
+							<biblScope unit="page">100892</biblScope>
+							<date type="published" when="2024-08-10">10 August 2024</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E7F77A1480A9F4C679CA719F8CCF23E4</idno>
+					<idno type="DOI">10.1016/j.eist.2024.100892</idno>
+					<note type="submission">Received 29 September 2023; Received in revised form 7 June 2024; Accepted 2 August 2024</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-09-05T12:56+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Energy justice Vulnerability framework Adaptive capacity Household agency Sustainability transitions</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Sustainability transitions research is increasingly engaged with the complexities of justice and equitability. In housing, policy lock-ins and infrastructural inequalities expose people to volatile energy markets, energy poverty and climate impacts. These problems have often been dealt with reactively, without resolving their underlying systemic and structural causes. We examine household energy vulnerabilities, their exposure and sensitivity to certain risks, and what their adaptive capacity is in navigating those. Based on qualitative case studies of social housing in Canada and housing cooperatives in Finland, we show that interconnected exposures and sensitivities to risks are contextual. This can lead to energy vulnerability, further triggered by changes in policies, energy markets and the environment. In Canada, neglected housing maintenance causes exposure, while in Finland, policy utilizing bottom-up action does not always strengthen household agency, especially for vulnerable households. We call for more empirical studies on household energy vulnerability in different contexts.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>People and households are significant actors in the energy transition. Decarbonizing the energy system promotes more dispersed energy production, energy storage and demand response capacity, as well as energy efficiency improvements. In a decarbonized system, people living in different building types, from detached homes to apartment blocks, and under different housing models, from private market housing to social and affordable housing, play a key role (e.g., <ref type="bibr" target="#b47">Rohracher and Köhler, 2019;</ref><ref type="bibr" target="#b34">Laakso et al., 2024)</ref>. Indeed, active household participation is seen as a future norm in the energy system <ref type="bibr" target="#b62">(Stern, 2014;</ref><ref type="bibr" target="#b63">Strengers et al., 2019)</ref>. However, energy transition and the technological, infrastructural, and behavioural shifts that come with it may radically change the everyday lives of people and the ways they engage with energy. For example, during the recent energy crisis in Europe, households took various actions relevant in energy transition, from everyday energy saving to political engagementyet also becoming exposed to policies considered unfair <ref type="bibr" target="#b34">(Laakso et al., 2024)</ref>.</p><p>The energy transition has been shown to have potential for social and ecological benefits (e.g. improved thermal comfort, and reduced energy expenses, carbon emissions and pollution), however, the unfolding dynamics surrounding transitions raise issues related to equity, vulnerability, fairness, power, and legitimacy (e.g., <ref type="bibr">Jenkins et al., 2018;</ref><ref type="bibr">Sovacool et al., 2019a)</ref>. These issues have been overlooked in the literature on energy transitions until rather recently <ref type="bibr" target="#b31">(Köhler et al., 2019)</ref>, and remain underdeveloped with respect to household energy transitions more specifically (e.g., <ref type="bibr" target="#b56">Sovacool, 2021)</ref>.</p><p>Literature on just energy transitions stemming from environmental justice (e.g., <ref type="bibr">Jenkins et al., 2016)</ref>, residential energy-consuming practices (e.g., <ref type="bibr" target="#b32">Laakso et al., 2021)</ref> and energy citizenship and democracy (e.g., van Veelen and van der Horst, 2018), frame households as sites of innovation, where new technologies, services, practices, skills, knowledge, and norms are developed, embedded, reconfigured, and transformed. In a systematic review on households in sustainability transitions, <ref type="bibr" target="#b46">Raven et al. (2021)</ref> suggest that research should devote more attention to the kind of agency households enact in ongoing sustainability transitions, and how policy and governance approaches could engage more progressively with household agency. In addition to being consumers and sites of action and innovation, according to typology by <ref type="bibr" target="#b34">Laakso et al. (2024)</ref>, household roles in transition can include active citizen energy prosumerism, co-production of energy knowledge, and the reproduction of practices and social relations. However, each of these roles can lead to purposefully generating or preventing agency and participation in energy transition processes. Critically, broader participation by a diverse group of people and stakeholders in energy governance and decision-making has the potential of making it more just, fair and democratic <ref type="bibr" target="#b64">(Szulecki, 2018)</ref>. However, participation in energy transition is dependent on material and financial resources, such as ownership of property <ref type="bibr" target="#b49">(Ryghaug et al., 2018)</ref>, household knowledge and skills <ref type="bibr" target="#b15">(Das and Richman, 2022)</ref>, as well as existing governance processes <ref type="bibr" target="#b33">(Laakso et al., 2023;</ref><ref type="bibr" target="#b44">Parag et al., 2013)</ref>. Therefore, the agency of households, i.e. the purposeful, individual or collective actions of households to generate or prevent change is far from equal <ref type="bibr" target="#b23">(Fischer and Newig, 2016)</ref>. This calls for much needed attention to people and households in disadvantaged and/or vulnerable positions to better empower and govern their agency in energy transitions, instead of focusing on those with the most resources.</p><p>In the context of low-carbon transitions, policies can unintentionally exacerbate patterns of vulnerability and cascade social problems <ref type="bibr" target="#b39">(Martiskainen et al., 2021)</ref>. One approach to better understand the agency of households is offered by the energy vulnerability framework <ref type="bibr" target="#b37">(Middlemiss and Gillard, 2015)</ref>. Stemming from studies on natural hazards, the energy vulnerability framework focuses on people's exposures to risks, their degree of sensitivity, and their adaptive capacity to plan and prepare. These aspects can help to explain multiple factors constituting energy vulnerability <ref type="bibr" target="#b51">(Simcock et al., 2021)</ref>. It should be noted, however, that the vulnerability framework has been criticised for a too structural focus on the demographic and geographical characteristics of energy poverty, thus overlooking the realities experienced by households <ref type="bibr" target="#b37">(Middlemiss and Gillard, 2015)</ref>. Energy vulnerability, instead, is materially embedded, requiring also a spatially sensitive research orientation <ref type="bibr" target="#b3">(Bouzarovski et al., 2017)</ref>. By focusing on a more bottom-up understanding of vulnerability, the interplay between household agency and structural factors can be better analysed. In this paper, we utilise findings from two projects in Canada and Finland, to understand household agency by examining those who may have more limited capabilities and opportunities to participate in the energy transition. These households include people living in publicly owned and financial supported homes and therefore as tenants have less opportunity to participate in the decision-making of energy use in their homes, those living in housing cooperatives 1 with dysfunctional democratic participation, and those who face infrastructural inequities such as having to use unsuitable or dated technology <ref type="bibr" target="#b40">(Martiskainen et al., 2023)</ref>.</p><p>By adopting the energy vulnerability framework, we analyse how household exposures, sensitivities, and adaptive capacities can influence the contextuality and situatedness of outcomes of energy transition <ref type="bibr" target="#b67">(Thomas et al., 2018)</ref>. Moreover, we draw lessons on overcoming the exclusion of vulnerable households in energy decision-making and directing practices as part of broader energy transitions. Our research questions are:</p><p>1) What do the cases of households in Canada and Finland reveal about energy vulnerability in different energy transition contexts? 2) How can household agency perspective help to navigate emergent vulnerabilities in transition processes?</p><p>Our case studies are not direct comparisons but critical cases (cf. <ref type="bibr" target="#b24">Flyvbjerg, 2001)</ref> that enable the conceptualisation of energy vulnerability as a dynamic and contextually embedded phenomenon. Being relatively wealthy, countries located in the Global North, Canada and Finland make an interesting setting for understanding existing and emerging forms of vulnerabilities in energy transitions. Both countries rank among the top 11 on the OECD's good life index measuring main factors of living quality (OECD, 2022). However, both countries lack an official definition of energy poverty, for example, in their policy documents. Given the countries' geography and climate, heating has always been considered a central and required energy service in both countries. However, increasing heat waves, heat domes and associated fatalities, point to the increasing importance of cooling as an essential energy service <ref type="bibr">(BC Coroner Service, 2022;</ref><ref type="bibr" target="#b30">Kollanus et al., 2021)</ref>. In addition, energy transition policies, such as carbon trading, direct incentives and taxation, are changing the pricing dynamics, services, technologies (e.g., dispersed energy production and demand response) and hence the availability of energy services <ref type="bibr">(Finnish Climate Change Panel, 2021)</ref>. These requirements and developments could exacerbate the vulnerabilities of households.</p><p>The paper proceeds as follows: in the next section, we introduce the energy vulnerability framework that guides our analysis. In Section 3, we briefly describe our case study methodology. In Section 4, we turn to the findings from these cases. Section 5 discusses the understanding of household agency and vulnerability in energy transition, and Section 6 concludes with suggestions for further research and policy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Energy vulnerability framework for household agency</head><p>Vulnerability can be understood as a dynamic function of societal processes, including transition processes. According to <ref type="bibr">Adger (2006: 268)</ref>, vulnerability is "the state of susceptibility to harm from exposure to stresses associated with environmental and social change and from the absence of capacity to adapt". This definition emphasises how stakeholders need to have a stake in change processes to be able to navigate to adapt in changing conditions. Moreover, <ref type="bibr" target="#b67">Thomas et al. (2018:</ref> 2) add that "[v]ulnerability, rather than an unchanging state, is a multidimensional process affected by social, political, and economic forces interacting from local to international scales''. Thus, the dynamics of vulnerability cannot be pinned down into one container, such as local geographical conditions, although it often manifests in local contexts.</p><p>In the context of the energy system and its transition, the concept of energy vulnerability has emerged to complement the phenomenon of energy (or fuel) poverty, which has traditionally referred to a situation where households cannot afford or access necessary energy services due to low-income, energy costs and/or material aspects, such as poor energy efficiency of the home (e.g., <ref type="bibr" target="#b37">Middlemiss and Gillard, 2015;</ref><ref type="bibr" target="#b26">Hargreaves and Longhurst, 2018)</ref>. Compared with energy poverty, which is often defined by macro-level indicators, energy vulnerability research emphasizes a more multi-dimensional understanding of human-energy relationships, often with the use of qualitative approaches such as lived experiences that have "the potential to open up a more complex and dynamic understanding of people's relationship with energy" <ref type="bibr">(Middlemiss and Gillard, 2015: 146)</ref>. Examples of energy vulnerability include households who struggle to make energy improvements due to precarious tenancy (e.g., <ref type="bibr">Sovacool et al., 2019a)</ref> and those most affected by energy price spikes <ref type="bibr" target="#b5">(Carley et al., 2018)</ref>. Since the current energy transition often relies on digital solutions in homes, the vulnerability approach also directs attention to households that are excluded from or adversely affected by such solutions, for example due to a lack of infrastructure, competence, or trust <ref type="bibr" target="#b53">(Sovacool et al., 2017;</ref><ref type="bibr">2019b;</ref><ref type="bibr" target="#b65">Tarasova and Rohracher, 2023)</ref>. "Low carbon" thus does not necessarily mean a positive outcome for all, and many social groups remain underrepresented in energy-related discussions and policymaking <ref type="bibr">(Sovacool et al., 2019a)</ref>. However, one aspect of the vulnerability approach is its emphasis on the spatial and temporal dynamics of energy poverty, which recognizes that households may exit the condition in the future by a change in some of their circumstances, and vice versa <ref type="bibr" target="#b68">(Thomson et al., 2019)</ref>. Recent research on energy vulnerability has also been extended within the scope of transport (e.g., <ref type="bibr" target="#b51">Simcock et al., 2021;</ref><ref type="bibr" target="#b50">Sareen et al., 2022;</ref><ref type="bibr">Furszyfer Del Rio and Sovacool, 2023)</ref>.</p><p>The energy vulnerability framework examines vulnerability as a function of exposures, sensitivities and adaptive capacities that contribute to the precariousness of particular spaces and groups of peoplе <ref type="bibr" target="#b2">(Bouzarovski and Petrova, 2015;</ref><ref type="bibr" target="#b37">Middlemiss and Gillard, 2015)</ref>. Exposure refers to the likelihood and degree to which an individual, household or community will encounter vulnerability e.g., related to climate change and extreme weather events <ref type="bibr" target="#b68">(Thomson et al., 2019)</ref>. In the context of energy transitions, changes in energy system regulation and energy pricing can be considered sources of exposure. Sensitivity refers to pre-existing material factors, such as the existing building stock, and socio-demographic factors, such as age and education that impact how risks are materialised in specific contexts <ref type="bibr" target="#b68">(Thomson et al., 2019)</ref>. Finally, adaptive capacity refers to the degree to which those who are at risk of being vulnerable are able to plan, respond and recover from specific risks. Adaptive capacity that is low, relative to exposure and sensitivity, contributes to high vulnerability, while higher adaptive capacity helps to reduce the effects of exposure and sensitivity, and in turn reduces vulnerability <ref type="bibr" target="#b67">(Thomas et al., 2018)</ref>. However, in the context of energy transitions, adaptive capacity does not depend on individual attributes only, but on the inclusiveness (or exclusiveness) of collective decision making and governance practices between and amongst households and other actors that either allow or prevent participation in the energy system and its development (cf. <ref type="bibr" target="#b52">Smith et al., 2023)</ref>. Therefore, adaptive capacity can provide a lens on analysing household agency and how households can, or cannot, utilise their agency in the context of energy vulnerability and transitions.</p><p>According to <ref type="bibr" target="#b2">Bouzarovski and Petrova (2015)</ref>, energy vulnerability thinking, however, can be probabilistic as it highlights the factors that affect the likelihood of someone being, or becoming at risk of, energy poverty -putting high emphasis on terms that can be othering such as 'the energy poor'. The vulnerability framework has also generated criticism, as it might reproduce problematic social relations without applying critical reflexivity on socio-spatial variability. The framework can be too deterministic regarding the social, spatial, and environmental conditions of vulnerability leading to highly general notions <ref type="bibr" target="#b3">(Bouzarovski et al., 2017)</ref>. Moreover, the approach may maintain the view of households causing their own energy poverty and needing to find their own solutions <ref type="bibr">(Middlemiss and Gillard, 2015, p. 153)</ref>. Too loose utilisation of the framework can hence lead to losing sight of main structural issues causing the vulnerabilities <ref type="bibr" target="#b51">(Simcock et al., 2021)</ref>. Thus, the vulnerability framework can lead to the depoliticization of problematic structural issues in policy contexts <ref type="bibr" target="#b16">(Desvallées et al., 2020)</ref>.</p><p>Despite its shortcomings, the energy vulnerability framework can shed light on household agency within sustainability transitions. In a systematic review of households in sustainability transitions, <ref type="bibr" target="#b46">Raven et al. (2021)</ref> note that households are generally not considered to be active agents in those transitions. In the so called 'open box' view, household agency becomes established in socio-material contexts of buildings, infrastructures and technologies that connect households to cultural and political phenomena as opposed to 'closed box' view that disregards agency and deals households as objects of inquiry or policies <ref type="bibr" target="#b46">(Raven et al., 2021)</ref>. <ref type="bibr" target="#b34">Laakso et al. (2024)</ref> identified a similar distinction in their study of households' roles in the energy crisis in Europe, noting that households were treated both as active agents and passive victims or recipients of support, yet some agency was nevertheless implied in all roles. Steering attention to the ways households exercise agency in transitions within particular configurations of space, place and scaleand the limitations for this agencycould help to unpack vulnerabilities and their related risks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Bringing the vulnerability framework in the governance contexts of Canada and Finland</head><p>To test the energy vulnerability framework and illustrate its use in different contexts, the methodological approach of this paper builds on two research projects in Canada and Finland.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Persistent policy challenges of Canadian social housing</head><p>Canada's residential sector includes over 15 million households (about 36.5 million people). The sector accounts for approximately 17% (1.4 million terajoules) of final energy use, contributing approximately 18% to Canada's total greenhouse gas emissions <ref type="bibr">(IEA, n. d.;</ref><ref type="bibr">Statistics Canada, 2024</ref><ref type="bibr">, 2021a)</ref>. Total final consumption refers to end user energy consumption (such as individuals and businesses) for heating and cooling buildings, running lights, devices, and appliances, and for powering vehicles, machines, and factories (IEA, nd).</p><p>People who own their homes, both with (40%) and without a mortgage (29%), make-up the majority share of Canada's households (69%). Of the 31% of people who rent their homes, approximately 4% (about 1.2 million people) live in subsidized housing<ref type="foot" target="#foot_0">foot_0</ref>  <ref type="bibr">(Statistics Canada, 2021b)</ref>. Households living in subsidized housing belong to what is known as Canada's community housing sector. 'Community housing' is the broader housing category term intended to capture non-market housing operated by non-profit organizations, housing co-operatives, and governments that serve people who struggle to access affordable and adequate housing (CMHC, 2022a). Social and affordable housing are also the terms that are used to describe Canada's community housing sector whereby 'social' refers to public ownership and financially supported housing, including rent-geared-to-income<ref type="foot" target="#foot_1">foot_1</ref> and 'affordable' refers to below-market rents.</p><p>In Canada, the right to housing, and therefore the idea of housing justice, is law. The 2019 National Housing Strategy recognized housing as a human right and established that Canada's housing policy is to, "further the progressive realization of the right to adequate housing as recognized in the International Covenant on Economic, Social and Cultural Rights" (Government of Canada, 2019, p. 2). Despite recognition and establishment of housing as a right, housing challenges persist. Housing supply has not kept up with demand, there is uneven development geographically, and affordability is an ongoing challenge <ref type="bibr">(Tretter and Heyman, 2021;</ref><ref type="bibr">Pottie-Sherman et al., 2023)</ref> After decades of fragmented management and operations of the community housing sector <ref type="bibr" target="#b45">(Pomeroy, 2017)</ref>, the Government of Canada is re-engaging with the sector. Building on previous federal budgets, in 2017, the federal government launched the National Housing Strategy, a 82+ billion dollar CAD plan over the course of the next decade to improve housing in Canada (Government of Canada, 2018). The proposed investment speaks to both the critical state of housing (i.e., poor building conditions) as well as the need for housing (i.e., more stock) in Canada. Given that a main objective of the strategy is to repair and renew existing community housing units, as well as develop new community housing units, the strategy complements Canada's net-zero energy transition (Government of Canada, 2022). In particular, to ensure accountability and transparency with efforts to limit global temperature rise to 1.5 • C, Canada enshrined into law the Canadian Net-Zero Emissions Accountability Act in 2021 <ref type="bibr">(Government of Canada, 2021)</ref>.</p><p>Therefore social and affordable housing has become identified as an area of policy focus in the nexus of implementing more ambitious climate policies and tackling persistent social justice issues. However, we argue that the role of households in these policies remains ambiguous, and therefore the Canadian social housing policy context offers opportunities to open new pathways for enhanced household agency in sustainability transitions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Targeted climate action in the Finnish housing cooperatives</head><p>Finnish residential housing stock includes 3,2 million buildings with total energy consumption of 322 824 TJ (about 25% of total energy consumption) <ref type="bibr">(Statistics Finland, 2022)</ref>. About 69% of people live in owner-occupied dwellings, but since the 2000s the share of people living in rental accommodation has been increasing and in 2020 more than every third apartment (28% of dwellings) was rented <ref type="bibr">(Statistics Finland, 2021</ref>). Finland's social housing sector consists of several measures, and it has been estimated that around 620 000 people (11,2%) gained different forms of housing subsidies in 2021 <ref type="bibr">(Koski, 2022)</ref>.</p><p>There are &gt;80 000 housing cooperatives in Finland, inhabiting almost half of Finland's 5,5 million people. Most of the housing cooperatives are apartment buildings built in the 1960s-1980s, making these a critical area for achieving the national climate targets by mobilizing renovation and energy retrofit actions. Most of the housing cooperatives are in cities, where energy production consists mainly of combined heat and power production that has traditionally relied on fossil resources, such as coal, gas and peat. A housing cooperative is by jurisdictional definition a corporation managing the apartments and other premises of a building, where a single share or a group of shares gives their owner proprietary right to specific property and voting right in the annual meeting.</p><p>In Finland, thermal comfort has not been a serious societal issue and there are no official energy poverty statistics for example. However, according to Eurostat (2021), only 1.8 % of the population in Finland have reported being unable to keep their home adequately warm. Moreover, 76 % of households reported being unable to keep their home comfortably cool in Finland, illustrating the emerging vulnerabilities due to global warming (Castano De la <ref type="bibr">Rosa et al., 2022, p. 10)</ref>. However, energy poverty has become a policy interest, as there are an estimated 60.000 to 100.000 households under the risk of energy poverty, who live either in 1960s or 1970s' apartment buildings with increasing renovation debt, or in detached buildings with outdated heating systems <ref type="bibr" target="#b48">(Runsten et al., 2015</ref>; see also <ref type="bibr" target="#b43">Oja et al., 2013)</ref>. Castano De la Rosa et al. ( <ref type="formula">2022</ref>) concluded recently that energy poverty both regarding cooling in summer and heating in winter will increase without alleviating measures, because the building stock of Finland is constructed to different kinds of climate conditions. Thus, specific energy poverty approaches are suggested for the Nordic context (ibid.).</p><p>Despite housing cooperatives being important stakeholders in addressing energy vulnerability in Finland, the current policy regime has given little focus on alleviating such energy justice related issues. Instead, policy support has been targeted at middle-income households and those areas considered to have a 'good' reputation <ref type="bibr">(Kurnitski et al., 2023)</ref>, further adding to the existing inequalities. Moreover, current policies overlook opportunities for harnessing household agency in sustainability action, especially in the dispersed decision-making settings of housing cooperatives' energy action.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Methodological approach</head><p>In order to understand the role of exposures, sensitivities, and adaptive capacities in household agency in sustainability transition, we adopt the energy vulnerability framework to an empirical analysis of cases. In doing so, we develop a comparative case study of household agency in Canada and Finland. For each, we build on existing governmental sources, relevant literature, statistical material, and national policy contexts to highlight the systemic features that relate to the exposures in the case study contexts as well as the factors associated with household sensitivity. This is brought into dialogue with our previous research in the two case contexts to reflect on the embeddedness of household sensitivity in actor-networks as well as to identify the existing and potential adaptive capacities of households (see, Fig. <ref type="figure">1</ref>). The more general country-cases are approached from the insights from two embedded case studies <ref type="bibr">(Flyvbjerg, 2006)</ref> that provide more detailed insights on household agency.</p><p>The energy vulnerability framework has informed our reading and analysis of the cases. We focus on three key aspects in the household case studies in the two countries related to unexpected developments and sudden changes:</p><p>• Exposure towards risks was understood in terms of uncertainties and challenges regarding energy system dynamics, such as energy price volatility and regulatory uncertainties that are manifested in the household context. • Sensitivity was analysed based on how households have experienced and mitigated climate and energy system related shocks and whether there are socio-demographic and material factors preventing action. • Adaptive capacity was approached more directly from the perspective of household agency by focusing on actions taken and strategies developed to cope with changing situations either individually or collectively.</p><p>Our analysis has proceeded iteratively between the authors to reflect on key findings of the two cases and to polish our understanding of the framework. There are two important qualities in this approach. Firstly, it emphasizes that the analytical categories are not fixed but relational, as the same governmental dynamics or modes of household action can impact several aspects of the framework. Secondly, it helps us draw lessons across the countries both in terms of household action and policy development.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.1.">Canada</head><p>The Canadian case is tied to an ongoing policy shift towards more bottom-up approaches for equity, inclusivity, and justice in Canada's housing crisis (and transition). In 2018, the Community Housing Canada Research Partnership was formed in response to a joint Canada Mortgage Housing Corporation and Social Sciences and Humanities Research Council Initiative <ref type="bibr" target="#b72">(Willis, 2020)</ref>. The objective of this partnership was to identify what is required to build a sustainable and resilient community housing sector in Canada. After being awarded this funding, the Canada team engaged with the sector using the Café Pracadémique methodology. Similar to focus groups, the Café Pracadémiques methodology uses forums and draws on public intellectualism and interdisciplinary Fig. <ref type="figure">1</ref>. Illustration of case methodology. coordination to engage both academics and practitioners alike, as well as the public on issues of shared concern <ref type="bibr">(IPAC, n.d.)</ref>.</p><p>The Canada author's team hosted four Café Pracadémique events in 2019 to engage with stakeholders. With the Cafés there were four objectives: (1) develop consensus on substantive definitions of 'resilience' and 'sustainability' as they apply to community housing; (2) identify ways for housing providers to improve their resilience and sustainability and measure the impacts of said initiatives; (3) conceptualize how the National Housing Strategy will shape the sector; (4) decide on research priorities for community housing over the next five years.</p><p>Each Café had a different focus: rural and aging populations in community housing; business transformation and workforce development; community housing in the context of reconciliation; and the impact of climate change on community housing (Community Housing Canada, 2019a). Ethics for the research was granted by the University of Alberta (where the project was based). The Cafés were initiated via online forums and followed with in-person events which included a review of knowledge by Thought Leaders as well as small group discussions and activities (Community Housing Canada, 2019b). Political priorities were set as part of the process, e.g., battling policy fragmentation, resident inclusion in decision-making and decolonizing of climate policy agendas (ibid.). A total of 98 individuals participated, with the specific sectors represented shown in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.2.">Finland</head><p>The Finland case is connected to European Union level developments. The Renovation Wave Strategy as part of the EU Green Deal has created a policy target of doubling deep retrofit rates of building stock by 2030, compared to the 2020 rates (European Commission 2020). The strategy explicates how energy-performing and sustainable buildings have to be widely available to low-income households as well as vulnerable people and regionsframing energy efficiency improvements as a lever for addressing energy poverty and access to healthy housing (European Commission 2019). The Finnish long-term renovation strategy published in 2020 is designed to implement the European level goals and set the national ambition level in renovating the existing building stock (Long-term renovation strategy 2020-2050). The privately owned housing cooperatives are viewed as a central area of energy renovations both in terms of achieving the energy efficiency improvements and alleviating societal challenges. More specifically, the suburban context of apartment buildings constructed in the 1960s-1980s emerged as a context requiring specific policy focus.</p><p>Our main Finnish dataset of 57 interviews were collected in 2020-2021 and focused on analysing the decision-making dynamics and accompanying challenges in eight housing cooperatives that either had committed to energy action or were actively considering opportunities of deep renovations (Table <ref type="table" target="#tab_1">2</ref>; Laakso and Lukkarinen, 2022 for details). The interviewees represented different roles in housing cooperative decision-making, ranging from owner-occupiers and tenants to board members and chairs responsible for managerial decisions, property managers providing professional accounting and technical aid and knowledge intermediaries delivering information on potential novel solutions and advocating household energy issues in policy processes. By involving a broader range of actors round the housing cooperatives, we aimed to provide a holistic and critical view on the dynamics of household energy agency.</p><p>For the purposes of the current analysis, we also utilised additional materials. First, two online workshops focused on the main barriers for household energy action were organised in Spring 2021. Both workshops had six invited speakers and an audience of 25-30 participants. The workshop discussions verified and complemented the interview analysis. Second, historical media data on the development of household agency in housing cooperatives was utilised as a general framework for vulnerability (see, <ref type="bibr" target="#b36">Lukkarinen et al. 2022)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Putting the vulnerability framework to test in household context</head><p>Next, we focus on the three key aspects of energy vulnerability in the household case studies in Canada and Finland. We proceed by presenting the case findings in parallel analyses of exposures, sensitivities, and adaptive capacities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Exposures as a structural policy feature</head><p>In Canada, community housing opens a window to historically persistent vulnerabilities. Canada's community housing stock is home to &gt;518,000 families and individuals including some of Canada's most vulnerable populations, such as women and children, older people, Indigenous peoples, people with (dis)abilities, people with health considerations such as mental health conditions or addiction, veterans, and young adults (Government of Canada, 2018). Notably, 63 % of households living in community housing are female led (Government of Canada, 2018). The rising costs, and especially that of energy services, is currently adding to vulnerabilities <ref type="bibr">(Das and Martiskainen, 2022)</ref>. Heating cost inflation has contributed to food insecurity in Canada and consequently to the phenomenon of "heat or eat" <ref type="bibr" target="#b18">(Emery et al., 2012)</ref>. In addition to the current energy markets, we have identified three interconnected exposures that add to the risk. First, discontinuous housing policies have created a setting of uncoordinated action in social and affordable housing. The bulk of the community housing stock was built under a variety of federal, provincial and territorial social housing programs that ran from the 1940s to the early 1990s (CMHC, 2022b). Until the mid-1980s, Canada had a welfare housing regime with pronounced state intervention in housing supply, first in the form of public housing funded by the government, then in community housing developed by a mix of community groups and funded by the federal government <ref type="bibr" target="#b73">(Zhu et al., 2021)</ref>. Early management was at the federal level but later downloaded onto the provinces and territories as well as community groups making for fragmented management and operations, inclusive of energy operations. Therefore, long-term policy interest remains fragmented, in and of itself, and also across the different governance scales. This disconnection reflects the challenges of governance and accountability in this sector.</p><p>Second, the condition of the housing stock is deteriorating. Many of the community housing buildings are in major need of repair and are associated with very high levels of energy use and greenhouse gas emissions, due to the age of these buildings and their widespread deferred maintenance (Government of <ref type="bibr">Canada, 2018;</ref><ref type="bibr">Statistics Canada, 2018)</ref>. For example, in the western province of British Columbia, multi-unit residential buildings exhibit the highest heating and gas consumption, electricity use, and associated greenhouse gas emissions <ref type="bibr">(City Green Solutions, 2010)</ref>. However, research also finds that per dwelling unit energy consumption in British Columbia community housing to be lower than the market average indicating that households living in these units may be lacking important services like cooling, or perhaps those living in these units are trying to reduce their bill <ref type="bibr" target="#b17">(Edalatnia and Das, 2024)</ref>. It was not until 2009 that the first systematic energy efficiency retrofit programs affecting social housing were launched <ref type="bibr" target="#b70">(Tsenkova, 2018)</ref>. While households wait for repairs, they continue to be exposed to potentially high energy costs and compromised thermal comfort. However, this exposure is mitigated, to some degree, as not all households are paying their own energy bills.</p><p>Third, with climate change and increasing frequency and severity of storms, floods and heatwaves are likely to displace households and exacerbate affordable housing shortages. It has been reflected in relation to Canadian housing policies that "[t]he community housing sector is among the most vulnerable to the effects of climate change and therefore it should be our highest concern" (Community Housing Canada, 2019b). Therefore, the Canadian community's already vulnerable housing sector remains in a triple-bind of exposures with discontinuous policies, sub-optimal material conditions and increasing frequency of hazards.</p><p>In Finland, as well as in Europe more generally, the Russian military attack in Ukraine in 2022 has caused energy prices to fluctuate alarmingly. In the budget negotiations of September 2022, the Finnish government agreed on several preventive actions including direct payments and loan guarantees to vulnerable households and housing cooperatives (elderly and disabled people, low-income and single-parent families, ethnic minorities, tenants) to cope with anticipated energy price spikes over the winter 2022-2023. However, compensating measures are not touching the root causes of such vulnerabilities. We have identified two main factors that expose households in the housing cooperative context to the risks.</p><p>On the one hand, the housing cooperatives in Finland currently have little say about their energy sources, as they are connected to urban heating networks. In cities, energy is produced in large-scale combustion-based combined heat-and-power (CHP) units utilizing mainly fossil energy sources. As the carbon unit prices have been rising under the European emission trading system (EU, 2003) and the national coal phase-out policies (Ministry of Economic Affairs and Employment, 2019), the rising price becomes shifted to households as end-consumers.</p><p>On the other hand, and similar to Canada, the housing cooperatives' building-stock is rapidly ageing and in need of energy renovations. As outlined earlier, the majority of Finland's apartment buildings, constructed between the 1960s-1980s, are accumulating "renovation debt" which is becoming a serious issue especially outside the big cities. In these contexts, especially families, older people and people with a migrant background have less opportunities to move. They are therefore more exposed to rising energy costs of buildings and additional incremental repairs, which further cascades the impact of the energy crisis. Thus, most households in Finnish housing cooperatives are locked-in to a situation, where the material condition of buildings and energy networks mediate their exposure to the energy market risks (see, <ref type="bibr" target="#b40">Martiskainen et al. 2023</ref> for similarities to the UK context). As one of the housing company chairs reflected in an interview: "It is happening in the suburbs of the 70 s at the moment and now that train has already gone so that you really should look at those houses built in the 80 s that are now turning 40 years old. And make sure that when they get big repairs, there will be another facade renovation, elevator renovations and pipe renovations. Their ventilation is already mechanical, but completely old-fashioned and there are no adjustment systems. […] it will probably take an incredible amount of resources, as each housing cooperative goes to and for one by one in the zoning, talking about this and that and paying the world for consultants."</p><p>In the quote, a forward-looking chair is reflecting how the degrading material environment is going to put the majority of housing cooperatives in a challenging position, as the uncoordinated renovation and planning processes are not treating them equally. Thus, from a household perspective, the vulnerable groups will be more exposed to multiple risks from a larger share of income being tied to costs of living and reduced quality of living.</p><p>In both countries, exposures to changing energy prices and affordability challenges, exclusive and disconnected housing policy, and climate change related impacts are related to path dependencies of material environment and policy lock-ins. The likelihood of such events, like energy market shocks or extreme weather events has been increasing over the recent years, which shifts attention towards sensitivity and the adaptive capacity of the households.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Sensitivity as a contextually embedded feature of households</head><p>In Canada, most of the households in social housing are in different states of financial precarity and uncertainty whereby access to any disposable finances are valuable. <ref type="bibr">Das et al. (2022)</ref> demonstrate that households in energy poverty across Canada spend approximately five times more of their household budget share on energy expenditures than households not in energy poverty. Moreover, with increases in disposable income, households that are in energy poverty increase their spending on energy services. This means extra finances are being spent on energy services when there is likely a need to do so. This shows that there is limited sensitivity towards energy use in these households.</p><p>Furthermore, the same lack of sensitivity is often reflected in energy practices. While some households are doing without adequate cooling, others are overheating due to poor building design. It has been stated, for example, that it is essential to reach out to tenants and raise awareness of why it is important to avoid opening windows with the heat on (Community Housing Canada, 2019b). However, the efforts of increasing the "energy literacy" of households <ref type="bibr" target="#b4">(Brounen et al. 2013)</ref> was framed in the context of prioritizing energy efficiency. Therefore, there is a visible dissonance between the operational savings costs for the housing providers and tenant thermal comfort.</p><p>Moreover, households are often constrained in their decision-making capabilities, ranging from the choice of housing (and therefore choice of energy efficient housing), paying or not paying for energy bills, and day-to-day types of decision-making that occur when people live in shared spaces. These constraints directly reflect how households living in community housing often lack agency. Households living in community housing generally must abide by the inclinations of the decision-makers who fund, operate, and manage the units in which the households (are offered) to live.</p><p>There have been policy attempts to improve tenant sensitivityespecially towards thermal comfort. Heating bylaws exist across the country for those who rent, and therefore offer them protection from the cold. For example, in the <ref type="bibr">City of Toronto (1998</ref><ref type="bibr" target="#b10">-2022)</ref>, if there is inadequate or no heat, it is within a tenant's rights to request access to this service and property owners are required to resolve it. Actions can include providing a space heater and paying any out-of-pocket extra expenses incurred by the tenant for not having adequate heating <ref type="bibr">(ACTO, 2022)</ref>. It is within a tenant's right to submit complaints to the local government, for investigation by bylaw enforcement officers. Landlords in Toronto (Canada's most populous city), for example, are subject to a maximum fine of $100,000 (CAD) if they are found guilty of committing an offense under the bylaw. Problematically, such protections and regulations do not exist widely for cooling. It should be noted, however, that attention on cooling is on the rise in Canada, with the availability of cooling centres increasing during heat waves (e.g., <ref type="bibr">BC Government, n.d.)</ref>. Moreover, the City of Hamilton in Ontario is considering an "adequate temperature" bylaw for ensuring cooling protections to people who rent, which would make it one the first jurisdictions to do so in Canada <ref type="bibr" target="#b66">(Taylor, 2023)</ref>. Therefore, the policies narrow down household sensitivity to the specific issue of thermal comfort. Overall, the sensitivity of households in the Canadian social housing sector towards energy risks, such as energy price shocks and compromised well-being resulting from poor dwelling conditions, remains neglected.</p><p>The concrete examples in the Vancouver Cafe Pracademique included discussions on how it is essential to reach out to tenants and raise awareness of why, for example, it is important to avoid opening windows with the heat on (Community Housing Canada, 2019b). Interestingly, the framing explicitly focused on an energy efficiency and savings perspective, thus overlooking household thermal comfort.</p><p>In Finland, the energy choices and everyday routines of people living in housing cooperatives are also defined by the material conditions that have alleviated energy poverty to a larger extent (Castano De la Rosa, 2022). However, there are systemic elements in housing cooperative units that lessen focus on energy consumption practices on the one hand and to the longer-term improvements on the other. As each housing cooperative is a unique decision-making unit, there is no single root cause for the inaction. However, there are several sensitivity factors related to governance models, decision making structures and demographics of the housing cooperatives that either work as enablers or barriers for action <ref type="bibr" target="#b35">(Laakso and Lukkarinen, 2022)</ref>.</p><p>The daily energy action of households is restricted and disincentivized due to low consumer prices of energy. Furthermore, energy is viewed merely as a private good that is consumed to fulfil personal needs, and there has been little interest in the housing cooperatives to "start advising people not to consume [energy]", as described one of our interviewees. The energy costs of hot water and heating are distributed across the housing cooperative collective, which reduces the feedback that a single user would otherwise receive, for example from a separate itemised energy bill, on energy consumption and distances households from the energy system. As many of the households have been accustomed to certain private practices and standards regarding energy use, the households become insensitive towards the collective aspects of their energy consumption -an issue that has considerably changed since the 2022 Russia-Ukraine war and energy crisis.</p><p>Moreover, the decision-making structures in the housing cooperatives are geared towards status quo and very conservative action (see also <ref type="bibr" target="#b41">Matschoss et al., 2013)</ref>. Main decisions are made in the annual general meeting that also names the housing cooperative board as responsible for carrying out operational decisions. As there are generally few volunteers on the housing cooperatives' boards, they have become dominated by "60-year-old males'', restraining more diverse participation. Moreover, the day-to-day actions have usually been "outsourced" to professional housing managers that are responsible for an average of 20-25 buildings (see <ref type="bibr" target="#b27">Heiskanen et al., 2012)</ref>. They often have little incentive, capacity or skill to advance energy action because of their workload, low training level and difficulties regarding liabilities of energy projects. In general, the governance structure creates disincentive for energy action, as the potential improvements and investments are approached narrowly as costs that increase shared risk. The status quo approach was well presented in our interviews, for example by a housing management specialist reflecting on energy transition requirements: "I've been working on this a lot, and I have to say that the housing cooperatives are administratively extremely risk-averse, status quo-driven organisations. That is, even if the probability of something succeeding was 95 percent, then the decisionmakers start to think, wait, in what situation can this five percent happen, and what then and what will our partners say then, and then they start to tell the board that you wasted money."</p><p>In this quote, the households are seen to lose their sensitivity on energy transitions and system developments because of delegated responsibilities. In the collective decision-making vulnerabilities become generalised and accounted only on a post-hoc basis.</p><p>As noted also by <ref type="bibr" target="#b68">Thomson et al. (2019)</ref>, sensitivity is not a stable state but a dynamic feature. In the case of Canada, sensitivity is rooted to socio-economic continuums that are reflected in the imminent temporality of daily energy practices, rooted to the need of using technological devices in specific times of day and thus amplifying exposures towards energy market risks. In the case of Finland, sensitivity unfolds on a longer temporal scale of inability to address emergent challenges through the established governance model. However, both temporalities require attention to the adaptive capacity of the households.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Adaptive capacity as household agency in sustainability transitions</head><p>In Canada, there are ongoing attempts to increase the adaptive capacity of vulnerable households to overcome some of the challenges outlined above. As part of the National Housing Strategy, a National Housing Council was formed in 2020 to address diverse participation that informs policy and programming to the responsible government authorities <ref type="bibr">(National Housing Council, 2023)</ref>. There is a push to include, engage and collaborate with households in more everyday decisions and practices, for them to be part of solutions that ensure buildings and their design meet households' needs. Such initiatives have the potential to improve household agency and reduce their sensitivity as well as improve their adaptive capacity.</p><p>Households in community housing are also experiencing many and major infrastructural changes that in principle advance their adaptive capacity by introducing modern energy technology to the retrofitted buildings. For much of this population, such changes could be drastic. Even if some households are provided with upgraded housing inclusive of newer energy systems, this could be a very different experience for them, and could cause stress. Many households have not been exposed to 'modern' or recent technologies that often require lots of learning from any user. These are promising signals for improving the households' energy agency in the Canadian context. However, considering the currently limited adaptive capacity, such changes will require time to have impact or could impact negatively.</p><p>In the Café Pracadémique process, there has been a push to empower residents to be part of solutions and acknowledge households' everyday decisions and practices, as well as to engage residents to ensure buildings meet their needs and encourage household collaboration in the design of buildings.</p><p>In Finland, the more forward-looking housing cooperatives have identified different pathways for increasing adaptive capacities. However, each of them comes with a caveat. The first two are related to practices within housing cooperatives, while the last focuses on coordination within the broader networks. First, new modes of communication have been experimented with to promote shared action and adaptability in the housing cooperatives. By sharing more information and allowing open discussion either through traditional channels and personal meetings or through digital platforms, the sense of community could be rediscovered <ref type="bibr" target="#b33">(Laakso et al. 2023)</ref>. This especially relates to the younger households who generally find the formal channels uninviting at best or even alienating, whereas older households are generally happy with the "notes on the information board". However, the challenge with communication is that the households are very diverse, and their needs and practices differ greatly, which makes a shared communication space difficult to accomplish.</p><p>Second, digital monitoring and optimizing of the buildings could improve the functioning of buildings to provide more equal housing conditions and immediate feedback on needed actions. The digital applications are considered e.g., improving indoor air quality and providing more balanced heating and enhanced air circulation, thus directly contributing to housing health. However, digitalization also potentially creates more vulnerability in households, as technology skills differ greatly, many applications are not functioning optimally and there is also opposition towards digital developments.</p><p>Finally, especially outside the tightly built and planned urban centres, households have successfully completed energy projects to disconnect from the heating networks by investing e.g., in ground-source heat pump systems. More often, the energy action also brings neighbouring housing cooperatives together for shared learning and experiences. Thus, the housing cooperativesand their householdsare participating in shaping urban energy networks. However, the main challenge is creating trust towards energy companies and city coordinating the planning activities, as the incentives have been mixed in the past, and these initiatives are still strongly dependent on active individuals in housing cooperatives.</p><p>However, there are also trends that reduce the adaptive capacities of housing cooperatives. Currently the standing values of properties in housing markets have started to decline in several regions. The trend has existed outside the big cities, but similar developments can be identified also within the cities. Therefore, banks have become conscious in terms of issuing renovation loans for housing cooperatives even in the context of stable balance sheets (cf. <ref type="bibr" target="#b36">Lukkarinen et al., 2022)</ref>. Therefore, the risk is moved from the collective back to the households who need to accumulate personal warranties to enable energy renovations. As the households, and in the context of housing cooperative shares to the collective, are generally the largest investment in people's lifetime, the situation has been causing uncertainty and even anxiety. In an interview, an advocacy association specialist viewed two different pathways to increase adaptive capacity: "In a way, there are two paths. The first is how individual projects are carried out in a planned manner. And the second is how do we make the whole housing cooperative's operation as planned and predictable as possible."</p><p>Essentially, the interviewee makes a distinction between incremental change in carrying out actions and more holistic transformation of operating mode. The second path entails either a more informed and engaged inclusion of households in the decisionmaking or total delegation of power to some external professional body. These paths entail different types of adaptive capacities and roles of households (see, <ref type="bibr" target="#b34">Laakso et al., 2024)</ref>.</p><p>Together, the cases show that the adaptive capacity is a collective feature that is entangled with complex negotiations within the governance structures, market dynamics, technological advances and material sites. Better explicating these challenges can provide a basis for reconceptualizing the systemic action of households also at the current point in energy transition. A point we will delve deeper in the discussion section.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Discussion: making energy vulnerability visible in transition policies</head><p>The starting point of this paper was to test if the energy vulnerability framework could provide a novel angle in understanding household agency through the contextual dynamics of energy transitions <ref type="bibr" target="#b5">(Carley et al., 2018;</ref><ref type="bibr" target="#b37">Middlemiss and Gillard, 2015)</ref>. Our cases in Canada and Finland show similarities in the ways the exposures caused by neglected building stock maintenance create material links between climate policy agendas and energy vulnerability. However, the political trajectories have varied <ref type="bibr" target="#b38">(Martiskainen et al., 2017;</ref><ref type="bibr" target="#b49">Ryghaug et al., 2018)</ref>. In the long term, housing policy in Canada has overlooked the social housing sector in terms of improving energy efficiency or the thermal comfort of householdsthus reducing the sensitivity towards the role of energy in everyday contexts. This can be related to decades-long housing commodification and the neoliberalization of housing policy in Canada <ref type="bibr" target="#b73">(Zhu et al., 2021)</ref>. In Finland, there has been some policy effort in utilizing bottom-up forms of energy agency through the housing cooperatives. However, as collective decision-making units these do not generate sensitivity towards energy system risks, but rather weaken the agency, specifically, of vulnerable households. Together, the cases emphasise energy vulnerability as an emergent phenomenon that can take different spatial and temporal forms. They also reveal two distinct policy intervention logics on energy vulnerability: one focused on better shielding the exposures and other utilizing presumed sensitivity.</p><p>However, without a more diverse understanding of household agency (see, <ref type="bibr" target="#b23">Fischer and Newig, 2016)</ref>, low-carbon transition policies can also exacerbate patterns of energy vulnerability <ref type="bibr" target="#b39">(Martiskainen et al., 2021)</ref>. Following the typology by <ref type="bibr" target="#b34">Laakso et al. (2024)</ref>, the case of Canada shows promising features of understanding the households through reproduction of social relations and practice through interaction processes, as demonstrated by the emancipation of vulnerable households through recommendations of the Cafe Pracademique process. In Finland, the main barrier for household agency appears to be in sub-optimal coordination of households as sites of co-production of energy knowledge. The long-term climate targets would require coordinated interaction between households within housing cooperatives as well as towards broader urban energy planning. Overall, acknowledging the agency of households beyond sites of energy consumption and innovation is important to take into consideration, when developing more just transition policies in energy sector that takes dynamics of vulnerability into consideration <ref type="bibr" target="#b64">(Szulecki, 2018)</ref>.</p><p>Regarding sustainability transitions, we have utilised both "open" and "closed box" framings of households (cf. <ref type="bibr" target="#b46">Raven et al., 2021</ref>). In the "open box" framing, households are seen as dynamically evolving units of social practices and collective action in their spatial contexts. However, we also consider the "closed box" meriting value, as the socio-technical and policy processes of energy transition require generalisations of the spatial and demographic features as well as material conditions that are connected to structural dynamics of vulnerability. Thus, the vulnerability framework is a helpful tool in combining the two lenses on household agency in energy transitions to better understand household roles and policy intervention mechanisms. The material sites of households in the aging building stock and in collectives with other households has a double role in relation to vulnerability. On the one hand, the materialities create exposure to risks, while on the other hand consideration of materialities is a necessary aspect in developing adaptive capacities <ref type="bibr">(Raven et al., 2021: 99)</ref>. This point is also connected to rescaling of household agency in the neighbourhood and community context, where energy system agency gains a more articulate form that was evident in the case of Finland. Rather than being purely a nested scale of sustainability transitions as reflected by <ref type="bibr" target="#b46">Raven et al. (2021)</ref>, households provide a viewpoint on trans-scalar relations and dynamics in which the sustainability transitions unfold (cf. <ref type="bibr" target="#b69">Truffer et al. 2015)</ref>.</p><p>In the energy transitions, households in different shapes and sizes, are now expected to develop new skills and capacities to participate in dispersed energy production, demand response markets and energy saving to better navigate the changing energy system <ref type="bibr">(Sovacool et al., 2019a)</ref>. The systemic role of households becomes emphasised, as prosumerism and material participation gain prominence in system level change <ref type="bibr" target="#b49">(Ryghaug et al., 2018)</ref>. However, the transitions may also create new vulnerabilities, specifically as much of the future includes visions of digital applications, which raises the issue of digital literacy in addition to energy literacy, potentially creating new lines of exclusions especially amongst already vulnerable social groups <ref type="bibr" target="#b65">(Tarasova and Rohracher, 2023)</ref>. Essentially, the energy vulnerability framework reveals how, firstly, household energy practices are enmeshed with other societal everyday practices and, secondly, household energy agency involves agency beyond narrow considerations of energy consumption or prosumption, which is an area requiring more detailed conceptualisation. In the sustainability transition context, energy vulnerability can operate as a bridge between the techno-economic future visions and societally porous aspects of societal reproduction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">Conclusions</head><p>In this paper we used the energy vulnerability framework for analysing dynamics and contextual challenges of household energy agency through cases in Canada and Finland. Energy vulnerability as a phenomenon has become widely recognized especially in Europe following the energy market fluctuations after the Russian military attack in Ukraine. Simultaneously there have been examples of more active household agency to provide individual and system level resilience. There are policy relevant conclusions we want to draw based on our analysis. Firstly, the exposure of households to energy poverty and the negative impacts of climate extremes is rooted in policy lock-ins that make the issue invisible in housing and energy policy processes. Despite advances in academic literature, both Canada and Finland lack an official definition of energy poverty and related strategies on how to address itleaving the issues in both countries being dealt with reactively on a case-by-case basis. The challenges will only amplify without structural foresight at the policy and governance levels. Secondly, addressing the latent household energy practices can help to emancipate household agency also more broadly to enable e.g., practices of frugality, energy saving and demand response with sensitivity to thermal comfort that can contribute to the transitioning energy system. Thus, household agency should be understood beyond reactive framing in crisis situations and adaptive capacity expanded to cover a wider variety of actions. Overall, the vulnerability approach helps to understand the diversity of dynamics in play in the multi-actor processes of sustainability transitions <ref type="bibr" target="#b51">(Simcock et al., 2021;</ref><ref type="bibr" target="#b31">Köhler et al., 2019)</ref>.</p><p>To conclude, we suggest two future research perspectives to continue this journey. First, we call for more detailed empirical studies on household energy vulnerability dynamics. This is especially relevant at the times of disruptions and crises when many of the earlier behavioural biases and lock-ins open for reconsideration. From the perspective of energy vulnerability, this entails special attention to collective action <ref type="bibr" target="#b38">(Martiskainen et al., 2017)</ref>. Second, the issue of scale in household action highlighted by <ref type="bibr">Raven et al. (2022)</ref> becomes a curious factor, when considering the role of the household in the energy system. Household agency is mediated through action at the neighbourhood level, required in the planning of many efficient renewable energy decisions. However, to address potential exclusions and new lines of energy vulnerability, more focus needs to be paid to agency in these scales. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>Authors have no interest to declare.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>Writingreview &amp; editing, Writingoriginal draft, Methodology, Formal analysis, Conceptualization. Runa R. Das: Writingreview &amp; editing, Writingoriginal draft, Methodology, Formal analysis, Conceptualization. Senja Laakso: Writing review &amp; editing, Writingoriginal draft, Methodology, Formal analysis, Conceptualization. Mari Martiskainen: Writingreview &amp; editing, Conceptualization.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="5,56.13,489.41,432.00,181.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Café attendance by sector.</figDesc><table><row><cell>Sector represented</cell><cell># of participants</cell></row><row><cell>Community housing provider</cell><cell>31</cell></row><row><cell>Support service organizations (incl. homeless sector)</cell><cell>14</cell></row><row><cell>Municipal departments and agencies</cell><cell>13</cell></row><row><cell>Networks and associations</cell><cell>9</cell></row><row><cell>Housing advocates</cell><cell>9</cell></row><row><cell>Federal departments and agencies</cell><cell>6</cell></row><row><cell>University researchers (excl. team members)</cell><cell>6</cell></row><row><cell>Health sector</cell><cell>5</cell></row><row><cell>Current lived experience</cell><cell>4</cell></row><row><cell>Other</cell><cell>1</cell></row><row><cell>Total</cell><cell>98</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Interviewed stakeholders in the housing cooperative context by categories.</figDesc><table><row><cell>Interviewee category</cell><cell># of interviewees</cell></row><row><cell>Resident</cell><cell>23</cell></row><row><cell>Board member of a housing cooperative</cell><cell>14</cell></row><row><cell>Chair of a housing cooperative</cell><cell>9</cell></row><row><cell>Property manager</cell><cell>5</cell></row><row><cell>Knowledge intermediaries</cell><cell>6</cell></row><row><cell>Total</cell><cell>57</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p>Subsidized housing is a type of housing for which the government provides financial support or rent assistance.<ref type="bibr" target="#b1">(BC Housing, 2024)</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_1"><p>Rent-geared-to-income is a type of subsidized housing where the housing provider matches the rental amount to household income. (BC Housing, 2024).</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgement</head><p>Authors would like to thank two anonymous reviewers for constructive comments and critical reflections to the earlier version of the manuscript and the fruitful feedback provided in the <rs type="projectName">International Workshop on Household Innovation and Agency in Sustainability Transitions organised by Monash University in Prato Italy in October 2022</rs>. <rs type="funder">Jani Lukkarinen acknowledges the Research Council of Finland</rs> grant <rs type="grantNumber">348626</rs> and <rs type="funder">Strategic Research Council</rs> grants <rs type="grantNumber">358276</rs> and <rs type="grantNumber">358429</rs>. Research of <rs type="person">Runa Das</rs> was supported by the <rs type="funder">Social Sciences and Humanities Research Council (SSHRC)</rs> [<rs type="grantNumber">890-2018-1013</rs>] and [<rs type="grantNumber">1004-2019-0002</rs>]. Senja Laakso acknowledge the <rs type="funder">Research Council of Finland</rs> grant <rs type="grantNumber">333556</rs>. The contribution of <rs type="person">Mari Martiskainen</rs> took place under <rs type="programName">Energy Demand Research Centre</rs> (EDRC) which is supported by the <rs type="funder">Engineering and Physical Sciences Research Council</rs> and the <rs type="funder">Economic and Social Research Council</rs> [grant number <rs type="grantNumber">EP/Y010078/1</rs>]. The Café Pracademiques were organized by <rs type="person">Community Housing Canada</rs> and led by <rs type="person">Damian Collins</rs>, <rs type="person">Bon Swanson</rs>, <rs type="person">Joshua Evans</rs>, <rs type="person">Katie MacDonald</rs> and <rs type="person">Esther de Vos</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_PzuMA8Y">
+					<idno type="grant-number">348626</idno>
+					<orgName type="project" subtype="full">International Workshop on Household Innovation and Agency in Sustainability Transitions organised by Monash University in Prato Italy in October 2022</orgName>
+				</org>
+				<org type="funding" xml:id="_2zFmQtq">
+					<idno type="grant-number">358276</idno>
+				</org>
+				<org type="funding" xml:id="_NV84an8">
+					<idno type="grant-number">358429</idno>
+				</org>
+				<org type="funding" xml:id="_sMn8U7E">
+					<idno type="grant-number">890-2018-1013</idno>
+				</org>
+				<org type="funding" xml:id="_zMvKp3f">
+					<idno type="grant-number">1004-2019-0002</idno>
+				</org>
+				<org type="funding" xml:id="_a4RMbDD">
+					<idno type="grant-number">333556</idno>
+					<orgName type="program" subtype="full">Energy Demand Research Centre</orgName>
+				</org>
+				<org type="funding" xml:id="_JTJwK8h">
+					<idno type="grant-number">EP/Y010078/1</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>The data that has been used is confidential.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Vulnerability</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Adger</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2006.02.006</idno>
+		<ptr target="https://news.gov.bc.ca/releases/2022MUNI0041-001166" />
+	</analytic>
+	<monogr>
+		<title level="m">BC Government. n.d. Municipalities open cooling centres as heat warnings issue throughout B.C</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="268" to="281" />
+		</imprint>
+	</monogr>
+	<note>Accessed: 22.9.2023</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Bc Housing</surname></persName>
+		</author>
+		<ptr target="https://www.bchousing.org/glossary" />
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note>text=Subsidized%20housing%3A%20A%20type%20of,for%20a%20program%20or% 20service Accessed: 24.04.2024</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A global perspective on domestic energy deprivation: overcoming the energy poverty-fuel poverty binary</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petrova</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2015.06.007</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2015.06.007" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="31" to="40" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Multiple transformations: theorizing energy vulnerability as a socio-spatial phenomenon</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tirado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petrova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Frankowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Matoušek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Maltby</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/04353684.2016.1276733</idno>
+		<ptr target="https://doi.org/10.1080/04353684.2016.1276733" />
+	</analytic>
+	<monogr>
+		<title level="j">Geografiska Annaler: Ser. B, Human Geogr</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="20" to="41" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Energy literacy, awareness, and conservation behavior of residential households</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brounen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Quigley</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.eneco.2013.02.008</idno>
+		<ptr target="https://doi.org/10.1016/j.eneco.2013.02.008" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Econ</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="42" to="50" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A framework for evaluating geographic disparities in energy transition vulnerability</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Carley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Graff</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41560-018-0142-z</idno>
+		<ptr target="https://doi.org/10.1038/s41560-018-0142-z" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Energy</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="621" to="627" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Energy poverty in Finland: reality and challenges in the face of climate change. Rubio-Bellido, C., Solis-Guzman</title>
+		<author>
+			<persName><forename type="first">Castano</forename><surname>De La Rosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pelsmakers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gullman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sukanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-91084-6</idno>
+		<ptr target="https://doi.org/10.1007/978-3-030-91084-6" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Energy Poverty Alleviation: New Approaches and Contexts</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>Springer</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Strategic Energy Management Plan: Engaging the Non-Profit Housing Sector in Energy Management</title>
+	</analytic>
+	<monogr>
+		<title level="j">City Green Solutions</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>City Green Solutions</publisher>
+			<pubPlace>Vancouver</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Internal report</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Low or no heat/other vital services in rental units</title>
+		<author>
+			<persName><forename type="first">Toronto</forename><surname>City</surname></persName>
+		</author>
+		<idno>22.9</idno>
+		<ptr target="https://www.toronto.ca/city-government/public-notices-bylaws/bylaw-enforcement/not-enough-heatother-vital-services" />
+		<imprint>
+			<date type="published" when="1998">1998-2022. 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">2022a. The national housing strategy glossary of common terms</title>
+		<author>
+			<persName><surname>Cmhc</surname></persName>
+		</author>
+		<idno>22.9</idno>
+		<ptr target="https://www.cmhc-schl.gc.ca/en/nhs/guidepage-strategy/glossary" />
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><surname>Cmhc</surname></persName>
+		</author>
+		<ptr target="https://www.cmhc-schl.gc.ca/en/media-newsroom/news-releases/2022/government-canada-supports-community-housing" />
+		<title level="m">The government of canada supports community housing</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>Accessed 22.9.2023</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Community</forename><surname>Housing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Canada</forename></persName>
+		</author>
+		<ptr target="https://communityhousingcanada.ca/phase-1/" />
+		<title level="m">Phase 1: gathering information</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>Accessed 22.9.2023</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">What we heard -summary report, Vancouver cafe</title>
+		<ptr target="https://communityhousingcanada.ca/phase-1/" />
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Community Housing Canada</publisher>
+		</imprint>
+	</monogr>
+	<note>Accessed 22.9.2023</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Worried about high energy bills, some canadians risk discomfort, illness and even death. The Conversation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+		<idno>14.07.2022</idno>
+		<ptr target="http://theconversation.com/worried-about-high-energy-bills-some-canadians-risk-discomfort-illness-and-even-death-186371" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Quantifying the prevalence of energy poverty across Canada: estimating domestic energy burden using an expenditures approach</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/cag.12750</idno>
+		<ptr target="https://doi.org/10.1111/cag.12750" />
+	</analytic>
+	<monogr>
+		<title level="m">Canadian Geographies/Géographies canadiennes</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The development and application of a public energy literacy instrument</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Das</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Richman</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s42330-022-00196-4</idno>
+		<idno>42330-022-00196-4</idno>
+		<ptr target="https://doi.org/10.1007/s" />
+	</analytic>
+	<monogr>
+		<title level="j">Canad. J. Sci. Math. Technol. Educ</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="26" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The politics of domestic energy vulnerability in the Barcelona region, between deconfinement and reconfinement</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Desvallées</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Coutard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rutherford</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.geoforum.2020.08.009</idno>
+		<ptr target="https://doi.org/10.1016/j.geoforum.2020.08.009" />
+	</analytic>
+	<monogr>
+		<title level="j">Geoforum</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="201" to="210" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Building benchmarking and energy performance: Analysis of social and affordable housing in British Columbia</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Edalatnia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Das</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enbuild.2024.114259</idno>
+		<ptr target="https://doi.org/10.1016/j.enbuild.2024.114259" />
+	</analytic>
+	<monogr>
+		<title level="j">Canada. Energy and Buildings</title>
+		<imprint>
+			<biblScope unit="volume">313</biblScope>
+			<biblScope unit="page">11425</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Evidence of the association between household food insecurity and heating cost inflation in Canada</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Emery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Bartoo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Matheson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ferrer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Kirkpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Tarasuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mcintyre</surname></persName>
+		</author>
+		<idno type="DOI">10.3138/cpp.38.2.181</idno>
+		<ptr target="https://doi.org/10.3138/cpp.38.2.181" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Public Policy</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="181" to="215" />
+			<date type="published" when="1998">2012. 1998-2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">DIRECTIVE 2003/87/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+		<respStmt>
+			<orgName>EU</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">New rules for greener and smarter buildings will increase quality of life for all Europeans. New rules for greener and smarter buildings will increase quality of life for all Europeans</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>European Commission</publisher>
+		</imprint>
+	</monogr>
+	<note>Accessed 22.9.2023</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">A Renovation Wave for Europe -greening our buildings, creating jobs, improving lives. COM(2020) 662 final</title>
+		<idno>&amp;uri=CELEX:52020DC0662</idno>
+		<ptr target="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1603122220757" />
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>European Commission</publisher>
+		</imprint>
+	</monogr>
+	<note>Accessed 22.9.2023</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<idno>Eurostat. 2021. 8</idno>
+		<ptr target="https://ec.europa.eu/eurostat/web/products-eurostat-news/-/ddn-20211105-1" />
+		<title level="m">% of EU population unable to keep home adequately warm</title>
+		<imprint/>
+	</monogr>
+	<note>Accessed 22.9.2023</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Importance of actors and agency in sustainability transitions: a systematic exploration of the literature. Sustainability</title>
+		<author>
+			<persName><forename type="first">L.-B</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Newig</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/su8050476</idno>
+		<ptr target="https://doi.org/10.3390/su8050476" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">476</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Government of Canada 2018. Canada&apos;s national housing strategy: a place to call home</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Flyvbjerg</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/CBO9780511810503</idno>
+		<idno>07.04.2024</idno>
+		<ptr target="https://parl.ca/Content/Bills/432/Government/C-12/C-12_4/C-12_4.PDF" />
+	</analytic>
+	<monogr>
+		<title level="m">Government of Canada 2021. Canadian Net-Zero emissions accountability act</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2001">2001. Accessed 22.9.2023</date>
+		</imprint>
+	</monogr>
+	<note>Making Social Science Matter Government of Canada 2019. National housing strategy act Accessed 22.9.2023</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Net-Zero emissions by</title>
+		<idno>22.9</idno>
+		<ptr target="https://www.canada.ca/en/services/environment/weather/climatechange/climate-plan/net-zero-emissions-2050.html" />
+		<imprint>
+			<date type="published" when="2022">2022. 2050. 2023</date>
+			<publisher>Government of Canada</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">The lived experience of energy vulnerability among social housing tenants: emotional and subjective engagements</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Hargreaves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Longhurst</surname></persName>
+		</author>
+		<ptr target="https://ideas.repec.org/p/uea/ueaccp/2018_07.html" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="18" to="25" />
+		</imprint>
+	</monogr>
+	<note type="report_type">CCP Working Paper</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Heiskanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matschoss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kuusi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kranzl</surname></persName>
+		</author>
+		<ptr target="https://www.entranze.eu/files/downloads/D2_4/D2_4_Complete_FINAL3.pdf" />
+		<title level="m">Working paper: literature review of key stakeholders, users and investors</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="middle">N D</forename><surname>Iea</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Canada</surname></persName>
+		</author>
+		<ptr target="https://www.iea.org/countries/canada/efficiency-demand" />
+		<title level="m">Efficiency &amp; demand</title>
+		<imprint/>
+	</monogr>
+	<note>Accessed: 06.04.2024</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="middle">N D</forename><surname>Ipac</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Café Pracademique</surname></persName>
+		</author>
+		<ptr target="https://www.ipac-edmonton.ca/cafe-pracademique" />
+		<imprint/>
+	</monogr>
+	<note>Accessed: 22.9.2023</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Mortality risk related to heatwaves in Finlandfactors affecting vulnerability</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kollanus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tiitinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lanki</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envres.2021.111503</idno>
+		<ptr target="https://doi.org/10.1016/j.envres.2021.111503" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Res</title>
+		<imprint>
+			<biblScope unit="volume">201</biblScope>
+			<date type="published" when="2021">2021. 111503</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">An agenda for sustainability transitions research: state of the art and future directions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Köhler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Geels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Markard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Onsongo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wieczorek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Alkemade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Avelino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bergek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Boons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fünfschilling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Holtz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hyysalo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kivimaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mcmeekin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Mühlemeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nykvist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Raven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rohracher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sandén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sovacool</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Turnheim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wells</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.eist.2019.01.004</idno>
+		<ptr target="https://doi.org/10.1016/j.eist.2019.01.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Innov. Soc. Transit</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1" to="32" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Towards sustainable energy consumption: challenging heating-related practices in Denmark, Finland, and Hungary</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vadovics</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Apajalahti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Friis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Szőllőssy</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclepro.2021.127220</idno>
+		<ptr target="https://doi.org/10.1016/j.jclepro.2021.127220" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Clean. Prod</title>
+		<imprint>
+			<biblScope unit="volume">308</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Practices and acts of energy citizenship</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Eranti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lukkarinen</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1523908X.2023.2251915</idno>
+		<ptr target="https://doi.org/10.1080/1523908X.2023.2251915" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Environ. Policy Plann</title>
+		<imprint>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Agents of change or victims of transition? Media framings on household roles during the energy crisis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Castellazzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matschoss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rinkinen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11625-023-01434-w</idno>
+		<ptr target="https://doi.org/10.1007/s11625-023-01434-w" />
+	</analytic>
+	<monogr>
+		<title level="j">Sustain. Sci</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="739" to="762" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Actor roles and practices in energy transitions: perspectives from finnish housing cooperatives</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lukkarinen</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9781032003092-15</idno>
+		<ptr target="https://doi.org/10.4324/9781032003092-15" />
+	</analytic>
+	<monogr>
+		<title level="m">Energy Transition in the Baltic Sea Region. Understanding Stakeholder Engagement and Community Acceptance</title>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Karimi</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Rodi</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The smart meets the conventional: media storylines and societal frames on the energy action of housing cooperatives</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Lukkarinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Laakso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lyytimäki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Määttä</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Venäläinen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2022.102747</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2022.102747" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<date type="published" when="2022">2022. 102747</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Fuel poverty from the bottom-up: characterising household energy vulnerability through the lived experience of the fuel poor</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Middlemiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gillard</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2015.02.001</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2015.02.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="146" to="154" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Community energy initiatives to alleviate fuel poverty: the material politics of Energy Cafés</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Heiskanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Giovanna</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13549839.2017.1382459</idno>
+		<ptr target="https://doi.org/10.1080/13549839.2017.1382459" />
+	</analytic>
+	<monogr>
+		<title level="j">Local Environ</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="23" to="35" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">New dimensions of vulnerability to energy and transport poverty</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lacey-Barnacle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hopkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mattioli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joule</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="7" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Eating, heating or taking the bus? Lived experiences at the intersection of energy and transport poverty</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hopkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Torres Conteras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E H</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mattioli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lacey-Barnacle</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.gloenvcha.2023.102728</idno>
+		<ptr target="https://doi.org/10.1016/j.gloenvcha.2023.102728" />
+	</analytic>
+	<monogr>
+		<title level="j">Glob. Environ. Change</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page">102728</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Energy renovations of EU multifamily buildings: do current policies target the real problems? ECEEE Summer Study Proc. Ministry of Economic Affairs and Employment</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matschoss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Atanasiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Heiskanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kranzl</surname></persName>
+		</author>
+		<ptr target="https://valtioneuvosto.fi/en/-//1410877/kivihiilen-energiakayton-vuonna-2029-kieltava-laki-voimaan-huhtikuun-alussa" />
+		<imprint>
+			<date type="published" when="2013">2013. 2019</date>
+		</imprint>
+	</monogr>
+	<note>The act banning the use of coal for energy generation in 2029 to enter into force in early April Accessed 9.4.2024</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<idno>22.9</idno>
+		<ptr target="https://www.oecdbetterlifeindex.org/#/01111111111" />
+		<title level="m">Better life index</title>
+		<imprint>
+			<publisher>OECD</publisher>
+			<date type="published" when="2022">2022. 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Oja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vaahtera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Vehviläinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ahvenharju</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hakala</surname></persName>
+		</author>
+		<idno>22.09.2023</idno>
+		<ptr target="https://julkaisut.valtioneuvosto.fi/bitstream/handle/10138/41424/YMra21_2013_Selvitys_energiakoyhyydesta_FINAL.pdf?sequence=2&amp;isAllowed=y" />
+	</analytic>
+	<monogr>
+		<title level="j">Selvitys energiaköyhyydestä. Kotitalouksien energiakustannukset. Ympäristöministeriön raportteja</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<date type="published" when="2013">2013. 2013</date>
+			<pubPlace>Ympäristöministeriö, Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Network approach for local and community governance of energy: the case of Oxfordshire</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Parag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hogan</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enpol.2013.06.027</idno>
+		<ptr target="https://doi.org/10.1016/j.enpol.2013.06.027" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="1064" to="1077" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Discussion Paper: Envisioning a modernized Social and Affordable Housing Sector in Canada</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pomeroy</surname></persName>
+		</author>
+		<idno>06.04.2024</idno>
+		<ptr target="https://carleton.ca/cure/wp-content/uploads/Envisioning-a-strengthened-social-housing-sector-FINAL-Oct-2018.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Carleton University Centre for Urban Research and Education (CURE)</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Households in sustainability transitions: a systematic review and new research avenues</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Raven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lindsay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kronsell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Arunachalam</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.eist.2021.06.005</idno>
+		<ptr target="https://doi.org/10.1016/j.eist.2021.06.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Innov. Soc. Transit</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="87" to="107" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Households as infrastructure junctions in urban sustainability transitions: the case of hot water metering</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rohracher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Köhler</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0042098018815618</idno>
+		<ptr target="https://doi.org/10.1177/0042098018815618" />
+	</analytic>
+	<monogr>
+		<title level="j">Urban Stud</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2372" to="2386" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Pienituloisen omistusasujan energiaköyhyys. Energiaköyhyyden jatkoselvitys liittyen asuntojen lämmitysremontteihin ja energiakuluihin. Ympäristöministeriön raportteja 6/2015</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Runsten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Berninger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Heljo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sorvali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kasanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vihola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Uotila</surname></persName>
+		</author>
+		<ptr target="https://julkaisut.valtioneuvosto.fi/bitstream/handle/10138/153653/YMra_6_2015.pdf?sequence=1" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<pubPlace>Ympäristöministeriö, Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Accessed 22.9.2023</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Creating energy citizenship through material participation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ryghaug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Skjølsvold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Heidenreich</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0306312718770286</idno>
+		<ptr target="https://doi.org/10.1177/0306312718770286" />
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Stud. Sci</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="283" to="303" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Double energy vulnerability in the Norwegian low-carbon urban transport transition</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sareen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Waage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Smirnova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Boakye Botah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Loe</surname></persName>
+		</author>
+		<idno type="DOI">10.3351/ppp.2022.3953567323</idno>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Identifying double energy vulnerability: a systematic and narrative review of groups at-risk of energy and transport poverty in the global north</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E H</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lacey-Barnacle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Martiskainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mattioli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hopkins</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2021.102351</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2021.102351" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<date type="published" when="2021">2021. 102351</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Inclusive innovation in just transitions: the case of smart local energy systems in the UK</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Torres Contreras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M.-C</forename><surname>Brisbois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lacey-Barnacle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.eist.2023.100719</idno>
+		<ptr target="https://doi.org/10.1016/j.eist.2023.100719" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Innov. Soc. Transit</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<date type="published" when="2023">2023. 100719</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Vulnerability and resistance in the United Kingdom&apos;s smart meter transition</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kivimaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hielscher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jenkins</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enpol.2017.07.037</idno>
+		<ptr target="https://doi.org/10.1016/j.enpol.2017.07.037" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="767" to="781" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Temporality, vulnerability, and energy justice in household low carbon innovations</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lipson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chard</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.enpol.2019.01.010</idno>
+		<ptr target="https://doi.org/10.1016/j.enpol.2019.01.010" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="495" to="504" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Energy injustice and Nordic electric mobility: inequality, elitism, and externalities in the electrification of vehicle-to-grid (V2G) transport</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Noel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">Z</forename><surname>De Rubens</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ecolecon.2018.11.013</idno>
+		<ptr target="https://doi.org/10.1016/j.ecolecon.2018.11.013" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Econ</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="page" from="205" to="217" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Who are the victims of low-carbon transitions? Towards a political ecology of climate change mitigation</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Sovacool</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2021.101916</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2021.101916" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<date type="published" when="2021">2021. 101916</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Canadian system of environmental-economic accounts: energy use and greenhouse gas emissions</title>
+		<idno>26.04.2022</idno>
+		<ptr target="https://www150.statcan.gc.ca/n1/daily-quotidien/211213/dq211213c-eng.htm" />
+	</analytic>
+	<monogr>
+		<title level="m">Statistics Canada</title>
+		<imprint>
+			<date type="published" when="2019">2021. 2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<idno>22.09.2022</idno>
+		<ptr target="https://www150.statcan.gc.ca/n1/pub/46-28-0001/2021001/article/00001-eng.htm" />
+	</analytic>
+	<monogr>
+		<title level="m">Statistics Canada. 2021b. Table 1: tenures status of private households for the population in private dwellings</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Table 25-10-0060-01 Household energy consumption</title>
+		<idno type="DOI">10.25318/2510006001-eng</idno>
+		<ptr target="https://doi.org/10.25318/2510006001-eng" />
+	</analytic>
+	<monogr>
+		<title level="j">Canada and provinces</title>
+		<imprint>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note>Statistics Canada Accessed 01.04.2024</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<ptr target="https://tilastokeskus.fi/til/asas/2020/01/asas_2020_01_2021-10-14_tie_002_en.html" />
+		<title level="m">Three out of five persons aged under 40 live in rented dwellings</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>Statistics Finland Accessed: 23.3.2024</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Dwelling by type of building, occupancy and year of construction</title>
+		<idno>23.3.2024</idno>
+		<ptr target="https://statfin.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__asas/statfin_asas_pxt_116f.px" />
+	</analytic>
+	<monogr>
+		<title level="m">Statistics Finland</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Individual and household interactions with energy systems: toward integrated understanding</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Stern</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2014.03.003</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2014.03.003" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="41" to="48" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Smart energy futures and social practice imaginaries: forecasting scenarios for pet care in Australian homes</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Strengers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nicholls</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2018.09.015</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2018.09.015" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="108" to="115" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Conceptualizing energy democracy</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Szulecki</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/09644016.2017.1387294</idno>
+		<ptr target="https://doi.org/10.1080/09644016.2017.1387294" />
+	</analytic>
+	<monogr>
+		<title level="j">Env. Polit</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="41" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Marginalising household users in smart grids</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tarasova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rohracher</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.techsoc.2022.102185</idno>
+		<ptr target="https://doi.org/10.1016/j.techsoc.2022.102185" />
+	</analytic>
+	<monogr>
+		<title level="j">Technol. Soc</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<date type="published" when="2023">2023. 102185</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Hamilton plans heat bylaw for rental housing</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Taylor</surname></persName>
+		</author>
+		<idno>22.9</idno>
+		<ptr target="https://www.theenergymix.com/2023/05/30/hamilton-plans-canadas-first-heat-bylaw-for-rental-housing" />
+	</analytic>
+	<monogr>
+		<title level="m">The Energy Mix</title>
+		<imprint>
+			<date type="published" when="2023">2023. 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title level="m" type="main">Explaining differential vulnerability to climate change: a social science review. WIREs Climate Change 10</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Hardy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lazrus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mendez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Orlove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Rivera-Collazo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rockman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Warner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Winthrop</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/wcc.565</idno>
+		<ptr target="https://doi.org/10.1002/wcc.565" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page">565</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Energy poverty and indoor cooling: an overlooked issue in</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Thomson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Simcock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bouzarovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Petrova</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/J.ENBUILD.2019.05.014</idno>
+		<ptr target="https://doi.org/10.1016/J.ENBUILD.2019.05.014" />
+	</analytic>
+	<monogr>
+		<title level="j">Europe. Energy Build</title>
+		<imprint>
+			<biblScope unit="volume">196</biblScope>
+			<biblScope unit="page" from="21" to="29" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">The geography of sustainability transitions: contours of an emerging theme</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Truffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Raven</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.eist.2015.07.004</idno>
+		<ptr target="https://doi.org/10.1016/j.eist.2015.07.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ. Innov. Soc. Transit</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="63" to="72" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Transformative change: energy-efficiency and social housing retrofits in Canadian cities</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tsenkova</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/17535069.2018.1460028</idno>
+		<ptr target="https://doi.org/10.1080/17535069.2018.1460028" />
+	</analytic>
+	<monogr>
+		<title level="j">Urban Res. Practice</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="263" to="274" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">What is energy democracy? Connecting social science energy research and political theory</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Van Veelen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Van Der</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Horst</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.erss.2018.06.010</idno>
+		<ptr target="https://doi.org/10.1016/j.erss.2018.06.010" />
+	</analytic>
+	<monogr>
+		<title level="j">Energy Res. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="19" to="28" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Willis</surname></persName>
+		</author>
+		<idno>07.04.2024</idno>
+		<ptr target="https://www.ualberta.ca/science/news/2020/june/community-housing-canada.html" />
+		<title level="m">Human Right: Research Aims to Build Sustainable, Resilient Community Housing in Canada. New research Partnership With the Canada Mortgage and Housing Corporation Focuses On Community Housing. University of Alberta</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Neoliberalization and inequality: disparities in access to affordable housing in urban Canada 1981-2016</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Fu</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02673037.2021.2004093</idno>
+		<ptr target="https://doi.org/10.1080/02673037.2021.2004093" />
+	</analytic>
+	<monogr>
+		<title level="j">Hous. Stud</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="28" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
